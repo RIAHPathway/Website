@@ -2,6 +2,8 @@
 
 ## GitHub Website README
 
+Documented development has been in progress since June 2025, with receipts and documentation preserving the development history and timeline for purposes of establishing prior creation and any subsequent attempts to replicate the work or claim ownership of its development.
+
 ### ONE DYNASTY, INFINITE LEGACIES
 
 > ## 👑 ONE DYNASTY, INFINITE LEGACIES
