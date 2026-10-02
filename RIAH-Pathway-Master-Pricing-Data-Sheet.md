@@ -1,5 +1,7 @@
 # RIAH Pathway Master Pricing Data Sheet
 
+<img width="1536" height="1024" alt="RIAH Pathway Pricing Calculator" src="https://github.com/user-attachments/assets/0180c2b4-1710-48ec-904a-74506789642f" />
+
 ## Pricing Data Source for the RIAH Pathway Pricing Engine
 
 This sheet contains the established dollar values, percentages, limits,
@@ -11,6 +13,21 @@ The Pricing Engine should reference these structured values rather than
 independently recreating or inventing financial values.
 
 ------------------------------------------------------------------------
+
+Image 1 — Example California Student Pathway:
+This infographic illustrates an example California student’s complete RIAH Pathway, combining a California Non-JD legal pathway, B.S. in Criminal Justice, experiential learning, law review, honor society, Greek life, student leadership, and bar preparation. It visually breaks down the student’s four-year journey, tuition and monthly payments, deposits, included resources, milestone-based 50% tuition reimbursement, and final educational and experiential outcomes.
+
+<img width="1024" height="1536" alt="1" src="https://github.com/user-attachments/assets/278890c2-4d49-4a20-b713-020b9c65a713" />
+
+Image 2 — Example Four-Year Student Experience:
+This infographic continues the student story by highlighting the broader RIAH student experience across four years, including law review, academic recognition, Sigma Gamma Rho, student government leadership, community participation, legal experience, and progressive L1–L4 development. It concludes with a snapshot of the student’s completed education, experiential pathway, supervision, bar preparation, leadership experience, and tuition reimbursement milestones.
+
+<img width="1024" height="1536" alt="2" src="https://github.com/user-attachments/assets/2b2d4ac7-7d99-4e21-b513-52de3cbee10a" />
+
+Image 3 — Example From Student to Success:
+This infographic presents the student journey from beginning her education through graduation and into a professional career opportunity. It connects education, the California Non-JD pathway, experiential learning, certifications, leadership, community involvement, and tuition reimbursement to the student’s long-term career and legacy goals, reinforcing RIAH Pathway’s focus on combining education with practical experience and professional development.
+
+<img width="1536" height="1024" alt="3" src="https://github.com/user-attachments/assets/78cca0b4-4a2e-4ba1-acec-074610949aa3" />
 
 # 1. Academic Standard Tuition
 
