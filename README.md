@@ -65,7 +65,7 @@ The schools connect academic curriculum with applicable **Experiential learning,
 
 # 👑 Experiential Pathway
 
-RIAH Pathway connects education with supervised professional application and real world experience.
+RIAH Pathway connects education with supervised professional application and real paid and unpaid work experience.
 
 ```mermaid
 flowchart LR
@@ -75,8 +75,6 @@ flowchart LR
     D --> E[Manager<br>1 Year]
     E --> F[Executive<br>1 Year]
 ```
-
-Experiential participants may receive applicable professional supervision, management, review, practical assignments, project work, applied learning, career development, professional feedback, Capstone support, and professional exposure.
 
 ---
 
