@@ -510,7 +510,7 @@ Semester Configuration uses 6 month semesters. A typical four year program there
 |:---|---:|---:|
 | Beta 25% | \$10,000 | \$1,250 per Semester |
 | Pre Accreditation 50% | \$20,000 | \$2,500 per Semester |
-| Standard or Post Accreditation 100% | \$40,000 | \$5,000 per Semester |
+| Post Accreditation 100% | \$40,000 | \$5,000 per Semester |
 
 # 34. Bachelor’s Per Course Configuration
 
@@ -526,7 +526,7 @@ The Bachelor’s configuration uses 120 total credits and a typical 3 credit cou
 |:---|---:|---:|
 | Beta 25% | \$5,000 | \$125 per Course |
 | Pre Accreditation 50% | \$10,000 | \$250 per Course |
-| Standard or Post Accreditation 100% | \$20,000 | \$500 per Course |
+| Post Accreditation 100% | \$20,000 | \$500 per Course |
 
 Per course values are payment allocations and do not change
 total program tuition.
@@ -644,7 +644,7 @@ The Master Active Number Table consolidates the active numerical records used th
 | Non JD Tuition | \$10,000 per Year |
 | Beta Pricing Stage | 25% |
 | Pre Accreditation Pricing Stage | 50% |
-| Standard or Post Accreditation | 100% |
+| Post Accreditation | 100% |
 | Apprentice Experiential | \$2,500 |
 | Intern Experiential | \$5,000 |
 | Associate Experiential | \$10,000 |
