@@ -155,15 +155,6 @@ the 25% ordinary tuition-reduction maximum.
 | Tuition Reduction |      1% |     25% |        1% |
 | Product Reduction |      1% |     25% |        1% |
 
-Available calculator values:
-
-| Available Calculator Value | Available Calculator Value | Available Calculator Value | Available Calculator Value | Available Calculator Value |
-|---:|---:|---:|---:|---:|
-| 1% | 2% | 3% | 4% | 5% |
-| 6% | 7% | 8% | 9% | 10% |
-| 11% | 12% | 13% | 14% | 15% |
-| 16% | 17% | 18% | 19% | 20% |
-| 21% | 22% | 23% | 24% | 25% |
 
 The tuition portion remains subject to the 25% maximum ordinary tuition
 reduction.
@@ -174,16 +165,6 @@ reduction.
 |:------------------|--------:|--------:|----------:|
 | Tuition Reduction |      1% |     25% |        1% |
 | Product Reduction |      1% |     25% |        1% |
-
-Available calculator values:
-
-| Available Calculator Value | Available Calculator Value | Available Calculator Value | Available Calculator Value | Available Calculator Value |
-|---:|---:|---:|---:|---:|
-| 1% | 2% | 3% | 4% | 5% |
-| 6% | 7% | 8% | 9% | 10% |
-| 11% | 12% | 13% | 14% | 15% |
-| 16% | 17% | 18% | 19% | 20% |
-| 21% | 22% | 23% | 24% | 25% |
 
 The tuition portion remains subject to the 25% maximum ordinary tuition
 reduction.
