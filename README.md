@@ -6,16 +6,16 @@ This repository supports the public development of the RIAH Pathway website, sys
 
 | Documentation | Link |
 |---|---|
-| Contributor README | [View Documentation](README-Documentation/CONTRIBUTOR-README.md) |
-| Hiring and Equity README | [View Documentation](README-Documentation/HIRING-AND-EQUITY-README.md) |
-| Ecosystem README | [View Documentation](README-Documentation/ECOSYSTEM-README.md) |
-| Education and Pathways README | [View Documentation](README-Documentation/EDUCATION-PATHWAYS-README.md) |
-| Organization and Team README | [View Documentation](README-Documentation/ORGANIZATION-AND-TEAM-README.md) |
-| GitHub Public Development README | [View Documentation](README-Documentation/GITHUB-PUBLIC-DEVELOPMENT-README.md) |
-| Ownership, Licensing, and Security README | [View Documentation](README-Documentation/OWNERSHIP-LICENSING-SECURITY-README.md) |
-| Applications and Participation README | [View Documentation](README-Documentation/APPLICATIONS-AND-PARTICIPATION-README.md) |
-| Website 01–13 README | [View Documentation](README-Documentation/WEBSITE-01-13-README.md) |
-| Foundation and Donations README | [View Documentation](README-Documentation/FOUNDATION-DONATIONS-README.md) |
+| Contributor README | [View Documentation](https://github.com/riahpathway/blob/main/README-Documentation/CONTRIBUTOR-README.md) |
+| Hiring and Equity README | [View Documentation](https://github.com/riahpathway/blob/main/README-Documentation/HIRING-AND-EQUITY-README.md) |
+| Ecosystem README | [View Documentation](https://github.com/riahpathway/blob/main/README-Documentation/ECOSYSTEM-README.md) |
+| Education and Pathways README | [View Documentation](https://github.com/riahpathway/blob/main/README-Documentation/EDUCATION-PATHWAYS-README.md) |
+| Organization and Team README | [View Documentation](https://github.com/riahpathway/blob/main/README-Documentation/ORGANIZATION-AND-TEAM-README.md) |
+| GitHub Public Development README | [View Documentation](https://github.com/riahpathway/blob/main/README-Documentation/GITHUB-PUBLIC-DEVELOPMENT-README.md) |
+| Ownership, Licensing, and Security README | [View Documentation](https://github.com/riahpathway/blob/main/README-Documentation/OWNERSHIP-LICENSING-SECURITY-README.md) |
+| Applications and Participation README | [View Documentation](https://github.com/riahpathway/blob/main/README-Documentation/APPLICATIONS-AND-PARTICIPATION-README.md) |
+| Website 01–13 README | [View Documentation](https://github.com/riahpathway/blob/main/README-Documentation/WEBSITE-01-13-README.md) |
+| Foundation and Donations README | [View Documentation](https://github.com/riahpathway/blob/main/README-Documentation/FOUNDATION-DONATIONS-README.md) |
 
 ## Contact RIAH Pathway
 
