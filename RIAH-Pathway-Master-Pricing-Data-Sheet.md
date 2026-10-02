@@ -126,13 +126,11 @@ Ordinary Tuition Reductions are applied to qualifying tuition according to the e
 | WIC | 5% | Yes |
 | Qualifying Housing or Homelessness | 5% | Yes |
 | Secondary Degree | 5% | Yes |
-| Primary Minor | 0% | Not Applicable |
 | Secondary Minor | 5% | Yes |
 | Partner Employee | 15% | Yes |
 | Community Contributor | 1%–25% | Yes |
 | Substitute Teacher Ambassador | 1%–25% | Yes |
 | Rideshare and Delivery Ambassador | 1%–25% | Yes |
-| Transfer Tuition Reduction | \$0 | Not Applicable |
 
 # 9. Ordinary Tuition Reduction Cap
 
