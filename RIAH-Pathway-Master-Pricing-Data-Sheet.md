@@ -1,5 +1,3 @@
-# RIAH Pathway Master Pricing Data Sheet
-
 <img width="1536" height="1024" alt="RIAH Pathway Pricing Calculator" src="https://github.com/user-attachments/assets/0180c2b4-1710-48ec-904a-74506789642f" />
 
 ## Pricing Data Source for the RIAH Pathway Pricing Engine
@@ -14,22 +12,119 @@ independently recreating or inventing financial values.
 
 ------------------------------------------------------------------------
 
-Image 1 — Example California Student Pathway:
-This infographic illustrates an example California student’s complete RIAH Pathway, combining a California Non-JD legal pathway, B.S. in Criminal Justice, experiential learning, law review, honor society, Greek life, student leadership, and bar preparation. It visually breaks down the student’s four-year journey, tuition and monthly payments, deposits, included resources, milestone-based 50% tuition reimbursement, and final educational and experiential outcomes.
+## 📑 INDEX
+
+**I. 🎓 ACADEMIC STANDARD TUITION**  
+**II. 💰 PRICING STAGES**  
+**III. ⚖️ NON JD TUITION**  
+**IV. 🎓 PRIMARY AND SECONDARY DEGREE PRICING**  
+**V. 🎓 MINOR PRICING**  
+**VI. 💼 EXPERIENTIAL PRICING**  
+**VII. 🔄 INTEGRATED EDUCATION AND EXPERIENTIAL ADJUSTMENT**  
+**VIII. 🏷️ ORDINARY TUITION REDUCTIONS**  
+**IX. 🛡️ ORDINARY TUITION REDUCTION CAP**  
+**X. 🤝 PARTNER EMPLOYEE PRICING**  
+**XI. 👥 RIAH TEAM MEMBER PRICING**  
+**XII. 🌐 COMMUNITY CONTRIBUTOR PRICING**  
+**XIII. 🏫 SUBSTITUTE TEACHER AMBASSADOR DISCOUNTS**  
+**XIV. 🚗 RIDESHARE AND DELIVERY AMBASSADOR DISCOUNTS**  
+**XV. 🛍️ PRODUCT REDUCTION VALUES**  
+**XVI. 🧾 EDUCATION DEPOSIT RESOURCE ALLOCATIONS**  
+**XVII. 🧾 EDUCATION DEPOSIT**  
+**XVIII. 💵 FEES**  
+**XIX. 🔄 COMPLETE TRANSFER FEE INTERNAL ALLOCATION**  
+**XX. 🔄 TRANSFER CREDIT MAXIMUMS**  
+**XXI. 📚 CERTIFICATION AND BAR REVIEW PRICING**  
+**XXII. 📚 MULTIPLE STANDALONE REVIEW PRICING**  
+**XXIII. 🎁 NEED BASED SCHOLARSHIP VALUES**  
+**XXIV. 🎁 MERIT BASED SCHOLARSHIP VALUES**  
+**XXV. 🎁 NEED BASED GRANT VALUES**  
+**XXVI. 🎁 MERIT BASED GRANT VALUES**  
+**XXVII. 💵 STUDENT SUPPORT STIPENDS**  
+**XXVIII. 🎁 INTERNAL FUNDING POOL ALLOCATION**  
+**XXIX. 🌐 EXTERNAL FUNDING**  
+**XXX. 🧮 FUNDING CALCULATION**  
+**XXXI. 💵 TUITION REIMBURSEMENT**  
+**XXXII. 💳 PAYMENT OPTIONS**  
+**XXXIII. 📆 SEMESTER CONFIGURATION**  
+**XXXIV. 📚 BACHELOR’S PER COURSE CONFIGURATION**  
+**XXXV. 🏦 RIAH PRIVATE STUDENT LOAN**  
+**XXXVI. 🛡️ RIAH PRIVATE STUDENT LOAN ELIGIBILITY EXCLUSIONS**  
+**XXXVII. ➗ RIAH PRIVATE STUDENT LOAN INTEREST**  
+**XXXVIII. 💵 LOAN RECOVERY THROUGH REIMBURSEMENT**  
+**XXXIX. ✅ INCLUDED ZERO DOLLAR COMPONENTS**  
+**XL. ⚡ MASTER ACTIVE NUMBER TABLE**  
+**XLI. 🎁 MASTER SCHOLARSHIP, GRANT, AND STIPEND LOOKUP TABLE**  
+**XLII. 🔐 ENGINE SOURCE OF TRUTH RULE**  
+**XLIII. ⚙️ SOURCE CONFLICTS REQUIRING ENGINE SYNCHRONIZATION**
+
+---
+
+# 🔑 KEY AND LEGEND
+
+| SYMBOL | CATEGORY | MEANING |
+|---|---|---|
+| 📘 | Master Data | Master pricing data and source-of-truth configuration |
+| 📑 | Index | Document navigation and section directory |
+| 🔑 | Key | Symbols and document conventions |
+| 🎓 | Academic | Tuition, degrees, minors, and education pathways |
+| 💰 | Pricing | Pricing stages, amounts, and financial values |
+| ⚖️ | Non JD | Non JD tuition and legal pathway pricing |
+| 💼 | Experiential | Experiential pathways and pricing |
+| 🔄 | Integration and Transfer | Integrated adjustments, transfer fees, and transfer credits |
+| 🏷️ | Reduction | Tuition reductions and discounts |
+| 🛡️ | Limits and Eligibility | Caps, exclusions, safeguards, and eligibility |
+| 🤝 | Partner | Partner employee pricing |
+| 👥 | Team | RIAH Team Member pricing |
+| 🌐 | Community and External | Community contributor and external funding |
+| 🏫 | Ambassador | Substitute Teacher Ambassador pricing |
+| 🚗 | Ambassador | Rideshare and Delivery Ambassador pricing |
+| 🛍️ | Products | Product reduction values |
+| 🧾 | Deposit | Education Deposit and resource allocations |
+| 💵 | Fees and Reimbursement | Fees, stipends, reimbursement, and recovery |
+| 📚 | Review | Certification Review, Bar Review, and per-course configuration |
+| 🎁 | Funding | Scholarships, grants, stipends, and funding pools |
+| 🧮 | Calculation | Funding and pricing calculations |
+| 💳 | Payment | Payment options and payment structures |
+| 📆 | Semester | Semester configuration |
+| 🏦 | Financing | RIAH Private Student Loan |
+| ➗ | Interest | Loan interest calculations |
+| ✅ | Included | Zero-dollar and included components |
+| ⚡ | Quick Reference | Consolidated active numerical records |
+| 🔐 | Source of Truth | Engine-controlled authoritative configuration |
+| ⚙️ | Synchronization | Pricing Engine synchronization requirements |
+
+---
+
+# 🏛️ DOCUMENT HIERARCHY KEY
+
+**I, II, III, IV, V...**  
+Primary sections within the Master Pricing Data Sheet.
+
+**1, 2, 3, 4...**  
+Numbers inside tables, formulas, funding levels, calculations, and operational records remain unchanged.
+
+---
+
+## 🖼️ Image 1 — Example Student Complete RIAH Pathway, Tuition & Reimbursement Journey.
+
+This image follows an example California student who begins as an Associate’s degree or transfer student and builds a four-year RIAH Pathway combining the California Non-JD legal pathway, B.S. in Criminal Justice, Associate Experiential Path, Technology and Intellectual Property Law experience, attorney or judge supervision, L1–L4 legal reviews, RIAH Bar Review, Law Review, honor society, Greek life, and student government leadership. Her combined tuition is $70,000, consisting of $40,000 for the California Non-JD pathway, $10,000 for her B.S. Criminal Justice pathway, and $20,000 for her experiential pathway, plus separate application fees and deposits. By completing her required monthly and annual milestones throughout the four-year journey, she qualifies for the maximum 50% tuition reimbursement—$35,000—reducing her $70,000 tuition to $35,000 after reimbursement.
 
 <img width="1024" height="1536" alt="1" src="https://github.com/user-attachments/assets/278890c2-4d49-4a20-b713-020b9c65a713" />
 
-Image 2 — Example Four-Year Student Experience:
-This infographic continues the student story by highlighting the broader RIAH student experience across four years, including law review, academic recognition, Sigma Gamma Rho, student government leadership, community participation, legal experience, and progressive L1–L4 development. It concludes with a snapshot of the student’s completed education, experiential pathway, supervision, bar preparation, leadership experience, and tuition reimbursement milestones.
+## 🖼️ Image 2 — Four Years of Education, Experience, Leadership & Milestones.
+
+This image takes a closer look at how the student progresses from L1 through L4 across four years, showing that her RIAH experience extends beyond completing coursework. Her journey develops year by year through her California Non-JD and Criminal Justice pathways, legal development, Technology and Intellectual Property Law experience, attorney or judge supervision, Law Review, honor society participation, Sigma Gamma Rho, student government leadership, community involvement, and final RIAH Bar Review preparation. Each year contributes to her required reimbursement milestones, ultimately allowing her to earn the full $35,000 tuition reimbursement, cutting her original $70,000 combined tuition in half to a $35,000 net tuition amount while completing a multidimensional academic, experiential, professional, and leadership pathway.
 
 <img width="1024" height="1536" alt="2" src="https://github.com/user-attachments/assets/2b2d4ac7-7d99-4e21-b513-52de3cbee10a" />
 
-Image 3 — Example From Student to Success:
-This infographic presents the student journey from beginning her education through graduation and into a professional career opportunity. It connects education, the California Non-JD pathway, experiential learning, certifications, leadership, community involvement, and tuition reimbursement to the student’s long-term career and legacy goals, reinforcing RIAH Pathway’s focus on combining education with practical experience and professional development.
+## 🖼️ Image 3 — Example Student to Graduate to Career Opportunity.
+
+This image brings the entire student story together—from entering RIAH with goals of earning a degree, completing the California Non-JD pathway, gaining real legal experience, earning certifications, and becoming a student leader, to completing four years of education and professional development. Along the way, she completes her B.S. Criminal Justice pathway, California Non-JD education, four years of supervised legal development, experiential learning, certifications, Law Review, honor society participation, and student government leadership, while meeting the milestones necessary to receive $35,000 back through RIAH’s 50% tuition reimbursement program. Her story concludes with graduation and a career opportunity in law, illustrating the intended full-circle RIAH Pathway: invest in education and experience, complete the milestones, receive substantial tuition reimbursement, and leave with education, experience, professional preparation, leadership development, and a foundation for the next stage of her career.
 
 <img width="1536" height="1024" alt="3" src="https://github.com/user-attachments/assets/78cca0b4-4a2e-4ba1-acec-074610949aa3" />
 
-# 1. Academic Standard Tuition
+# I. 🎓 Academic Standard Tuition
 
 Academic Standard Tuition establishes the 100% standard tuition amount for each education pathway before the applicable Pricing Stage, tuition reductions, funding, financing, or other adjustments are calculated. Tuition is configured by total program except Non JD, which is calculated by the applicable required pathway year.
 
@@ -45,7 +140,7 @@ Academic Standard Tuition establishes the 100% standard tuition amount for each 
 | JD | \$40,000 | Total Program |
 | Non JD | \$10,000 | Per Applicable Pathway Year |
 
-# 2. Pricing Stages
+# II. 💰 Pricing Stages
 
 Pricing Stages determine what percentage of the beta, pre-accredited, or post-accreditation tuition applies based on the student’s applicable institutional pricing stage. Pricing Stage is separate from ordinary tuition reductions.
 
@@ -57,7 +152,7 @@ Pricing Stages determine what percentage of the beta, pre-accredited, or post-ac
 
 Pricing Stage is separate from ordinary tuition reductions.
 
-# 3. Non JD Tuition
+# III. ⚖️ Non JD Tuition
 
 Non JD tuition is calculated at \$10,000 for each applicable required pathway year. The configured jurisdiction determines the required duration before the applicable Pricing Stage is applied.
 
@@ -76,7 +171,7 @@ Washington, New York, and West Virginia.
 
 The Pricing Stage applies after determining applicable Non JD tuition.
 
-# 4. Primary and Secondary Degree Pricing
+# IV. 🎓 Primary and Secondary Degree Pricing
 
 Primary and Secondary Degree Pricing allows an academically applicable secondary degree to receive the established 5% tuition reduction. The secondary degree may be at the same or a different degree level where academically applicable, and its reduction counts toward the ordinary tuition reduction maximum.
 
@@ -89,7 +184,7 @@ The Secondary Degree reduction counts toward the ordinary
 tuition reduction maximum. The Secondary Degree may be the same or a
 different degree level where academically applicable.
 
-# 5. Minor Pricing
+# V. 🎓 Minor Pricing
 
 Minor Pricing establishes the standard \$5,000 price for a primary or secondary minor. A secondary minor receives the established 5% reduction, which counts toward the ordinary tuition reduction maximum.
 
@@ -101,7 +196,7 @@ Minor Pricing establishes the standard \$5,000 price for a primary or secondary 
 The Secondary Minor reduction counts toward the ordinary
 tuition reduction maximum.
 
-# 6. Experiential Pricing
+# VI. 💼 Experiential Pricing
 
 Experiential Pricing establishes the standard amount and duration for each level of the Experiential pathway. The progression begins with the Apprentice level and continues through Intern, Associate, Senior Associate, Manager, and Executive.
 
@@ -114,7 +209,7 @@ Experiential Pricing establishes the standard amount and duration for each level
 | Manager | 1 Year | \$10,000 |
 | Executive | 1 Year | \$10,000 |
 
-# 7. Integrated Education and Experiential Adjustment
+# VII. 🔄 Integrated Education and Experiential Adjustment
 
 The Integrated Education and Experiential Adjustment applies when eligible Education and Experiential selections are combined. The 5% adjustment is calculated before the applicable Pricing Stage and does not count toward the ordinary tuition reduction maximum.
 
@@ -131,7 +226,7 @@ flowchart TD
     C --> D["The applicable Pricing Stage is then applied to the Integrated Standard."]
 ```
 
-# 8. Ordinary Tuition Reductions
+# VIII. 🏷️ Ordinary Tuition Reductions
 
 Ordinary Tuition Reductions are applied to qualifying tuition according to the established percentage or amount. Reductions identified as counting toward the ordinary cap are collectively limited by the maximum established in Section 9.
 
@@ -149,7 +244,7 @@ Ordinary Tuition Reductions are applied to qualifying tuition according to the e
 | Substitute Teacher Ambassador | 1%–25% | Yes |
 | Rideshare and Delivery Ambassador | 1%–25% | Yes |
 
-# 9. Ordinary Tuition Reduction Cap
+# IX. 🛡️ Ordinary Tuition Reduction Cap
 
 The Pricing Engine may identify multiple qualifying ordinary tuition reductions, but their combined applied value cannot exceed 25%. Pricing Stages, the Integrated Education and Experiential Adjustment, Scholarships, Grants, Stipends, other applicable funding, Education Deposit, Student Resource Allocations, and financing remain outside this cap.
 
@@ -165,7 +260,7 @@ Scholarships, Grants, Stipends, other applicable funding, Education
 Deposit, Student Resource Allocations, and financing do not count toward
 the 25% ordinary tuition reduction maximum.
 
-# 10. Partner Employee Pricing
+# X. 🤝 Partner Employee Pricing
 
 Partner Employee Pricing provides the established tuition and product reductions for eligible partner employees. Tuition and product reductions are calculated separately.
 
@@ -174,7 +269,7 @@ Partner Employee Pricing provides the established tuition and product reductions
 | Partner Employee Tuition Reduction | 15% |
 | Partner Employee Product Reduction | 15% |
 
-# 11. RIAH Team Member Pricing
+# XI. 👥 RIAH Team Member Pricing
 
 RIAH Team Member Pricing establishes \$0 eligible education tuition and a 50% eligible product reduction. Team Member Tuition Reimbursement remains configured at \$0.
 
@@ -184,7 +279,7 @@ RIAH Team Member Pricing establishes \$0 eligible education tuition and a 50% el
 | Eligible Product Reduction | 50% |
 | Team Member Tuition Reimbursement | \$0 |
 
-# 12. Community Contributor Pricing
+# XII. 🌐 Community Contributor Pricing
 
 Community Contributor Pricing provides configurable tuition and product reductions from 1% through 25% in 1% increments. The tuition portion remains subject to the ordinary tuition reduction maximum.
 
@@ -196,7 +291,7 @@ Community Contributor Pricing provides configurable tuition and product reductio
 The tuition portion remains subject to the 25% maximum ordinary tuition
 reduction.
 
-# 13. Substitute Teacher Ambassador Discounts
+# XIII. 🏫 Substitute Teacher Ambassador Discounts
 
 Substitute Teacher Ambassador Discounts provide configurable tuition and product reductions from 1% through 25% in 1% increments. The tuition portion remains subject to the ordinary tuition reduction maximum.
 
@@ -208,7 +303,7 @@ Substitute Teacher Ambassador Discounts provide configurable tuition and product
 The tuition portion remains subject to the 25% maximum ordinary tuition
 reduction.
 
-# 14. Rideshare and Delivery Ambassador Discounts
+# XIV. 🚗 Rideshare and Delivery Ambassador Discounts
 
 Rideshare and Delivery Ambassador Discounts provide configurable tuition and product reductions from 1% through 25% in 1% increments. The tuition portion remains subject to the ordinary tuition reduction maximum.
 
@@ -220,7 +315,7 @@ Rideshare and Delivery Ambassador Discounts provide configurable tuition and pro
 The tuition portion remains subject to the 25% maximum ordinary tuition
 reduction.
 
-# 15. Product Reduction Values
+# XV. 🛍️ Product Reduction Values
 
 Product reductions are separate from tuition reductions and apply according to the qualifying category. Taxes, shipping, handling, and applicable checkout charges remain outside tuition calculations.
 
@@ -236,7 +331,7 @@ Product reductions are separate from tuition reductions. Taxes,
 shipping, handling, and applicable checkout charges remain outside
 tuition calculations.
 
-# 16. Education Deposit Resource Allocations
+# XVI. 🧾 Education Deposit Resource Allocations
 
 Student Resource Allocations are separate from tuition and provide pathway based funding for student educational resources. Depending on the student and pathway, resources may include textbooks, workbooks, educational materials, laptops and technology, software and subscriptions, certification resources, proctoring, transcripts, graduation resources, welcome materials, and other student academic resources.
 
@@ -248,7 +343,7 @@ Student Resource Allocations are separate from tuition and provide pathway based
 | Master’s | \$1,000 |
 | MBA | \$1,000 |
 
-# 17. Education Deposit
+# XVII. 🧾 Education Deposit
 
 The Education Deposit combines one \$500 RIAH Education Deposit Fee with the Student Resource Allocation for the selected applicable education pathway or pathways. The \$500 RIAH Fee is charged once per applicable Education Deposit rather than once for every selected pathway.
 
@@ -272,7 +367,7 @@ The Education Deposit combines one \$500 RIAH Education Deposit Fee with the Stu
 The \$500 RIAH Fee is charged once per applicable Education Deposit
 rather than once for every selected pathway.
 
-# 18. Fees
+# XVIII. 💵 Fees
 
 The fee structure identifies the established application, admissions, enrollment, transfer, and Education Deposit fees. The Complete Transfer Fee is charged only when applicable, while admissions and enrollment have no separate fee.
 
@@ -285,7 +380,7 @@ The fee structure identifies the established application, admissions, enrollment
 | Transfer Tuition Reduction | \$0 |
 | RIAH Education Deposit Fee | \$500 Once |
 
-# 19. Complete Transfer Fee Internal Allocation
+# XIX. 🔄 Complete Transfer Fee Internal Allocation
 
 The Complete Transfer Fee is one \$500 fee internally allocated across transfer evaluation, alternative credit evaluation, prior learning and credit review, and processing and administration. The four \$125 components are not separate additional charges.
 
@@ -300,7 +395,7 @@ The Complete Transfer Fee is one \$500 fee internally allocated across transfer 
 These are components of one \$500 fee and are not four additional \$125
 charges.
 
-# 20. Transfer Credit Maximums
+# XX. 🔄 Transfer Credit Maximums
 
 Transfer credits may accelerate applicable academic progress up to the established maximum for each pathway. The configured Transfer Tuition Reduction remains \$0, meaning accepted transfer credits do not independently reduce the established tuition price.
 
@@ -315,7 +410,7 @@ Transfer credits may accelerate applicable academic progress up to the establish
 Transfer credits accelerate applicable academic progress. Configured
 Transfer Tuition Reduction: **\$0**
 
-# 21. Certification and Bar Review Pricing
+# XXI. 📚 Certification and Bar Review Pricing
 
 Certification Review and Bar Review use the established Basic, Standard, and Premium standalone pricing tiers. When Certification Review or Bar Review is included with an applicable pathway, the included review is \$0 additional.
 
@@ -325,7 +420,7 @@ Certification Review and Bar Review use the established Basic, Standard, and Pre
 | Standard | \$1,000 |
 | Premium | \$1,500 |
 
-# 22. Multiple Standalone Review Pricing
+# XXII. 📚 Multiple Standalone Review Pricing
 
 Multiple standalone reviews use the established pricing sequence below. Included Certification Review and included Bar Review remain \$0 additional when established as part of an applicable pathway.
 
@@ -339,7 +434,7 @@ Included Certification Review: **\$0 Additional**
 
 Included Bar Review: **\$0 Additional**
 
-# 23. Need Based Scholarship Values
+# XXIII. 🎁 Need Based Scholarship Values
 
 Need Based Scholarships use six established fixed award levels ranging from \$500 through \$50,000. The applicable level determines the fixed scholarship amount rather than creating a separate percentage based award.
 
@@ -355,7 +450,7 @@ Need Based Scholarships use six established fixed award levels ranging from \$50
 Funding ladder: **\$500 → \$2,500 → \$5,000 → \$10,000 → \$15,000 →
 \$50,000**
 
-# 24. Merit Based Scholarship Values
+# XXIV. 🎁 Merit Based Scholarship Values
 
 Merit Based Scholarships use the same six established fixed award levels, ranging from \$500 through \$50,000. Scholarship awards are separate from ordinary tuition reductions.
 
@@ -375,7 +470,7 @@ Scholarship minimum: **\$500**
 
 Scholarship maximum: **\$50,000**
 
-# 25. Need Based Grant Values
+# XXV. 🎁 Need Based Grant Values
 
 Need Based Grants use six established fixed award levels ranging from \$500 through \$50,000. Grants are treated as funding rather than ordinary tuition reductions.
 
@@ -391,7 +486,7 @@ Need Based Grants use six established fixed award levels ranging from \$500 thro
 Funding ladder: **\$500 → \$2,500 → \$5,000 → \$10,000 → \$15,000 →
 \$50,000**
 
-# 26. Merit Based Grant Values
+# XXVI. 🎁 Merit Based Grant Values
 
 Merit Based Grants use the same six established fixed award levels ranging from \$500 through \$50,000. The established minimum and maximum apply across the configured grant structure.
 
@@ -411,7 +506,7 @@ Grant minimum: **\$500**
 
 Grant maximum: **\$50,000**
 
-# 27. Student Support Stipends
+# XXVII. 💵 Student Support Stipends
 
 Student Support Stipends use five fixed funding levels ranging from \$100 through \$500. Applicable support uses may include textbooks, workbooks, graduation fees, transfer fees, educational materials, and other student support expenses.
 
@@ -433,7 +528,7 @@ Applicable support uses may include textbooks, workbooks, graduation
 fees, transfer fees, educational materials, and other approved
 student support expenses.
 
-# 28. Internal Funding Pool Allocation
+# XXVIII. 🎁 Internal Funding Pool Allocation
 
 The Internal Funding Pool allocates 5% each to the Scholarship Pool, Grant Pool, and Stipend Pool for a combined institutional allocation of 15%. These percentages represent institutional funding architecture rather than automatic individual student awards.
 
@@ -448,7 +543,7 @@ These percentages represent institutional allocation architecture. They
 are not automatic individual student awards. Individual student awards
 use the established fixed dollar funding records.
 
-# 29. External Funding
+# XXIX. 🌐 External Funding
 
 External Funding allows applicable scholarships, grants, stipends, employer assistance, workforce assistance, donor or community funding, and other approved funding to be incorporated into the student’s funding calculation. Only confirmed and applicable funding reduces confirmed tuition responsibility.
 
@@ -465,7 +560,7 @@ External Funding allows applicable scholarships, grants, stipends, employer assi
 Only approved and applicable funding reduces confirmed tuition
 responsibility.
 
-# 30. Funding Calculation
+# XXX. 🧮 Funding Calculation
 
 The Funding Calculation combines all approved scholarship, grant, stipend, employer, workforce, external, donor, community, and other approved funding. Funding is deducted from tuition after applicable reductions, and remaining tuition cannot fall below \$0.
 
@@ -481,7 +576,7 @@ Minimum Remaining Tuition: **\$0**
 
 Negative tuition is prohibited.
 
-# 31. Tuition Reimbursement
+# XXXI. 💵 Tuition Reimbursement
 
 Tuition Reimbursement ranges from the established 10% minimum qualifying completion reimbursement through a maximum potential reimbursement of 50%. Reimbursement is calculated against the applicable eligible reimbursement basis after controlling reductions and non reimbursable funding.
 
@@ -497,7 +592,7 @@ Reimbursement is calculated against the applicable eligible
 reimbursement basis after controlling reductions and non reimbursable
 funding.
 
-# 32. Payment Options
+# XXXII. 💳 Payment Options
 
 Payment Options allow applicable tuition responsibility to be paid upfront, monthly, by semester, per course, or through separate financing. These payment schedules allocate the applicable tuition responsibility and do not redefine total program tuition.
 
@@ -512,7 +607,7 @@ Payment Options allow applicable tuition responsibility to be paid upfront, mont
 
 Payment schedule does not redefine total program tuition.
 
-# 33. Semester Configuration
+# XXXIII. 📆 Semester Configuration
 
 Semester Configuration uses 6 month semesters. A typical four year program therefore contains eight semesters. The JD examples below show the equivalent semester allocation at each Pricing Stage without changing total program tuition.
 
@@ -527,7 +622,7 @@ Semester Configuration uses 6 month semesters. A typical four year program there
 | Pre Accreditation 50% | \$20,000 | \$2,500 per Semester |
 | Post Accreditation 100% | \$40,000 | \$5,000 per Semester |
 
-# 34. Bachelor’s Per Course Configuration
+# XXXIV. 📚 Bachelor’s Per Course Configuration
 
 The Bachelor’s configuration uses 120 total credits and a typical 3 credit course, producing a calculated 40 course equivalent. Per course amounts represent payment allocations and do not change total program tuition.
 
@@ -546,7 +641,7 @@ The Bachelor’s configuration uses 120 total credits and a typical 3 credit cou
 Per course values are payment allocations and do not change
 total program tuition.
 
-# 35. RIAH Private Student Loan
+# XXXV. 🏦 RIAH Private Student Loan
 
 The RIAH Private Student Loan is separate financing rather than a tuition reduction. Eligible students select a requested amount within the configured \$500 minimum and \$5,000 maximum, subject to the established eligibility and repayment configuration.
 
@@ -564,7 +659,7 @@ Loan request amount is selected by the student within applicable
 eligibility limits. The calculator does not automatically assign the
 maximum loan amount. Financing is not a tuition reduction.
 
-# 36. RIAH Private Student Loan Eligibility Exclusions
+# XXXVI. 🛡️ RIAH Private Student Loan Eligibility Exclusions
 
 Private Student Loan eligibility depends on the selected education component. Degree pathways may be potentially eligible while GED and HSE, High School, standalone Minor, standalone Certification Review, standalone Bar Review, and Products are excluded.
 
@@ -586,7 +681,7 @@ Private Student Loan eligibility depends on the selected education component. De
 If eligible tuition available for financing is below the \$500 loan
 minimum, the RIAH Private Student Loan is unavailable.
 
-# 37. RIAH Private Student Loan Interest
+# XXXVII. ➗ RIAH Private Student Loan Interest
 
 Private Student Loan interest is configured at 5% for every 30 day period. Completed periods use the established interest calculation while partial periods are prorated based on the remaining number of days.
 
@@ -605,7 +700,7 @@ flowchart TD
     D --> E["Estimated Loan Balance: Balance After Completed Periods + Partial Interest"]
 ```
 
-# 38. Loan Recovery Through Reimbursement
+# XXXVIII. 💵 Loan Recovery Through Reimbursement
 
 Loan Recovery Through Reimbursement determines how an applicable tuition reimbursement interacts with an outstanding RIAH Private Student Loan. Gross reimbursement is first applied against the outstanding loan balance, with any remaining reimbursement available to the student after the applicable loan recovery.
 
@@ -621,7 +716,7 @@ Balance)**
 **Student Reimbursement = MAX(Gross Reimbursement − Outstanding RIAH
 Loan Balance, \$0)**
 
-# 39. Included Zero Dollar Components
+# XXXIX. ✅ Included Zero Dollar Components
 
 The following components have no additional configured price where active policy establishes their inclusion. Applicable standard transcripts, diploma, graduation items, cap and gown, orientation, and standard administrative services are also treated as included rather than separately charged where established by active policy.
 
@@ -642,7 +737,7 @@ transcript, diploma, graduation items, cap and gown, orientation, and
 standard administrative services are also treated as included rather
 than separately charged.
 
-# 40. Master Active Number Table
+# XL. ⚡ Master Active Number Table
 
 The Master Active Number Table consolidates the active numerical records used throughout the Pricing Engine. These values correspond to the detailed rules established in the preceding sections and provide a centralized numerical reference without replacing those rules.
 
@@ -731,7 +826,7 @@ The Master Active Number Table consolidates the active numerical records used th
 | Bachelor’s Course Count | 40 |
 | Minimum Remaining Tuition | \$0 |
 
-# 41. Master Scholarship, Grant, and Stipend Lookup Table
+# XLI. 🎁 Master Scholarship, Grant, and Stipend Lookup Table
 
 The Master Scholarship, Grant, and Stipend Lookup Table consolidates the fixed funding levels established in Sections 23 through 27. Need Based and Merit Based Scholarships and Grants use six fixed levels from \$500 through \$50,000, while Student Support Stipends use five fixed levels from \$100 through \$500.
 
@@ -767,7 +862,7 @@ The Master Scholarship, Grant, and Stipend Lookup Table consolidates the fixed f
 | Stipend | Student Support | 4 | \$400 |
 | Stipend | Student Support | 5 | \$500 |
 
-# 42. Engine Source of Truth Rule
+# XLII. 🔐 Engine Source of Truth Rule
 
 The Master Pricing Data Sheet and its corresponding structured database records are the numerical source of truth for the Pricing Engine. The engine should retrieve configured financial values rather than independently inventing or estimating tuition, fees, deposits, allocations, reductions, funding, financing, interest, reimbursement, review pricing, or other financial values.
 
@@ -788,7 +883,7 @@ return:
 
 rather than creating a value.
 
-# 43. Source Conflicts Requiring Engine Synchronization
+# XLIII. ⚙️ Source Conflicts Requiring Engine Synchronization
 
 The current Pricing Engine source and the newer Student Cost Guide contain several conflicting numerical records. The values shown under Student Cost Guide Value are the active pricing sheet values for this Master Pricing Data Sheet and should be synchronized with the underlying Pricing Engine before production use.
 
@@ -810,3 +905,4 @@ values.
 The underlying Pricing Engine logic should be synchronized to the
 approved active values before production use so the engine and its
 pricing database do not produce conflicting results.
+Displaying RIAH Pathway Pricing Engine.md.
