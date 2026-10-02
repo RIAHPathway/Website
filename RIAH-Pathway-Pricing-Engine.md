@@ -168,7 +168,7 @@ charges.
 -   Associate's: up to 30 credits
 -   Bachelor's: up to 60 credits
 -   MBA: up to 9 credits
--   JD: up to 60 credits
+-   JD: up to 27 credits
 
 Transfer approval and transfer tuition treatment are separate.
 Self-reported credits do not create an approved reduction.
