@@ -716,6 +716,8 @@ Balance)**
 **Student Reimbursement = MAX(Gross Reimbursement − Outstanding RIAH
 Loan Balance, \$0)**
 
+<img width="1254" height="1254" alt="RIAH Private Student Loan" src="https://github.com/user-attachments/assets/e56e3caf-a0fc-42e3-89d4-842e6318391d" />
+
 # XXXIX. ✅ Included Zero Dollar Components
 
 The following components have no additional configured price where active policy establishes their inclusion. Applicable standard transcripts, diploma, graduation items, cap and gown, orientation, and standard administrative services are also treated as included rather than separately charged where established by active policy.
@@ -882,27 +884,3 @@ return:
 **PENDING CONFIGURATION**
 
 rather than creating a value.
-
-# XLIII. ⚙️ Source Conflicts Requiring Engine Synchronization
-
-The current Pricing Engine source and the newer Student Cost Guide contain several conflicting numerical records. The values shown under Student Cost Guide Value are the active pricing sheet values for this Master Pricing Data Sheet and should be synchronized with the underlying Pricing Engine before production use.
-
-| Configuration | Student Cost Guide Value |
-|---|---:|
-| Integrated Education and Experiential Adjustment | 5% |
-| Maximum Ordinary Tuition Reduction | 25% |
-| Upfront Payment Reduction | 15% |
-| Education Deposit RIAH Fee | $500 |
-| Education Deposit Resource Allocation | Pathway Based |
-| RIAH Private Student Loan Minimum Credit Score | 650 |
-| RIAH Private Student Loan Due Date | 3 Months After Graduation |
-| Third Standalone Certification Review | 100% |
-
-For this Master Pricing Data Sheet, the values contained in the newer
-detailed Student Cost Guide are listed as the active pricing sheet
-values.
-
-The underlying Pricing Engine logic should be synchronized to the
-approved active values before production use so the engine and its
-pricing database do not produce conflicting results.
-Displaying RIAH Pathway Pricing Engine.md.
