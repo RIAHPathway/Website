@@ -1,732 +1,553 @@
-# 👑 RIAH PATHWAY
-
-# 1 — HOME
-
-**Page Type:** Main Website Page  
-**Brand:** RIAH Pathway  
-**Institutional Slogan:** **ONE DYNASTY. INFINITE LEGACIES.**
-
-**Institutional Colors:** Black • Red • Gold • White • Silver  
-**Institutional Symbol:** Crown  
-**Institutional Mascot:** Goat
-
-**Page Experience:**  
-**HERO → EXPLANATION → PATHWAYS → CURRICULUM → ADMISSIONS → TUITION → DONATIONS → PRODUCTS → ACCREDITATION & AUTHORIZATION → JOIN US → RESOURCES → FAQ → CONTACT → FINAL CTA**
+# 👑 RIAH PATHWAY — 01 HOME
+## WEBSITE WIREFRAME
 
 ---
 
-# GLOBAL HEADER
+# WIREFRAME BUILD KEY
 
-[HEADER — GLOBAL]
+- **VIDEO PLACEHOLDER** — One principal homepage video
+- **IMAGE PLACEHOLDER** — Purposeful institutional imagery only
+- **ICON PLACEHOLDER** — Professional website icon
+- **DIAGRAM PLACEHOLDER** — Structured visual explanation
+- **CARD** — Page, pathway, school, resource, product, audience, or navigation card
+- **BUTTON** — One of the approved five CTA families
+- **INTERNAL LINK** — Exact numbered RIAH Pathway website destination
+- **EXTERNAL LINK** — Approved public-facing platform or resource
+- **DOWNLOAD** — Standalone file only when genuinely necessary
+- **ANCHOR** — Same-page destination
+- **STATUS** — Implementation state
+
+---
+
+# 01. GLOBAL HEADER
+
+[GLOBAL HEADER]
 
 [LOGO PLACEHOLDER — RIAH PATHWAY]
 
-**ONE DYNASTY. INFINITE LEGACIES.**
+[SLOGAN — ONE DYNASTY. INFINITE LEGACIES.]
 
-## Utility Navigation
+## GLOBAL NAVIGATION — PAGES 01–13
 
-Students • Educators • Employers • Partners • Community
+[INTERNAL LINK — 01 / HOME — ACTIVE]
 
-[ICON PLACEHOLDER — SEARCH]
+[INTERNAL LINK — 02 / ABOUT]
 
-## Primary Navigation
+[INTERNAL LINK — 03 / PATHWAY]
 
-**1 — Home**  
-**2 — About**  
-**3 — Pathway**  
-**4 — Curriculum**  
-**5 — Admissions**  
-**6 — Tuition**  
-**7 — Donations**  
-**8 — Products**  
-**9 — Accreditation & Authorization**  
-**10 — Join Us**  
-**11 — Resources**  
-**12 — FAQ**  
-**13 — Contact**
+[INTERNAL LINK — 04 / CURRICULUM]
 
-**Design:** Black primary-navigation bar with the active **Home** page identified in red.
+[INTERNAL LINK — 05 / ADMISSIONS]
 
-[BUTTON — APPLY NOW → EXTERNAL / CLASSE365]
+[INTERNAL LINK — 06 / TUITION]
 
----
+[INTERNAL LINK — 07 / DONATIONS]
 
-# SECTION 1 — HERO
+[INTERNAL LINK — 08 / PRODUCTS]
 
-[SECTION BACKGROUND — BLACK / WHITE / RED ACCENTS]
+[INTERNAL LINK — 09 / ACCREDITATION & AUTHORIZATION]
 
-**Layout:** Split-screen institutional hero.
+[INTERNAL LINK — 10 / JOIN US]
 
-Left:
-- Primary message
-- Career Trifecta
-- Supporting copy
-- CTA buttons
+[INTERNAL LINK — 11 / RESOURCES]
 
-Right:
-- Institutional professional image
-- Primary homepage video
+[INTERNAL LINK — 12 / FAQ]
 
-## EDUCATION. EXPERIENCE. CERTIFICATION.
+[INTERNAL LINK — 13 / CONTACT]
 
-# BUILD YOUR PATH. CREATE YOUR LEGACY.
+[PRIMARY GLOBAL CTA — APPLY NOW → EXTERNAL / CLASSE365]
 
-**Education + Experience + Certification = Your Career Trifecta.**
-
-RIAH Pathway connects education, real-world experience, professional preparation, and career development through one interconnected pathway ecosystem.
-
-Students can enter from different starting points and build forward through academic, experiential, certification, professional-development, and career opportunities based on the pathway they select.
-
-## Career Trifecta
-
-[ICON PLACEHOLDER — GRADUATION CAP / EDUCATION]
-
-### EDUCATION
-
-Build knowledge through structured academic and educational pathways.
-
-**+**
-
-[ICON PLACEHOLDER — BRIEFCASE / EXPERIENCE]
-
-### EXPERIENCE
-
-Apply knowledge through experiential and real-world professional opportunities.
-
-**+**
-
-[ICON PLACEHOLDER — CERTIFICATE / PROFESSIONAL CREDENTIAL]
-
-### CERTIFICATION
-
-Prepare for applicable professional certifications, examinations, reviews, and credentials.
-
-**=**
-
-[ICON PLACEHOLDER — CAREER / ADVANCEMENT]
-
-### CAREER
-
-Build toward professional development, advancement, and long-term opportunity.
-
-### Hero CTAs
-
-[BUTTON — LEARN MORE: EXPLORE PATHWAYS → 3 / PATHWAY]
-
-[BUTTON — APPLY NOW → 5 / ADMISSIONS]
+## GLOBAL HEADER LINKS
 
 [BUTTON — GET STARTED: REQUEST INFORMATION → 13 / CONTACT]
 
-## Hero Visual
+[BUTTON — LOG IN → APPROVED RIAH PATHWAY PORTAL DESTINATION]
 
-[IMAGE PLACEHOLDER — RIAH PATHWAY HERO]
+[ICON PLACEHOLDER — SEARCH]
 
-**Type:** Institutional / Student / Career
+[ICON PLACEHOLDER — ACCESSIBILITY]
 
-**Visual:** Diverse students and professionals moving between academic, professional, experiential, technology, and career environments.
+---
 
-**Purpose:** Visually communicate that RIAH Pathway connects education with real-world professional development and opportunity.
+# 02. PAGE HERO
 
-**Alt Text:** Students and professionals participating in interconnected education, experiential learning, professional development, and career activities.
+# 01.0 — HOME HERO
 
-Overlay:
+[HERO MEDIA PLACEHOLDER — RIAH PATHWAY HOMEPAGE HERO]
 
-**Real Experience.**  
-**Real Opportunities.**  
-**Real People.**  
-**A Brighter Tomorrow.**
+[VIDEO PLACEHOLDER — RIAH PATHWAY HOMEPAGE VIDEO]
 
-## Primary Homepage Video
+## PAGE EYEBROW
 
-[VIDEO PLACEHOLDER — HERO VIDEO]
+**RIAH PATHWAY**
 
-### What Is RIAH Pathway?
+# EDUCATION. EXPERIENCE. CERTIFICATION. CAREER.
+
+## BUILD YOUR PATH.
+## CREATE YOUR LEGACY.
+
+RIAH Pathway connects education, experiential learning, professional preparation, certification and review, career development, community, products, technology, and opportunity through one connected pathway ecosystem.
+
+Students can enter from different starting points and build forward through the pathway that fits their education, experience, professional development, credential, and career goals.
+
+## THE CAREER TRIFECTA
+
+**EDUCATION + EXPERIENCE + CERTIFICATION = CAREER PREPARATION**
+
+[DIAGRAM PLACEHOLDER — CAREER TRIFECTA]
+
+**EDUCATION**  
+↓  
+**EXPERIENCE**  
+↓  
+**CERTIFICATION**  
+↓  
+**CAREER**
+
+[PRIMARY HERO CTA — APPLY NOW → EXTERNAL / CLASSE365]
+
+[SECONDARY HERO CTA — LEARN MORE: EXPLORE PATHWAYS → 03 / PATHWAY]
+
+[BUTTON — GET STARTED: REQUEST INFORMATION → 13 / CONTACT]
+
+### HERO INTERNAL ROUTING
+
+[INTERNAL LINK — EXPLORE PATHWAYS → 03 / PATHWAY]
+
+[INTERNAL LINK — EXPLORE CURRICULUM → 04 / CURRICULUM]
+
+[INTERNAL LINK — HOW RIAH PATHWAY WORKS → 05.7 / ADMISSIONS]
+
+[INTERNAL LINK — TUITION → 06 / TUITION]
+
+### HERO EXTERNAL ROUTING
+
+[EXTERNAL LINK — APPLY NOW → CLASSE365 PUBLIC APPLICATION DESTINATION]
+
+---
+
+## HERO VIDEO
+
+[VIDEO PLACEHOLDER — RIAH PATHWAY HOMEPAGE VIDEO]
 
 **Purpose:**  
-Introduce visitors to RIAH Pathway, the ecosystem, the Career Trifecta, available pathways, and the student journey.
+Introduce RIAH Pathway as one connected ecosystem that links academic pathways, experiential learning, professional preparation, certification and review, products, career development, community, and long-term opportunity.
 
 **Visual Direction:**  
-Students, professionals, faculty, supervisors, technology, educational environments, experiential environments, certification preparation, community, and career development.
+Student entry → Schools → Academic pathways → Curriculum → Career Trifecta → Experiential learning → Certification and review → Products → Professional development → Community → Career → Graduation → Alumni → Legacy.
 
 **Content:**  
-Education → Experience → Certification → Career → Legacy
+Education • Experience • Certification • Career • Pathways • Schools • Curriculum • Student Journey • Products • Community • Opportunity • Legacy
+
+**Primary Closing Message:**  
+**ONE DYNASTY. INFINITE LEGACIES.**
 
 **Controls:**  
-Play / Pause / Captions / Full Screen
+Play • Pause • Captions • Full Screen
 
 **Poster Image:**  
-[IMAGE PLACEHOLDER — WHAT IS RIAH PATHWAY VIDEO POSTER]
+[IMAGE PLACEHOLDER — HOMEPAGE VIDEO POSTER]
+
+**Status:**  
+[TO FINALIZE]
 
 ---
 
-# SECTION 2 — ABOUT RIAH PATHWAY
+# 03. PAGE OVERVIEW
 
-[SECTION BACKGROUND — WHITE]
+# 01.1 — HOME OVERVIEW
 
-[ICON PLACEHOLDER — CROWN / INSTITUTION]
+## ONE CONNECTED PATHWAY.
 
-## STUDENTS AT THE CENTER. OPPORTUNITY IN EVERY DIRECTION.
+RIAH Pathway is designed around the idea that education should connect to experience, professional preparation, applicable credentials, career development, community, and opportunity.
 
-RIAH Pathway is an interconnected education, experiential, certification, professional-development, product, technology, and career ecosystem designed around people entering from different starting points.
+The ecosystem brings together academic pathways, experiential pathways, certification preparation, professional development, products, student support, partnerships, technology, and community within one connected structure.
 
-The pathway connects students and participants with the academic structure, professional support, experiential opportunities, resources, products, technology, and community needed to continue building forward.
+Students do not all begin in the same place.
 
-### Ecosystem
+RIAH Pathway supports multiple entry points so students can begin with the pathway appropriate to their current educational, professional, or career stage and continue building forward.
 
-[ICON CARD — EDUCATION]  
-**Education**  
-Academic and educational pathways designed around structured progression.
+**Page Purpose:**  
+The Home page serves as the primary public entry point into the complete RIAH Pathway website and introduces the visitor to Pages 02 through 13.
 
-[ICON CARD — EXPERIENCE]  
-**Experience**  
-Experiential learning and applicable real-world professional opportunities.
+**EXPLORE → CHOOSE A PATH → APPLY → LEARN → EXPERIENCE → PREPARE → ACHIEVE → BUILD → GRADUATE → CONTINUE**
 
-[ICON CARD — CERTIFICATION]  
-**Certification**  
-Professional certification and examination preparation where applicable.
+[DIAGRAM PLACEHOLDER — RIAH PATHWAY CONNECTED ECOSYSTEM]
 
-[ICON CARD — PROFESSIONAL TEAM]  
-**Professional Support**  
-Faculty, supervisors, managers, reviewers, leadership, and professional support.
-
-[ICON CARD — COMMUNITY]  
-**Community**  
-Cohort, school, organizational, professional, and community connections.
-
-[ICON CARD — PRODUCTS]  
-**Products**  
-Educational, review, study, planning, and pathway-support products.
-
-[ICON CARD — TECHNOLOGY]  
-**Technology**  
-Technology-supported systems connecting the student and institutional journey.
-
-[ICON CARD — CAREER]  
-**Career Development**  
-Professional development, mentorship, preparation, and applicable career opportunities.
-
-**Real Experience. Real Opportunities. Real People. A Brighter Tomorrow.**
-
-[BUTTON — LEARN MORE: ABOUT RIAH PATHWAY → 2 / ABOUT]
-
-[INTERNAL LINK — 2 / ABOUT → ECOSYSTEM]
-
-[INTERNAL LINK — 2 / ABOUT → SCHOOLS]
+[OVERVIEW CTA — LEARN MORE: ABOUT RIAH PATHWAY → 02 / ABOUT]
 
 ---
 
-# SECTION 3 — PATHWAY
+# 04. PAGE-SPECIFIC NAVIGATION STRUCTURE
 
-[SECTION BACKGROUND — BLACK]
+[ANCHOR — 01.1 / HOME OVERVIEW]
 
-[ICON PLACEHOLDER — PATH / JOURNEY]
+[ANCHOR — 01.2 / ABOUT]
 
-## BUILD FROM WHERE YOU ARE.
+[ANCHOR — 01.3 / PATHWAYS]
 
-RIAH Pathway is designed around multiple entry points rather than one required starting point.
+[ANCHOR — 01.4 / CURRICULUM]
 
-Students may enter through an academic, law, experiential, certification, high-school, or GED/HSE pathway and continue through the applicable progression available to them.
+[ANCHOR — 01.5 / ADMISSIONS]
 
-**MULTIPLE PATHS. A DIVERSE YOU. A GLOBAL IMPACT.**
+[ANCHOR — 01.6 / TUITION]
 
-## Explore the Pathways
+[ANCHOR — 01.7 / DONATIONS]
 
-### Degree Pathway
+[ANCHOR — 01.8 / PRODUCTS]
 
-[ICON PLACEHOLDER — GRADUATION CAP]
+[ANCHOR — 01.9 / ACCREDITATION & AUTHORIZATION]
 
-Associate’s • Bachelor’s • MBA • Minor and applicable advanced academic progression.
+[ANCHOR — 01.10 / JOIN US]
 
-[BUTTON — LEARN MORE → 3.2 / DEGREE PATHWAY]
+[ANCHOR — 01.11 / RESOURCES]
 
-### Law Pathway
+[ANCHOR — 01.12 / FAQ]
 
-[ICON PLACEHOLDER — SCALES OF JUSTICE]
-
-J.D. and applicable Non-J.D. Bar License pathways.
-
-[BUTTON — LEARN MORE → 3.4 / LAW PATHWAY]
-
-### Experiential Pathway
-
-[ICON PLACEHOLDER — BRIEFCASE]
-
-3-Month • 6-Month • 12-Month • 24-Month experiential pathways organized by applicable school, field, duration, and learning process.
-
-[BUTTON — LEARN MORE → 3.5 / EXPERIENTIAL PATHWAY]
-
-### Certification Pathway
-
-[ICON PLACEHOLDER — CERTIFICATE]
-
-Certification preparation and Bar Review.
-
-[BUTTON — LEARN MORE → 3.6 / CERTIFICATION PATHWAY]
-
-### High School Diploma Pathway
-
-[ICON PLACEHOLDER — SCHOOL]
-
-Structured secondary education through the School of Diploma and GED.
-
-[BUTTON — LEARN MORE → 3.7 / HIGH SCHOOL DIPLOMA PATHWAY]
-
-### GED / HSE Pathway
-
-[ICON PLACEHOLDER — DOCUMENT / EDUCATION]
-
-Preparation and educational progression connected to the applicable GED/HSE pathway.
-
-[BUTTON — LEARN MORE → 3.8 / GED / HSE PATHWAY]
-
-### Pathway CTA
-
-[BUTTON — LEARN MORE: EXPLORE ALL PATHWAYS → 3 / PATHWAY]
-
-[BUTTON — APPLY NOW → 5 / ADMISSIONS]
+[ANCHOR — 01.13 / CONTACT]
 
 ---
 
-# SECTION 4 — CURRICULUM
+# 01.2 — ABOUT
 
-[SECTION BACKGROUND — WHITE]
+## STUDENTS AT THE CENTER.
+## OPPORTUNITY IN EVERY DIRECTION.
 
-[ICON PLACEHOLDER — OPEN BOOK / CURRICULUM]
+RIAH Pathway is an interconnected educational and professional ecosystem built to connect learning with experience, professional preparation, applicable credentials, community, products, technology, and career opportunity.
+
+### THE RIAH PATHWAY ECOSYSTEM
+
+**EDUCATION** — Academic and educational pathways that provide structured learning and progression.
+
+**EXPERIENCE** — Applied experiential opportunities that connect learning to applicable professional environments.
+
+**CERTIFICATION** — Certification and examination preparation where applicable to the selected pathway.
+
+**PROFESSIONAL DEVELOPMENT** — Professional preparation, mentorship, career development, and applicable opportunities.
+
+**COMMUNITY** — Cohorts, schools, organizations, alumni, partners, ambassadors, and professional connections.
+
+**PRODUCTS** — Educational, study, review, planning, and pathway-support products.
+
+**TECHNOLOGY** — Technology-supported systems connecting the student and institutional journey.
+
+**CAREER** — Career preparation, employer engagement, professional development, and opportunity.
+
+[BUTTON — LEARN MORE: ABOUT RIAH PATHWAY → 02 / ABOUT]
+
+[INTERNAL LINK — ECOSYSTEM → 02.2 / ABOUT]
+
+[INTERNAL LINK — SCHOOLS → 02.3 / ABOUT]
+
+[INTERNAL LINK — LEADERSHIP → 02.4 / ABOUT]
+
+[INTERNAL LINK — BOARD & GOVERNANCE → 02.5 / ABOUT]
+
+[INTERNAL LINK — BRAND, MASCOT & SCHOOL COLORS → 02.6 / ABOUT]
+
+---
+
+# 01.3 — PATHWAYS
+
+## MULTIPLE PATHS.
+## ONE CONNECTED ECOSYSTEM.
+
+RIAH Pathway supports different educational and professional entry points rather than requiring every student to begin at the same stage.
+
+### DEGREE PATHWAY
+Associate’s • Bachelor’s • MBA • Minor
+
+[BUTTON — LEARN MORE → 03.2 / DEGREE PATHWAY]
+
+### SCHOOLS
+School-specific pathways across RIAH Pathway.
+
+[BUTTON — LEARN MORE → 03.3 / SCHOOLS]
+
+### LAW PATHWAY
+J.D. • Non-J.D. Bar License Pathway
+
+[BUTTON — LEARN MORE → 03.4 / LAW PATHWAY]
+
+### EXPERIENTIAL PATHWAY
+Experiential pathways organized by duration, school, and applicable learning process.
+
+[BUTTON — LEARN MORE → 03.5 / EXPERIENTIAL PATHWAY]
+
+### CERTIFICATION PATHWAY
+Certifications • Bar Review
+
+[BUTTON — LEARN MORE → 03.6 / CERTIFICATION PATHWAY]
+
+### HIGH SCHOOL DIPLOMA PATHWAY
+High School Diploma pathway.
+
+[BUTTON — LEARN MORE → 03.7 / HIGH SCHOOL DIPLOMA PATHWAY]
+
+### GED / HSE PATHWAY
+GED / HSE preparation and pathway progression.
+
+[BUTTON — LEARN MORE → 03.8 / GED-HSE PATHWAY]
+
+[BUTTON — LEARN MORE: EXPLORE ALL PATHWAYS → 03 / PATHWAY]
+
+---
+
+# 01.4 — CURRICULUM
 
 ## CURRICULUM BUILT AROUND PROGRESSION.
 
 RIAH Pathway curriculum connects academic foundations, school cores, majors, upper-division learning, graduate education, assessments, projects, capstones, certification mapping, and experiential integration where applicable.
 
-The curriculum architecture supports multiple levels and pathways while maintaining structured academic progression.
+### ACADEMIC STRUCTURE
 
-## Academic Levels
+General Education  
+↓  
+School Core  
+↓  
+Major Curriculum  
+↓  
+Upper-Division Curriculum  
+↓  
+Applicable Minor  
+↓  
+Applicable Graduate Progression  
+↓  
+Projects + Assessments + Capstones  
+↓  
+Applicable Experiential + Certification Integration
 
-[ICON CARD — ASSOCIATE’S]  
-**Associate’s**
-
-[ICON CARD — BACHELOR’S]  
-**Bachelor’s**
-
-[ICON CARD — MASTER’S]  
-**Master’s**
-
-[ICON CARD — MBA]  
-**MBA**
-
-[ICON CARD — MAJORS]  
-**Majors**
-
-[ICON CARD — MINORS]  
-**Minors**
-
-## Schools
-
-### School of Business
-
+### SCHOOL OF BUSINESS
 Accounting • Business Management • Entrepreneurship • Finance
 
-[INTERNAL LINK — 4.3 / CURRICULUM → SCHOOL OF BUSINESS]
+### SCHOOL OF HOMELAND SECURITY
+Governance, Risk & Compliance • Intelligence • Physical Security • Private Investigator
 
-### School of Homeland Security
-
-Governance, Risk & Compliance (GRC) • Intelligence • Physical Security • Private Investigator
-
-[INTERNAL LINK — 4.4 / CURRICULUM → SCHOOL OF HOMELAND SECURITY]
-
-### School of Technology
-
+### SCHOOL OF TECHNOLOGY
 Computer Science • Cybersecurity • Data Analytics • Data Science • Information Systems • Program Management • Project Management • Software Development • Software Engineering
 
-[INTERNAL LINK — 4.5 / CURRICULUM → SCHOOL OF TECHNOLOGY]
-
-### School of Law
-
+### SCHOOL OF LAW
 Law Core • Criminal Justice • J.D. • Non-J.D. Bar License • Bar Review
 
-[INTERNAL LINK — 4.6 / CURRICULUM → SCHOOL OF LAW]
-
-### School of Diploma and GED
-
+### SCHOOL OF DIPLOMA AND GED
 High School Diploma • GED / HSE
 
-[INTERNAL LINK — 4.7 / CURRICULUM → SCHOOL OF DIPLOMA AND GED]
+[INTERNAL LINK — EXPERIENTIAL → 04.8 / CURRICULUM]
 
-## Curriculum Architecture
+[INTERNAL LINK — CERTIFICATION & REVIEW → 04.9 / CURRICULUM]
 
-Course Numbering • Prerequisites • Certification Mapping • Assessment • Projects • Capstones • Experiential Integration
+[INTERNAL LINK — CURRICULUM ARCHITECTURE → 04.10 / CURRICULUM]
 
-[BUTTON — LEARN MORE: EXPLORE CURRICULUM → 4 / CURRICULUM]
-
----
-
-# SECTION 5 — HOW RIAH PATHWAY WORKS
-
-[SECTION BACKGROUND — BLACK / RED ACCENTS]
-
-[ICON PLACEHOLDER — CONNECTED JOURNEY]
-
-## YOUR PATHWAY. ONE CONNECTED JOURNEY.
-
-RIAH Pathway connects the public website, application, onboarding, learning, community, experiential, professional-development, credential, product, and career journey through an integrated ecosystem.
-
-## Student Journey
-
-### 1 — EXPLORE
-
-Learn about RIAH Pathway, schools, curriculum, pathways, admissions, tuition, products, resources, and opportunities.
-
-### 2 — SELECT
-
-Identify the school, pathway, program, or opportunity aligned with your goals.
-
-### 3 — APPLY
-
-Complete the applicable application and submit required information.
-
-### 4 — ACCEPTANCE & ENROLLMENT
-
-Complete the applicable acceptance, enrollment, commitment, and pathway requirements.
-
-### 5 — ORIENTATION & ONBOARDING
-
-Enter the applicable orientation, onboarding, systems, resources, and community.
-
-### 6 — ACTIVE EXPERIENCE
-
-Begin the applicable academic, experiential, certification, or professional-development experience.
-
-### 7 — ACHIEVEMENTS & MILESTONES
-
-Progress through coursework, assessments, projects, experiential requirements, professional milestones, and applicable credential preparation.
-
-### 8 — GRADUATION, COMPLETION & ALUMNI
-
-Complete the applicable pathway and continue into alumni, professional, educational, or career opportunities.
-
-[BUTTON — LEARN MORE: HOW RIAH PATHWAY WORKS → 5.7 / ADMISSIONS]
+[BUTTON — LEARN MORE: EXPLORE CURRICULUM → 04 / CURRICULUM]
 
 ---
 
-# SECTION 6 — ADMISSIONS
+# 01.5 — ADMISSIONS
 
-[SECTION BACKGROUND — WHITE]
+## YOUR PATHWAY.
+## ONE CONNECTED JOURNEY.
 
-[ICON PLACEHOLDER — APPLICATION]
+RIAH Pathway admissions connects initial exploration with application, acceptance, enrollment, onboarding, the active student experience, graduation, and alumni engagement.
 
-## READY TO BUILD YOUR PATH?
-
-RIAH Pathway admissions guides applicants from initial exploration through application, acceptance, enrollment, onboarding, active student experience, graduation, and alumni connection.
-
-### Admissions Areas
-
-Pre-Admissions  
-Application  
-Acceptance & Enrollment  
-Onboarding & Student Experience  
-Graduation & Alumni
-
-### Admissions Flow
-
-**Explore → Select → Apply → Review → Decision → Enroll → Orient → Begin**
-
-[BUTTON — LEARN MORE: VIEW ADMISSIONS → 5 / ADMISSIONS]
+**INTEREST**  
+↓  
+**PRE-ADMISSIONS**  
+↓  
+**APPLICATION**  
+↓  
+**ACCEPTANCE**  
+↓  
+**ENROLLMENT & COMMITMENT**  
+↓  
+**APPLICABLE PATHWAY REQUIREMENTS**  
+↓  
+**WELCOME EXPERIENCE**  
+↓  
+**ORIENTATION**  
+↓  
+**ONBOARDING**  
+↓  
+**ACTIVE STUDENT EXPERIENCE**  
+↓  
+**COHORT & COMMUNITY**  
+↓  
+**APPLICABLE EXPERIENTIAL SUPERVISION**  
+↓  
+**GRADUATION & ALUMNI**
 
 [BUTTON — APPLY NOW → EXTERNAL / CLASSE365]
 
-[BUTTON — GET STARTED: REQUEST INFORMATION → 13 / CONTACT]
+[BUTTON — LEARN MORE: VIEW ADMISSIONS → 05 / ADMISSIONS]
 
 ---
 
-# SECTION 7 — TUITION
+# 01.6 — TUITION
 
-[SECTION BACKGROUND — WHITE / GOLD ACCENTS]
+## UNDERSTAND YOUR PATH.
+## UNDERSTAND YOUR COST.
 
-[ICON PLACEHOLDER — TUITION / CALCULATOR]
+RIAH Pathway centralizes tuition, fees, payment options, funding, reimbursement, costs, and individualized pricing information.
 
-## UNDERSTAND YOUR PATH. UNDERSTAND YOUR COST.
+### TUITION DIRECTORY
 
-RIAH Pathway provides tuition, fee, payment, funding, reimbursement, cost, and pricing information through one centralized tuition structure.
+Tuition → 06.2  
+Fees → 06.3  
+Payment Options → 06.4  
+Funding → 06.5  
+Reimbursement → 06.6  
+Costs → 06.7  
+Pricing Calculator Engine → 06.8
 
-Visitors can review:
+### PRICING STAGES
 
-- Tuition
-- Fees
-- Payment Options
-- Funding
-- Reimbursement
-- Costs
-- Applicable discounts and assistance
-- Pricing by pathway
-- Pricing Calculator Engine
+| Stage | Structure | Public Purpose |
+|---|---|---|
+| Beta | 25% of applicable post-credit baseline | Beta-stage pricing |
+| Pre-Accredited | 50% of applicable post-credit baseline | Pre-accreditation pricing |
+| Post-Credit | 100% baseline | Applicable baseline pricing |
 
-## Pricing Stages
+[BUTTON — GET STARTED: PRICING CALCULATOR → 06.8 / TUITION]
 
-**Beta — 25% of applicable standard baseline**
-
-**Pre-Accreditation — 50% of applicable standard baseline**
-
-**Post-Accreditation — 100% of applicable standard baseline**
-
-Eligibility-based scholarships, grants, stipends, reimbursement, discounts, donor-supported assistance, team benefits, and other applicable support follow their respective published requirements.
-
-## Build Your Pathway + Calculate Your Price
-
-[ICON PLACEHOLDER — CALCULATOR]
-
-Build an individualized pathway estimate based on the applicable program, pathway, tuition, fees, combinations, funding, discounts, payment options, reimbursement rules, and eligibility.
-
-[BUTTON — GET STARTED: BUILD MY PATHWAY + CALCULATE MY PRICE → 6.8 / TUITION / PRICING CALCULATOR ENGINE]
-
-[BUTTON — LEARN MORE: VIEW TUITION → 6 / TUITION]
+[BUTTON — LEARN MORE: EXPLORE TUITION → 06 / TUITION]
 
 ---
 
-# SECTION 8 — DONATIONS
+# 01.7 — DONATIONS
 
-[SECTION BACKGROUND — BLACK]
+## INVEST.
+## EMPOWER.
+## BUILD WHAT COMES NEXT.
 
-[ICON PLACEHOLDER — HEART / GIVING]
+RIAH Pathway donations support applicable charitable, educational, institutional, accreditation, authorization, scholarship, expansion, and community initiatives.
 
-## HELP BUILD WHAT COMES NEXT.
+### FOUNDATION
+[BUTTON — LEARN MORE → 07.2 / FOUNDATION]
 
-RIAH Pathway donations support the continued development of educational, charitable, institutional, accreditation, authorization, expansion, and community initiatives through the applicable RIAH Pathway entities and Foundation.
+### ACCREDITATION
+[BUTTON — LEARN MORE → 07.3 / ACCREDITATION]
 
-### Areas of Support
+### STATE AUTHORIZATION
+[BUTTON — LEARN MORE → 07.4 / STATE AUTHORIZATION]
 
-[ICON CARD — FOUNDATION]  
-**Foundation**
+Public donation transparency applies to applicable donations and public funds.
 
-[ICON CARD — ACCREDITATION]  
-**Accreditation**
+Individual student financial information remains private.
 
-[ICON CARD — STATE / MAP]  
-**State Authorization**
-
-[ICON CARD — COMMUNITY]  
-**Educational & Community Initiatives**
-
-**Invest. Empower. Transform Lives.**
-
-**Real People. Real Change. A Brighter Tomorrow.**
-
-[BUTTON — LEARN MORE: EXPLORE DONATIONS → 7 / DONATIONS]
+[BUTTON — LEARN MORE: EXPLORE DONATIONS → 07 / DONATIONS]
 
 ---
 
-# SECTION 9 — PRODUCTS
+# 01.8 — PRODUCTS
 
-[SECTION BACKGROUND — WHITE]
+## LEARN.
+## PREPARE.
+## ADVANCE.
 
-[ICON PLACEHOLDER — BOOK / PRODUCT]
+RIAH Pathway products support academic learning, certification preparation, bar preparation, experiential development, study, organization, and pathway progression.
 
-## TOOLS BUILT FOR THE PATHWAY.
+Most RIAH Pathway educational products are print-based physical products.
 
-RIAH Pathway products support learning, preparation, review, organization, and progression throughout the ecosystem.
+Select products may be available digitally.
 
-## Product Areas
-
-### Certification Review
-
-Professional certification review resources aligned with applicable preparation pathways.
-
-### Bar Review
-
-RIAH Pathway Bar Review resources supporting applicable state and jurisdictional preparation.
-
-### Collections
-
-- General Education
-- Core
-- Year 3
-- Year 4
-- Master’s
-- MBA
-- GED
-- High School Diploma
-- Experiential
-
-### Bundles
-
-Applicable grouped products and learning resources.
-
-## Product Formats
-
-Textbooks • Workbooks • Study Guides • Review Guides • Solution Guides • Flashcards • Planners • Journals • Applicable Educational Materials
-
-**Learn. Prepare. Advance. Succeed.**
+For applicable print products, a first chapter or selected preview pages may be available digitally before purchase.
 
 [IMAGE PLACEHOLDER — RIAH PATHWAY PRODUCT COLLECTION]
 
-**Type:** Product
+### PRODUCT AREAS
 
-**Visual:** Professional branded collection of RIAH Pathway educational and review products.
+**CERTIFICATION REVIEW**  
+Certification review products organized by applicable school and credential.
 
-**Purpose:** Show the integrated product layer supporting the pathway.
+**BAR REVIEW**  
+RIAH Pathway Bar Review.
 
-**Alt Text:** RIAH Pathway educational, review, study, and planning products.
+**COLLECTIONS**  
+General Education • Core • Year 3 • Year 4 • Master’s • MBA • GED • High School Diploma • Experiential
 
-[BUTTON — SHOP NOW → EXTERNAL / RIAH PATHWAY STOREFRONT]
+**BUNDLES**  
+Applicable grouped product collections.
 
-[BUTTON — LEARN MORE: EXPLORE PRODUCTS → 8 / PRODUCTS]
+[BUTTON — SHOP NOW → EXTERNAL / SHOPIFY]
 
----
-
-# SECTION 10 — ACCREDITATION & AUTHORIZATION
-
-[SECTION BACKGROUND — BLACK / GOLD ACCENTS]
-
-[ICON PLACEHOLDER — INSTITUTIONAL SEAL / COMPLIANCE]
-
-## BUILDING THE INSTITUTIONAL FOUNDATION.
-
-RIAH Pathway is developing the regulatory, academic, operational, technological, financial, and compliance infrastructure required for its applicable authorization, approval, accreditation, and institutional-development pathways.
-
-RIAH Pathway will distinguish clearly between:
-
-- Current status
-- Authorization or approval requirements
-- Applications or planned applications
-- Accreditation being pursued
-- Accreditation formally awarded
-- Program-specific requirements
-- State-specific requirements
-
-Planned, developmental, pending, pursued, or future status will not be presented as already awarded.
-
-## Accreditation & Authorization Areas
-
-### Experiential Pathways
-
-Review the applicable structure, requirements, and status information for experiential pathways.
-
-### Academic Pathways
-
-Review institutional and program-specific academic accreditation and authorization information.
-
-### High School + GED/HSE + State Authorization
-
-Review applicable secondary education, GED/HSE, and state-authorization information.
-
-[BUTTON — LEARN MORE: VIEW ACCREDITATION & AUTHORIZATION → 9 / ACCREDITATION & AUTHORIZATION]
+[BUTTON — LEARN MORE: EXPLORE PRODUCTS → 08 / PRODUCTS]
 
 ---
 
-# SECTION 11 — JOIN US
+# 01.9 — ACCREDITATION & AUTHORIZATION
 
-[SECTION BACKGROUND — WHITE / RED ACCENTS]
+## KNOW THE STATUS.
+## UNDERSTAND THE PATH.
 
-[ICON PLACEHOLDER — USERS / COMMUNITY]
+RIAH Pathway presents accreditation, authorization, approval, and institutional-development information clearly so visitors can distinguish current status from future, planned, pursued, pending, or developmental status.
 
-## FIND YOUR PLACE IN THE DYNASTY.
+RIAH Pathway will not present planned, developmental, pursued, pending, provisional, or future status as already awarded or approved.
 
-RIAH Pathway brings together students, professionals, organizations, educators, institutions, employers, partners, leadership, and ambassadors.
+### EXPERIENTIAL PATHWAYS
+[BUTTON — LEARN MORE → 09.2]
 
-## Student Life
+### ACADEMIC PATHWAYS
+[BUTTON — LEARN MORE → 09.3]
 
-### Organizations
+### HIGH SCHOOL + GED/HSE + STATE AUTHORIZATION
+[BUTTON — LEARN MORE → 09.4]
 
-Participate in applicable student and community organizations.
+[BUTTON — LEARN MORE: VIEW ACCREDITATION & AUTHORIZATION → 09]
 
-### Honor Societies
+---
 
-Explore applicable recognition and honor-society opportunities.
+# 01.10 — JOIN US
 
-[INTERNAL LINK — 10.2 / JOIN US → STUDENT LIFE]
+## FIND YOUR PLACE
+## IN THE DYNASTY.
 
-## Partnerships
+RIAH Pathway brings together students, professionals, faculty, experiential professionals, employers, organizations, partners, ambassadors, leadership, and community members.
 
-RIAH Pathway develops applicable partnerships with:
+### STUDENT LIFE
+Organizations • Honor Societies
 
-- Law Firms
-- Courts
-- High Schools
-- Colleges
-- Universities
-- Community Colleges
+### PARTNERSHIPS
+Law Firms • Courts • High Schools • Colleges • Universities • Community Colleges
 
-[INTERNAL LINK — 10.3 / JOIN US → PARTNERSHIPS]
+### JOIN OUR TEAM
+Experiential Faculty • Executive • Board of Governance • Applicable institutional and professional opportunities
 
-## Join Our Team
-
-### Internal
-
-- Experiential Faculty
-- Executive
-- Board of Governance
-
-[INTERNAL LINK — 10.4 / JOIN US → JOIN OUR TEAM]
-
-## Ambassadors
-
-### External Ambassadors
-
-- Substitute Teachers
-- Rideshare & Delivery
-
-[INTERNAL LINK — 10.5 / JOIN US → AMBASSADORS]
+### AMBASSADORS
+External ambassadors include applicable Substitute Teacher and Rideshare & Delivery opportunities.
 
 [BUTTON — LEARN MORE: EXPLORE JOIN US → 10 / JOIN US]
 
 ---
 
-# SECTION 12 — RESOURCES
+# 01.11 — RESOURCES
 
-[SECTION BACKGROUND — BLACK]
+## LEARN.
+## CONNECT.
+## STAY INFORMED.
 
-[ICON PLACEHOLDER — RESOURCE LIBRARY]
+RIAH Pathway resources provide a centralized public destination for institutional information, educational content, events, policies, procedures, guidelines, and community resources.
 
-## LEARN. CONNECT. STAY INFORMED.
-
-RIAH Pathway resources connect students, applicants, professionals, partners, and community members with institutional information, educational content, events, and living public resources.
-
-## Resource Directory
-
-[ICON CARD — CALENDAR]  
-**Events**
-
-[ICON CARD — ARTICLE]  
-**Blog**
-
-[ICON CARD — MICROPHONE]  
-**Podcasts**
-
-[ICON CARD — CONFERENCE]  
-**Conferences**
-
-[ICON CARD — WORKSHOP]  
-**Workshops**
-
-[ICON CARD — WEBINAR]  
-**Webinars**
-
-[ICON CARD — POLICY]  
-**Policies**
-
-[ICON CARD — PROCESS]  
-**Procedures**
-
-[ICON CARD — GUIDELINES]  
-**Guidelines**
-
-Public-facing policies, procedures, guidelines, disclosures, handbooks, and other living institutional resources should route to the applicable approved public resource rather than being duplicated unnecessarily as downloadable files.
+Events → 11.2  
+Blog → 11.3  
+Podcasts → 11.4  
+Conferences → 11.5  
+Workshops → 11.6  
+Webinars → 11.7  
+Policies → 11.8  
+Procedures → 11.9  
+Guidelines → 11.10
 
 [BUTTON — LEARN MORE: EXPLORE RESOURCES → 11 / RESOURCES]
 
 ---
 
-# SECTION 13 — FAQ
+# 01.12 — FAQ
 
-[SECTION BACKGROUND — WHITE]
-
-[ICON PLACEHOLDER — QUESTION / HELP]
-
-## QUESTIONS? START HERE.
-
-[ACCORDION — FAQ PREVIEW]
+## QUESTIONS?
+## START HERE.
 
 ### What is RIAH Pathway?
 
-RIAH Pathway is an interconnected ecosystem connecting education, experience, certification, professional development, products, technology, community, and career pathways.
+RIAH Pathway is a connected educational and professional ecosystem linking education, experience, certification and review, professional development, products, technology, community, and career opportunity.
 
 ### What pathways are available?
 
@@ -734,428 +555,450 @@ RIAH Pathway includes Degree, Law, Experiential, Certification, High School Dipl
 
 ### How do I apply?
 
-Begin by reviewing the applicable pathway and admissions requirements, then proceed through the application process.
+Review the applicable pathway and admissions information, then proceed through the RIAH Pathway application process.
 
-### How does tuition and pricing work?
+### Where can I review curriculum?
 
-Tuition, fees, payment options, funding, reimbursement, costs, and applicable pricing stages are centralized under Tuition.
+Curriculum information is organized under 04 / Curriculum.
 
-### Where can I review accreditation and authorization information?
+### Where can I find tuition information?
 
-Current accreditation, authorization, approval, developmental, and pathway-specific status information is centralized under Accreditation & Authorization.
+Tuition, fees, payment options, funding, reimbursement, costs, and the Pricing Calculator Engine are centralized under 06 / Tuition.
 
-### Where can I find policies and resources?
+### Where can I verify accreditation and authorization information?
 
-Events, educational resources, policies, procedures, guidelines, and other public institutional resources are centralized under Resources.
+Current public status information is centralized under 09 / Accreditation & Authorization.
 
 [BUTTON — LEARN MORE: VIEW ALL FAQS → 12 / FAQ]
 
 ---
 
-# SECTION 14 — CONTACT
-
-[SECTION BACKGROUND — BLACK / RED]
-
-[ICON PLACEHOLDER — CONTACT / MESSAGE]
+# 01.13 — CONTACT
 
 ## CONNECT WITH RIAH PATHWAY.
 
-Choose the area that best matches your question or request.
+Select the area that best matches your question, request, support need, order, or partnership inquiry.
 
-### Contact Areas
+### CONTACT DIRECTORY
 
-[ICON CARD — ADMISSIONS]  
-**Admissions**
-
-[ICON CARD — HUMAN RESOURCES]  
-**Human Resources**
-
-[ICON CARD — TECHNICAL SUPPORT]  
-**Technical Support**
-
-[ICON CARD — STUDENT SUPPORT]  
-**Student Support**
-
-[ICON CARD — PRODUCTS]  
-**Products & Orders**
-
-[ICON CARD — PARTNERSHIP]  
-**Partnerships & Organizations**
-
-[ICON CARD — GENERAL]  
-**General Inquiries**
+Admissions → 13.2  
+Human Resources → 13.3  
+Technical Support → 13.4  
+Student Support → 13.5  
+Products & Orders → 13.6  
+Partnerships & Organizations → 13.7  
+General Inquiries → 13.8
 
 [BUTTON — GET STARTED: CONTACT RIAH PATHWAY → 13 / CONTACT]
 
 ---
 
-# REQUEST INFORMATION
+# PAGE-SPECIFIC SYSTEM / ECOSYSTEM STRUCTURE
 
-[SECTION BACKGROUND — WHITE]
-
-## START YOUR JOURNEY.
-
-Tell us more about your goals and the area of RIAH Pathway that interests you.
-
-[FORM PLACEHOLDER — RIAH PATHWAY INQUIRY FORM]
-
-### Fields
-
-**Row 1:** First Name * / Last Name *  
-**Row 2:** Email * / Phone — Optional  
-**Row 3:** State / Country * / Pathway of Interest *  
-**Row 4:** Area of Interest * / Relationship to RIAH *  
-**Row 5:** Message — Optional  
-**Row 6:** Preferred Contact Method *
-
-[BUTTON — GET STARTED: SUBMIT REQUEST → APPROVED FORM ENDPOINT]
-
-[INTERNAL LINK — 13 / CONTACT]
+| Function | System | Purpose | Route |
+|---|---|---|---|
+| Public Website | RIAH Pathway Website | Public discovery and navigation | Pages 01–13 |
+| Application | Classe365 | Public application entry | External endpoint |
+| Admissions | Classe365 | Applicable admissions and academic entry functions | Approved endpoint |
+| Orientation | Zoom | Applicable virtual orientation | Authenticated/invitation |
+| Onboarding | SuiteDash | Applicable onboarding workflow | Authenticated |
+| Learning | LearnWorlds | Applicable LMS access | Authenticated |
+| Community | Slack + Geneva | Applicable cohort and community interaction | Authenticated/invitation |
+| Storefront | Shopify | Public product storefront | External public endpoint |
+| Resources | Approved Public Resource Destination | Policies, procedures, guidelines, disclosures | 11 / Resources |
+| Inquiry | Approved RIAH Pathway Inquiry Form | Public information and contact requests | 13 / Contact |
+| Pricing | RIAH Pathway Pricing Calculator Engine | Applicable individualized pricing | 06.8 / Tuition |
 
 ---
 
-# RIAH PATHWAY APP + ECOSYSTEM SOFTWARE
+# DOWNLOAD STRUCTURE
 
-[SECTION BACKGROUND — BLACK]
+No mandatory homepage download is required.
 
-[ICON PLACEHOLDER — SMARTPHONE / CONNECTED ECOSYSTEM]
+The Home page functions primarily as a public navigation and discovery page.
 
-## YOUR PATHWAY. ONE CONNECTED JOURNEY.
+Policies, procedures, guidelines, disclosures, and other living institutional resources route through 11 / Resources and their approved public destinations.
 
-RIAH Pathway is developing its own **RIAH Pathway App + Ecosystem Software** to connect applicable education, experience, certification, opportunities, communication, resources, and operations while specialized platforms continue performing their assigned functions.
-
-[IMAGE PLACEHOLDER — CONCEPTUAL RIAH PATHWAY APP + ECOSYSTEM SOFTWARE]
-
-**Type:** Technology / Institutional
-
-**Visual:** Branded mobile and desktop concept showing a personalized home, journey progress, next actions, opportunities, messages, milestones, resources, and announcements.
-
-**Purpose:** Demonstrate the planned connected RIAH-owned ecosystem layer without representing unfinished functionality as currently available.
-
-**Alt Text:** Conceptual RIAH Pathway application showing an integrated student and professional journey.
-
-**Concept Label:**  
-Conceptual design direction. Final functionality and interface are subject to development, integration, testing, and institutional requirements.
-
-### Public Message
-
-**HUMAN-LED FRONT END. RIAH-OWNED ECOSYSTEM LAYER. TECHNOLOGY-SUPPORTED BACK END.**
-
-[BUTTON — LEARN MORE: EXPLORE THE RIAH ECOSYSTEM → 2.2 / ABOUT / ECOSYSTEM]
-
-[BUTTON — LEARN MORE: HOW RIAH PATHWAY WORKS → 5.7 / ADMISSIONS]
+**Total Homepage Downloads: 0**
 
 ---
 
-# HUMAN-LED. TECHNOLOGY-SUPPORTED.
+# 01.14 — FINAL CTA
 
-[SECTION BACKGROUND — WHITE]
-
-## REAL PEOPLE. REAL EXPERIENCE. ONE CONNECTED ECOSYSTEM.
-
-RIAH Pathway combines human-led education, supervision, management, review, support, and professional development with technology-supported operations.
-
-### Education
-
-[ICON PLACEHOLDER — GRADUATION CAP]
-
-Faculty • Academic Leadership • Educational Support
-
-### Experience
-
-[ICON PLACEHOLDER — BRIEFCASE]
-
-Experiential Faculty • Supervisors • Managers • Reviewers
-
-### Certification
-
-[ICON PLACEHOLDER — CERTIFICATE]
-
-Credential Faculty • Review Support • Professional Preparation
-
-### Community & Professional Development
-
-[ICON PLACEHOLDER — USERS]
-
-Organizations • Partners • Ambassadors • Professional Connections
-
-[BUTTON — LEARN MORE: EXPLORE THE ECOSYSTEM → 2.2 / ABOUT / ECOSYSTEM]
-
-[BUTTON — LEARN MORE: EXPLORE PATHWAYS → 3 / PATHWAY]
-
----
-
-
-## COMMUNITY CAPSTONE + PEER REVIEW POINTS AND DISCOUNTS
-
-Community members may sign up to review applicable student capstones, participate in applicable peer review, and provide structured feedback on student work. Qualifying completed reviews earn points that accumulate according to the number of capstone and peer-review activities completed.
-
-**COMMUNITY REVIEW → STRUCTURED FEEDBACK → QUALIFYING COMPLETION → POINTS EARNED → POINTS ACCUMULATED → DISCOUNT LEVEL UNLOCKED**
-
-| Community Participation | RIAH Structure |
-|---|---|
-| Capstone Review | Review applicable student capstones and provide structured feedback |
-| Peer Review | Participate in applicable peer-review activities |
-| Points | Earn points for qualifying completed capstone and peer reviews |
-| Accumulation | Points accumulate based on qualifying review participation |
-| Product Discounts | Accumulated points may unlock applicable discounts on qualifying RIAH products |
-| Certification Review | Applicable discounts may be used toward qualifying Certification Review products |
-| Bar Review | Applicable discounts may be used toward qualifying Bar Review products |
-| Educational Pathways | Applicable discounts may be used toward qualifying RIAH educational pathways, including the JD pathway and other applicable education pathways |
-
-**REVIEW MORE → ACCUMULATE MORE POINTS → UNLOCK GREATER APPLICABLE DISCOUNTS**
-
-RIAH faculty and applicable academic personnel retain academic oversight and final evaluation requirements. Community and peer feedback supplements the formal academic review process.
-
-# FINAL CTA
-
-[SECTION BACKGROUND — RED / BLACK]
+[FINAL CTA BAND]
 
 # YOUR PATH STARTS HERE.
 
-Education can be the beginning.
+RIAH Pathway connects education, experience, certification, professional development, community, products, technology, and career opportunity so students can build forward from where they are.
 
-Experience can build the application.
+## EDUCATION.
+## EXPERIENCE.
+## CERTIFICATION.
+## CAREER.
 
-Certification can strengthen the preparation.
+### ONE DYNASTY. INFINITE LEGACIES.
 
-Professional development can expand the opportunity.
+[PRIMARY CTA — APPLY NOW → EXTERNAL / CLASSE365]
 
-Your pathway can become your legacy.
+[SECONDARY CTA — LEARN MORE: EXPLORE PATHWAYS → 03 / PATHWAY]
 
-## ONE DYNASTY. INFINITE LEGACIES.
-
-[BUTTON — LEARN MORE: EXPLORE PATHWAYS → 3 / PATHWAY]
-
-[BUTTON — APPLY NOW → 5 / ADMISSIONS]
-
-[BUTTON — GET STARTED: REQUEST INFORMATION → 13 / CONTACT]
+[ADDITIONAL CTA — GET STARTED: REQUEST INFORMATION → 13 / CONTACT]
 
 ---
 
 # GLOBAL FOOTER
 
-[FOOTER — GLOBAL]
-
-## RIAH PATHWAY
-
 [LOGO PLACEHOLDER — RIAH PATHWAY]
 
-**ONE DYNASTY. INFINITE LEGACIES.**
+[SLOGAN — ONE DYNASTY. INFINITE LEGACIES.]
 
-Education. Experience. Certification. Career.
+## GLOBAL NAVIGATION
 
-## POWER
+Home • About • Pathway • Curriculum • Admissions • Tuition • Donations • Products • Accreditation & Authorization • Join Us • Resources • FAQ • Contact
 
-**People. Opportunity. Work. Equity. Results.**
+## CONTACT INFORMATION
 
-**Create Legacies.**
+**RIAH Pathway**
 
-## Navigation
+**Phone:** 877-245-RIAH (7424)
 
-1 — Home  
-2 — About  
-3 — Pathway  
-4 — Curriculum  
-5 — Admissions  
-6 — Tuition  
-7 — Donations  
-8 — Products  
-9 — Accreditation & Authorization  
-10 — Join Us  
-11 — Resources  
-12 — FAQ  
-13 — Contact
-
-## Explore
-
-About RIAH Pathway  
-Ecosystem  
-Schools  
-Pathways  
-Curriculum  
-Admissions  
-Tuition  
-Accreditation & Authorization  
-Student Life  
-Partnerships  
-Join Our Team  
-Ambassadors  
-Resources
-
-## Contact
-
-**Email:** contact@RIAHPathway.com  
 **Website:** RIAHPathway.com
 
-[INTERNAL LINK — 13 / CONTACT]
+**Email:** contact@RIAHPathway.com
 
-## Follow RIAH Pathway
+## SOCIAL LINKS
 
-**@RIAHPathway**
+**Username: @RIAHPathway**
 
-[ICON PLACEHOLDER — INSTAGRAM]  
-[ICON PLACEHOLDER — FACEBOOK]  
-[ICON PLACEHOLDER — YOUTUBE]  
-[ICON PLACEHOLDER — LINKEDIN]  
-[ICON PLACEHOLDER — X]  
-[ICON PLACEHOLDER — TIKTOK]  
-[ICON PLACEHOLDER — THREADS]
+Instagram • YouTube • X • Facebook • LinkedIn • Threads • TikTok
 
-## Institutional Links
+## INSTITUTIONAL LINKS
+
+Accreditation & Authorization → 09  
+Policies → 11.8  
+Procedures → 11.9  
+Guidelines → 11.10
+
+## LEGAL LINKS
 
 Privacy  
 Terms  
 Accessibility  
-Consumer Information  
-Policies  
-Procedures  
-Guidelines
+Applicable Disclosures
 
-## Supporting Message
-
-**Students. Professionals. Partners. Community.**
-
-**Real Experience. Real Opportunities. Real People. A Brighter Tomorrow.**
-
-© RIAH Pathway. All Rights Reserved.
+[FOOTER CTA — APPLY NOW → EXTERNAL / CLASSE365]
 
 ---
 
-# HOME PAGE INTERNAL ROUTING KEY
+# BUTTON, LINK & DOWNLOAD ROUTING CHART
 
-**1 — HOME**
+All Home page routes must follow the current 01–13 sitemap.
 
-**2 — ABOUT**
-- 2.1 — Overview
-- 2.2 — Ecosystem
-- 2.3 — Schools
-- 2.4 — Leadership
-- 2.5 — Board & Governance
-- 2.6 — Brand, Mascot & School Colors
+**01-B01 through 01-B46 — Buttons**
 
-**3 — PATHWAY**
-- 3.1 — Overview
-- 3.2 — Degree Pathway
-- 3.3 — Schools
-- 3.4 — Law Pathway
-- 3.5 — Experiential Pathway
-- 3.6 — Certification Pathway
-- 3.7 — High School Diploma Pathway
-- 3.8 — GED / HSE Pathway
+**01-L01 through applicable final internal link — Internal Links**
 
-**4 — CURRICULUM**
-- 4.1 — Overview
-- 4.2 — Academic Structure
-- 4.3 — School of Business
-- 4.4 — School of Homeland Security
-- 4.5 — School of Technology
-- 4.6 — School of Law
-- 4.7 — School of Diploma and GED
-- 4.8 — Experiential
-- 4.9 — Certification & Review
-- 4.10 — Curriculum Architecture
+**01-EXX — Approved External Links**
 
-**5 — ADMISSIONS**
-- 5.1 — Overview
-- 5.7 — How RIAH Pathway Works
-- 5.2 — Pre-Admissions
-- 5.3 — Application
-- 5.4 — Acceptance & Enrollment
-- 5.5 — Onboarding & Student Experience
-- 5.6 — Graduation & Alumni
+**01-D01 — No Homepage Download Required**
 
-**6 — TUITION**
-- 6.1 — Overview
-- 6.2 — Tuition
-- 6.3 — Fees
-- 6.4 — Payment Options
-- 6.5 — Funding
-- 6.6 — Reimbursement
-- 6.7 — Costs
-- 6.8 — Pricing Calculator Engine
-
-**7 — DONATIONS**
-- 7.1 — Overview
-- 7.2 — Foundation
-- 7.3 — Accreditation
-- 7.4 — State Authorization
-
-**8 — PRODUCTS**
-- 8.1 — Overview
-- 8.2 — Products
-- 8.3 — Pricing
-
-**9 — ACCREDITATION & AUTHORIZATION**
-- 9.1 — Overview
-- 9.2 — Experiential Pathways
-- 9.3 — Academic Pathways
-- 9.4 — High School + GED/HSE + State Authorization
-
-**10 — JOIN US**
-- 10.1 — Overview
-- 10.2 — Student Life
-- 10.3 — Partnerships
-- 10.4 — Join Our Team
-- 10.5 — Ambassadors
-
-**11 — RESOURCES**
-- 11.1 — Overview
-- 11.2 — Events
-- 11.3 — Blog
-- 11.4 — Podcasts
-- 11.5 — Conferences
-- 11.6 — Workshops
-- 11.7 — Webinars
-- 11.8 — Policies
-- 11.9 — Procedures
-- 11.10 — Guidelines
-
-**12 — FAQ**
-- 12.1 — Overview
-- 12.2 — Pathways & Programs
-- 12.3 — Curriculum
-- 12.4 — Admissions
-- 12.5 — Tuition, Fees & Payments
-- 12.6 — Accreditation & Authorization
-- 12.7 — Student Experience
-- 12.8 — Products
-- 12.9 — Technical Support
-
-**13 — CONTACT**
-- 13.1 — Overview
-- 13.2 — Admissions
-- 13.3 — Human Resources
-- 13.4 — Technical Support
-- 13.5 — Student Support
-- 13.6 — Products & Orders
-- 13.7 — Partnerships & Organizations
-- 13.8 — General Inquiries
-
-------------------------------------------------------------------------
-
-<!-- RIAH IMPACT TRANSPARENCY DISTRIBUTION 2026-10-01 -->
-
-# 👑 RIAH IMPACT & TRANSPARENCY PREVIEW
-
-| Impact Area | Home Page Preview |
-|---|---|
-| 🎓 **Education & Experiential** | Guaranteed one-month major rotation, applied work, milestones, badges, and experiential pathways |
-| 🏅 **Verified Achievement** | Merit Pages for education-pathway completion and applicable badges; Credly for experiential-pathway completion and experiential credentials |
-| 💰 **Donation Transparency** | Accreditation donations, designated funds, scholarships, aggregate disbursements, and applicable public financial reporting |
-| ⚖️ **School of Law Public Service** | Eligible record-sealing and expungement assistance with anonymized public-service impact reporting |
-| 🔒 **Privacy** | Student finances and protected student and client information remain private |
-
-**🎓 EDUCATION → 💼 REAL EXPERIENCE → 🏅 VERIFIED ACHIEVEMENT → 💰 COMMUNITY FUNDING → 🎓 SCHOLARSHIP OPPORTUNITY → ⚖️ LEGAL PUBLIC SERVICE → 🌎 COMMUNITY IMPACT**
-
-**EXPLORE THE RIAH MODEL →** 02 — About  
-**EXPLORE PATHWAYS →** 03 — Pathway  
-**VIEW DONATION TRANSPARENCY →** 07 — Donations
+All former RIAH Dynasty public identity destinations are superseded by the current **RIAH Pathway** public identity.
 
 ---
 
-# CONNECTED REAL-WORK AND LEGAL PUBLIC-SERVICE ECOSYSTEM
+# MEDIA & ICON ASSET AUDIT
 
-RIAH Pathway connects applicable students to supervised real work generated inside the RIAH ecosystem and through external professional and community matters. The School of Law model includes public legal-case intake, attorney-network routing across the 50 states plus D.C., and legally permitted supervised experiential opportunities for applicable JD, Non-JD, Criminal Justice, and related students. Internal RIAH operations also generate real work across legal, accounting, technology, cybersecurity, Foundation, donations, blockchain transparency, audit, compliance, and reporting functions.
+01-M01 — Homepage Hero Video — TO FINALIZE  
+01-M02 — Homepage Video Poster — TO CREATE  
+01-M03 — Career Trifecta Diagram — TO CREATE  
+01-M04 — Connected Ecosystem Diagram — TO CREATE  
+01-M05 — Crown Institutional Symbol — TO ATTACH  
+01-M06 — Education Icon — TO ATTACH  
+01-M07 — Experience Icon — TO ATTACH  
+01-M08 — Certification Icon — TO ATTACH  
+01-M09 — Curriculum Icon — TO ATTACH  
+01-M10 — Admissions Icon — TO ATTACH  
+01-M11 — Tuition / Calculator Icon — TO ATTACH  
+01-M12 — Donations Icon — TO ATTACH  
+01-M13 — RIAH Pathway Product Collection — TO CREATE  
+01-M14 — Accreditation Icon — TO ATTACH  
+01-M15 — Join Us Icon — TO ATTACH  
+01-M16 — Resources Icon — TO ATTACH  
+01-M17 — FAQ Icon — TO ATTACH  
+01-M18 — Contact Icon — TO ATTACH
 
-**PUBLIC OR INTERNAL REAL MATTER → PROFESSIONAL SUPERVISION → PERMITTED STUDENT WORK → REAL DELIVERABLE → REVIEW → EXPERIENCE**
+---
+
+# CTA AUDIT
+
+Apply Now — Header — Classe365 — TO ATTACH  
+Request Information — Header — 13 / Contact — COMPLETE  
+Log In — Header — Approved Portal — TO FINALIZE  
+Apply Now — Hero — Classe365 — TO ATTACH  
+Explore Pathways — Hero — 03 / Pathway — COMPLETE  
+Request Information — Hero — 13 / Contact — COMPLETE  
+About RIAH Pathway — About — 02 / About — COMPLETE  
+Explore All Pathways — Pathways — 03 / Pathway — COMPLETE  
+Explore Curriculum — Curriculum — 04 / Curriculum — COMPLETE  
+View Admissions — Admissions — 05 / Admissions — COMPLETE  
+Pricing Calculator — Tuition — 06.8 / Tuition — TO IMPLEMENT  
+Explore Tuition — Tuition — 06 / Tuition — COMPLETE  
+Explore Donations — Donations — 07 / Donations — COMPLETE  
+Shop Now — Products — Shopify — TO ATTACH  
+Explore Products — Products — 08 / Products — COMPLETE  
+Accreditation & Authorization — 09 — COMPLETE  
+Explore Join Us — 10 — COMPLETE  
+Explore Resources — 11 — COMPLETE  
+View All FAQs — 12 — COMPLETE  
+Contact RIAH Pathway — 13 — COMPLETE  
+Apply Now — Final CTA — Classe365 — TO ATTACH  
+Explore Pathways — Final CTA — 03 — COMPLETE  
+Request Information — Final CTA — 13 — COMPLETE
+
+### APPROVED CTA FAMILIES
+
+Apply Now  
+Learn More  
+Get Started  
+Log In  
+Shop Now
+
+---
+
+# DOWNLOAD AUDIT
+
+**Homepage Downloads: 0**
+
+No unnecessary downloadable homepage resources.
+
+---
+
+# LINK & ROUTING AUDIT
+
+01-R01 — Home → 01  
+01-R02 — About → 02  
+01-R03 — Pathway → 03  
+01-R04 — Curriculum → 04  
+01-R05 — Admissions → 05  
+01-R06 — Tuition → 06  
+01-R07 — Donations → 07  
+01-R08 — Products → 08  
+01-R09 — Accreditation & Authorization → 09  
+01-R10 — Join Us → 10  
+01-R11 — Resources → 11  
+01-R12 — FAQ → 12  
+01-R13 — Contact → 13  
+01-R14 — Apply Now → Classe365  
+01-R15 — Shop Now → Shopify  
+01-R16 — Log In → Approved Portal  
+01-R17 — Policies → 11.8  
+01-R18 — Procedures → 11.9  
+01-R19 — Guidelines → 11.10  
+01-R20 — Social Media → @RIAHPathway  
+01-R21 — Privacy → Approved Public Resource  
+01-R22 — Terms → Approved Public Resource  
+01-R23 — Accessibility → Approved Public Resource  
+01-R24 — Disclosures → Approved Public Resource
+
+---
+
+# CONTENT & ASSET STATUS AUDIT
+
+RIAH Pathway Logo — TO ATTACH  
+Homepage Hero Video — TO FINALIZE  
+Homepage Video Poster — TO CREATE  
+Career Trifecta Diagram — TO CREATE  
+Ecosystem Diagram — TO CREATE  
+Institutional Icons — TO ATTACH  
+Product Collection Image — TO CREATE  
+Classe365 Application Endpoint — TO ATTACH  
+Shopify Storefront Endpoint — TO ATTACH  
+Pricing Calculator Engine — TO FINALIZE  
+Public Portal Login — TO FINALIZE  
+@RIAHPathway Social Profiles — TO ATTACH  
+Privacy — LIVING WEB RESOURCE  
+Terms — LIVING WEB RESOURCE  
+Accessibility — LIVING WEB RESOURCE  
+Applicable Disclosures — LIVING WEB RESOURCE  
+Policies — LIVING WEB RESOURCE  
+Procedures — LIVING WEB RESOURCE  
+Guidelines — LIVING WEB RESOURCE  
+Authenticated Student Systems — AUTHENTICATED / NOT PUBLIC
+
+---
+
+# BRAND STRUCTURE
+
+[INSTITUTIONAL LOGO — RIAH PATHWAY]
+
+[INSTITUTIONAL SYMBOL — CROWN]
+
+[INSTITUTIONAL MASCOT — GOAT]
+
+[INSTITUTIONAL COLORS — BLACK • RED • GOLD • WHITE • SILVER]
+
+[SLOGAN — ONE DYNASTY. INFINITE LEGACIES.]
+
+## CURRENT PUBLIC IDENTITY
+
+**Institutional/Public Name:** RIAH Pathway
+
+**Website:** RIAHPathway.com
+
+**Email:** contact@RIAHPathway.com
+
+**Phone:** 877-245-RIAH (7424)
+
+**Social Username:** @RIAHPathway
+
+**Superseding Rule:** Do not use RIAH Dynasty as the public-facing institution name, website identity, email identity, or social username within this wireframe.
+
+---
+
+# CONTENT GOVERNANCE STRUCTURE
+
+1. The approved 01–13 navigation and sitemap controls all Home page numbering and routing.
+2. RIAH Pathway is the controlling public-facing institutional name.
+3. RIAH Dynasty public-facing identity references are superseded and excluded.
+4. Current substantive content may be carried forward only where it has not been replaced.
+5. Superseded program structures, obsolete numbering, removed sections, old pricing, outdated pathway structures, replaced systems, obsolete contact information, and deprecated routes must not be restored.
+6. Home introduces Pages 02–13 without replacing detailed content owned by those pages.
+7. Detailed policies remain under 11 / Resources.
+8. Detailed curriculum remains under 04 / Curriculum.
+9. Detailed admissions remains under 05 / Admissions.
+10. Detailed pricing remains under 06 / Tuition.
+11. Detailed donations remain under 07 / Donations.
+12. Detailed products remain under 08 / Products.
+13. Accreditation and authorization remain controlled under 09.
+14. Student life, partnerships, team, and ambassadors remain controlled under 10.
+15. FAQ remains controlled under 12.
+16. Contact routing remains controlled under 13.
+17. Every CTA must use an approved CTA family.
+18. Every interactive element must have an identified destination.
+19. Downloads remain minimal.
+20. Current approved technology destinations must be used where applicable.
+21. Current contact identity is **RIAHPathway.com • contact@RIAHPathway.com • 877-245-RIAH (7424) • @RIAHPathway**.
+
+---
+
+# MASTER HOME WIREFRAME ORDER
+
+**GLOBAL HEADER**
+
+↓
+
+**01.0 — HOME HERO + PRIMARY VIDEO**
+
+↓
+
+**01.1 — HOME OVERVIEW**
+
+↓
+
+**01.2 — ABOUT**
+
+↓
+
+**01.3 — PATHWAYS**
+
+↓
+
+**01.4 — CURRICULUM**
+
+↓
+
+**01.5 — ADMISSIONS**
+
+↓
+
+**01.6 — TUITION**
+
+↓
+
+**01.7 — DONATIONS**
+
+↓
+
+**01.8 — PRODUCTS**
+
+↓
+
+**01.9 — ACCREDITATION & AUTHORIZATION**
+
+↓
+
+**01.10 — JOIN US**
+
+↓
+
+**01.11 — RESOURCES**
+
+↓
+
+**01.12 — FAQ**
+
+↓
+
+**01.13 — CONTACT**
+
+↓
+
+**01.14 — FINAL CTA**
+
+↓
+
+**GLOBAL FOOTER**
+
+↓
+
+**BUTTON, LINK & DOWNLOAD ROUTING CHART**
+
+↓
+
+**MEDIA & ICON ASSET AUDIT**
+
+↓
+
+**CTA AUDIT**
+
+↓
+
+**DOWNLOAD AUDIT**
+
+↓
+
+**LINK & ROUTING AUDIT**
+
+↓
+
+**CONTENT & ASSET STATUS AUDIT**
+
+---
+
+# REQUIRED IMPLEMENTATION OUTPUT
+
+**PUBLIC WEBSITE CONTENT WIREFRAME**
+
+**+**
+
+**DEVELOPER IMPLEMENTATION BLUEPRINT**
+
+**+**
+
+**BUTTON / LINK / DOWNLOAD ROUTING MAP**
+
+**+**
+
+**MEDIA / ICON / ASSET MAP**
+
+**+**
+
+**CTA AUDIT**
+
+**+**
+
+**DOWNLOAD AUDIT**
+
+**+**
+
+**CONTENT / ASSET IMPLEMENTATION CHECKLIST**
