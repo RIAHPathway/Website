@@ -775,16 +775,16 @@ rather than creating a value.
 
 The current Pricing Engine source and the newer Student Cost Guide contain several conflicting numerical records. The values shown under Student Cost Guide Value are the active pricing sheet values for this Master Pricing Data Sheet and should be synchronized with the underlying Pricing Engine before production use.
 
-| Configuration | Student Cost Guide Value | Older Pricing Engine Value |
-|:---|---:|---:|
-| Integrated Education and Experiential Adjustment | 5% | 25% |
-| Maximum Ordinary Tuition Reduction | 25% | 50% |
-| Upfront Payment Reduction | 15% | 25% |
-| Education Deposit RIAH Fee | \$500 | Older fixed deposit structure |
-| Education Deposit Resource Allocation | Pathway Based | Older fixed allocation structure |
-| RIAH Private Student Loan Minimum Credit Score | 650 | 600 |
-| RIAH Private Student Loan Due Date | 3 Months After Graduation | Older 12 Month wording |
-| Third Standalone Certification Review | 100% | 25% |
+| Configuration | Student Cost Guide Value |
+|---|---:|
+| Integrated Education and Experiential Adjustment | 5% |
+| Maximum Ordinary Tuition Reduction | 25% |
+| Upfront Payment Reduction | 15% |
+| Education Deposit RIAH Fee | $500 |
+| Education Deposit Resource Allocation | Pathway Based |
+| RIAH Private Student Loan Minimum Credit Score | 650 |
+| RIAH Private Student Loan Due Date | 3 Months After Graduation |
+| Third Standalone Certification Review | 100% |
 
 For this Master Pricing Data Sheet, the values contained in the newer
 detailed Student Cost Guide are listed as the active pricing sheet
