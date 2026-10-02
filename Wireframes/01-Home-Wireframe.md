@@ -600,10 +600,10 @@ General Inquiries → 13.8
 | Public Website | RIAH Pathway Website | Public discovery and navigation | Pages 01–13 |
 | Application | Classe365 | Public application entry | External endpoint |
 | Admissions | Classe365 | Applicable admissions and academic entry functions | Approved endpoint |
-| Orientation | Zoom | Applicable virtual orientation | Authenticated/invitation |
+| Orientation | Microsoft Teams | Applicable virtual orientation | Authenticated/invitation |
 | Onboarding | SuiteDash | Applicable onboarding workflow | Authenticated |
 | Learning | LearnWorlds | Applicable LMS access | Authenticated |
-| Community | Slack + Geneva | Applicable cohort and community interaction | Authenticated/invitation |
+| Community | SuiteDash | Applicable cohort and community interaction | Authenticated/invitation |
 | Storefront | Shopify | Public product storefront | External public endpoint |
 | Resources | Approved Public Resource Destination | Policies, procedures, guidelines, disclosures | 11 / Resources |
 | Inquiry | Approved RIAH Pathway Inquiry Form | Public information and contact requests | 13 / Contact |
