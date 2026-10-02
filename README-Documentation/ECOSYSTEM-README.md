@@ -117,7 +117,6 @@ majors:
   step_02: "Intelligence"
   step_03: "Physical Security"
   step_04: "Private Investigator"
-  step_05: "Remote Security Guards — Armed or Unarmed"
 ```
 
 Cybersecurity is not listed as a Homeland Security major within this structure. Cybersecurity is located within the School of Technology.
