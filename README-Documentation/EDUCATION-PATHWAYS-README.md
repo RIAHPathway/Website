@@ -81,7 +81,6 @@ majors:
   step_02: "Intelligence"
   step_03: "Physical Security"
   step_04: "Private Investigator"
-  step_05: "Remote Security Guards — Armed or Unarmed"
 ```
 
 Cybersecurity is not listed as a Homeland Security major within this structure. Cybersecurity is located within the School of Technology.
@@ -142,5 +141,3 @@ Established progression:
 | 4 | Senior Associate — 1 Year |
 | 5 | Manager — 1 Year |
 | 6 | Executive — 1 Year |
-
-Experiential participants may receive applicable professional supervision, management, review, practical assignments, project work, career development, applied learning, professional feedback, Capstone support, and employer or professional exposure.
