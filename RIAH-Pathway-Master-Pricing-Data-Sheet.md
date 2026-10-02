@@ -159,7 +159,7 @@ the 25% ordinary tuition-reduction maximum.
 The tuition portion remains subject to the 25% maximum ordinary tuition
 reduction.
 
-# 13. Substitute Teacher Ambassador Pricing
+# 13. Substitute Teacher Ambassador Discounts
 
 | Benefit           | Minimum | Maximum | Increment |
 |:------------------|--------:|--------:|----------:|
@@ -169,7 +169,7 @@ reduction.
 The tuition portion remains subject to the 25% maximum ordinary tuition
 reduction.
 
-# 14. Rideshare and Delivery Ambassador Pricing
+# 14. Rideshare and Delivery Ambassador Discounts
 
 | Benefit           | Minimum | Maximum | Increment |
 |:------------------|--------:|--------:|----------:|
