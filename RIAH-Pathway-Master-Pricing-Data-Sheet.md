@@ -36,7 +36,7 @@ Pricing Stages determine what percentage of the beta, pre-accredited, or post-ac
 |:---|---:|---:|
 | Beta | 25% | 0.25 |
 | Pre Accreditation | 50% | 0.50 |
-| Standard or Post Accreditation | 100% | 1.00 |
+| Post-Accreditation | 100% | 1.00 |
 
 Pricing Stage is separate from ordinary tuition reductions.
 
