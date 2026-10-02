@@ -30,14 +30,13 @@ Academic Standard Tuition establishes the 100% standard tuition amount for each 
 
 # 2. Pricing Stages
 
-Pricing Stages determine what percentage of the standard tuition applies based on the student’s applicable institutional pricing stage. Pricing Stage is separate from ordinary tuition reductions, and Grandfathered or Forever Tuition preserves the applicable approved pricing record.
+Pricing Stages determine what percentage of the beta, pre-accredited, or post-accreditation tuition applies based on the student’s applicable institutional pricing stage. Pricing Stage is separate from ordinary tuition reductions.
 
 | Pricing Stage | Percentage of Standard Price | Multiplier |
 |:---|---:|---:|
 | Beta | 25% | 0.25 |
 | Pre Accreditation | 50% | 0.50 |
 | Standard or Post Accreditation | 100% | 1.00 |
-| Grandfathered or Forever Tuition | Preserved Price | Applicable Preserved Record |
 
 Pricing Stage is separate from ordinary tuition reductions.
 
