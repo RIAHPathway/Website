@@ -1,4 +1,4 @@
-<img width="2172" height="724" alt="RIAH Pathway" src="https://github.com/user-attachments/assets/ee3f5e68-7b3f-4ed8-95ee-bdafd0d242e2" />
+<img width="2172" height="724" alt="RIAH Pathway Legacy Banner" src="https://github.com/user-attachments/assets/079d0974-76dc-4f10-9af1-a6c529ba009d" />
 
 # 👑 RIAH Pathway
 
