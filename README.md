@@ -1,4 +1,4 @@
-<img width="2172" height="724" alt="RIAH Pathway_ Legacy in Motion-ai-metadata-removed" src="https://github.com/user-attachments/assets/017fb760-8bac-444b-a006-cb8a0e914ca2" />
+<img width="2172" height="724" alt="RIAH Pathway" src="https://github.com/user-attachments/assets/ee3f5e68-7b3f-4ed8-95ee-bdafd0d242e2" />
 
 # 👑 RIAH Pathway
 
