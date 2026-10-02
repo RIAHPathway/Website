@@ -1,5 +1,13 @@
 # 👑 RIAH PATHWAY 
 
+![Facebook](https://img.shields.io/badge/Facebook-RIAH%20Pathway-1877F2?logo=facebook&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-RIAH%20Pathway-0A66C2?logo=linkedin&logoColor=white)
+![Threads](https://img.shields.io/badge/Threads-RIAH%20Pathway-000000?logo=threads&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-RIAH%20Pathway-E4405F?logo=instagram&logoColor=white)
+![X](https://img.shields.io/badge/X-RIAH%20Pathway-000000?logo=x&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-RIAH%20Pathway-FF0000?logo=youtube&logoColor=white)
+![Pinterest](https://img.shields.io/badge/Pinterest-RIAH%20Pathway-BD081C?logo=pinterest&logoColor=white)
+
 This repository supports the public development of the RIAH Pathway website, systems, resources, and infrastructure.
 
 ## Documentation
@@ -29,13 +37,3 @@ This repository supports the public development of the RIAH Pathway website, sys
 | Accreditation | accreditation@RIAHPathway.com |
 | Phone | (877) 245-RIAH |
 | Mailing Address | RIAH Pathway, 4807 Rockside Rd, Suite 400, Independence, OH 44131 |
-
-## Social Media
-
-![Facebook](https://img.shields.io/badge/Facebook-RIAH%20Pathway-1877F2?logo=facebook&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-RIAH%20Pathway-0A66C2?logo=linkedin&logoColor=white)
-![Threads](https://img.shields.io/badge/Threads-RIAH%20Pathway-000000?logo=threads&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-RIAH%20Pathway-E4405F?logo=instagram&logoColor=white)
-![X](https://img.shields.io/badge/X-RIAH%20Pathway-000000?logo=x&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-RIAH%20Pathway-FF0000?logo=youtube&logoColor=white)
-![Pinterest](https://img.shields.io/badge/Pinterest-RIAH%20Pathway-BD081C?logo=pinterest&logoColor=white)
