@@ -12,6 +12,82 @@ Public GitHub development does not make private curriculum, internal systems, co
 
 ---
 
+# 👑 About This Repository
+
+This repository serves as the **public development and contribution layer for the RIAH Pathway website and approved portions of the broader RIAH ecosystem**.
+
+```mermaid
+flowchart TD
+    A[👑 RIAH Pathway Repository]
+
+    A --> B[🌐 Website]
+    A --> C[🎨 Wireframes]
+    A --> D[💻 Development]
+    A --> E[🖼️ Images and Media]
+    A --> F[📄 Documents]
+    A --> G[🎓 Curriculum]
+    A --> H[💰 Pricing Engine]
+    A --> I[♿ Accessibility]
+    A --> J[🧪 Testing]
+    A --> K[📱 Mobile]
+    A --> L[🔐 Technology]
+```
+
+## 👑 Public Development
+
+| 👑 | Public Development | Description |
+|---|---|---|
+| 👑 | **Website Development** | Development, maintenance, refinement, and implementation of the public RIAH Pathway website and approved website functionality. |
+| 👑 | **Website Pages 01–13** | Development and maintenance of the 13 primary website sections from Home through Contact using approved wireframes, content, resources, and specifications. |
+| 👑 | **Wireframes and Visual Design** | Page layouts, content placement, visual hierarchy, user experience planning, responsive design specifications, and approved interface concepts. |
+| 👑 | **Desktop Development** | Website development, optimization, testing, and presentation for desktop and larger screen environments. |
+| 👑 | **Tablet Development** | Responsive development, optimization, navigation, layout, and testing for tablet devices and screen sizes. |
+| 👑 | **Mobile Development** | Responsive development, optimization, navigation, layout, and testing for smartphones and smaller screen environments. |
+| 👑 | **Images and Media** | Approved photographs, graphics, illustrations, diagrams, branded assets, visual resources, and other website media. |
+| 👑 | **Video and Video Scripts** | Approved video content, scripts, storyboards, captions, promotional media, educational media, and supporting production materials. |
+| 👑 | **Documents and Downloads** | Public PDFs, guides, brochures, forms, resources, reports, program materials, and other approved downloadable content. |
+| 👑 | **Forms** | Applications, inquiries, registrations, submissions, contact forms, information requests, and other approved interactive forms. |
+| 👑 | **Policies** | Public policies governing applicable academic, student, operational, product, website, and organizational activities. |
+| 👑 | **Procedures** | Documented processes explaining how approved activities, services, programs, and website functions are performed. |
+| 👑 | **Guidelines** | Standards and instructions supporting consistent participation, development, documentation, design, and use of RIAH Pathway resources. |
+| 👑 | **Curriculum Documentation** | Approved public curriculum structures, programs, courses, pathways, learning sequences, certification mappings, and related academic information. |
+| 👑 | **Accreditation Documentation** | Public information and approved documentation concerning accreditation development, institutional accreditation, programmatic accreditation, designations, and recognition pathways. |
+| 👑 | **Authorization Documentation** | Public documentation concerning applicable state authorization, registration, exemption, licensure, approval, and regulatory requirements. |
+| 👑 | **Admissions Resources** | Admissions pathways, application information, requirements, enrollment stages, orientation information, onboarding resources, and student entry materials. |
+| 👑 | **Tuition and Pricing Tools** | Public tuition information, program pricing, payment structures, discounts, cost information, and approved pricing resources. |
+| 👑 | **Pricing Engine Development** | Development, testing, maintenance, and validation of the RIAH Pathway Pricing Engine and its approved pricing rules and calculations. |
+| 👑 | **Calculators** | Interactive tools for approved tuition, program cost, payment, pathway, discount, transfer, and other applicable calculations. |
+| 👑 | **Products and Product Resources** | Public product information, product categories, previews, descriptions, supporting resources, documentation, and approved product materials. |
+| 👑 | **Experiential Resources** | Resources supporting Apprentice, Intern, Associate, Senior Associate, Manager, and Executive Experiential pathways and supervised professional learning. |
+| 👑 | **Buttons and Calls to Action** | Website buttons, navigation actions, application prompts, enrollment actions, downloads, inquiries, donations, and other approved user actions. |
+| 👑 | **Internal and External Links** | Management and validation of approved links connecting website pages, documents, resources, platforms, applications, partners, and external destinations. |
+| 👑 | **Accessibility** | Development and testing intended to improve usability, readability, navigation, compatibility, and accessibility across supported website experiences. |
+| 👑 | **Components** | Reusable website elements including headers, footers, cards, navigation, forms, sections, buttons, banners, tables, and other interface components. |
+| 👑 | **Technology Documentation** | Approved documentation covering website architecture, software, applications, APIs, databases, infrastructure, automation, and related technology systems. |
+| 👑 | **Integrations** | Approved connections between the website and external or internal applications, platforms, APIs, databases, forms, automation, and supporting systems. |
+| 👑 | **Quality Assurance** | Structured review of content, design, functionality, responsiveness, accessibility, links, calculations, integrations, and approved requirements before release. |
+| 👑 | **Testing and Bug Fixes** | Identification, documentation, testing, correction, and verification of website, component, calculation, integration, accessibility, and functionality issues. |
+| 👑 | **Approved Proposals and Contributor Work** | Approved ideas, improvements, documentation, development, design, testing, resources, and other contributions accepted for public RIAH Pathway development. |
+
+---
+
+# 👑 Documentation
+
+| Documentation | Link |
+|---|---|
+| Contributor README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/CONTRIBUTOR-README.md) |
+| Hiring and Equity README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/HIRING-AND-EQUITY-README.md) |
+| Ecosystem README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/ECOSYSTEM-README.md) |
+| Education and Pathways README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/EDUCATION-PATHWAYS-README.md) |
+| Organization and Team README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/ORGANIZATION-AND-TEAM-README.md) |
+| GitHub Public Development README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/GITHUB-PUBLIC-DEVELOPMENT-README.md) |
+| Ownership, Licensing, and Security README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/OWNERSHIP-LICENSING-SECURITY-README.md) |
+| Applications and Participation README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/APPLICATIONS-AND-PARTICIPATION-README.md) |
+| Website 01–13 README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/WEBSITE-01-13-README.md) |
+| Foundation and Donations README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/FOUNDATION-DONATIONS-README.md) |
+
+---
+
 # 👑 Education and Professional Pathways
 
 RIAH Pathway connects academic education, professional development, supervised real world experience, certification preparation, career development, technology, and community within one ecosystem.
@@ -144,79 +220,3 @@ flowchart LR
 ```
 
 > **Accreditation Disclosure:** RIAH Pathway is currently pre accredited. Accreditation, approval, designation, endorsement, recognition, and state authorization are being pursued and should not be interpreted as already granted unless formally granted by the applicable organization or regulatory authority.
-
----
-
-# 👑 About This Repository
-
-This repository serves as the **public development and contribution layer for the RIAH Pathway website and approved portions of the broader RIAH ecosystem**.
-
-```mermaid
-flowchart TD
-    A[👑 RIAH Pathway Repository]
-
-    A --> B[🌐 Website]
-    A --> C[🎨 Wireframes]
-    A --> D[💻 Development]
-    A --> E[🖼️ Images and Media]
-    A --> F[📄 Documents]
-    A --> G[🎓 Curriculum]
-    A --> H[💰 Pricing Engine]
-    A --> I[♿ Accessibility]
-    A --> J[🧪 Testing]
-    A --> K[📱 Mobile]
-    A --> L[🔐 Technology]
-```
-
-## 👑 Public Development
-
-| 👑 | Public Development | Description |
-|---|---|---|
-| 👑 | **Website Development** | Development, maintenance, refinement, and implementation of the public RIAH Pathway website and approved website functionality. |
-| 👑 | **Website Pages 01–13** | Development and maintenance of the 13 primary website sections from Home through Contact using approved wireframes, content, resources, and specifications. |
-| 👑 | **Wireframes and Visual Design** | Page layouts, content placement, visual hierarchy, user experience planning, responsive design specifications, and approved interface concepts. |
-| 👑 | **Desktop Development** | Website development, optimization, testing, and presentation for desktop and larger screen environments. |
-| 👑 | **Tablet Development** | Responsive development, optimization, navigation, layout, and testing for tablet devices and screen sizes. |
-| 👑 | **Mobile Development** | Responsive development, optimization, navigation, layout, and testing for smartphones and smaller screen environments. |
-| 👑 | **Images and Media** | Approved photographs, graphics, illustrations, diagrams, branded assets, visual resources, and other website media. |
-| 👑 | **Video and Video Scripts** | Approved video content, scripts, storyboards, captions, promotional media, educational media, and supporting production materials. |
-| 👑 | **Documents and Downloads** | Public PDFs, guides, brochures, forms, resources, reports, program materials, and other approved downloadable content. |
-| 👑 | **Forms** | Applications, inquiries, registrations, submissions, contact forms, information requests, and other approved interactive forms. |
-| 👑 | **Policies** | Public policies governing applicable academic, student, operational, product, website, and organizational activities. |
-| 👑 | **Procedures** | Documented processes explaining how approved activities, services, programs, and website functions are performed. |
-| 👑 | **Guidelines** | Standards and instructions supporting consistent participation, development, documentation, design, and use of RIAH Pathway resources. |
-| 👑 | **Curriculum Documentation** | Approved public curriculum structures, programs, courses, pathways, learning sequences, certification mappings, and related academic information. |
-| 👑 | **Accreditation Documentation** | Public information and approved documentation concerning accreditation development, institutional accreditation, programmatic accreditation, designations, and recognition pathways. |
-| 👑 | **Authorization Documentation** | Public documentation concerning applicable state authorization, registration, exemption, licensure, approval, and regulatory requirements. |
-| 👑 | **Admissions Resources** | Admissions pathways, application information, requirements, enrollment stages, orientation information, onboarding resources, and student entry materials. |
-| 👑 | **Tuition and Pricing Tools** | Public tuition information, program pricing, payment structures, discounts, cost information, and approved pricing resources. |
-| 👑 | **Pricing Engine Development** | Development, testing, maintenance, and validation of the RIAH Pathway Pricing Engine and its approved pricing rules and calculations. |
-| 👑 | **Calculators** | Interactive tools for approved tuition, program cost, payment, pathway, discount, transfer, and other applicable calculations. |
-| 👑 | **Products and Product Resources** | Public product information, product categories, previews, descriptions, supporting resources, documentation, and approved product materials. |
-| 👑 | **Experiential Resources** | Resources supporting Apprentice, Intern, Associate, Senior Associate, Manager, and Executive Experiential pathways and supervised professional learning. |
-| 👑 | **Buttons and Calls to Action** | Website buttons, navigation actions, application prompts, enrollment actions, downloads, inquiries, donations, and other approved user actions. |
-| 👑 | **Internal and External Links** | Management and validation of approved links connecting website pages, documents, resources, platforms, applications, partners, and external destinations. |
-| 👑 | **Accessibility** | Development and testing intended to improve usability, readability, navigation, compatibility, and accessibility across supported website experiences. |
-| 👑 | **Components** | Reusable website elements including headers, footers, cards, navigation, forms, sections, buttons, banners, tables, and other interface components. |
-| 👑 | **Technology Documentation** | Approved documentation covering website architecture, software, applications, APIs, databases, infrastructure, automation, and related technology systems. |
-| 👑 | **Integrations** | Approved connections between the website and external or internal applications, platforms, APIs, databases, forms, automation, and supporting systems. |
-| 👑 | **Quality Assurance** | Structured review of content, design, functionality, responsiveness, accessibility, links, calculations, integrations, and approved requirements before release. |
-| 👑 | **Testing and Bug Fixes** | Identification, documentation, testing, correction, and verification of website, component, calculation, integration, accessibility, and functionality issues. |
-| 👑 | **Approved Proposals and Contributor Work** | Approved ideas, improvements, documentation, development, design, testing, resources, and other contributions accepted for public RIAH Pathway development. |
-
----
-
-# 👑 Documentation
-
-| Documentation | Link |
-|---|---|
-| Contributor README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/CONTRIBUTOR-README.md) |
-| Hiring and Equity README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/HIRING-AND-EQUITY-README.md) |
-| Ecosystem README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/ECOSYSTEM-README.md) |
-| Education and Pathways README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/EDUCATION-PATHWAYS-README.md) |
-| Organization and Team README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/ORGANIZATION-AND-TEAM-README.md) |
-| GitHub Public Development README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/GITHUB-PUBLIC-DEVELOPMENT-README.md) |
-| Ownership, Licensing, and Security README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/OWNERSHIP-LICENSING-SECURITY-README.md) |
-| Applications and Participation README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/APPLICATIONS-AND-PARTICIPATION-README.md) |
-| Website 01–13 README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/WEBSITE-01-13-README.md) |
-| Foundation and Donations README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/FOUNDATION-DONATIONS-README.md) |
