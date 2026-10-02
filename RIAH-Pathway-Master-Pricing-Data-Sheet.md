@@ -79,7 +79,7 @@ tuition-reduction maximum.
 
 | Experiential Selection   | Standard Amount |
 |:-------------------------|----------------:|
-| Three-Month Experiential |         \$2,500 |
+| Apprentice |         \$2,500 |
 | Intern                   |         \$5,000 |
 | Associate                |        \$10,000 |
 | Senior Associate         |        \$10,000 |
