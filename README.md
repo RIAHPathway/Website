@@ -1,14 +1,83 @@
 <img width="2172" height="724" alt="RIAH Pathway_ Legacy in Motion-ai-metadata-removed" src="https://github.com/user-attachments/assets/017fb760-8bac-444b-a006-cb8a0e914ca2" />
 
-**RIAH Pathway** is a connected ecosystem integrating education, Experiential, certifications, career development, products, people, software, mobile applications, technology, professional services, community, and public benefit initiatives.
+# 👑 RIAH Pathway
 
-RIAH Pathway is designed to move people through **one connected pathway** rather than a collection of disconnected programs, services, and resources.
+**One Dynasty, Infinite Legacies.**
 
-The repository is structured so contributors can work on individual deliverables without needing to build an entire website page or ecosystem component.
+**Education • Experience • Certifications • Career • Legacy**
 
-RIAH Pathway remains a **private company ecosystem with applicable proprietary intellectual property**.
+RIAH Pathway is a connected ecosystem integrating education, experiential, certifications, career development, products, people, software, mobile applications, technology, professional services, community, and public benefit initiatives.
 
-Public GitHub development does not make private curriculum, internal systems, confidential information, business methods, security sensitive infrastructure, proprietary materials, or other restricted information unrestricted public property.
+---
+
+# 🔴 Build With RIAH Pathway
+
+[![Contributor Tuition Benefit](https://img.shields.io/badge/CONTRIBUTORS-UP%20TO%2025%25%20OFF%20TUITION-red?style=for-the-badge)](#contributor-benefits)
+[![Contributor Product Benefit](https://img.shields.io/badge/CONTRIBUTORS-UP%20TO%2025%25%20OFF%20PRODUCTS-red?style=for-the-badge)](#contributor-benefits)
+[![Beta Team Tuition](https://img.shields.io/badge/BETA%20TEAM-%240%20TUITION-red?style=for-the-badge)](#beta-team-member-benefits)
+
+This public repository is more than a website development repository. It is an opportunity for developers, designers, students, educators, professionals, community members, and other contributors to help build the RIAH Pathway ecosystem while becoming eligible for contributor benefits based on applicable participation requirements.
+
+## 👑 Contributor Benefits
+
+Community Contributors may qualify for RIAH Pathway tuition and product reductions based on their applicable contribution level. Benefits begin at **1% and may increase up to 25%** in **1% increments**. Tuition reductions remain subject to the applicable ordinary tuition reduction rules and maximum.
+
+| Contributor Benefit | Minimum | Maximum | Increment |
+|---|---:|---:|---:|
+| 👑 Tuition Reduction | 1% | **25%** | 1% |
+| 👑 Product Reduction | 1% | **25%** | 1% |
+
+## 👑 Public Contributor Areas Eligible for Contributor Benefits
+
+Community Contributors may contribute approved work across the RIAH Pathway public ecosystem and may qualify for **tuition and product reductions from 1% up to 25%** based on the applicable contribution level. Contributions can include development, creative work, documentation, policies, media, educational resources, testing, marketing content, and other approved public development work.
+
+| 👑 | Contributor Area | Examples of Contributions |
+|---|---|---|
+| 👑 | Accessibility | Accessibility reviews, accessibility improvements, content accessibility, navigation improvements, accessibility testing |
+| 👑 | Accreditation Documentation | Public accreditation materials, accreditation research support, documentation formatting, public accreditation resources |
+| 👑 | Articles and Written Content | Articles, educational content, informational content, public resources, website copy |
+| 👑 | Branding and Creative Assets | Branded graphics, visual assets, templates, promotional materials, approved brand resources |
+| 👑 | Bug Fixes | Website fixes, broken links, formatting fixes, component fixes, technical corrections |
+| 👑 | Components | Website components, reusable interface elements, page components, interactive elements |
+| 👑 | Curriculum Documentation | Public curriculum materials, curriculum formatting, course information, pathway documentation |
+| 👑 | Documentation | README files, technical documentation, public documentation, instructions, guides, contributor documentation |
+| 👑 | Experiential Resources | Experiential materials, pathway resources, training resources, public Experiential documentation |
+| 👑 | Flyers and Promotional Materials | Digital flyers, informational flyers, program materials, event materials, promotional graphics |
+| 👑 | Forms | Application forms, information forms, contributor forms, public facing forms, form improvements |
+| 👑 | Images | Website images, program graphics, pathway graphics, branded visuals, educational graphics |
+| 👑 | Marketing Content | Public marketing materials, campaign content, program promotion, pathway promotion, informational marketing assets |
+| 👑 | Mobile and Responsive Development | Mobile optimization, responsive layouts, device testing, mobile interface improvements |
+| 👑 | Policies | Drafting approved public policies, policy research, policy formatting, policy documentation, policy updates |
+| 👑 | Pricing Calculator Development | Calculator interfaces, calculation testing, validation, user experience improvements |
+| 👑 | Pricing Engine Development | Pricing Engine development, configuration support, logic testing, documentation, implementation support |
+| 👑 | Product Resources | Product descriptions, product documentation, product graphics, product materials, public product resources |
+| 👑 | Proposals | Development proposals, feature proposals, documentation proposals, improvement proposals |
+| 👑 | Quality Assurance | Content review, functionality review, consistency checks, usability review, quality control |
+| 👑 | Research | Public research supporting policies, curriculum, resources, programs, documentation, technology, and approved development |
+| 👑 | Responsive Design | Desktop, tablet, and mobile layouts, responsive components, cross device improvements |
+| 👑 | Social Content | Social media graphics, educational posts, promotional posts, captions, campaign assets, approved social content |
+| 👑 | Technology Documentation | Software documentation, system documentation, technical guides, public technology resources |
+| 👑 | Testing | Website testing, calculator testing, component testing, responsive testing, functionality testing |
+| 👑 | User Experience and Interface Development | Page layouts, navigation, interface improvements, user flows, public facing experience improvements |
+| 👑 | Video Content | Educational videos, promotional videos, pathway videos, demonstrations, explainers, approved social videos |
+| 👑 | Website Development | Front end development, website functionality, page development, integrations, approved website improvements |
+| 👑 | Website Wireframes | Page wireframes, content layouts, page structures, navigation layouts, interface planning |
+
+> **Contributor Benefit:** Approved Community Contributors may qualify for a **1%–25% tuition reduction** and a **1%–25% product reduction**, assigned in **1% increments** based on the applicable contribution level. Tuition reductions remain subject to the applicable RIAH Pathway ordinary tuition reduction maximum.
+
+---
+
+## 🔴 Beta Team Member Benefits
+
+Eligible RIAH Beta Team Members receive **$0 eligible education tuition** as part of the RIAH Team Member pricing structure.
+
+| Beta Team Benefit | Benefit |
+|---|---:|
+| 👑 Eligible Education Tuition | **$0** |
+| 👑 Eligible Product Reduction | **50%** |
+| 👑 Team Member Tuition Reimbursement | **$0** |
+
+> **$0 tuition applies to eligible RIAH education for qualifying RIAH Beta Team Members under the applicable team member requirements and policies.**
 
 ---
 
@@ -220,3 +289,9 @@ flowchart LR
 ```
 
 > **Accreditation Disclosure:** RIAH Pathway is currently pre accredited. Accreditation, approval, designation, endorsement, recognition, and state authorization are being pursued and should not be interpreted as already granted unless formally granted by the applicable organization or regulatory authority.
+
+The repository is structured so contributors can work on individual deliverables without needing to build an entire website page or ecosystem component.
+
+RIAH Pathway remains a **private company ecosystem with applicable proprietary intellectual property**.
+
+Public GitHub development does not make private curriculum, internal systems, confidential information, business methods, security sensitive infrastructure, proprietary materials, or other restricted information unrestricted public property.
