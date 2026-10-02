@@ -1,10 +1,10 @@
-I don’t just study the law—I’ve stood on it.
+⚖️ COURTROOM EXPERIENCE
 
-Without a law degree and representing myself pro se, I’ve argued my own matters, filed motions, appeared in hearings, and had motions granted by three different judges in three different courts.
+I do not have a law degree, but I do have courtroom experience. In one and only legal matter that I personally escalated through three different courts, I represented myself pro se before three different judges, handled hearings, drafted and filed my own motions, and obtained granted rulings I sought at each level.
 
-I know what it means to walk into a courtroom prepared and walk out with the ruling I came for.
+And soon, I will earn my 5th degree—a Juris Doctor—from my own accredited law school once accredited, then sit for and pass the bar examination and complete the applicable licensing requirements to become a licensed attorney.
 
-I don’t play with legal process. I prepare, I file, I appear, and I follow through. Test the record—not me.
+From representing myself pro se to building the institution where I will earn my J.D.—full circle.
 
 **STATUS: DRAFT LAWSUIT TEMPLATE — EVIDENCE-DRIVEN / REVIEW BEFORE FILING**
 
