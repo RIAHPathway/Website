@@ -4,6 +4,12 @@
 
 RIAH Pathway is designed to move people through **one connected pathway** rather than a collection of disconnected programs, services, and resources.
 
+The repository is structured so contributors can work on individual deliverables without needing to build an entire website page or ecosystem component.
+
+RIAH Pathway remains a **private company ecosystem with applicable proprietary intellectual property**.
+
+Public GitHub development does not make private curriculum, internal systems, confidential information, business methods, security sensitive infrastructure, proprietary materials, or other restricted information unrestricted public property.
+
 ---
 
 # 👑 Education and Professional Pathways
@@ -199,12 +205,6 @@ flowchart TD
 | 👑 | **Quality Assurance** | Structured review of content, design, functionality, responsiveness, accessibility, links, calculations, integrations, and approved requirements before release. |
 | 👑 | **Testing and Bug Fixes** | Identification, documentation, testing, correction, and verification of website, component, calculation, integration, accessibility, and functionality issues. |
 | 👑 | **Approved Proposals and Contributor Work** | Approved ideas, improvements, documentation, development, design, testing, resources, and other contributions accepted for public RIAH Pathway development. |
-
-The repository is structured so contributors can work on individual deliverables without needing to build an entire website page or ecosystem component.
-
-RIAH Pathway remains a **private company ecosystem with applicable proprietary intellectual property**.
-
-Public GitHub development does not make private curriculum, internal systems, confidential information, business methods, security sensitive infrastructure, proprietary materials, or other restricted information unrestricted public property.
 
 ---
 
