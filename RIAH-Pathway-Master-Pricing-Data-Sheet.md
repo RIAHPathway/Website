@@ -405,7 +405,7 @@ Transfer credits may accelerate applicable academic progress up to the establish
 | Associate’s | 30 Credits |
 | Bachelor’s | 60 Credits |
 | MBA | 9 Credits |
-| JD | 60 Credits |
+| JD | 27 Credits |
 
 Transfer credits accelerate applicable academic progress. Configured
 Transfer Tuition Reduction: **\$0**
