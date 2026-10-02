@@ -1,3 +1,11 @@
+I don’t just study the law—I’ve stood on it.
+
+Without a law degree and representing myself pro se, I’ve argued my own matters, filed motions, appeared in hearings, and had motions granted by three different judges in three different courts.
+
+I know what it means to walk into a courtroom prepared and walk out with the ruling I came for.
+
+I don’t play with legal process. I prepare, I file, I appear, and I follow through. Test the record—not me.
+
 **STATUS: DRAFT LAWSUIT TEMPLATE — EVIDENCE-DRIVEN / REVIEW BEFORE FILING**
 
 Use this page as the working pleading and evidence framework if a future Replica Bot Tier 1, Tier 2, or Tier 3 review flag identifies a materially corresponding third-party implementation. A Replica Bot flag is an investigative lead only; each proposed count must be supported by its own facts, elements, jurisdiction, standing, limitations period, filing prerequisites, and admissible evidence before inclusion in any complaint.
