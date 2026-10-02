@@ -18,6 +18,23 @@ RIAH Pathway is a connected ecosystem integrating education, experiential, certi
 
 This public repository is more than a website development repository. It is an opportunity for developers, designers, students, educators, professionals, community members, and other contributors to help build the RIAH Pathway ecosystem while becoming eligible for contributor benefits based on applicable participation requirements.
 
+---
+
+# 👑 Documentation
+
+| Documentation | Link |
+|---|---|
+| Contributor README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/CONTRIBUTOR-README.md) |
+| Hiring and Equity README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/HIRING-AND-EQUITY-README.md) |
+| Ecosystem README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/ECOSYSTEM-README.md) |
+| Education and Pathways README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/EDUCATION-PATHWAYS-README.md) |
+| Organization and Team README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/ORGANIZATION-AND-TEAM-README.md) |
+| GitHub Public Development README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/GITHUB-PUBLIC-DEVELOPMENT-README.md) |
+| Ownership, Licensing, and Security README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/OWNERSHIP-LICENSING-SECURITY-README.md) |
+| Applications and Participation README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/APPLICATIONS-AND-PARTICIPATION-README.md) |
+| Website 01–13 README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/WEBSITE-01-13-README.md) |
+| Foundation and Donations README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/FOUNDATION-DONATIONS-README.md) |
+
 ## 👑 Contributor Benefits
 
 Community Contributors may qualify for RIAH Pathway tuition and product reductions based on their applicable contribution level. Benefits begin at **1% and may increase up to 25%** in **1% increments**. Tuition reductions remain subject to the applicable ordinary tuition reduction rules and maximum.
@@ -137,23 +154,6 @@ flowchart TD
 | 👑 | **Quality Assurance** | Structured review of content, design, functionality, responsiveness, accessibility, links, calculations, integrations, and approved requirements before release. |
 | 👑 | **Testing and Bug Fixes** | Identification, documentation, testing, correction, and verification of website, component, calculation, integration, accessibility, and functionality issues. |
 | 👑 | **Approved Proposals and Contributor Work** | Approved ideas, improvements, documentation, development, design, testing, resources, and other contributions accepted for public RIAH Pathway development. |
-
----
-
-# 👑 Documentation
-
-| Documentation | Link |
-|---|---|
-| Contributor README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/CONTRIBUTOR-README.md) |
-| Hiring and Equity README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/HIRING-AND-EQUITY-README.md) |
-| Ecosystem README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/ECOSYSTEM-README.md) |
-| Education and Pathways README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/EDUCATION-PATHWAYS-README.md) |
-| Organization and Team README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/ORGANIZATION-AND-TEAM-README.md) |
-| GitHub Public Development README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/GITHUB-PUBLIC-DEVELOPMENT-README.md) |
-| Ownership, Licensing, and Security README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/OWNERSHIP-LICENSING-SECURITY-README.md) |
-| Applications and Participation README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/APPLICATIONS-AND-PARTICIPATION-README.md) |
-| Website 01–13 README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/WEBSITE-01-13-README.md) |
-| Foundation and Donations README | [View Documentation](https://github.com/RIAHPathway/Website/blob/main/README-Documentation/FOUNDATION-DONATIONS-README.md) |
 
 ---
 
