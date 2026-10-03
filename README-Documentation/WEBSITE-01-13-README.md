@@ -52,21 +52,33 @@ Private or proprietary instructional content does not need to be publicly releas
 
 The established admissions flow includes:
 
-```yaml
-flow:
-  step_1: "Interest"
-  step_2: "Pre-Admissions"
-  step_3: "Application"
-  step_4: "Acceptance"
-  step_5: "Enrollment and Commitment"
-  step_6: "Applicable Deposit"
-  step_7: "Welcome Materials"
-  step_8: "Orientation"
-  step_9: "Onboarding"
-  step_10: "Active Student Experience"
-  step_11: "Cohort Community"
-  step_12: "Applicable Experiential Supervisor Assignment"
-  step_13: "Graduation"
+```mermaid
+flowchart LR
+    A["Interest"]
+    B["Pre-Admissions"]
+    C["Application"]
+    D["Acceptance"]
+    E["Enrollment and Commitment"]
+    F["Applicable Deposit"]
+    G["Welcome Materials"]
+    H["Orientation"]
+    I["Onboarding"]
+    J["Active Student Experience"]
+    K["Cohort Community"]
+    L["Applicable Experiential Supervisor Assignment"]
+    M["Graduation"]
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    F --> G
+    G --> H
+    H --> I
+    I --> J
+    J --> K
+    K --> L
+    L --> M
 ```
 
 RIAH uses monthly cohorts across applicable programs.
@@ -158,19 +170,29 @@ The Contact page provides centralized contact information and applicable communi
 
 Each page can progress through:
 
-```yaml
-flow:
-  step_1: "Written Specification"
-  step_2: "Black-and-White Wireframe"
-  step_3: "Designed Wireframe"
-  step_4: "Images and Media"
-  step_5: "Documents and Downloads"
-  step_6: "Development"
-  step_7: "Accessibility"
-  step_8: "Testing"
-  step_9: "Review"
-  step_10: "Approval"
-  step_11: "Release"
+```mermaid
+flowchart LR
+    A["Written Specification"]
+    B["Black-and-White Wireframe"]
+    C["Designed Wireframe"]
+    D["Images and Media"]
+    E["Documents and Downloads"]
+    F["Development"]
+    G["Accessibility"]
+    H["Testing"]
+    I["Review"]
+    J["Approval"]
+    K["Release"]
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    F --> G
+    G --> H
+    H --> I
+    I --> J
+    J --> K
 ```
 
 This allows contributors to participate at different stages without requiring one contributor to complete an entire website page.
