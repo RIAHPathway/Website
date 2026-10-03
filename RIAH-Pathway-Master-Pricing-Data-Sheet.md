@@ -660,19 +660,19 @@ total program tuition.
 
 # XXXV. 🏦 RIAH Private Student Loan
 
-The RIAH Private Student Loan is separate financing rather than a tuition reduction. All RIAH pathways are eligible for loan consideration. Students select a requested amount within the configured \$500 minimum and \$5,000 maximum. The amount approved depends on the applicable credit review and collateral supporting the requested loan.
+The RIAH Private Student Loan is separate financing rather than a tuition reduction. All RIAH pathways are eligible for loan consideration. Students select a requested amount within the configured \$500 minimum and \$5,000 maximum. Without the higher-loan credit tier, the maximum collateral-supported loan is 10% of qualifying collateral. A credit score of 700 or above is required to approve an amount above the 10% collateral-supported tier, subject to the tuition deficit and \$5,000 maximum.
 
 | Financing Configuration | Value |
 |:---|---:|
 | Minimum Loan | \$500 |
 | Maximum Loan | \$5,000 |
-| Minimum Credit Score | 650 |
+| Credit Score Required Above 10% Collateral Tier | 700+ |
 | Interest | 5% per 30 Days |
 | Active Loans Allowed | 1 |
 | Payment Plan Maximum | 12 Months |
 | Standard Loan Due Date | 3 Months After Graduation |
 | Pathway Eligibility | All RIAH Pathways Eligible for Consideration |
-| Approval Basis | Applicable Credit Review and Collateral |
+| Approval Basis | 10% of Qualifying Collateral; 700+ Credit Required Above Collateral Tier |
 | Collateral Recovery | Applicable pledged collateral secures the approved loan amount and may be applied to recover an unpaid or defaulted RIAH loan according to the governing agreement |
 
 Loan request amount is selected by the student within applicable
@@ -681,7 +681,7 @@ maximum loan amount. Financing is not a tuition reduction.
 
 # XXXVI. 🛡️ RIAH Private Student Loan Pathway Eligibility and Collateral
 
-All RIAH pathways are eligible for RIAH Private Student Loan consideration. Pathway type does not independently exclude a student from consideration. The approved loan amount remains subject to the \$500 minimum and \$5,000 maximum and is determined through the applicable credit and collateral review.
+All RIAH pathways are eligible for RIAH Private Student Loan consideration. Pathway type does not independently exclude a student from consideration. The approved loan amount remains subject to the \$500 minimum and \$5,000 maximum. The collateral-supported tier is limited to 10% of qualifying collateral. A credit score of 700 or above is required for an approved loan above that 10% collateral-supported amount.
 
 | Component | Loan Eligible |
 |:---|:---|
@@ -699,7 +699,15 @@ All RIAH pathways are eligible for RIAH Private Student Loan consideration. Path
 | Bar Review | Eligible for Consideration |
 | Products and Other Applicable Pathway Components | Eligible for Consideration |
 
-Loan eligibility does not guarantee approval of a particular amount. The student requests an amount from \$500 through \$5,000, and the approved amount depends on the applicable credit review and collateral supporting the loan. Applicable pledged collateral secures only the approved loan obligation and may be applied to recover an unpaid or defaulted RIAH Private Student Loan according to the governing loan and collateral agreement.
+Loan eligibility does not guarantee approval of a particular amount. The student requests an amount from \$500 through \$5,000.
+
+**Collateral-Supported Maximum = Qualifying Collateral × 10%**
+
+**If Credit Score < 700: Approved Loan ≤ 10% of Qualifying Collateral**
+
+**If Credit Score ≥ 700: Approved Loan may exceed the 10% collateral-supported tier, but cannot exceed the remaining tuition deficit or \$5,000 maximum.**
+
+**Approved RIAH Loan = MIN(Requested Loan, Remaining Tuition Deficit, Applicable Supported Loan Amount, \$5,000)**
 
 Where an applicable reimbursement is payable and an outstanding RIAH Private Student Loan exists, the existing Loan Recovery Through Reimbursement rule applies first. Reimbursement generated from qualifying eligible payment sources, including qualifying direct debit or credit payments and qualifying student-loan payments, follows the reimbursement rules and applicable loan-servicer or student payment routing.
 
@@ -946,12 +954,13 @@ The Master Active Number Table consolidates the active numerical records used th
 | Ordinary RIAH Payment Plan Interest | 0% |
 | RIAH Private Student Loan Minimum | \$500 |
 | RIAH Private Student Loan Maximum | \$5,000 |
-| RIAH Private Student Loan Minimum Credit Score | 650 |
+| RIAH Private Student Loan Credit Score Required Above 10% Collateral Tier | 700+ |
 | RIAH Private Student Loan Interest | 5% per 30 Days |
 | RIAH Private Student Loan Due Date | 3 Months After Graduation |
 | RIAH Private Student Loan Payment Plan Maximum | 12 Months |
 | RIAH Private Student Loan Pathway Eligibility | All RIAH Pathways Eligible for Consideration |
-| RIAH Private Student Loan Approval Basis | Applicable Credit Review and Collateral |
+| RIAH Private Student Loan Collateral Tier | 10% of Qualifying Collateral |
+| RIAH Private Student Loan Approval Basis | 10% Collateral Tier; 700+ Credit Required Above Collateral Tier |
 | RIAH Private Student Loan Collateral Recovery | Applicable pledged collateral may secure and recover an unpaid or defaulted approved loan according to the governing agreement |
 | Semester Length | 6 Months |
 | Four Year Semester Count | 8 |
