@@ -92,48 +92,50 @@
 
 # SCIENCE SEQUENCE
 
-```text
-Geology
-    ↓
-Astronomy
-    ↓
-Earth Science
-    ↓
-Environmental Science
-    ↓
-Biology
-    ↓
-Chemistry
-    ↓
-Anatomy
-    ↓
-Physiology
-    ↓
-Physics
+```mermaid
+flowchart TD
+    N0["Geology"]
+    N1["Astronomy"]
+    N2["Earth Science"]
+    N3["Environmental Science"]
+    N4["Biology"]
+    N5["Chemistry"]
+    N6["Anatomy"]
+    N7["Physiology"]
+    N8["Physics"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
+    N4 --> N5
+    N5 --> N6
+    N6 --> N7
+    N7 --> N8
 ```
 
 ---
 
 # HISTORY / SOCIAL SCIENCE SEQUENCE
 
-```text
-World Geography
-    ↓
-World History
-    ↓
-Holocaust & Genocide Studies
-    ↓
-Government
-    ↓
-American History
-    ↓
-State History
-    ↓
-Economics
-    ↓
-Sociology
-    ↓
-Psychology
+```mermaid
+flowchart TD
+    N0["World Geography"]
+    N1["World History"]
+    N2["Holocaust &amp; Genocide Studies"]
+    N3["Government"]
+    N4["American History"]
+    N5["State History"]
+    N6["Economics"]
+    N7["Sociology"]
+    N8["Psychology"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
+    N4 --> N5
+    N5 --> N6
+    N6 --> N7
+    N7 --> N8
 ```
 
 | HISTORY / SOCIAL SCIENCE SEQUENCE Component | HISTORY / SOCIAL SCIENCE SEQUENCE Requirement |
@@ -168,24 +170,17 @@ Psychology
 
 ### Grade 9 Total: **30 Credit Hours**
 
-```text
-GRADE 9
-        ↓
-English I / Composition I
-Algebra I
-Geology
-World Geography
-Digital Literacy
-        ↓
-English II / Composition II
-Geometry
-Astronomy
-World History
-Health
-        ↓
-30 CREDITS
-        ↓
-GRADE 10
+```mermaid
+flowchart TD
+    N0["GRADE 9"]
+    N1["English I / Composition I; Algebra I; Geology; World Geography; Digital Literacy"]
+    N2["English II / Composition II; Geometry; Astronomy; World History; Health"]
+    N3["30 CREDITS"]
+    N4["GRADE 10"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
 ```
 
 ---
@@ -216,24 +211,17 @@ GRADE 10
 
 ### Grade 10 Total: **30 Credit Hours**
 
-```text
-GRADE 10
-        ↓
-English III / American Literature
-Algebra II
-Earth Science
-Holocaust & Genocide Studies
-Physical Education
-        ↓
-English IV / World Literature
-Trigonometry
-Environmental Science
-Government
-Fine Arts
-        ↓
-30 CREDITS
-        ↓
-GRADE 11
+```mermaid
+flowchart TD
+    N0["GRADE 10"]
+    N1["English III / American Literature; Algebra II; Earth Science; Holocaust &amp; Genocide Studies; Physical Education"]
+    N2["English IV / World Literature; Trigonometry; Environmental Science; Government; Fine Arts"]
+    N3["30 CREDITS"]
+    N4["GRADE 11"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
 ```
 
 ---
@@ -270,27 +258,19 @@ GRADE 11
 | --- | --- |
 | General Education | Eligible Grade 11 students may begin applicable RIAH Pathway General Education coursework concurrently with the high-school curriculum. |
 
-```text
-GRADE 11
-        ↓
-Precalculus
-Biology
-American History
-Financial Literacy
-World Language I
-        ↓
-Calculus
-Chemistry
-State History
-World Language II
-Personal Finance
-        ↓
-30 CREDITS
-        +
-CONCURRENT ENROLLMENT
-WHERE APPLICABLE
-        ↓
-GRADE 12
+```mermaid
+flowchart TD
+    N0["GRADE 11"]
+    N1["Precalculus; Biology; American History; Financial Literacy; World Language I"]
+    N2["Calculus; Chemistry; State History; World Language II; Personal Finance"]
+    N3["30 CREDITS"]
+    N4["CONCURRENT ENROLLMENT; WHERE APPLICABLE"]
+    N5["GRADE 12"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
+    N4 --> N5
 ```
 
 ---
@@ -335,30 +315,21 @@ GRADE 12
 
 ### Grade 12 Total: **30 Credit Hours**
 
-```text
-GRADE 12
-        ↓
-Statistics
-Anatomy
-Economics
-Computer Science
-Ethnic Studies
-        ↓
-Physiology
-Physics
-Sociology
-Psychology
-Oral Communication
-        ↓
-30 CREDITS
-        ↓
-STATE-SPECIFIC
-GRADUATION CONTROLS
-        ↓
-GRADUATION AUDIT
-        ↓
-RIAH PATHWAY
-HIGH SCHOOL DIPLOMA
+```mermaid
+flowchart TD
+    N0["GRADE 12"]
+    N1["Statistics; Anatomy; Economics; Computer Science; Ethnic Studies"]
+    N2["Physiology; Physics; Sociology; Psychology; Oral Communication"]
+    N3["30 CREDITS"]
+    N4["STATE-SPECIFIC; GRADUATION CONTROLS"]
+    N5["GRADUATION AUDIT"]
+    N6["RIAH PATHWAY; HIGH SCHOOL DIPLOMA"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
+    N4 --> N5
+    N5 --> N6
 ```
 
 ---
@@ -386,98 +357,106 @@ HIGH SCHOOL DIPLOMA
 
 ## English
 
-```text
-ENG 1101 — English I / Composition I
-        ↓
-ENG 1102 — English II / Composition II
-        ↓
-ENG 2101 — English III / American Literature
-        ↓
-ENG 2102 — English IV / World Literature
+```mermaid
+flowchart TD
+    N0["ENG 1101 — English I / Composition I"]
+    N1["ENG 1102 — English II / Composition II"]
+    N2["ENG 2101 — English III / American Literature"]
+    N3["ENG 2102 — English IV / World Literature"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
 ```
 
 ## Mathematics
 
-```text
-MAT 1101 — Algebra I
-        ↓
-MAT 1102 — Geometry
-        ↓
-MAT 2101 — Algebra II
-        ↓
-MAT 2102 — Trigonometry
-        ↓
-MAT 3101 — Precalculus
-        ↓
-MAT 3102 — Calculus
-        ↓
-MAT 4101 — Statistics
+```mermaid
+flowchart TD
+    N0["MAT 1101 — Algebra I"]
+    N1["MAT 1102 — Geometry"]
+    N2["MAT 2101 — Algebra II"]
+    N3["MAT 2102 — Trigonometry"]
+    N4["MAT 3101 — Precalculus"]
+    N5["MAT 3102 — Calculus"]
+    N6["MAT 4101 — Statistics"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
+    N4 --> N5
+    N5 --> N6
 ```
 
 ## Science
 
-```text
-SCI 1101 — Geology
-        ↓
-SCI 1102 — Astronomy
-        ↓
-SCI 2101 — Earth Science
-        ↓
-SCI 2102 — Environmental Science
-        ↓
-SCI 3101 — Biology
-        ↓
-SCI 3102 — Chemistry
-        ↓
-SCI 4101 — Anatomy
-        ↓
-SCI 4102 — Physiology
-        ↓
-SCI 4103 — Physics
+```mermaid
+flowchart TD
+    N0["SCI 1101 — Geology"]
+    N1["SCI 1102 — Astronomy"]
+    N2["SCI 2101 — Earth Science"]
+    N3["SCI 2102 — Environmental Science"]
+    N4["SCI 3101 — Biology"]
+    N5["SCI 3102 — Chemistry"]
+    N6["SCI 4101 — Anatomy"]
+    N7["SCI 4102 — Physiology"]
+    N8["SCI 4103 — Physics"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
+    N4 --> N5
+    N5 --> N6
+    N6 --> N7
+    N7 --> N8
 ```
 
 ## History / Social Sciences
 
-```text
-GEO 1101 — World Geography
-        ↓
-HIS 1101 — World History
-        ↓
-HIS 2101 — Holocaust & Genocide Studies
-        ↓
-GOV 2101 — Government
-        ↓
-HIS 3101 — American History
-        ↓
-HIS 3102 — State History
-        ↓
-ECO 4101 — Economics
-        ↓
-SOC 4101 — Sociology
-        ↓
-PSY 4101 — Psychology
+```mermaid
+flowchart TD
+    N0["GEO 1101 — World Geography"]
+    N1["HIS 1101 — World History"]
+    N2["HIS 2101 — Holocaust &amp; Genocide Studies"]
+    N3["GOV 2101 — Government"]
+    N4["HIS 3101 — American History"]
+    N5["HIS 3102 — State History"]
+    N6["ECO 4101 — Economics"]
+    N7["SOC 4101 — Sociology"]
+    N8["PSY 4101 — Psychology"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
+    N4 --> N5
+    N5 --> N6
+    N6 --> N7
+    N7 --> N8
 ```
 
 ## Additional Social Studies
 
-```text
-ETH 4101 — Ethnic Studies
+```mermaid
+flowchart TD
+    N0["ETH 4101 — Ethnic Studies"]
+
 ```
 
 ## Financial Education
 
-```text
-FIN 3101 — Financial Literacy
-        ↓
-PFI 3101 — Personal Finance
+```mermaid
+flowchart TD
+    N0["FIN 3101 — Financial Literacy"]
+    N1["PFI 3101 — Personal Finance"]
+    N0 --> N1
 ```
 
 ## Technology
 
-```text
-TEC 1101 — Digital Literacy
-        ↓
-CSC 4101 — Computer Science
+```mermaid
+flowchart TD
+    N0["TEC 1101 — Digital Literacy"]
+    N1["CSC 4101 — Computer Science"]
+    N0 --> N1
 ```
 
 ---
@@ -520,88 +499,47 @@ CSC 4101 — Computer Science
 
 # COMPLETE FOUR-YEAR FLOW
 
-```text
-RIAH PATHWAY
-SECONDARY SCHOOL
-        ↓
-VIRTUAL-ONLY
-DELIVERY MODEL
-        ↓
-GRADE 9
-30 CREDITS
-        ↓
-English I / Composition I
-Algebra I
-Geology
-World Geography
-Digital Literacy
-        ↓
-English II / Composition II
-Geometry
-Astronomy
-World History
-Health
-        ↓
-GRADE 10
-30 CREDITS
-        ↓
-English III / American Literature
-Algebra II
-Earth Science
-Holocaust & Genocide Studies
-Physical Education
-        ↓
-English IV / World Literature
-Trigonometry
-Environmental Science
-Government
-Fine Arts
-        ↓
-GRADE 11
-30 CREDITS
-        ↓
-Precalculus
-Biology
-American History
-Financial Literacy
-World Language I
-        ↓
-Calculus
-Chemistry
-State History
-World Language II
-Personal Finance
-        ↓
-GRADE 12
-30 CREDITS
-        ↓
-Statistics
-Anatomy
-Economics
-Computer Science
-Ethnic Studies
-        ↓
-Physiology
-Physics
-Sociology
-Psychology
-Oral Communication
-        ↓
-40 FIXED COURSES
-        ↓
-120 RIAH CREDIT HOURS
-        ↓
-STATE CURRICULUM
-COMPONENTS
-        ↓
-STATE-SPECIFIC
-GRADUATION CONTROLS
-WHERE APPLICABLE
-        ↓
-GRADUATION AUDIT
-        ↓
-RIAH PATHWAY
-HIGH SCHOOL DIPLOMA
+```mermaid
+flowchart TD
+    N0["RIAH PATHWAY; SECONDARY SCHOOL"]
+    N1["VIRTUAL-ONLY; DELIVERY MODEL"]
+    N2["GRADE 9; 30 CREDITS"]
+    N3["English I / Composition I; Algebra I; Geology; World Geography; Digital Literacy"]
+    N4["English II / Composition II; Geometry; Astronomy; World History; Health"]
+    N5["GRADE 10; 30 CREDITS"]
+    N6["English III / American Literature; Algebra II; Earth Science; Holocaust &amp; Genocide Studies; Physical Education"]
+    N7["English IV / World Literature; Trigonometry; Environmental Science; Government; Fine Arts"]
+    N8["GRADE 11; 30 CREDITS"]
+    N9["Precalculus; Biology; American History; Financial Literacy; World Language I"]
+    N10["Calculus; Chemistry; State History; World Language II; Personal Finance"]
+    N11["GRADE 12; 30 CREDITS"]
+    N12["Statistics; Anatomy; Economics; Computer Science; Ethnic Studies"]
+    N13["Physiology; Physics; Sociology; Psychology; Oral Communication"]
+    N14["40 FIXED COURSES"]
+    N15["120 RIAH CREDIT HOURS"]
+    N16["STATE CURRICULUM; COMPONENTS"]
+    N17["STATE-SPECIFIC; GRADUATION CONTROLS; WHERE APPLICABLE"]
+    N18["GRADUATION AUDIT"]
+    N19["RIAH PATHWAY; HIGH SCHOOL DIPLOMA"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
+    N4 --> N5
+    N5 --> N6
+    N6 --> N7
+    N7 --> N8
+    N8 --> N9
+    N9 --> N10
+    N10 --> N11
+    N11 --> N12
+    N12 --> N13
+    N13 --> N14
+    N14 --> N15
+    N15 --> N16
+    N16 --> N17
+    N17 --> N18
+    N18 --> N19
 ```# RIAH PATHWAY SECONDARY SCHOOL
 
 # FOUR-YEAR HIGH SCHOOL DIPLOMA CURRICULUM
@@ -641,48 +579,50 @@ HIGH SCHOOL DIPLOMA
 
 # SCIENCE SEQUENCE
 
-```text
-Geology
-    ↓
-Astronomy
-    ↓
-Earth Science
-    ↓
-Environmental Science
-    ↓
-Biology
-    ↓
-Chemistry
-    ↓
-Anatomy
-    ↓
-Physiology
-    ↓
-Physics
+```mermaid
+flowchart TD
+    N0["Geology"]
+    N1["Astronomy"]
+    N2["Earth Science"]
+    N3["Environmental Science"]
+    N4["Biology"]
+    N5["Chemistry"]
+    N6["Anatomy"]
+    N7["Physiology"]
+    N8["Physics"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
+    N4 --> N5
+    N5 --> N6
+    N6 --> N7
+    N7 --> N8
 ```
 
 ---
 
 # HISTORY / SOCIAL SCIENCE SEQUENCE
 
-```text
-World Geography
-    ↓
-World History
-    ↓
-Holocaust & Genocide Studies
-    ↓
-Government
-    ↓
-American History
-    ↓
-State History
-    ↓
-Economics
-    ↓
-Sociology
-    ↓
-Psychology
+```mermaid
+flowchart TD
+    N0["World Geography"]
+    N1["World History"]
+    N2["Holocaust &amp; Genocide Studies"]
+    N3["Government"]
+    N4["American History"]
+    N5["State History"]
+    N6["Economics"]
+    N7["Sociology"]
+    N8["Psychology"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
+    N4 --> N5
+    N5 --> N6
+    N6 --> N7
+    N7 --> N8
 ```
 
 | HISTORY / SOCIAL SCIENCE SEQUENCE Component | HISTORY / SOCIAL SCIENCE SEQUENCE Requirement |
@@ -717,24 +657,17 @@ Psychology
 
 ### Grade 9 Total: **30 Credit Hours**
 
-```text
-GRADE 9
-        ↓
-English I / Composition I
-Algebra I
-Geology
-World Geography
-Digital Literacy
-        ↓
-English II / Composition II
-Geometry
-Astronomy
-World History
-Health
-        ↓
-30 CREDITS
-        ↓
-GRADE 10
+```mermaid
+flowchart TD
+    N0["GRADE 9"]
+    N1["English I / Composition I; Algebra I; Geology; World Geography; Digital Literacy"]
+    N2["English II / Composition II; Geometry; Astronomy; World History; Health"]
+    N3["30 CREDITS"]
+    N4["GRADE 10"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
 ```
 
 ---
@@ -765,24 +698,17 @@ GRADE 10
 
 ### Grade 10 Total: **30 Credit Hours**
 
-```text
-GRADE 10
-        ↓
-English III / American Literature
-Algebra II
-Earth Science
-Holocaust & Genocide Studies
-Physical Education
-        ↓
-English IV / World Literature
-Trigonometry
-Environmental Science
-Government
-Fine Arts
-        ↓
-30 CREDITS
-        ↓
-GRADE 11
+```mermaid
+flowchart TD
+    N0["GRADE 10"]
+    N1["English III / American Literature; Algebra II; Earth Science; Holocaust &amp; Genocide Studies; Physical Education"]
+    N2["English IV / World Literature; Trigonometry; Environmental Science; Government; Fine Arts"]
+    N3["30 CREDITS"]
+    N4["GRADE 11"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
 ```
 
 ---
@@ -819,27 +745,19 @@ GRADE 11
 | --- | --- |
 | General Education | Eligible Grade 11 students may begin applicable RIAH Pathway General Education coursework concurrently with the high-school curriculum. |
 
-```text
-GRADE 11
-        ↓
-Precalculus
-Biology
-American History
-Financial Literacy
-World Language I
-        ↓
-Calculus
-Chemistry
-State History
-World Language II
-Personal Finance
-        ↓
-30 CREDITS
-        +
-CONCURRENT ENROLLMENT
-WHERE APPLICABLE
-        ↓
-GRADE 12
+```mermaid
+flowchart TD
+    N0["GRADE 11"]
+    N1["Precalculus; Biology; American History; Financial Literacy; World Language I"]
+    N2["Calculus; Chemistry; State History; World Language II; Personal Finance"]
+    N3["30 CREDITS"]
+    N4["CONCURRENT ENROLLMENT; WHERE APPLICABLE"]
+    N5["GRADE 12"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
+    N4 --> N5
 ```
 
 ---
@@ -884,30 +802,21 @@ GRADE 12
 
 ### Grade 12 Total: **30 Credit Hours**
 
-```text
-GRADE 12
-        ↓
-Statistics
-Anatomy
-Economics
-Computer Science
-Ethnic Studies
-        ↓
-Physiology
-Physics
-Sociology
-Psychology
-Oral Communication
-        ↓
-30 CREDITS
-        ↓
-STATE-SPECIFIC
-GRADUATION CONTROLS
-        ↓
-GRADUATION AUDIT
-        ↓
-RIAH PATHWAY
-HIGH SCHOOL DIPLOMA
+```mermaid
+flowchart TD
+    N0["GRADE 12"]
+    N1["Statistics; Anatomy; Economics; Computer Science; Ethnic Studies"]
+    N2["Physiology; Physics; Sociology; Psychology; Oral Communication"]
+    N3["30 CREDITS"]
+    N4["STATE-SPECIFIC; GRADUATION CONTROLS"]
+    N5["GRADUATION AUDIT"]
+    N6["RIAH PATHWAY; HIGH SCHOOL DIPLOMA"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
+    N4 --> N5
+    N5 --> N6
 ```
 
 ---
@@ -935,98 +844,106 @@ HIGH SCHOOL DIPLOMA
 
 ## English
 
-```text
-ENG 1101 — English I / Composition I
-        ↓
-ENG 1102 — English II / Composition II
-        ↓
-ENG 2101 — English III / American Literature
-        ↓
-ENG 2102 — English IV / World Literature
+```mermaid
+flowchart TD
+    N0["ENG 1101 — English I / Composition I"]
+    N1["ENG 1102 — English II / Composition II"]
+    N2["ENG 2101 — English III / American Literature"]
+    N3["ENG 2102 — English IV / World Literature"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
 ```
 
 ## Mathematics
 
-```text
-MAT 1101 — Algebra I
-        ↓
-MAT 1102 — Geometry
-        ↓
-MAT 2101 — Algebra II
-        ↓
-MAT 2102 — Trigonometry
-        ↓
-MAT 3101 — Precalculus
-        ↓
-MAT 3102 — Calculus
-        ↓
-MAT 4101 — Statistics
+```mermaid
+flowchart TD
+    N0["MAT 1101 — Algebra I"]
+    N1["MAT 1102 — Geometry"]
+    N2["MAT 2101 — Algebra II"]
+    N3["MAT 2102 — Trigonometry"]
+    N4["MAT 3101 — Precalculus"]
+    N5["MAT 3102 — Calculus"]
+    N6["MAT 4101 — Statistics"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
+    N4 --> N5
+    N5 --> N6
 ```
 
 ## Science
 
-```text
-SCI 1101 — Geology
-        ↓
-SCI 1102 — Astronomy
-        ↓
-SCI 2101 — Earth Science
-        ↓
-SCI 2102 — Environmental Science
-        ↓
-SCI 3101 — Biology
-        ↓
-SCI 3102 — Chemistry
-        ↓
-SCI 4101 — Anatomy
-        ↓
-SCI 4102 — Physiology
-        ↓
-SCI 4103 — Physics
+```mermaid
+flowchart TD
+    N0["SCI 1101 — Geology"]
+    N1["SCI 1102 — Astronomy"]
+    N2["SCI 2101 — Earth Science"]
+    N3["SCI 2102 — Environmental Science"]
+    N4["SCI 3101 — Biology"]
+    N5["SCI 3102 — Chemistry"]
+    N6["SCI 4101 — Anatomy"]
+    N7["SCI 4102 — Physiology"]
+    N8["SCI 4103 — Physics"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
+    N4 --> N5
+    N5 --> N6
+    N6 --> N7
+    N7 --> N8
 ```
 
 ## History / Social Sciences
 
-```text
-GEO 1101 — World Geography
-        ↓
-HIS 1101 — World History
-        ↓
-HIS 2101 — Holocaust & Genocide Studies
-        ↓
-GOV 2101 — Government
-        ↓
-HIS 3101 — American History
-        ↓
-HIS 3102 — State History
-        ↓
-ECO 4101 — Economics
-        ↓
-SOC 4101 — Sociology
-        ↓
-PSY 4101 — Psychology
+```mermaid
+flowchart TD
+    N0["GEO 1101 — World Geography"]
+    N1["HIS 1101 — World History"]
+    N2["HIS 2101 — Holocaust &amp; Genocide Studies"]
+    N3["GOV 2101 — Government"]
+    N4["HIS 3101 — American History"]
+    N5["HIS 3102 — State History"]
+    N6["ECO 4101 — Economics"]
+    N7["SOC 4101 — Sociology"]
+    N8["PSY 4101 — Psychology"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
+    N4 --> N5
+    N5 --> N6
+    N6 --> N7
+    N7 --> N8
 ```
 
 ## Additional Social Studies
 
-```text
-ETH 4101 — Ethnic Studies
+```mermaid
+flowchart TD
+    N0["ETH 4101 — Ethnic Studies"]
+
 ```
 
 ## Financial Education
 
-```text
-FIN 3101 — Financial Literacy
-        ↓
-PFI 3101 — Personal Finance
+```mermaid
+flowchart TD
+    N0["FIN 3101 — Financial Literacy"]
+    N1["PFI 3101 — Personal Finance"]
+    N0 --> N1
 ```
 
 ## Technology
 
-```text
-TEC 1101 — Digital Literacy
-        ↓
-CSC 4101 — Computer Science
+```mermaid
+flowchart TD
+    N0["TEC 1101 — Digital Literacy"]
+    N1["CSC 4101 — Computer Science"]
+    N0 --> N1
 ```
 
 ---
@@ -1069,87 +986,46 @@ CSC 4101 — Computer Science
 
 # COMPLETE FOUR-YEAR FLOW
 
-```text
-RIAH PATHWAY
-SECONDARY SCHOOL
-        ↓
-VIRTUAL-ONLY
-DELIVERY MODEL
-        ↓
-GRADE 9
-30 CREDITS
-        ↓
-English I / Composition I
-Algebra I
-Geology
-World Geography
-Digital Literacy
-        ↓
-English II / Composition II
-Geometry
-Astronomy
-World History
-Health
-        ↓
-GRADE 10
-30 CREDITS
-        ↓
-English III / American Literature
-Algebra II
-Earth Science
-Holocaust & Genocide Studies
-Physical Education
-        ↓
-English IV / World Literature
-Trigonometry
-Environmental Science
-Government
-Fine Arts
-        ↓
-GRADE 11
-30 CREDITS
-        ↓
-Precalculus
-Biology
-American History
-Financial Literacy
-World Language I
-        ↓
-Calculus
-Chemistry
-State History
-World Language II
-Personal Finance
-        ↓
-GRADE 12
-30 CREDITS
-        ↓
-Statistics
-Anatomy
-Economics
-Computer Science
-Ethnic Studies
-        ↓
-Physiology
-Physics
-Sociology
-Psychology
-Oral Communication
-        ↓
-40 FIXED COURSES
-        ↓
-120 RIAH CREDIT HOURS
-        ↓
-STATE CURRICULUM
-COMPONENTS
-        ↓
-STATE-SPECIFIC
-GRADUATION CONTROLS
-WHERE APPLICABLE
-        ↓
-GRADUATION AUDIT
-        ↓
-RIAH PATHWAY
-HIGH SCHOOL DIPLOMA
+```mermaid
+flowchart TD
+    N0["RIAH PATHWAY; SECONDARY SCHOOL"]
+    N1["VIRTUAL-ONLY; DELIVERY MODEL"]
+    N2["GRADE 9; 30 CREDITS"]
+    N3["English I / Composition I; Algebra I; Geology; World Geography; Digital Literacy"]
+    N4["English II / Composition II; Geometry; Astronomy; World History; Health"]
+    N5["GRADE 10; 30 CREDITS"]
+    N6["English III / American Literature; Algebra II; Earth Science; Holocaust &amp; Genocide Studies; Physical Education"]
+    N7["English IV / World Literature; Trigonometry; Environmental Science; Government; Fine Arts"]
+    N8["GRADE 11; 30 CREDITS"]
+    N9["Precalculus; Biology; American History; Financial Literacy; World Language I"]
+    N10["Calculus; Chemistry; State History; World Language II; Personal Finance"]
+    N11["GRADE 12; 30 CREDITS"]
+    N12["Statistics; Anatomy; Economics; Computer Science; Ethnic Studies"]
+    N13["Physiology; Physics; Sociology; Psychology; Oral Communication"]
+    N14["40 FIXED COURSES"]
+    N15["120 RIAH CREDIT HOURS"]
+    N16["STATE CURRICULUM; COMPONENTS"]
+    N17["STATE-SPECIFIC; GRADUATION CONTROLS; WHERE APPLICABLE"]
+    N18["GRADUATION AUDIT"]
+    N19["RIAH PATHWAY; HIGH SCHOOL DIPLOMA"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
+    N4 --> N5
+    N5 --> N6
+    N6 --> N7
+    N7 --> N8
+    N8 --> N9
+    N9 --> N10
+    N10 --> N11
+    N11 --> N12
+    N12 --> N13
+    N13 --> N14
+    N14 --> N15
+    N15 --> N16
+    N16 --> N17
+    N17 --> N18
+    N18 --> N19
 ```
 
