@@ -437,6 +437,88 @@ The Technology and Cybersecurity Certification Review catalog includes the exist
 This expansion adds eligible certification coverage only. It does **not** change Certification Review pricing, multiple-review rules, included-review treatment, discount logic, refund rules, or any other Pricing Engine calculation rule.
 
 
+### Basic, Standard, and Premium Review Package Inclusions
+
+| Package | Price | Included Structure |
+|:---|---:|:---|
+| Basic | $500 | RIAH Certification Review or applicable Bar Review Course; applicable sections, parts, modules, or jurisdiction module; applicable course textbook or course material; core questions and MCQs; core practice tests; core simulations; 2 Mini Practice Exams; 2 Mini Simulated Exams; 1 Full Simulated Exam |
+| Standard | $1,000 | Everything in Basic plus Workbook; Study Guide; Review Guide; Solution Guide; Flashcards; Planner; Journal; Expanded 250-Question Practice Bank; additional Practice Exams; additional Simulation Practice; Timed Testing; Grading and Scoring; Performance Review |
+| Premium | $1,500 | Everything in Basic and Standard plus Complete Printed Product Set; 500 Additional Questions per applicable module; 5 Additional Practice Tests per applicable module; 5 Additional Simulations per applicable module; Academic and Review Advisement; Mentorship; 5 Study Sessions; 5 Live Review Sessions; 5 Coaching Sessions |
+
+Full RIAH Bar Review uses one core Bar Review with the first applicable jurisdiction module included where applicable. Each additional jurisdiction module is **$250**. California Baby Bar Review uses the same **Basic $500, Standard $1,000, Premium $1,500** package architecture.
+
+
+### Product and Professional Support Price Records
+
+| Category | Product or Service | Digital | Printed or Physical | Standard Price |
+|:---|:---|---:|---:|---:|
+| Educational Material | Textbook | $29.99 | $59.99 | By Format |
+| Educational Material | Workbook | $29.99 | $49.99 | By Format |
+| Educational Material | Study Guide | $19.99 | $29.99 | By Format |
+| Educational Material | Review Guide | $19.99 | $29.99 | By Format |
+| Educational Material | Solution Guide | $19.99 | $29.99 | By Format |
+| Educational Material | Flashcards | $9.99 | $19.99 | By Format |
+| Educational Material | Planner | $19.99 | $29.99 | By Format |
+| Educational Material | Journal | $19.99 | $29.99 | By Format |
+| Practice | Mini Practice Exam | — | — | $19.99 |
+| Practice | Mini Simulated Exam | — | — | $29.99 |
+| Practice | Full Simulated Practice Exam | — | — | $49.99 |
+| Practice | 500-Question Bank | — | — | $29.99 |
+| Practice | 5 Additional Practice Tests | — | — | $39.99 |
+| Practice | 25-Simulation Bank | — | — | $149.99 |
+| Product Bundle | Workbook Bundle | — | — | $49.99 |
+| Product Bundle | Study Bundle | — | — | $59.99 |
+| Product Bundle | Question Bundle | — | — | $69.99 |
+| Product Bundle | Full Simulation Bundle | — | — | $79.99 |
+| Product Bundle | Digital Materials Bundle | — | — | $129.99 |
+| Product Bundle | Mini Exam Bundle | — | — | $149.99 |
+| Product Bundle | Simulation Bundle | — | — | $149.99 |
+| Product Bundle | Printed Materials Bundle | — | — | $199.99 |
+| Product Bundle | Complete Materials Bundle | — | — | $299.99 |
+| Professional Resource Bundle | Digital Professional Resource Bundle | — | — | $129.99 |
+| Professional Resource Bundle | Printed Professional Resource Bundle | — | — | $199.99 |
+| Professional Resource Bundle | Complete Materials and Professional Resource Bundle | — | — | $299.99 |
+
+### Individual Professional Support
+
+| Service | Price |
+|:---|---:|
+| Academic Advisement | $29.99 per Session |
+| Study Support | $39.99 per Session |
+| Mentorship | $59.99 per Session |
+| Live Review | $69.99 per Session |
+| Coaching | $79.99 per Session |
+
+### Professional Support Bundles
+
+| Bundle | Included Sessions | Price |
+|:---|:---:|---:|
+| Academic Advisement | 3 Sessions | $79.99 |
+| Mentorship | 3 Sessions | $149.99 |
+| Study Support | 5 Sessions | $179.99 |
+| Live Review | 5 Sessions | $299.99 |
+| Coaching | 5 Sessions | $349.99 |
+| Complete Support Bundle | Applicable Complete Support Package | $599.99 |
+
+### Monthly Professional Support
+
+| Service | Monthly Price |
+|:---|---:|
+| Advisement | $29.99 |
+| Study Support | $69.99 |
+| Coaching | $79.99 |
+| Mentorship | $99.99 |
+| Live Review | $129.99 |
+| Mentorship + Coaching | $149.99 |
+| Live Review + Study | $179.99 |
+| Complete Support | $249.99 |
+
+**Product Price − Applicable Product Discount + Applicable Taxes/Fees + Applicable Shipping = Final Product Amount**
+
+The majority of applicable educational and professional products are physical and shipped. Only select products are complete digital products. Applicable physical products may include a limited digital preview such as the first chapter, first few pages, or another selected preview portion.
+
+
+
 | Review Tier | Standard Price |
 |:---|---:|
 | Basic | \$500 |
