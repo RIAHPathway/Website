@@ -45,7 +45,7 @@ State emojis identify state-specific curriculum components within applicable cou
 RIAH Pathway retains and controls its own curriculum. Edmentum instructional content/courseware is mapped into the applicable RIAH courses, and RIAH may supplement, expand, reorganize, or add curriculum content, assignments, OA, PA, state components, and other course requirements.
 
 | RIAH Course | Course Name | Edmentum |
-| --- | --- | :---: |
+| --- | --- | --- |
 | **ENG 1101** | English I / Composition I | **✓** |
 | **MAT 1101** | Algebra I | **✓** |
 | **SCI 1101** | Geology | **✓** |
@@ -146,7 +146,7 @@ Psychology
 ## Semester 1
 
 | Course | Course Title | Subject Area | Credits | Prerequisite Course | Prerequisite Course Title | Prerequisite Subject Area | Course Content | State Component | Component Comments |
-| --- | --- | --- | ---: | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **ENG 1101** | English I / Composition I | English Language Arts | 3 | None | None | None | English Composition, Writing Fundamentals, Grammar and Usage, Sentence and Paragraph Development, Essay Development, Reading Comprehension, Vocabulary, Research Fundamentals, Written Communication | — | Fixed RIAH English composition course. |
 | **MAT 1101** | Algebra I | Mathematics | 3 | None | None | None | Algebraic Expressions, Equations, Inequalities, Functions, Linear Equations, Systems of Equations, Polynomials, Factoring, Exponents | — | Fixed RIAH mathematics course. |
 | **SCI 1101** | Geology | Earth Science | 3 | None | None | None | Earth Materials, Minerals, Rocks, Earth's Structure, Plate Tectonics, Geological Processes, Geological Time, Earth's Surface, Natural Resources, Geological Hazards | — | First science course. |
@@ -157,7 +157,7 @@ Psychology
 ## Semester 2
 
 | Course | Course Title | Subject Area | Credits | Prerequisite Course | Prerequisite Course Title | Prerequisite Subject Area | Course Content | State Component | Component Comments |
-| --- | --- | --- | ---: | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **ENG 1102** | English II / Composition II | English Language Arts | 3 | ENG 1101 | English I / Composition I | English Language Arts | Advanced Composition, Expository Writing, Argumentative Writing, Narrative Writing, Research Writing, Reading Analysis, Grammar and Usage, Written Communication, Source Evaluation | — | Fixed RIAH English composition course. |
 | **MAT 1102** | Geometry | Mathematics | 3 | MAT 1101 | Algebra I | Mathematics | Geometric Reasoning, Lines, Angles, Triangles, Polygons, Circles, Congruence, Similarity, Coordinate Geometry, Area, Surface Area, Volume | — | Fixed RIAH mathematics course. |
 | **SCI 1102** | Astronomy | Earth / Space Science | 3 | SCI 1101 | Geology | Earth Science | Solar System, Stars, Galaxies, Universe, Planetary Science, Space Observation, Earth-Space Relationships, Astronomical Measurement | — | Second science course. |
@@ -194,7 +194,7 @@ GRADE 10
 ## Semester 1
 
 | Course | Course Title | Subject Area | Credits | Prerequisite Course | Prerequisite Course Title | Prerequisite Subject Area | Course Content | State Component | Component Comments |
-| --- | --- | --- | ---: | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **ENG 2101** | English III / American Literature | English Language Arts | 3 | ENG 1102 | English II / Composition II | English Language Arts | American Literature, American Literary Movements, Fiction, Nonfiction, Poetry, Drama, Literary Analysis, Analytical Writing, Research Writing, Vocabulary, Written Communication | — | Fixed RIAH American-literature course. |
 | **MAT 2101** | Algebra II | Mathematics | 3 | MAT 1102 | Geometry | Mathematics | Advanced Algebra, Functions, Quadratic Functions, Polynomial Functions, Rational Expressions, Radical Expressions, Exponential Functions, Logarithmic Functions | — | Fixed RIAH mathematics course. |
 | **SCI 2101** | Earth Science | Earth Science | 3 | SCI 1102 | Astronomy | Earth / Space Science | Earth Systems, Atmosphere, Hydrosphere, Weather, Climate, Oceans, Earth's Resources, Earth-System Interactions | — | Third science course. |
@@ -205,7 +205,7 @@ GRADE 10
 ## Semester 2
 
 | Course | Course Title | Subject Area | Credits | Prerequisite Course | Prerequisite Course Title | Prerequisite Subject Area | Course Content | State Component | Component Comments |
-| --- | --- | --- | ---: | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **ENG 2102** | English IV / World Literature | English Language Arts | 3 | ENG 2101 | English III / American Literature | English Language Arts | World Literature, Global Literary Traditions, Fiction, Nonfiction, Poetry, Drama, Comparative Literature, Literary Analysis, Advanced Writing, Research Writing, Written Communication | — | Fixed RIAH world-literature course. |
 | **MAT 2102** | Trigonometry | Mathematics | 3 | MAT 2101 | Algebra II | Mathematics | Trigonometric Functions, Angles, Right-Triangle Trigonometry, Unit Circle, Graphs, Identities, Equations, Applications | — | Fixed RIAH mathematics course. |
 | **SCI 2102** | Environmental Science | Environmental Science | 3 | SCI 2101 | Earth Science | Earth Science | Ecosystems, Natural Resources, Biodiversity, Pollution, Climate, Sustainability, Human Environmental Impact, Conservation | — | Fourth science course. |
@@ -242,7 +242,7 @@ GRADE 11
 ## Semester 1
 
 | Course | Course Title | Subject Area | Credits | Prerequisite Course | Prerequisite Course Title | Prerequisite Subject Area | Course Content | State Component | Component Comments |
-| --- | --- | --- | ---: | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **MAT 3101** | Precalculus | Mathematics | 3 | MAT 2102 | Trigonometry | Mathematics | Functions, Polynomial Functions, Rational Functions, Exponential Functions, Logarithmic Functions, Advanced Trigonometry, Analytic Geometry, Sequences | — | Fixed RIAH mathematics course. |
 | **SCI 3101** | Biology | Life Science | 3 | SCI 2102 | Environmental Science | Environmental Science | Cell Biology, Genetics, Evolution, Ecology, Organisms, Biological Systems, Molecular Biology, Biological Diversity | — | Biology begins the biological-science portion of the sequence. |
 | **HIS 3101** | American History | American History | 3 | GOV 2101 | Government | Government / Civics | United States History, Colonial America, American Revolution, Founding of the United States, Constitutional History, Civil War and Reconstruction, Industrialization, Modern U.S. History, Civil Rights History | State modules where applicable | American History remains separate from State History. |
@@ -253,7 +253,7 @@ GRADE 11
 ## Semester 2
 
 | Course | Course Title | Subject Area | Credits | Prerequisite Course | Prerequisite Course Title | Prerequisite Subject Area | Course Content | State Component | Component Comments |
-| --- | --- | --- | ---: | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **MAT 3102** | Calculus | Mathematics | 3 | MAT 3101 | Precalculus | Mathematics | Limits, Continuity, Derivatives, Applications of Derivatives, Integrals, Applications of Integrals, Fundamental Theorem of Calculus | — | Fixed RIAH mathematics course. |
 | **SCI 3102** | Chemistry | Physical Science | 3 | SCI 3101 | Biology | Life Science | Matter, Atomic Structure, Periodic Relationships, Chemical Bonding, Chemical Reactions, Stoichiometry, Solutions, Acids and Bases, Chemical Energy | — | Chemistry follows Biology. |
 | **HIS 3102 🟡🟠** | State History | State History | 3 | HIS 3101 | American History | American History | State History, State Founding and Development, State Constitution, State Government History, State Geography, State Economy, State Cultural History, State Civil Rights History, Native American/Tribal/Indigenous History, Major State Events, State Historical Figures | 🟡 Oklahoma, 🟠 Arkansas | Every student studies the history of their own state; identified state-specific components are mapped here. |
@@ -297,7 +297,7 @@ GRADE 12
 ## Semester 1
 
 | Course | Course Title | Subject Area | Credits | Prerequisite Course | Prerequisite Course Title | Prerequisite Subject Area | Course Content | State Component | Component Comments |
-| --- | --- | --- | ---: | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **MAT 4101** | Statistics | Mathematics | 3 | MAT 2101 | Algebra II | Mathematics | Descriptive Statistics, Probability, Distributions, Sampling, Data Analysis, Correlation, Regression, Statistical Inference | — | Fixed RIAH mathematics course. |
 | **SCI 4101** | Anatomy | Life Science | 3 | SCI 3101 | Biology | Life Science | Anatomical Terminology, Cells and Tissues, Skeletal System, Muscular System, Nervous System, Cardiovascular Structures, Respiratory Structures, Digestive Structures, Endocrine Structures, Human Body Organization | — | Anatomy follows Biology and Chemistry in the overall sequence. |
 | **ECO 4101** | Economics | Economics | 3 | HIS 3102 | State History | State History | Economic Systems, Microeconomics, Macroeconomics, Supply and Demand, Markets, Labor, Banking, Fiscal Policy, Monetary Policy, International Economics, Consumer Economics | — | Economics follows the core history/government sequence. |
@@ -308,7 +308,7 @@ GRADE 12
 ## Semester 2
 
 | Course | Course Title | Subject Area | Credits | Prerequisite Course | Prerequisite Course Title | Prerequisite Subject Area | Course Content | State Component | Component Comments |
-| --- | --- | --- | ---: | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **SCI 4102** | Physiology | Life Science | 3 | SCI 4101 | Anatomy | Life Science | Cellular Physiology, Nervous-System Function, Muscular Function, Cardiovascular Function, Respiratory Function, Digestive Function, Endocrine Function, Homeostasis, Human Body-System Integration | — | Physiology directly follows Anatomy. |
 | **SCI 4103** | Physics | Physical Science | 3 | SCI 3102 + MAT 2101 | Chemistry + Algebra II | Physical Science + Mathematics | Motion, Forces, Energy, Momentum, Waves, Electricity, Magnetism, Light, Introductory Modern Physics | — | Physics is the culminating physical-science course. |
 | **SOC 4101** | Sociology | Social Science | 3 | ECO 4101 | Economics | Economics | Sociological Perspectives, Culture, Socialization, Social Institutions, Groups, Communities, Social Stratification, Social Change, Society and Human Interaction | — | Sociology follows Economics. |
@@ -363,7 +363,7 @@ HIGH SCHOOL DIPLOMA
 # FOUR-YEAR FIXED CREDIT STRUCTURE
 
 | Grade | Semester 1 Courses | Semester 1 Credits | Semester 2 Courses | Semester 2 Credits | Annual Credits |
-| --- | ---: | ---: | ---: | ---: | ---: |
+| --- | --- | --- | --- | --- | --- |
 | **Grade 9** | 5 | 15 | 5 | 15 | **30** |
 | **Grade 10** | 5 | 15 | 5 | 15 | **30** |
 | **Grade 11** | 5 | 15 | 5 | 15 | **30** |
@@ -695,7 +695,7 @@ Psychology
 ## Semester 1
 
 | Course | Course Title | Subject Area | Credits | Prerequisite Course | Prerequisite Course Title | Prerequisite Subject Area | Course Content | State Component | Component Comments |
-| --- | --- | --- | ---: | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **ENG 1101** | English I / Composition I | English Language Arts | 3 | None | None | None | English Composition, Writing Fundamentals, Grammar and Usage, Sentence and Paragraph Development, Essay Development, Reading Comprehension, Vocabulary, Research Fundamentals, Written Communication | — | Fixed RIAH English composition course. |
 | **MAT 1101** | Algebra I | Mathematics | 3 | None | None | None | Algebraic Expressions, Equations, Inequalities, Functions, Linear Equations, Systems of Equations, Polynomials, Factoring, Exponents | — | Fixed RIAH mathematics course. |
 | **SCI 1101** | Geology | Earth Science | 3 | None | None | None | Earth Materials, Minerals, Rocks, Earth's Structure, Plate Tectonics, Geological Processes, Geological Time, Earth's Surface, Natural Resources, Geological Hazards | — | First science course. |
@@ -706,7 +706,7 @@ Psychology
 ## Semester 2
 
 | Course | Course Title | Subject Area | Credits | Prerequisite Course | Prerequisite Course Title | Prerequisite Subject Area | Course Content | State Component | Component Comments |
-| --- | --- | --- | ---: | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **ENG 1102** | English II / Composition II | English Language Arts | 3 | ENG 1101 | English I / Composition I | English Language Arts | Advanced Composition, Expository Writing, Argumentative Writing, Narrative Writing, Research Writing, Reading Analysis, Grammar and Usage, Written Communication, Source Evaluation | — | Fixed RIAH English composition course. |
 | **MAT 1102** | Geometry | Mathematics | 3 | MAT 1101 | Algebra I | Mathematics | Geometric Reasoning, Lines, Angles, Triangles, Polygons, Circles, Congruence, Similarity, Coordinate Geometry, Area, Surface Area, Volume | — | Fixed RIAH mathematics course. |
 | **SCI 1102** | Astronomy | Earth / Space Science | 3 | SCI 1101 | Geology | Earth Science | Solar System, Stars, Galaxies, Universe, Planetary Science, Space Observation, Earth-Space Relationships, Astronomical Measurement | — | Second science course. |
@@ -743,7 +743,7 @@ GRADE 10
 ## Semester 1
 
 | Course | Course Title | Subject Area | Credits | Prerequisite Course | Prerequisite Course Title | Prerequisite Subject Area | Course Content | State Component | Component Comments |
-| --- | --- | --- | ---: | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **ENG 2101** | English III / American Literature | English Language Arts | 3 | ENG 1102 | English II / Composition II | English Language Arts | American Literature, American Literary Movements, Fiction, Nonfiction, Poetry, Drama, Literary Analysis, Analytical Writing, Research Writing, Vocabulary, Written Communication | — | Fixed RIAH American-literature course. |
 | **MAT 2101** | Algebra II | Mathematics | 3 | MAT 1102 | Geometry | Mathematics | Advanced Algebra, Functions, Quadratic Functions, Polynomial Functions, Rational Expressions, Radical Expressions, Exponential Functions, Logarithmic Functions | — | Fixed RIAH mathematics course. |
 | **SCI 2101** | Earth Science | Earth Science | 3 | SCI 1102 | Astronomy | Earth / Space Science | Earth Systems, Atmosphere, Hydrosphere, Weather, Climate, Oceans, Earth's Resources, Earth-System Interactions | — | Third science course. |
@@ -754,7 +754,7 @@ GRADE 10
 ## Semester 2
 
 | Course | Course Title | Subject Area | Credits | Prerequisite Course | Prerequisite Course Title | Prerequisite Subject Area | Course Content | State Component | Component Comments |
-| --- | --- | --- | ---: | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **ENG 2102** | English IV / World Literature | English Language Arts | 3 | ENG 2101 | English III / American Literature | English Language Arts | World Literature, Global Literary Traditions, Fiction, Nonfiction, Poetry, Drama, Comparative Literature, Literary Analysis, Advanced Writing, Research Writing, Written Communication | — | Fixed RIAH world-literature course. |
 | **MAT 2102** | Trigonometry | Mathematics | 3 | MAT 2101 | Algebra II | Mathematics | Trigonometric Functions, Angles, Right-Triangle Trigonometry, Unit Circle, Graphs, Identities, Equations, Applications | — | Fixed RIAH mathematics course. |
 | **SCI 2102** | Environmental Science | Environmental Science | 3 | SCI 2101 | Earth Science | Earth Science | Ecosystems, Natural Resources, Biodiversity, Pollution, Climate, Sustainability, Human Environmental Impact, Conservation | — | Fourth science course. |
@@ -791,7 +791,7 @@ GRADE 11
 ## Semester 1
 
 | Course | Course Title | Subject Area | Credits | Prerequisite Course | Prerequisite Course Title | Prerequisite Subject Area | Course Content | State Component | Component Comments |
-| --- | --- | --- | ---: | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **MAT 3101** | Precalculus | Mathematics | 3 | MAT 2102 | Trigonometry | Mathematics | Functions, Polynomial Functions, Rational Functions, Exponential Functions, Logarithmic Functions, Advanced Trigonometry, Analytic Geometry, Sequences | — | Fixed RIAH mathematics course. |
 | **SCI 3101** | Biology | Life Science | 3 | SCI 2102 | Environmental Science | Environmental Science | Cell Biology, Genetics, Evolution, Ecology, Organisms, Biological Systems, Molecular Biology, Biological Diversity | — | Biology begins the biological-science portion of the sequence. |
 | **HIS 3101** | American History | American History | 3 | GOV 2101 | Government | Government / Civics | United States History, Colonial America, American Revolution, Founding of the United States, Constitutional History, Civil War and Reconstruction, Industrialization, Modern U.S. History, Civil Rights History | State modules where applicable | American History remains separate from State History. |
@@ -802,7 +802,7 @@ GRADE 11
 ## Semester 2
 
 | Course | Course Title | Subject Area | Credits | Prerequisite Course | Prerequisite Course Title | Prerequisite Subject Area | Course Content | State Component | Component Comments |
-| --- | --- | --- | ---: | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **MAT 3102** | Calculus | Mathematics | 3 | MAT 3101 | Precalculus | Mathematics | Limits, Continuity, Derivatives, Applications of Derivatives, Integrals, Applications of Integrals, Fundamental Theorem of Calculus | — | Fixed RIAH mathematics course. |
 | **SCI 3102** | Chemistry | Physical Science | 3 | SCI 3101 | Biology | Life Science | Matter, Atomic Structure, Periodic Relationships, Chemical Bonding, Chemical Reactions, Stoichiometry, Solutions, Acids and Bases, Chemical Energy | — | Chemistry follows Biology. |
 | **HIS 3102 🟡🟠** | State History | State History | 3 | HIS 3101 | American History | American History | State History, State Founding and Development, State Constitution, State Government History, State Geography, State Economy, State Cultural History, State Civil Rights History, Native American/Tribal/Indigenous History, Major State Events, State Historical Figures | 🟡 Oklahoma, 🟠 Arkansas | Every student studies the history of their own state; identified state-specific components are mapped here. |
@@ -846,7 +846,7 @@ GRADE 12
 ## Semester 1
 
 | Course | Course Title | Subject Area | Credits | Prerequisite Course | Prerequisite Course Title | Prerequisite Subject Area | Course Content | State Component | Component Comments |
-| --- | --- | --- | ---: | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **MAT 4101** | Statistics | Mathematics | 3 | MAT 2101 | Algebra II | Mathematics | Descriptive Statistics, Probability, Distributions, Sampling, Data Analysis, Correlation, Regression, Statistical Inference | — | Fixed RIAH mathematics course. |
 | **SCI 4101** | Anatomy | Life Science | 3 | SCI 3101 | Biology | Life Science | Anatomical Terminology, Cells and Tissues, Skeletal System, Muscular System, Nervous System, Cardiovascular Structures, Respiratory Structures, Digestive Structures, Endocrine Structures, Human Body Organization | — | Anatomy follows Biology and Chemistry in the overall sequence. |
 | **ECO 4101** | Economics | Economics | 3 | HIS 3102 | State History | State History | Economic Systems, Microeconomics, Macroeconomics, Supply and Demand, Markets, Labor, Banking, Fiscal Policy, Monetary Policy, International Economics, Consumer Economics | — | Economics follows the core history/government sequence. |
@@ -857,7 +857,7 @@ GRADE 12
 ## Semester 2
 
 | Course | Course Title | Subject Area | Credits | Prerequisite Course | Prerequisite Course Title | Prerequisite Subject Area | Course Content | State Component | Component Comments |
-| --- | --- | --- | ---: | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **SCI 4102** | Physiology | Life Science | 3 | SCI 4101 | Anatomy | Life Science | Cellular Physiology, Nervous-System Function, Muscular Function, Cardiovascular Function, Respiratory Function, Digestive Function, Endocrine Function, Homeostasis, Human Body-System Integration | — | Physiology directly follows Anatomy. |
 | **SCI 4103** | Physics | Physical Science | 3 | SCI 3102 + MAT 2101 | Chemistry + Algebra II | Physical Science + Mathematics | Motion, Forces, Energy, Momentum, Waves, Electricity, Magnetism, Light, Introductory Modern Physics | — | Physics is the culminating physical-science course. |
 | **SOC 4101** | Sociology | Social Science | 3 | ECO 4101 | Economics | Economics | Sociological Perspectives, Culture, Socialization, Social Institutions, Groups, Communities, Social Stratification, Social Change, Society and Human Interaction | — | Sociology follows Economics. |
@@ -912,7 +912,7 @@ HIGH SCHOOL DIPLOMA
 # FOUR-YEAR FIXED CREDIT STRUCTURE
 
 | Grade | Semester 1 Courses | Semester 1 Credits | Semester 2 Courses | Semester 2 Credits | Annual Credits |
-| --- | ---: | ---: | ---: | ---: | ---: |
+| --- | --- | --- | --- | --- | --- |
 | **Grade 9** | 5 | 15 | 5 | 15 | **30** |
 | **Grade 10** | 5 | 15 | 5 | 15 | **30** |
 | **Grade 11** | 5 | 15 | 5 | 15 | **30** |
