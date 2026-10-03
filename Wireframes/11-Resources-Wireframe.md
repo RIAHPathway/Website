@@ -13,7 +13,34 @@
 **Breadcrumb:** Home → Resources
 
 **Page Experience:**  
-**HERO → RESOURCE OVERVIEW → EVENTS → BLOG + VLOG → PODCASTS → CONFERENCES → WORKSHOPS → WEBINARS → POLICIES → PROCEDURES → GUIDELINES → STAY CONNECTED → FINAL CTA**
+```mermaid
+flowchart LR
+N1["HERO"]
+N2["RESOURCE OVERVIEW"]
+N3["EVENTS"]
+N4["BLOG + VLOG"]
+N5["PODCASTS"]
+N6["CONFERENCES"]
+N7["WORKSHOPS"]
+N8["WEBINARS"]
+N9["POLICIES"]
+N10["PROCEDURES"]
+N11["GUIDELINES"]
+N12["STAY CONNECTED"]
+N13["FINAL CTA"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+N4 --> N5
+N5 --> N6
+N6 --> N7
+N7 --> N8
+N8 --> N9
+N9 --> N10
+N10 --> N11
+N11 --> N12
+N12 --> N13
+```
 
 ---
 
@@ -148,7 +175,20 @@ Introduce visitors to the Resources ecosystem and show how RIAH Pathway connects
 Event calendar, virtual admission session, career fair, conference stage, webinar, workshop, blog articles, YouTube video interface, podcast interface, and public institutional resources.
 
 **Content:**  
-Events → Learn → Watch → Listen → Connect → Access Resources
+```mermaid
+flowchart LR
+N1["Events"]
+N2["Learn"]
+N3["Watch"]
+N4["Listen"]
+N5["Connect"]
+N6["Access Resources"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+N4 --> N5
+N5 --> N6
+```
 
 **Controls:**  
 Play • Pause • Captions • Full Screen
@@ -1475,13 +1515,35 @@ Instagram • Facebook • TikTok • X • Threads • YouTube • LinkedIn •
 | 🔐 **Privacy and Transparency Policies** | Public/private information boundaries |
 | 📑 **Impact Reports** | Applicable education, experiential, funding, scholarship, and community-service outcomes |
 
-**PUBLIC EVIDENCE → VERIFICATION → REPORTING → COMMUNITY ACCOUNTABILITY**
+```mermaid
+flowchart LR
+N1["PUBLIC EVIDENCE"]
+N2["VERIFICATION"]
+N3["REPORTING"]
+N4["COMMUNITY ACCOUNTABILITY"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+```
 
 ## COMMUNITY CAPSTONE + PEER REVIEW POINTS AND DISCOUNTS
 
 Community members may sign up to review applicable student capstones, participate in applicable peer review, and provide structured feedback on student work. Qualifying completed reviews earn points that accumulate according to the number of capstone and peer-review activities completed.
 
-**COMMUNITY REVIEW → STRUCTURED FEEDBACK → QUALIFYING COMPLETION → POINTS EARNED → POINTS ACCUMULATED → DISCOUNT LEVEL UNLOCKED**
+```mermaid
+flowchart LR
+N1["COMMUNITY REVIEW"]
+N2["STRUCTURED FEEDBACK"]
+N3["QUALIFYING COMPLETION"]
+N4["POINTS EARNED"]
+N5["POINTS ACCUMULATED"]
+N6["DISCOUNT LEVEL UNLOCKED"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+N4 --> N5
+N5 --> N6
+```
 
 | Community Participation | RIAH Structure |
 |---|---|
@@ -1494,7 +1556,14 @@ Community members may sign up to review applicable student capstones, participat
 | Bar Review | Applicable discounts may be used toward qualifying Bar Review products |
 | Educational Pathways | Applicable discounts may be used toward qualifying RIAH educational pathways, including the JD pathway and other applicable education pathways |
 
-**REVIEW MORE → ACCUMULATE MORE POINTS → UNLOCK GREATER APPLICABLE DISCOUNTS**
+```mermaid
+flowchart LR
+N1["REVIEW MORE"]
+N2["ACCUMULATE MORE POINTS"]
+N3["UNLOCK GREATER APPLICABLE DISCOUNTS"]
+N1 --> N2
+N2 --> N3
+```
 
 RIAH faculty and applicable academic personnel retain academic oversight and final evaluation requirements. Community and peer feedback supplements the formal academic review process.
 
