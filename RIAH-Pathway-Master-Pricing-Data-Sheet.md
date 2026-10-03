@@ -459,12 +459,13 @@ This expansion adds eligible certification coverage only. It does **not** change
 | Flashcards | — | Included | Printed Flashcards Included |
 | Planner | — | Included | Printed Planner Included |
 | Journal | — | Included | Printed Journal Included |
-| Expanded 250-Question Practice Bank | — | Included | Included |
-| Timed Testing | — | Included | Included |
-| Grading and Scoring | — | Included | Included |
-| Performance Review | — | Included | Included |
+| Expanded 250-Question Practice Bank | — | — | Included |
+| Timed Testing | Included | Included | Included |
+| Grading Review | Included | Included | Included |
+| Grading and Scoring | Included | Included | Included |
+| Performance Review | Included | Included | Included |
 | Complete Printed Product Set | — | — | Included |
-| Printed Textbook | — | Included | Included |
+| Printed Textbook | — | — | Included |
 | 500 Additional Questions Per Applicable Module | — | — | Included |
 | Academic and Review Advisement | — | — | Included |
 | Study Support | — | — | Included |
@@ -476,7 +477,7 @@ This expansion adds eligible certification coverage only. It does **not** change
 | Coaching Sessions | — | — | 5 |
 | Applicable Professional Supervision | — | — | Included Where Applicable |
 
-Basic is the core review package. Standard includes everything in Basic plus the textbook and expanded learning-material and practice package. Premium includes everything in Basic and Standard plus the complete expanded practice package and all applicable standalone professional-support services, including academic and review advisement, study support, mentorship, live review, coaching, and applicable professional supervision.
+Basic is the core review package and includes timed testing, grading review, grading and scoring, and performance review. Standard includes everything in Basic plus the textbook, additional learning materials, and additional practice resources. Premium includes everything in Basic and Standard plus the printed textbook, Expanded 250-Question Practice Bank, complete expanded practice package, and all applicable standalone professional-support services, including academic and review advisement, study support, mentorship, live review, coaching, and applicable professional supervision.
 
 Full RIAH Bar Review uses one core Bar Review with the first applicable jurisdiction module included where applicable. Each additional jurisdiction module is **$250**. California Baby Bar Review uses the same **Basic $500, Standard $1,000, Premium $1,500** package architecture.
 
