@@ -93,19 +93,14 @@ E --> F["👑🏆 Up to 25% Tuition + 25% Products Maximum"]
 ```
 
 ## III. ⚙️ Flow Metadata
-```yaml
-track: "Substitute Teacher Ambassador"
-profile_category: "Substitute Teacher Ambassador"
-status: "in-progress"
-verification_required: true
-points_require_approval: true
-benefit_record_required: true
-review_state:
-  - pending
-  - under-review
-  - revision-if-required
-  - approved
-  - credited
+**Flow Configuration:** Track — Substitute Teacher Ambassador; Profile Category — Substitute Teacher Ambassador; Status — in-progress; Verification Required — true; Points Require Approval — true; Benefit Record Required — true.
+
+```mermaid
+flowchart LR
+    A["Pending"] --> B["Under Review"]
+    B --> C["Revision if Required"]
+    C --> D["Approved"]
+    D --> E["Credited"]
 ```
 
 Substitute Teacher Ambassadors may contribute through school district events, career fairs, college fairs, education events, approved school-community events, informational booths, educational webinars, information sessions, workshops, approved brochures, flyers, information cards, QR codes, referral links, Education Pathway promotion, Experiential Pathway promotion, certification information, product information, family-information events, community events, approved social campaigns, organizational introductions, prospective-student referrals, student conversions and product conversions.
