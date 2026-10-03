@@ -44,7 +44,7 @@ Display Rule — Detailed course-by-course curriculum remains in the applicable 
 # 📋 1. CURRICULUM PURPOSE AND EDUCATIONAL MODEL
 
 
-| Item | Details |
+| Curriculum Standard | RIAH Pathway Structure |
 | --- | --- |
 | Curriculum Model | RIAH Pathway uses structured academic pathways with established General Education, School Core, major, minor, graduate, law, secondary-school, and GED/HSE preparation structures. |
 | Fixed Curriculum | Academic pathways use established curriculum sequences rather than unrestricted student-selected coursework. |
@@ -52,7 +52,7 @@ Display Rule — Detailed course-by-course curriculum remains in the applicable 
 | Curriculum Integration | RIAH coursework may integrate academic education, professional software, certification-review curriculum, projects, experiential learning, applied builds, supervision, capstones, career preparation, and law/bar-related preparation where applicable. |
 
 
-| Item | Details |
+| Curriculum Architecture | RIAH Pathway Standard |
 | --- | --- |
 | High School Software Architecture | RIAH Pathway maps Edmentum instructional content/courseware to applicable High School Diploma courses while retaining RIAH curriculum as the controlling curriculum layer. RIAH may supplement software-provided content with additional RIAH curriculum, assessments, assignments, state components, and course-specific requirements. |
 | Prerequisite Progression | Students progress through established prerequisite chains. The applicable prior foundational course must be completed or otherwise satisfied before progression where a prerequisite exists. |
@@ -79,27 +79,27 @@ flowchart TD
 # 🏛️ 3. SCHOOL STRUCTURE
 
 
-| Item | Details |
-| --- | --- |
-| RIAH Pathway School of Technology | 39-credit School Core — Computer Science, Cybersecurity, Data Analytics, Data Science, Software Development, Software Engineering, Project Management, Program Management, Information Systems. |
-| RIAH Pathway School of Homeland Security | 30-credit School Core — Governance, Risk & Compliance, Intelligence, Physical Security, Private Investigations. |
-| RIAH Pathway School of Law | Applicable Law Structure — Criminal Justice, JD, Non-JD Law Pathways. |
-| RIAH Pathway School of Business | 30-credit School Core — Accounting, Entrepreneurship, Finance, Business Management, General MBA. |
-| RIAH Pathway Secondary School | Secondary Curriculum — Four-Year High School Diploma, GED/HSE Preparation. |
+| School | School Core | Majors and Minors / Pathways |
+| --- | --- | --- |
+| RIAH Pathway School of Technology | 39-credit School Core | Computer Science, Cybersecurity, Data Analytics, Data Science, Software Development, Software Engineering, Project Management, Program Management, Information Systems. |
+| RIAH Pathway School of Homeland Security | 30-credit School Core | Governance, Risk & Compliance, Intelligence, Physical Security, Private Investigations. |
+| RIAH Pathway School of Law | Applicable Law Structure | Criminal Justice, JD, Non-JD Law Pathways. |
+| RIAH Pathway School of Business | 30-credit School Core | Accounting, Entrepreneurship, Finance, Business Management, General MBA. |
+| RIAH Pathway Secondary School | Secondary Curriculum | Four-Year High School Diploma, GED/HSE Preparation. |
 
 
 # 💻 4. SCHOOL OF TECHNOLOGY STRUCTURE
 
 
-| Item | Details |
+| School Core | Credit Hours |
 | --- | --- |
 | School of Technology Core | 39 Credit Hours. |
 | The Technology Core contains the shared technology foundation completed before applicable upper-division Technology major progression. | — |
 
 
-| Item | Details |
+| School | Majors and Minors |
 | --- | --- |
-| Majors/Minors | Computer Science, Cybersecurity, Data Analytics, Data Science, Software Development, Software Engineering, Project Management, Program Management, Information Systems. Each has the applicable Minor, Bachelor’s Year 3, Bachelor’s Year 4, Master’s, and MBA structure in the controlling degree curriculum. |
+| School of Technology | Computer Science, Cybersecurity, Data Analytics, Data Science, Software Development, Software Engineering, Project Management, Program Management, Information Systems. Each has the applicable Minor, Bachelor’s Year 3, Bachelor’s Year 4, Master’s, and MBA structure in the controlling degree curriculum. |
 
 
 
@@ -125,14 +125,14 @@ Applicable Technology programs may contain established professional certificatio
 # 🛡️ 5. SCHOOL OF HOMELAND SECURITY STRUCTURE
 
 
-| Item | Details |
+| School Core | Credit Hours |
 | --- | --- |
 | Homeland Security School Core | 30 Credit Hours. |
 
 
-| Item | Details |
+| School | Majors and Minors |
 | --- | --- |
-| Majors/Minors | Governance, Risk & Compliance; Intelligence; Physical Security; Private Investigations. Each has the applicable Minor, Bachelor’s Year 3, Bachelor’s Year 4, Master’s, and MBA structure in the controlling degree curriculum. |
+| School of Homeland Security | Governance, Risk & Compliance; Intelligence; Physical Security; Private Investigations. Each has the applicable Minor, Bachelor’s Year 3, Bachelor’s Year 4, Master’s, and MBA structure in the controlling degree curriculum. |
 
 
 
@@ -155,14 +155,14 @@ Applicable Homeland Security programs may contain established professional certi
 # ⚖️ 6. SCHOOL OF LAW STRUCTURE
 
 
-| Item | Details |
+| School of Law | Law Pathways |
 | --- | --- |
 | RIAH Pathway School of Law contains Criminal Justice, Juris Doctor | JD, and Non-JD State Law Pathways. |
 
 
 
 
-| Item | Details |
+| School Core | Credit Hours |
 | --- | --- |
 | School of Law Core | 30 Credit Hours. |
 ## ❤️ School of Law Core — Cengage MindTap Software Coverage
@@ -178,12 +178,12 @@ Applicable Homeland Security programs may contain established professional certi
 | LAW 2008 | Criminology | ✓ |
 | LAW 2009 | Ethics in Criminal Justice | ✓ |
 | LAW 2010 | Criminal Justice Research & Analysis | ✓ |
-| Item | Details |
+| Criminal Justice Structure | Credits and Tracks |
 | --- | --- |
 | Criminal Justice: 15-credit established Minor; Bachelor’s Year 3 | 30 credits; Bachelor’s Year 4 — 30 credits; Master’s — 30 credits; MBA — 30 credits; applicable established certification-review tracks. |
 
 
-| Item | Details |
+| JD Curriculum Year | Credit Hours |
 | --- | --- |
 | JD Curriculum | 96 Credit Hours. |
 | 1L | 27 credits. |
@@ -193,12 +193,12 @@ Applicable Homeland Security programs may contain established professional certi
 | Total | 96 credits. |
 
 
-| Item | Details |
+| JD Transfer Standard | Transfer Requirements |
 | --- | --- |
 | JD Transfer Rule | Transfer credit may be accepted from an ABA-accredited law school for applicable 1L coursework only. Maximum JD Transfer: 27 credit hours, subject to equivalency review. |
 
 
-| Item | Details |
+| JD Experiential Structure | Experiential Requirements |
 | --- | --- |
 | JD Experiential Structure | Apprentice → Intern → Associate → Senior Associate. The one-month internal RIAH experiential opportunity is guaranteed during 4L under the established JD structure. Timing remains based on applicable RIAH ecosystem needs. |
 
@@ -218,14 +218,14 @@ Each Non-JD pathway remains governed by its applicable state pathway requirement
 # 💼 7. SCHOOL OF BUSINESS STRUCTURE
 
 
-| Item | Details |
+| School Core | Credit Hours |
 | --- | --- |
 | Business Core | 30 Credit Hours. |
 
 
-| Item | Details |
+| School | Majors and Minors |
 | --- | --- |
-| Majors/Minors | Accounting, Entrepreneurship, Finance, Business Management. Each has the applicable Minor, Bachelor’s Year 3, Bachelor’s Year 4, Master’s, and MBA structure. General MBA is a separate MBA pathway. |
+| School of Business | Accounting, Entrepreneurship, Finance, Business Management. Each has the applicable Minor, Bachelor’s Year 3, Bachelor’s Year 4, Master’s, and MBA structure. General MBA is a separate MBA pathway. |
 
 
 
@@ -250,7 +250,7 @@ Applicable Business programs may contain established professional certification-
 
 General Education provides the academic foundation for applicable RIAH Pathway degree pathways.
 
-| Item | Details |
+| General Education | Credit Hours |
 | --- | --- |
 | General Education Total | 30 Credit Hours. |
 
@@ -286,7 +286,7 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 Students may satisfy applicable General Education requirements through accepted transfer or alternative credit, or an applicable RIAH Placement/Test-Out Assessment.
 
-| Item | Details |
+| Placement and Test-Out Standard | Requirement |
 | --- | --- |
 | Passing Standard | 80%. |
 | Proctoring | Required. |
@@ -297,7 +297,7 @@ Students may satisfy applicable General Education requirements through accepted 
 | Three Unsuccessful Attempts | Student completes the applicable RIAH course. |
 
 
-| Item | Details |
+| Academic Flow | Progression |
 | --- | --- |
 | Flow | Accepted Credit OR RIAH Proctored Test-Out → 80%+ → Requirement Satisfied. If not passed → up to 3 attempts, 24 hours between attempts → complete RIAH course if not passed. |
 
@@ -307,7 +307,7 @@ Students may satisfy applicable General Education requirements through accepted 
 
 College English and College Algebra function as foundational gateway courses. Where the applicable requirement is not already satisfied through accepted credit, placement determines whether the student satisfies the college-level requirement or enters developmental coursework.
 
-| Item | Details |
+| Placement Score | Developmental Placement |
 | --- | --- |
 | 80–100% | College Algebra / College English requirement satisfied. |
 | 60–79% | Basic Math IV / Basic English IV. |
@@ -316,7 +316,7 @@ College English and College Algebra function as foundational gateway courses. Wh
 | 0–19% | Basic Math I / Basic English I. |
 
 
-| Item | Details |
+| Developmental Placement | Progression |
 | --- | --- |
 | Developmental flow | Basic I → Basic II → Basic III → Basic IV → College-Level Course. |
 | Students begin at the level demonstrated by placement and do not repeat lower levels already demonstrated. | — |
@@ -358,7 +358,7 @@ Students do not progress into applicable Year 3 major coursework until the found
 
 Minors are predetermined academic sequences attached to the applicable discipline.
 
-| Item | Details |
+| Minor Requirement | Standard |
 | --- | --- |
 | Standard Minor Size | 15 credits in the current combined curriculum unless the applicable curriculum expressly establishes otherwise. |
 | Typical Courses | 5 courses × 3 credits. |
@@ -374,7 +374,7 @@ Minors are predetermined academic sequences attached to the applicable disciplin
 | Transfer Maximum | 6 credits under the established minor transfer standard. |
 
 
-| Item | Details |
+| Minor Academic Flow | Progression |
 | --- | --- |
 | Minor flow | Minor Entry → Foundational Minor Course → Sequential Discipline Coursework → Applied Learning → Applied Learning Capstone → Minor Complete. |
 
@@ -386,7 +386,7 @@ The controlling course-level minor curriculum determines the exact prerequisite 
 
 The Bachelor’s pathway progresses through the applicable foundational curriculum into Year 3 and Year 4 major study.
 
-| Item | Details |
+| Bachelor’s Component | Academic Structure |
 | --- | --- |
 | General Education | Applicable institutional foundation. |
 | School Core | Applicable school-specific foundation. |
@@ -401,7 +401,7 @@ The Bachelor’s pathway progresses through the applicable foundational curricul
 
 Year 3 establishes the student's disciplinary major foundation.
 
-| Item | Details |
+| Year 3 Requirement | Academic Structure |
 | --- | --- |
 | Course Level | 3xxx major coursework. |
 | Standard Major Credits | 30 credits. |
@@ -419,7 +419,7 @@ Year 3 establishes the student's disciplinary major foundation.
 | Supervision | Generally not applicable unless expressly established. |
 
 
-| Item | Details |
+| Year 3 Academic Flow | Progression |
 | --- | --- |
 | Year 3 flow | Year 3 Major → Disciplinary Foundation → OA + PA → Sequential Major Knowledge → Year 4 Admission. |
 
@@ -429,7 +429,7 @@ Year 3 establishes the student's disciplinary major foundation.
 
 Year 4 moves the student from disciplinary preparation into a sequential applied professional life cycle.
 
-| Item | Details |
+| Year 4 Requirement | Academic Structure |
 | --- | --- |
 | Course Level | 4xxx major coursework. |
 | Credits | 30. |
@@ -460,7 +460,7 @@ Professional certification-review tracks may overlay certification learning, mil
 
 RIAH distinguishes academic program completion from external professional certification.
 
-| Item | Details |
+| Certification Component | Academic Standard |
 | --- | --- |
 | Academic Curriculum | Controlled by RIAH Pathway. |
 | Certification Review | May be embedded in an applicable professional track. |
@@ -480,7 +480,7 @@ Examples of established review families appearing in the current combined curric
 
 The current graduate major structure uses a sequential 30-credit Master’s curriculum.
 
-| Item | Details |
+| Master’s Requirement | Academic Structure |
 | --- | --- |
 | Credits | 30. |
 | Courses | 10 × 3 credits. |
@@ -507,7 +507,7 @@ The project continues through the graduate life cycle where established. Profess
 
 The current MBA-in-major structure uses a sequential 30-credit management curriculum.
 
-| Item | Details |
+| MBA Requirement | Academic Structure |
 | --- | --- |
 | Credits | 30. |
 | Courses | 10 × 3 credits. |
@@ -532,7 +532,7 @@ The MBA maintains the student's disciplinary context while moving the work to th
 # 📊 20. GENERAL MBA
 
 
-| Item | Details |
+| General MBA | Academic Structure |
 | --- | --- |
 | RIAH Pathway School of Business also maintains an established General MBA | 30 Credit Hours. The General MBA remains separate from MBA-in-major pathways and follows its own controlling curriculum. |
 
@@ -542,7 +542,7 @@ The MBA maintains the student's disciplinary context while moving the work to th
 
 Experiential education is an integrated but separately governed component of applicable RIAH pathways.
 
-| Item | Details |
+| Experiential Component | Program Standard |
 | --- | --- |
 | Eligibility | According to applicable program. |
 | Selection | According to applicable pathway and available capacity. |
@@ -565,7 +565,7 @@ RIAH Pathway Secondary School contains two distinct secondary pathways:
 | 2. GED/HSE Preparation. | — |
 
 
-| Item | Details |
+| Secondary Pathway | Academic Progression |
 | --- | --- |
 | High School Diploma | Grades 9–12 → 120 Credits → OA + PA Every Course → Both Proctored → RIAH Pathway High School Diploma. |
 | GED/HSE Preparation | GED 101–104 → 12 Preparation Credits → Proctored Preparation → Separate Official HSE Credentialing. |
@@ -576,7 +576,7 @@ RIAH Pathway Secondary School contains two distinct secondary pathways:
 
 The RIAH Pathway High School Diploma is a fixed four-year Grades 9–12 secondary curriculum.
 
-| Item | Details |
+| High School Component | Academic Structure |
 | --- | --- |
 | Grades | 9–12. |
 | Academic Years | 4. |
@@ -721,7 +721,7 @@ flowchart TD
 
 RIAH controls its preparation curriculum, instruction, learning package, internal assessments, and academic requirements. Official GED/HiSET examination and credential issuance remain governed by the applicable official examination provider and jurisdiction.
 
-| Item | Details |
+| GED/HSE Course | Credits and Preparation Area |
 | --- | --- |
 | GED 101 | Mathematical Reasoning Preparation — 3 credits. |
 | GED 102 | Reasoning Through Language Arts Preparation — 3 credits. |
@@ -772,7 +772,7 @@ flowchart TD
 # 🧠 28. GED/HSE, HIGH SCHOOL & REGULAR COURSE ASSESSMENT STANDARD
 
 
-| Item | Details |
+| Assessment Type | Attempts, Standard, and Proctoring |
 | --- | --- |
 | Placement/Test-Out | 3 maximum attempts — applicable RIAH standard — Proctored. |
 | GED/HSE Preparation Checkpoint | Unlimited within semester — 80% — Proctored. |
@@ -834,7 +834,7 @@ GED/HSE Preparation:
 # 📐 31. UNIVERSAL COURSE ARCHITECTURE
 
 
-| Item | Details |
+| Universal Course Architecture | Included Course Record Fields |
 | --- | --- |
 | The controlling degree curriculum uses course records that may include Course, School, Type, Course Name, Credit Hours, Prerequisite, Software Stack, PebblePad, Certification Review, Certification Progression and Learning, Exam Modules, Project, OA, PA, Experiential if Selected, Experiential | One Month Internal, Capstone, Applied Build, and Supervision. |
 
@@ -849,7 +849,7 @@ High School Exception — Every High School Diploma course requires OA + PA, and
 
 
 
-| Item | Details |
+| High School Software and Content Layer | Curriculum Control |
 | --- | --- |
 | High School Software / Content Layer | Applicable High School Diploma courses use Edmentum as the mapped instructional software/content layer. The software content does not replace the RIAH curriculum; RIAH curriculum remains controlling and may add supplemental content, requirements, assignments, OA, PA, and other applicable course components. |
 | The controlling course record determines all other requirements. | — |
@@ -858,7 +858,7 @@ High School Exception — Every High School Diploma course requires OA + PA, and
 # 📐 32. ASSESSMENT × PROJECT ARCHITECTURE BY LEVEL
 
 
-| Item | Details |
+| Academic Level | Assessment and Project Architecture |
 | --- | --- |
 | General Education | OA/PA/projects according to applicable course; generally no capstone, applied build, or supervision. |
 | School Core | OA + PA; generally no project, capstone, applied build, or supervision. |
@@ -875,7 +875,7 @@ High School Exception — Every High School Diploma course requires OA + PA, and
 # 📈 33. PREREQUISITE PROGRESSION STANDARD
 
 
-| Item | Details |
+| Prerequisite Component | Progression Standard |
 | --- | --- |
 | Progression | Foundation → Developing → Intermediate → Advanced → Applied / Integrative. |
 | Prerequisite Definition | The applicable prior foundational course is identified. |
@@ -929,7 +929,7 @@ High school students:
 | 8. Receive the RIAH Pathway High School Diploma upon successful completion of the applicable requirements. | — |
 
 
-| Item | Details |
+| High School Diploma Flow | Progression |
 | --- | --- |
 | Flow | Complete High School Curriculum → OA + PA for Every Course → Every OA + PA Proctored → 120 RIAH Credits → Applicable State Requirements → Graduation Audit → No Capstone → RIAH Pathway High School Diploma. |
 
@@ -992,6 +992,6 @@ flowchart TD
 ```
 
 # 👑 RIAH PATHWAY
-| Item | Details |
+| Curriculum Architecture | Source |
 | --- | --- |
 | General Curriculum Architecture | Updated from the Final Curriculum Structure |
