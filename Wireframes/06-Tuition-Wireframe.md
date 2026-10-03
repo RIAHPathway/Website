@@ -361,7 +361,13 @@ Three-Month Experiential --- \$2,500 --- 3 Months Intern --- \$5,000
 Associate --- \$10,000 Senior Associate --- \$10,000 Manager ---  
 \$10,000 Executive --- \$10,000
 
-**Intern → Associate → Senior Associate → Manager → Executive**
+```mermaid
+flowchart LR
+    N1["Intern"] --> N2["Associate"]
+    N2["Associate"] --> N3["Senior Associate"]
+    N3["Senior Associate"] --> N4["Manager"]
+    N4["Manager"] --> N5["Executive"]
+```
 
 Qualifying Beta students may receive applicable extended Experiential  
 participation under the Beta structure.
@@ -660,7 +666,13 @@ Applicable tuition may be allocated across applicable paid courses.
 
 Each applicable paid course must be paid before the next applicable paid course unlocks.
 
-**Payment → Course Unlock → Course Completion → Next Applicable Payment → Next Course Unlock**
+```mermaid
+flowchart LR
+    N1["Payment"] --> N2["Course Unlock"]
+    N2["Course Unlock"] --> N3["Course Completion"]
+    N3["Course Completion"] --> N4["Next Applicable Payment"]
+    N4["Next Applicable Payment"] --> N5["Next Course Unlock"]
+```
 
 **NO PAYMENT \= NEXT PAID COURSE DOES NOT UNLOCK**
 
@@ -1333,13 +1345,23 @@ RIAH's public blockchain transparency model applies to **donations and applicabl
 | 💰 **Accreditation Donations** | Public donation and fund transparency through the Donations ledger |
 | 🔒 **Student Accounts** | Remain within private RIAH financial and student-account systems |
 
-**STUDENT FINANCES = PRIVATE 🔒 → DONATION TRANSPARENCY = PUBLIC ⛓️**
+```mermaid
+flowchart LR
+    N1["STUDENT FINANCES = PRIVATE 🔒"] --> N2["DONATION TRANSPARENCY = PUBLIC ⛓️"]
+```
 
 ## COMMUNITY CAPSTONE + PEER REVIEW POINTS AND DISCOUNTS
 
 Community members may sign up to review applicable student capstones, participate in applicable peer review, and provide structured feedback on student work. Qualifying completed reviews earn points that accumulate according to the number of capstone and peer-review activities completed.
 
-**COMMUNITY REVIEW → STRUCTURED FEEDBACK → QUALIFYING COMPLETION → POINTS EARNED → POINTS ACCUMULATED → DISCOUNT LEVEL UNLOCKED**
+```mermaid
+flowchart LR
+    N1["COMMUNITY REVIEW"] --> N2["STRUCTURED FEEDBACK"]
+    N2["STRUCTURED FEEDBACK"] --> N3["QUALIFYING COMPLETION"]
+    N3["QUALIFYING COMPLETION"] --> N4["POINTS EARNED"]
+    N4["POINTS EARNED"] --> N5["POINTS ACCUMULATED"]
+    N5["POINTS ACCUMULATED"] --> N6["DISCOUNT LEVEL UNLOCKED"]
+```
 
 | Community Participation | RIAH Structure |
 |---|---|
@@ -1352,7 +1374,11 @@ Community members may sign up to review applicable student capstones, participat
 | Bar Review | Applicable discounts may be used toward qualifying Bar Review products |
 | Educational Pathways | Applicable discounts may be used toward qualifying RIAH educational pathways, including the JD pathway and other applicable education pathways |
 
-**REVIEW MORE → ACCUMULATE MORE POINTS → UNLOCK GREATER APPLICABLE DISCOUNTS**
+```mermaid
+flowchart LR
+    N1["REVIEW MORE"] --> N2["ACCUMULATE MORE POINTS"]
+    N2["ACCUMULATE MORE POINTS"] --> N3["UNLOCK GREATER APPLICABLE DISCOUNTS"]
+```
 
 RIAH faculty and applicable academic personnel retain academic oversight and final evaluation requirements. Community and peer feedback supplements the formal academic review process.
 
