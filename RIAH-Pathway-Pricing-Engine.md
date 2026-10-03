@@ -235,9 +235,7 @@ Where the active institutional financing record uses this structure: -
 Minimum: \$500 - Maximum: \$5,000 - Minimum stated credit score: 650 -
 Interest: 5% per 30 days - Active loans allowed: 1 - Payment plan maximum:
 12 months - Standard loan due date: 3 months after graduation - Subject to credit
-approval - Potentially eligible degree pathways begin at Associate's
-level - GED and HSE: not eligible - High School: not eligible -
-Standalone Minor: not independently eligible
+approval - All RIAH pathways are eligible for loan consideration. The approved amount depends on the applicable credit review and collateral supporting the requested loan. Applicable pledged collateral secures the approved loan obligation and may be applied to recover an unpaid or defaulted RIAH loan according to the governing agreement
 
 Financing remains debt/payment method and never reduces underlying
 tuition.
@@ -1463,8 +1461,7 @@ Where the active RIAH Pathway Student Loan record applies: \$500 minimum,
 \$5,000 maximum, minimum stated credit score 650, 5% interest per 30
 days, one active loan, a 12-month maximum payment plan, and a standard
 due date 3 months after graduation, subject to credit approval. Potential
-program eligibility begins at Associate's level. GED/HSE, High School,
-and standalone Minor are not independently eligible.
+all RIAH pathways are eligible for loan consideration. The approved amount depends on the applicable credit review and collateral supporting the requested loan. Applicable pledged collateral secures the approved loan obligation and may be applied to recover an unpaid or defaulted RIAH loan according to the governing agreement.
 
 Refund and earned-amount logic must remain separate from initial price
 calculation. Experiential weekly allocation equals applicable
@@ -2741,6 +2738,8 @@ Actual Title IV administration remains subject to applicable financial-aid requi
   Interest                                                 5% per 30 days
   Estimated Due Date                            3 months after graduation
   Approved Payment Plan Maximum                           Up to 12 months
+  Pathway Eligibility                         All RIAH pathways eligible
+  Approval Basis                         Credit review and collateral
 
 
 The student selects the requested amount from:
@@ -2749,15 +2748,9 @@ The student selects the requested amount from:
 # \$500 to \$5,000
 
 
-Excluded uses include:
+All RIAH pathways are eligible for RIAH Private Student Loan consideration.
 
-
--   Minor tuition
--   standalone Minor pathways
--   Certification Review
--   Review Courses
--   Bar Review
--   products
+The student requests an amount from \$500 through \$5,000. Approval of a particular amount depends on the applicable credit review and collateral supporting the requested loan. Applicable pledged collateral secures only the approved loan obligation and may be applied to recover an unpaid or defaulted RIAH Private Student Loan according to the governing loan and collateral agreement.
 
 
 ---
@@ -3137,6 +3130,8 @@ Education Deposit: **\$2,750**
   RIAH Private Student Loan Minimum                                   \$500
   RIAH Private Student Loan Maximum                                 \$5,000
   RIAH Private Student Loan Credit Score                                650
+  RIAH Private Student Loan Pathways                    All pathways eligible
+  RIAH Private Student Loan Approval Basis            Credit and collateral
   RIAH Loan Interest                                         5% per 30 days
   Tuition Reimbursement                                          10% to 50%
   Semester Length                                                  6 months
