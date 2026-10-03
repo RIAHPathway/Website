@@ -93,19 +93,14 @@ E --> F["👑🏆 Up to 25% Tuition + 25% Products Maximum"]
 ```
 
 ## III. ⚙️ Flow Metadata
-```yaml
-track: "Delivery Ambassador"
-profile_category: "Delivery Ambassador"
-status: "in-progress"
-verification_required: true
-points_require_approval: true
-benefit_record_required: true
-review_state:
-  - pending
-  - under-review
-  - revision-if-required
-  - approved
-  - credited
+**Flow Configuration:** Track — Delivery Ambassador; Profile Category — Delivery Ambassador; Status — in-progress; Verification Required — true; Points Require Approval — true; Benefit Record Required — true.
+
+```mermaid
+flowchart LR
+    A["Pending"] --> B["Under Review"]
+    B --> C["Revision if Required"]
+    C --> D["Approved"]
+    D --> E["Credited"]
 ```
 
 Delivery Ambassadors may participate through approved vehicle vinyl, vehicle QR codes, referral links, brochures, information cards, community events, information booths, webinars, marketing campaigns, qualified referrals, student conversions, product conversions, community outreach and approved organizational introductions.
