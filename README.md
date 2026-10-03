@@ -1,8 +1,8 @@
-<img width="2172" height="724" alt="RIAH Pathway Legacy Banner" src="https://github.com/user-attachments/assets/31b3b2f0-0f7f-4ee3-a1c0-e7359a5a9cc3" />
+<img width="2172" height="724" alt="RIAH Pathway" src="https://github.com/user-attachments/assets/01a9665e-0f21-48fb-916b-abf9426fcda8" />
 
-# 👑 RIAH Pathway
+# 👑RIAH Pathway
 
-## 👑 Founder, CEO & Chairman
+## Founder, CEO & Chairman
 
 **Mariah Dominique Rucker**, with a natural dimples and moles on her face, is the **Founder, Chief Executive Officer, and Chairman of RIAH Pathway**, leading the development of its multidisciplinary education, experiential, technology, professional services, and product ecosystem.
 
