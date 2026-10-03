@@ -16,19 +16,29 @@ RIAH Pathway is designed as a connected pathway rather than a collection of disc
 
 The ecosystem connects:
 
-```yaml
-flow:
-  step_1: "Education"
-  step_2: "Curriculum"
-  step_3: "Experiential Learning"
-  step_4: "Certification and Professional Review"
-  step_5: "Applied Work"
-  step_6: "Career Preparation"
-  step_7: "Products and Resources"
-  step_8: "Technology"
-  step_9: "Professional Services"
-  step_10: "Community"
-  step_11: "Foundation and Public-Benefit Initiatives"
+```mermaid
+flowchart LR
+N1["Education"]
+N2["Curriculum"]
+N3["Experiential Learning"]
+N4["Certification and Professional Review"]
+N5["Applied Work"]
+N6["Career Preparation"]
+N7["Products and Resources"]
+N8["Technology"]
+N9["Professional Services"]
+N10["Community"]
+N11["Foundation and Public-Benefit Initiatives"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+N4 --> N5
+N5 --> N6
+N6 --> N7
+N7 --> N8
+N8 --> N9
+N9 --> N10
+N10 --> N11
 ```
 The objective is to create a structured pathway through which students, professionals, faculty, employers, contributors, partners, and communities can participate within one connected ecosystem.
 
@@ -204,19 +214,29 @@ The broader RIAH organizational ecosystem includes the established entities used
 
 ## XXV. 🌐 ONE ECOSYSTEM — MULTIPLE CONNECTED FUNCTIONS
 
-```yaml
-flow:
-  step_1: "Education"
-  step_2: "Curriculum"
-  step_3: "Experiential Learning"
-  step_4: "Certification and Professional Review"
-  step_5: "Applied Work"
-  step_6: "Career Preparation"
-  step_7: "Products and Resources"
-  step_8: "Technology"
-  step_9: "Professional Services"
-  step_10: "Community"
-  step_11: "Foundation and Public-Benefit Initiatives"
+```mermaid
+flowchart LR
+N1["Education"]
+N2["Curriculum"]
+N3["Experiential Learning"]
+N4["Certification and Professional Review"]
+N5["Applied Work"]
+N6["Career Preparation"]
+N7["Products and Resources"]
+N8["Technology"]
+N9["Professional Services"]
+N10["Community"]
+N11["Foundation and Public-Benefit Initiatives"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+N4 --> N5
+N5 --> N6
+N6 --> N7
+N7 --> N8
+N8 --> N9
+N9 --> N10
+N10 --> N11
 ```
 
 The entities, schools, technology systems, academic team, Experiential professionals, executives, governance structure, products, programs, and public website are intended to operate as connected parts of the broader RIAH ecosystem.
@@ -337,30 +357,14 @@ CTO + CISO + Technology + Cybersecurity
 
 ## LXXIII. 👑 COMPLETE DEVELOPMENT MODEL
 
-```text
-RIAH Private Company and IP
-              │
-              ↓
-Approved Public Specifications
-              │
-              ↓
-GitHub Repository
-              │
-      ┌───────┼────────┐
-      ↓       ↓        ↓
-    Issues  Projects  Discussions
-      │       │        │
-      └───────┼────────┘
-              ↓
-       Public Contributors
-              ↓
-     Branches and Pull Requests
-              ↓
-        RIAH Review
-              ↓
-      Testing and Approval
-              ↓
-       Public Website
-              ↓
-      RIAH Ecosystem V1+
+```mermaid
+flowchart TD
+A["RIAH Private Company and IP"] --> B["Approved Public Specifications"] --> C["GitHub Repository"]
+C --> D["Issues"]
+C --> E["Projects"]
+C --> F["Discussions"]
+D --> G["Branches and Pull Requests"]
+E --> G
+F --> G
+G --> H["RIAH Review"] --> I["Testing and Approval"] --> J["Public Website"] --> K["RIAH Ecosystem V1+"]
 ```
