@@ -1,3 +1,19 @@
+**Contributor; Mariah Dominique Rucker**
+
+There is currently no team. I am building everything myself until I have hired the beta team. I am starting the hiring process this month, **October 2026**, for the CTO, CISO, and experiential professionals.
+
+Beta team members will be hired with **equity participation and compensation during the beta cohort**, which launches in **Spring 2027**.
+
+Learn more about me on GitHub and LinkedIn, or connect with me through social media and Linktree.
+
+- **GitHub:** https://github.com/mariahdominiquerucker
+- **LinkedIn:** https://linkedin.com/in/mariahrucker
+- **Facebook:** https://facebook.com/heymariahrucker
+- **Instagram:** https://instagram.com/heymariahrucker
+- **Linktree:** https://linktr.ee/mariahrucker
+
+---
+
 # 👑 RIAH PATHWAY SECONDARY SCHOOL
 # GED / HSE CURRICULUM STRUCTURE
 
@@ -31,6 +47,32 @@ All courses are proctored through objective assessments, performance assessments
 | ✅ Passing score | At least 80% on every required objective assessment and performance assessment |
 | 🔄 Assessment attempts | Unlimited attempts to pass course assessments |
 | 🔒 Course progression | Where applicable, remaining courses stay locked until required assessments are passed |
+
+## 📈 Student Pacing, Acceleration, and Completion
+
+RIAH Pathway education programs support acceleration based on each student’s academic readiness and pace. The earliest completion timeframe is **one month**, provided the student completes all required coursework, passes the required assessments, satisfies applicable prerequisites and supervision requirements, and makes the required payments. Any applicable mandatory program-duration or credentialing requirements remain controlling.
+
+| Education Pathway | Typical Completion Timeframe |
+|---|---|
+| 🎓 Associate’s | Two years |
+| 🎒 Bachelor’s | Four years |
+| 🔬 Master’s | One year |
+| 📊 MBA | One year |
+| ⚖️ JD | Four years |
+| 🌱 Minor | One semester to one year |
+| 🏫 High School | Four years; academically gifted students may complete the required curriculum in one month when all completion requirements are satisfied |
+| 📘 GED/HSE Preparation | Based on the student’s readiness and pace; accelerated curriculum completion may occur in one month |
+| 📜 Other Education Pathways | Based on the applicable curriculum and student pace, with one month as the earliest completion timeframe where permitted |
+
+Typical timeframes describe the standard pace. Students may advance more quickly as they complete the required courses and satisfy the applicable payment requirements.
+
+All education pathways retain their required **proctored objective assessments, performance assessments, or both**, including during accelerated progression. Students must achieve at least **80% on every required assessment**. Applicable capstone projects retain their assigned industry-professional supervision.
+
+Course progression requires completion of the applicable prior coursework and assessments, together with satisfaction of the required payment for the next course to unlock.
+
+Payments follow the applicable **beta, pre-accreditation, or post-accreditation pricing stage** and payment rules established in the **RIAH Pathway Master Pricing Data Sheet** and **RIAH Pathway Pricing Engine** within the **Tuition-Pricing-and-Fees** folder. Acceleration changes progression and completion timing without automatically changing established total-program tuition.
+
+GED/HSE curriculum completion remains separate from official examinations and credential issuance.
 
 ## 🎓 Admission and Prerequisite Requirements
 
