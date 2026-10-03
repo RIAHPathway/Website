@@ -30,35 +30,35 @@ flow_status: "draft-review"
 
 ## 💻 End-to-End Category Flow
 
-### 🔹 Mermaid Flow — Part 1
+### 💻 High-Level Flow — Contribution
 
 ```mermaid
 flowchart TB
 A["💻 GitHub Contributor"] --> B["👑 Confirm Eligibility & Approved Public Scope"]
-B --> C["🧭 Select Issue, Project, Proposal or Authorized Work"]
+B --> C["🧭 Select Authorized Work"]
 C --> D["🛠️ Build Contribution"]
-D --> E["🧪 Self-Review: Accuracy, Testing, Accessibility, Responsive Behavior"]
-E --> F["📤 Submit Issue, PR, Review, Media, Research or Deliverable"]
-F --> G["👀 Maintainer Review"]
-G --> H{"🔄 Revision Required?"}
-H -- Yes --> I["🔄 Revise & Resubmit"]
-I --> G
+D --> E["📤 Submit Contribution"]
 ```
 
-### 🔹 Mermaid Flow — Part 2
+### 👀 High-Level Flow — Review & Verification
 
 ```mermaid
 flowchart TB
-H{"🔄 Revision Required?"}
-H -- No --> J["✅ Accepted, Merged or Formally Verified"]
-J --> K["⭐ Assign 5–250 Points Based on Accepted Value"]
-K --> L["📋 Add to Contributor Ledger"]
-L --> M{"🏆 Complete 100-Point Milestone?"}
-M -- No --> N["⭐ Carry Remaining Points Forward"]
-M -- Yes --> O["🎓 +1% Tuition & 🛍️ +1% Products"]
-O --> P{"👑 2,500 Points Reached?"}
-P -- No --> C
-P -- Yes --> Q["👑🏆 25% Tuition + 25% Products Maximum"]
+A["📤 Submitted Contribution"] --> B["👀 Maintainer Review"]
+B --> C["🔄 Revision When Required"]
+C --> D["✅ Accepted, Merged or Formally Verified"]
+D --> E["📋 Add to Contributor Ledger"]
+
+### ⭐ High-Level Flow — Points & Benefits
+
+```mermaid
+flowchart TB
+A["✅ Verified Contribution"] --> B["⭐ Assign Approved Points"]
+B --> C["🏆 Determine Applicable Milestone"]
+C --> D["🎓 Eligible Tuition Benefit"]
+C --> E["🛍️ Eligible Product Benefit"]
+D --> F["👑 Up to Applicable Maximum"]
+E --> F
 ```
 
 ## ⚙️ Flow Metadata
