@@ -95,20 +95,21 @@ Majors/Minors: Computer Science, Cybersecurity, Data Analytics, Data Science, So
 
 
 ## ❤️ School of Technology Core — Cengage MindTap Software Coverage
-RIAH Course | Course Name | Cengage MindTap
-TEC 2101 | Principles of Computer Science | ✓
-TEC 2102 | Web Development | ✓
-TEC 2103 | Principles of Cybersecurity | ✓
-TEC 2104 | Principles of Information Systems | ✓
-TEC 2105 | Operating Systems & Architecture | ✓
-TEC 2106 | Systems Analysis & Design | ✓
-TEC 2107 | Principles of Data Analytics | ✓
-TEC 2108 | Principles of Data Science | ✓
-TEC 2109 | Principles of Project Management | ✓
-TEC 2110 | Principles of Program Management | ✓
-TEC 2111 | Principles of Software Development | ✓
-TEC 2112 | Principles of Software Engineering | ✓
-TEC 2113 | Statistics | ✓
+| RIAH Course | Course Name | Cengage MindTap |
+| --- | --- | --- |
+| TEC 2101 | Principles of Computer Science | ✓ |
+| TEC 2102 | Web Development | ✓ |
+| TEC 2103 | Principles of Cybersecurity | ✓ |
+| TEC 2104 | Principles of Information Systems | ✓ |
+| TEC 2105 | Operating Systems & Architecture | ✓ |
+| TEC 2106 | Systems Analysis & Design | ✓ |
+| TEC 2107 | Principles of Data Analytics | ✓ |
+| TEC 2108 | Principles of Data Science | ✓ |
+| TEC 2109 | Principles of Project Management | ✓ |
+| TEC 2110 | Principles of Program Management | ✓ |
+| TEC 2111 | Principles of Software Development | ✓ |
+| TEC 2112 | Principles of Software Engineering | ✓ |
+| TEC 2113 | Statistics | ✓ |
 Applicable Technology programs may contain established professional certification-review tracks in addition to the general academic pathway.
 
 
@@ -124,17 +125,18 @@ Majors/Minors: Governance, Risk & Compliance; Intelligence; Physical Security; P
 
 
 ## ❤️ School of Homeland Security Core — Cengage MindTap Software Coverage
-RIAH Course | Course Name | Cengage MindTap
-HS 2101 | Foundations of Homeland Security | ✓
-HS 2102 | Homeland Security Law, Policy and Ethics | ✓
-HS 2103 ★ | Principles of Governance, Risk and Compliance | X
-HS 2104 | Principles of Intelligence | ✓
-HS 2105 ★ | Principles of Physical Security | X
-HS 2106 | Principles of Private Investigations | ✓
-HS 2107 | Emergency Management and Preparedness | ✓
-HS 2108 | Critical Infrastructure Protection | ✓
-HS 2109 ★ | Security Operations and Incident Management | X
-HS 2110 | Homeland Security Strategy and Coordination | ✓
+| RIAH Course | Course Name | Cengage MindTap |
+| --- | --- | --- |
+| HS 2101 | Foundations of Homeland Security | ✓ |
+| HS 2102 | Homeland Security Law, Policy and Ethics | ✓ |
+| HS 2103 ★ | Principles of Governance, Risk and Compliance | X |
+| HS 2104 | Principles of Intelligence | ✓ |
+| HS 2105 ★ | Principles of Physical Security | X |
+| HS 2106 | Principles of Private Investigations | ✓ |
+| HS 2107 | Emergency Management and Preparedness | ✓ |
+| HS 2108 | Critical Infrastructure Protection | ✓ |
+| HS 2109 ★ | Security Operations and Incident Management | X |
+| HS 2110 | Homeland Security Strategy and Coordination | ✓ |
 Applicable Homeland Security programs may contain established professional certification-review tracks in addition to the general academic pathway.
 
 
@@ -148,17 +150,18 @@ RIAH Pathway School of Law contains Criminal Justice, Juris Doctor — JD, and N
 
 School of Law Core: 30 Credit Hours.
 ## ❤️ School of Law Core — Cengage MindTap Software Coverage
-RIAH Course | Course Name | Cengage MindTap
-LAW 2001 | Introduction to Law & Legal Systems | ✓
-LAW 2002 | Principles of Criminal Justice | ✓
-LAW 2003 | Criminal Law | ✓
-LAW 2004 | Courts & Judicial Systems | ✓
-LAW 2005 | Policing & Law Enforcement | ✓
-LAW 2006 | Corrections & Rehabilitation | ✓
-LAW 2007 | Criminal Investigation & Evidence | ✓
-LAW 2008 | Criminology | ✓
-LAW 2009 | Ethics in Criminal Justice | ✓
-LAW 2010 | Criminal Justice Research & Analysis | ✓
+| RIAH Course | Course Name | Cengage MindTap |
+| --- | --- | --- |
+| LAW 2001 | Introduction to Law & Legal Systems | ✓ |
+| LAW 2002 | Principles of Criminal Justice | ✓ |
+| LAW 2003 | Criminal Law | ✓ |
+| LAW 2004 | Courts & Judicial Systems | ✓ |
+| LAW 2005 | Policing & Law Enforcement | ✓ |
+| LAW 2006 | Corrections & Rehabilitation | ✓ |
+| LAW 2007 | Criminal Investigation & Evidence | ✓ |
+| LAW 2008 | Criminology | ✓ |
+| LAW 2009 | Ethics in Criminal Justice | ✓ |
+| LAW 2010 | Criminal Justice Research & Analysis | ✓ |
 Criminal Justice: 15-credit established Minor; Bachelor’s Year 3 — 30 credits; Bachelor’s Year 4 — 30 credits; Master’s — 30 credits; MBA — 30 credits; applicable established certification-review tracks.
 
 
@@ -201,17 +204,18 @@ Majors/Minors: Accounting, Entrepreneurship, Finance, Business Management. Each 
 
 
 ## ❤️ School of Business Core — Cengage MindTap Software Coverage
-RIAH Course | Course Name | Cengage MindTap
-BUS 2101 | Principles of Financial Accounting | ✓
-BUS 2102 | Principles of Managerial Accounting | ✓
-BUS 2103 | Microeconomics | ✓
-BUS 2104 | Macroeconomics | ✓
-BUS 2105 | Statistics | ✓
-BUS 2106 | Marketing | ✓
-BUS 2107 | Principles of Management | ✓
-BUS 2108 | Operations Management | ✓
-BUS 2109 | Principles of Entrepreneurship | ✓
-BUS 2110 | Principles of Finance | ✓
+| RIAH Course | Course Name | Cengage MindTap |
+| --- | --- | --- |
+| BUS 2101 | Principles of Financial Accounting | ✓ |
+| BUS 2102 | Principles of Managerial Accounting | ✓ |
+| BUS 2103 | Microeconomics | ✓ |
+| BUS 2104 | Macroeconomics | ✓ |
+| BUS 2105 | Statistics | ✓ |
+| BUS 2106 | Marketing | ✓ |
+| BUS 2107 | Principles of Management | ✓ |
+| BUS 2108 | Operations Management | ✓ |
+| BUS 2109 | Principles of Entrepreneurship | ✓ |
+| BUS 2110 | Principles of Finance | ✓ |
 Applicable Business programs may contain established professional certification-review tracks in addition to the general academic pathway.
 
 
@@ -235,17 +239,18 @@ Detailed course tables remain in the controlling degree curriculum.
 ## ❤️ General Education — Edmentum Software Coverage
 
 
-RIAH Course | Course Name | Edmentum
-ENG 1010 | College English | ✓
-MAT 1010 | College Algebra | ✓
-COM 1010 | Oral Communications | ✓
-LAN 1010 | Foreign Language | ✓
-HIS 1010 | History | ✓
-PHI 1010 | Philosophy | X — RIAH Additional Curriculum
-PSY 1010 | Psychology | ✓
-SOC 1010 | Sociology | ✓
-ART 1010 | Art | ✓
-SCI 1010 | Science | ✓
+| RIAH Course | Course Name | Edmentum |
+| --- | --- | --- |
+| ENG 1010 | College English | ✓ |
+| MAT 1010 | College Algebra | ✓ |
+| COM 1010 | Oral Communications | ✓ |
+| LAN 1010 | Foreign Language | ✓ |
+| HIS 1010 | History | ✓ |
+| PHI 1010 | Philosophy | X — RIAH Additional Curriculum |
+| PSY 1010 | Psychology | ✓ |
+| SOC 1010 | Sociology | ✓ |
+| ART 1010 | Art | ✓ |
+| SCI 1010 | Science | ✓ |
 
 
 Philosophy Note — PHI 1010 remains part of the RIAH General Education curriculum. RIAH will provide and/or integrate additional Philosophy curriculum because Edmentum does not provide the mapped Philosophy coverage used for this structure.
@@ -608,47 +613,48 @@ Detailed course tables and state-component mappings remain in the controlling Hi
 RIAH Pathway retains and controls its own High School Diploma curriculum. Edmentum is the primary instructional software and curriculum-content ecosystem mapped to the applicable RIAH high-school courses. RIAH may supplement, expand, reorganize, or add curriculum content, assignments, OA, PA, state components, and other course requirements.
 
 
-Software | RIAH Course | Course Name | Coverage
-Edmentum | ENG 1101 | English I / Composition I | ✓
-Edmentum | MAT 1101 | Algebra I | ✓
-Edmentum | SCI 1101 | Geology | ✓
-Edmentum | GEO 1101 | World Geography | ✓
-Edmentum | TEC 1101 | Digital Literacy | ✓
-Edmentum | ENG 1102 | English II / Composition II | ✓
-Edmentum | MAT 1102 | Geometry | ✓
-Edmentum | SCI 1102 | Astronomy | ✓
-Edmentum | HIS 1101 | World History | ✓
-Edmentum | HLT 1101 | Health | ✓
-Edmentum | ENG 2101 | English III / American Literature | ✓
-Edmentum | MAT 2101 | Algebra II | ✓
-Edmentum | SCI 2101 | Earth Science | ✓
-Edmentum | HIS 2101 | Holocaust & Genocide Studies | ✓
-Edmentum | PED 2101 | Physical Education | ✓
-Edmentum | ENG 2102 | English IV / World Literature | ✓
-Edmentum | MAT 2102 | Trigonometry | ✓
-Edmentum | SCI 2102 | Environmental Science | ✓
-Edmentum | GOV 2101 | Government | ✓
-Edmentum | ART 2101 | Fine Arts | ✓
-Edmentum | MAT 3101 | Precalculus | ✓
-Edmentum | SCI 3101 | Biology | ✓
-Edmentum | HIS 3101 | American History | ✓
-Edmentum | FIN 3101 | Financial Literacy | ✓
-Edmentum | LAN 3101 | World Language I | ✓
-Edmentum | MAT 3102 | Calculus | ✓
-Edmentum | SCI 3102 | Chemistry | ✓
-Edmentum | HIS 3102 | State History | ✓
-Edmentum | LAN 3102 | World Language II | ✓
-Edmentum | PFI 3101 | Personal Finance | ✓
-Edmentum | MAT 4101 | Statistics | ✓
-Edmentum | SCI 4101 | Anatomy | ✓
-Edmentum | ECO 4101 | Economics | ✓
-Edmentum | CSC 4101 | Computer Science | ✓
-Edmentum | ETH 4101 | Ethnic Studies | ✓
-Edmentum | SCI 4102 | Physiology | ✓
-Edmentum | SCI 4103 | Physics | ✓
-Edmentum | SOC 4101 | Sociology | ✓
-Edmentum | PSY 4101 | Psychology | ✓
-Edmentum | COM 4101 | Oral Communication | ✓
+| Software | RIAH Course | Course Name | Coverage |
+| --- | --- | --- | --- |
+| Edmentum | ENG 1101 | English I / Composition I | ✓ |
+| Edmentum | MAT 1101 | Algebra I | ✓ |
+| Edmentum | SCI 1101 | Geology | ✓ |
+| Edmentum | GEO 1101 | World Geography | ✓ |
+| Edmentum | TEC 1101 | Digital Literacy | ✓ |
+| Edmentum | ENG 1102 | English II / Composition II | ✓ |
+| Edmentum | MAT 1102 | Geometry | ✓ |
+| Edmentum | SCI 1102 | Astronomy | ✓ |
+| Edmentum | HIS 1101 | World History | ✓ |
+| Edmentum | HLT 1101 | Health | ✓ |
+| Edmentum | ENG 2101 | English III / American Literature | ✓ |
+| Edmentum | MAT 2101 | Algebra II | ✓ |
+| Edmentum | SCI 2101 | Earth Science | ✓ |
+| Edmentum | HIS 2101 | Holocaust & Genocide Studies | ✓ |
+| Edmentum | PED 2101 | Physical Education | ✓ |
+| Edmentum | ENG 2102 | English IV / World Literature | ✓ |
+| Edmentum | MAT 2102 | Trigonometry | ✓ |
+| Edmentum | SCI 2102 | Environmental Science | ✓ |
+| Edmentum | GOV 2101 | Government | ✓ |
+| Edmentum | ART 2101 | Fine Arts | ✓ |
+| Edmentum | MAT 3101 | Precalculus | ✓ |
+| Edmentum | SCI 3101 | Biology | ✓ |
+| Edmentum | HIS 3101 | American History | ✓ |
+| Edmentum | FIN 3101 | Financial Literacy | ✓ |
+| Edmentum | LAN 3101 | World Language I | ✓ |
+| Edmentum | MAT 3102 | Calculus | ✓ |
+| Edmentum | SCI 3102 | Chemistry | ✓ |
+| Edmentum | HIS 3102 | State History | ✓ |
+| Edmentum | LAN 3102 | World Language II | ✓ |
+| Edmentum | PFI 3101 | Personal Finance | ✓ |
+| Edmentum | MAT 4101 | Statistics | ✓ |
+| Edmentum | SCI 4101 | Anatomy | ✓ |
+| Edmentum | ECO 4101 | Economics | ✓ |
+| Edmentum | CSC 4101 | Computer Science | ✓ |
+| Edmentum | ETH 4101 | Ethnic Studies | ✓ |
+| Edmentum | SCI 4102 | Physiology | ✓ |
+| Edmentum | SCI 4103 | Physics | ✓ |
+| Edmentum | SOC 4101 | Sociology | ✓ |
+| Edmentum | PSY 4101 | Psychology | ✓ |
+| Edmentum | COM 4101 | Oral Communication | ✓ |
 
 
 ✓ = Edmentum provides applicable instructional content/courseware mapped into the RIAH course. RIAH curriculum remains controlling for every course.
@@ -693,11 +699,12 @@ Total — 12 credits.
 ## ❤️ GED/HSE Preparation — Edmentum Software Coverage
 
 
-RIAH Course | Course Name | Edmentum
-GED 101 | Mathematical Reasoning Preparation | ✓
-GED 102 | Reasoning Through Language Arts Preparation | ✓
-GED 103 | Science Preparation | ✓
-GED 104 | Social Studies Preparation | ✓
+| RIAH Course | Course Name | Edmentum |
+| --- | --- | --- |
+| GED 101 | Mathematical Reasoning Preparation | ✓ |
+| GED 102 | Reasoning Through Language Arts Preparation | ✓ |
+| GED 103 | Science Preparation | ✓ |
+| GED 104 | Social Studies Preparation | ✓ |
 
 
 ✓ = Edmentum provides applicable instructional content/courseware that RIAH maps into its GED/HSE preparation curriculum. RIAH curriculum remains controlling.
