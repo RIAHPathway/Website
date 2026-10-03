@@ -241,9 +241,12 @@ RIAH external educational products and professional-support services are develop
 
 The Founder and CEO establishes and directs the curriculum architecture, product structure, ecosystem alignment, and applicable content direction.
 
-Certification Review courses, Bar Review materials, textbooks, workbooks, review resources, practice resources, and related educational content are developed and reviewed with qualified faculty, PhD-level subject-matter professionals, and professionals within the applicable discipline. Depending on the school and subject, this includes professionals in accounting, business, technology, cybersecurity, homeland security, and other applicable disciplines. Law and Bar Review content and support incorporate qualified legal professionals, including attorneys and judges where applicable.
+- Certification Review courses, Bar Review materials, textbooks, workbooks, review resources, practice resources, and related educational content are developed and reviewed with qualified faculty, PhD-level subject-matter professionals, and professionals within the applicable discipline.
+- Depending on the school and subject, this includes professionals in accounting, business, technology, cybersecurity, homeland security, and other applicable disciplines.
+- Law and Bar Review content and support incorporate qualified legal professionals, including attorneys and judges where applicable.
 
-Live mentorship, coaching, academic advisement, study support, and live review may be delivered by RIAH faculty, adjunct faculty, experiential professionals, and contracted external professionals matched to the applicable discipline. Contracted professionals supplement the RIAH ecosystem and extend service capacity beyond the 173-person at-scale internal team structure.
+- Live mentorship, coaching, academic advisement, study support, and live review may be delivered by RIAH faculty, adjunct faculty, experiential professionals, and contracted external professionals matched to the applicable discipline.
+- Contracted professionals supplement the RIAH ecosystem and extend service capacity beyond the 173-person at-scale internal team structure.
 
 Applicable Certification Review and Bar Review package services are matched to qualified professionals within the relevant discipline so live support is provided by people and is not replaced by technology.
 
@@ -1389,7 +1392,6 @@ Explore physical and select digital products for professional preparation, compa
 
 ---
 
-
 ## COMMUNITY CAPSTONE + PEER REVIEW POINTS AND DISCOUNTS
 
 Community members may sign up to review applicable student capstones, participate in applicable peer review, and provide structured feedback on student work. Qualifying completed reviews earn points that accumulate according to the number of capstone and peer-review activities completed.
@@ -1591,7 +1593,8 @@ RIAH faculty and applicable academic personnel retain academic oversight and fin
 
 **Download:** RIAH Pathway Products + Services Catalog
 
-**Reason Needed:** Provides one retainable standalone catalog containing applicable physical and print products, select digital products, digital-preview rules, Certification Reviews organized by School of Business, School of Technology, and School of Homeland Security, Microsoft Azure and Hack The Box pathways, complete Basic, Standard, and Premium package inclusions, California Baby Bar Review, Full RIAH Bar Review, all 50 states plus Washington, D.C. jurisdiction-module architecture, professional resources, services, pricing, shipping and fulfillment information, availability, and inquiry information.
+- C.
+- jurisdiction-module architecture, professional resources, services, pricing, shipping and fulfillment information, availability, and inquiry information.
 
 ------------------------------------------------------------------------
 
@@ -1612,4 +1615,5 @@ Products remain governed by the controlling Products rules and do not replace th
 
 # REAL-WORK EXPERIENCE CONNECTION
 
-Applicable RIAH educational and professional resources may support supervised real-work experiences across legal, accounting, business, technology, cybersecurity, Foundation, donation, blockchain, audit, compliance, and reporting environments. Products and review materials support learning and preparation; they do not replace professional supervision, legal authorization, or applicable real-work requirements.
+- Applicable RIAH educational and professional resources may support supervised real-work experiences across legal, accounting, business, technology, cybersecurity, Foundation, donation, blockchain, audit, compliance, and reporting environments.
+- Products and review materials support learning and preparation; they do not replace professional supervision, legal authorization, or applicable real-work requirements.
