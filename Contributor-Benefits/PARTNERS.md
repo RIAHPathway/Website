@@ -115,6 +115,54 @@ A separate approved Partner or Pillar Product Benefit may reach **up to 25% elig
 
 Partner points document verified engagement. They support additional benefits only where applicable written partnership terms authorize those benefits and do not automatically increase every Partner Employee beyond the established Partner Employee benefit.
 
+## 🤝 Partner Contribution Categories
+
+| Category | Eligible Partner Contribution | Typical Points |
+|---|---|---:|
+| 🎓 Orientation | Complete approved partner orientation | 25 |
+| 🎥 Webinar | Attend approved partner webinar | 10 |
+| 🎪 Event Participation | Participate in approved RIAH partner event | 25 |
+| 🪧 Booth | Staff approved partner booth or table | 50 |
+| 🎤 Presentation | Serve as approved workshop or session presenter | 50 |
+| 📣 Joint Outreach | Complete approved joint outreach assignment | 25 |
+| 📚 Partner Resource | Develop approved partner resource | 25–50 |
+| 🤝 Joint Initiative | Complete approved joint initiative | 50–100 |
+| 🎪 Event Coordination | Coordinate approved partner event | 75 |
+| 👑 Major Initiative | Complete major approved joint initiative | 100–250 |
+
+## 🎯 Partner Point Scoring Standards
+
+Partner activity points are based on verified scope, completion, meaningful participation, approved deliverables, event responsibility, documentation, implementation value and the applicable written partnership terms. A larger number of activities does not automatically create a larger benefit if the activities are duplicate, unverifiable, outside the partnership scope or already counted as one underlying initiative.
+
+## 🔄 Partner Workflow
+
+**🤝 Approved Partnership → 📄 Written Terms → 👑 Verify Affiliation → 👤 Verify Participant Eligibility → 🎓🛍️ Apply Established Benefit → ⭐ Record Approved Partner Activity → 👀 Verify Activity → 📋 Update Partner Record → 🔄 Re-verify When Terms or Affiliation Change**
+
+## ❌ Ineligible Partner Claims
+
+| Ineligible Activity | Result |
+|---|---|
+| ❌ Expired or inactive partner affiliation | No benefit |
+| ❌ Unverified employee, member or participant claim | No benefit |
+| ❌ Transferred benefit | No benefit |
+| ❌ Duplicate activity claim | No additional points |
+| ❌ Activity outside written partnership scope | No points unless separately approved |
+| ❌ Fabricated event, resource or initiative | No points |
+| ❌ Unauthorized use of RIAH branding | No points and subject to review |
+| ❌ Attempt to exceed applicable benefit cap | Benefit remains at applicable cap |
+
+## 🏆 Partner Examples
+
+| Example | Result |
+|---|---|
+| 🤝 Verified eligible Partner Employee | 15% eligible tuition + 15% eligible products under applicable terms |
+| 🤝 Partner with separately authorized Pillar Product Benefit | Up to 25% eligible products where the written terms authorize it |
+| ⭐ Partner completes orientation + event + booth | 25 + 25 + 50 = 100 recorded Partner Activity Points |
+| 👑 Partner coordinates event + major initiative | 75 + applicable 100–250 points after verification |
+| 🔄 Affiliation changes | Benefit and activity record require re-verification |
+
+Partner Activity Points document engagement and do not independently rewrite or supersede the written partnership benefit.
+
 ## IV. 🛡️ Verification
 
 Verification may include active partner status, written partnership terms, employment/member/participant eligibility, event or initiative records, approved resources, RIAH review and re-verification when affiliation changes. Fraudulent, expired, transferred, duplicate, unauthorized or unverifiable claims are ineligible.
