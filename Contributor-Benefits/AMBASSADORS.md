@@ -10,6 +10,23 @@ flow_status: "draft-review"
 
 **Status: In Progress — Review and Finalization Required**
 
+## 📑 Index
+
+I. 🌎 Category Key  
+II. 🌎 End-to-End Category Flow  
+III. ⚙️ Flow Metadata  
+IV. 👑 General Eligibility  
+V. 🧮 Benefit Formula  
+VI. ⭐ Community Ambassador Point System  
+VII. 🎪 Events, Workshops and Outreach  
+VIII. 🔗 QR Codes, Referral Links and Attribution  
+IX. 🏆 1%–25% Milestones  
+X. 👥 Benefit Levels  
+XI. 🔗 Referral and Conversion Milestones  
+XII. 🛡️ Verification and Anti-Abuse  
+XIII. ⏳ Status Workflow  
+XIV. 📋 Participant Ledger
+
 ## 🌎 Category Key
 
 | Emoji | Meaning |
