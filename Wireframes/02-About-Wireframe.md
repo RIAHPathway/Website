@@ -563,50 +563,198 @@ Operations, backend administration, recruitment, customer service, participant s
 
 # 02.5 — BOARD & GOVERNANCE
 
-[SECTION HERO IMAGE — Governance and institutional leadership meeting]
+[SECTION HERO IMAGE — Corporate, Foundation, and Institutional governance leadership represented across the RIAH Pathway ecosystem]
 
 # Governance Built for Accountability
 
-Institutional governance supports oversight, responsibility, continuity, quality, compliance, and long-term stewardship.
+RIAH Pathway governance operates across **three connected governance pillars**:
 
-[DIAGRAM IMAGE — Board and Governance connected to Executive Leadership, Academic Leadership, schools, technology, cybersecurity, finance, legal, compliance, and operations]
+[ICON — CORPORATE GOVERNANCE] Corporate Governance  
+[ICON — FOUNDATION GOVERNANCE] Foundation Governance  
+[ICON — INSTITUTIONAL GOVERNANCE] Institutional Governance
+
+Together, the governance structure supports oversight, accountability, compliance, continuity, stewardship, and long-term development across the RIAH Pathway ecosystem.
+
+[DIAGRAM IMAGE — Three-pillar governance model showing Corporate Governance, Foundation Governance, and Institutional Governance connected to the broader RIAH Pathway ecosystem]
+
+---
+
+## CORPORATE GOVERNANCE
+
+[IMAGE — Corporate board and executive governance meeting]
+
+The Corporate Board supports governance of the corporation and applicable subsidiaries operating throughout the RIAH Pathway dynasty.
+
+### Corporate Governance Supports
+
+- Corporation oversight
+- Applicable subsidiary oversight
+- Corporate governance
+- Enterprise strategy
+- Executive accountability
+- Financial oversight
+- Risk oversight
+- Technology governance
+- Cybersecurity governance
+- Legal and compliance oversight
+- Corporate policies
+- Long-term enterprise stewardship
+
+[BUTTON — Corporate Opportunities → 10.4 Join Our Team]
+
+[DOWNLOAD — Corporate Governance Overview → SuiteDash Public Documentation Center]
+
+[EXTERNAL LINK — Corporate Governance Policies → SuiteDash Public Documentation Center]
+
+---
+
+## FOUNDATION GOVERNANCE
+
+[IMAGE — Foundation board reviewing educational access, funding, and institutional-support initiatives]
+
+The Foundation Board supports the charitable, educational-access, funding, and institutional-support functions of the RIAH Pathway ecosystem.
+
+### Foundation Governance Supports
+
+- Accreditation support
+- State authorization support
+- Scholarships
+- Student stipends
+- Grants
+- Loans
+- Philanthropic initiatives
+- Educational access
+- Institutional support
+- Funding oversight
+- Foundation compliance
+- Donor stewardship
+
+[BUTTON — Donations and Foundation → 07 Donations]
+
+[DOWNLOAD — Foundation Governance Overview → SuiteDash Public Documentation Center]
+
+[DOWNLOAD — Scholarship and Funding Guide → SuiteDash Public Documentation Center]
+
+[EXTERNAL LINK — Scholarship Forms → SuiteDash Public Documentation Center]
+
+[EXTERNAL LINK — Grant Forms → SuiteDash Public Documentation Center]
+
+[EXTERNAL LINK — Foundation Policies and Procedures → SuiteDash Public Documentation Center]
+
+---
+
+## INSTITUTIONAL GOVERNANCE
+
+[IMAGE — Academic, experiential, and institutional leadership governance meeting]
+
+Institutional Governance supports the **education and experiential functions** of RIAH Pathway.
+
+### Institutional Governance Supports
+
+- Education
+- Academic governance
+- Schools and programs
+- Curriculum oversight
+- Faculty accountability
+- Experiential governance
+- Experiential standards
+- Participant oversight
+- Academic quality
+- Institutional policies
+- Institutional compliance
+- Student and participant experience
+- Educational operations
+- Institutional continuity
+
+[BUTTON — Explore Curriculum → 04 Curriculum]
+
+[BUTTON — Explore Experiential → 03.5 Experiential Pathway]
+
+[DOWNLOAD — Institutional Governance Overview → SuiteDash Public Documentation Center]
+
+[DOWNLOAD — Academic Governance Overview → SuiteDash Public Documentation Center]
+
+[DOWNLOAD — Experiential Governance Guidelines → SuiteDash Public Documentation Center]
+
+[EXTERNAL LINK — Institutional Policies and Procedures → SuiteDash Public Documentation Center]
+
+---
+
+## THREE-PILLAR GOVERNANCE STRUCTURE
+
+| Governance Pillar | Primary Scope | Key Areas |
+|---|---|---|
+| Corporate Board | Corporation and applicable subsidiaries | Corporate oversight, subsidiaries, strategy, finance, risk, technology, cybersecurity, legal, compliance |
+| Foundation Board | Foundation and institutional-support functions | Accreditation, state authorization, scholarships, stipends, grants, loans, philanthropy, educational access |
+| Institutional Board | Education and experiential functions | Academics, schools, curriculum, faculty, experiential programs, participants, institutional quality |
+
+The three boards operate within their respective responsibilities while considering the broader impact of decisions across **Corporate, Foundation, and Institutional** governance.
+
+[DIAGRAM IMAGE — Corporate Board, Foundation Board, and Institutional Board shown as three connected governance pillars with cross-governance visibility across the RIAH Pathway ecosystem]
+
+---
+
+## GOVERNANCE RESPONSIBILITIES
 
 ### Governance Supports
 
-[ICON — OVERSIGHT] Institutional oversight  
+[ICON — OVERSIGHT] Institutional and organizational oversight  
 [ICON — MISSION] Mission stewardship  
+[ICON — CORPORATE] Corporate and subsidiary accountability  
+[ICON — FOUNDATION] Foundation stewardship  
 [ICON — ACADEMIC] Academic accountability  
+[ICON — EXPERIENTIAL] Experiential accountability  
 [ICON — FINANCE] Financial oversight  
+[ICON — FUNDING] Scholarships, stipends, grants, and loans  
+[ICON — AUTHORIZATION] Accreditation and state authorization support  
 [ICON — LEGAL] Legal and compliance oversight  
 [ICON — RISK] Risk oversight  
 [ICON — TECHNOLOGY] Technology governance  
 [ICON — CYBERSECURITY] Cybersecurity governance  
-[ICON — POLICY] Institutional policy  
-[ICON — ACCOUNTABILITY] Organizational accountability  
+[ICON — POLICY] Policy oversight  
 [ICON — ETHICS] Conflict-of-interest controls  
-[ICON — CONTINUITY] Institutional continuity
+[ICON — CONTINUITY] Organizational and institutional continuity
 
 ### Responsibility Remains Distributed
 
 | Function | Responsibility |
 |---|---|
-| Operational Leadership | Day-to-day institutional operations |
+| Corporate Governance | Corporation and applicable subsidiary oversight |
+| Foundation Governance | Foundation, funding, educational-access, and institutional-support oversight |
+| Institutional Governance | Education and experiential oversight |
+| Executive Leadership | Day-to-day organizational operations |
 | Academic Professionals | Academic judgment |
 | Experiential Professionals | Supervision, management, review, and professional judgment |
 | Technology and Cybersecurity | Institutional technology and security |
 | Finance and Accounting | Financial functions |
-| Legal and Compliance | Legal and compliance functions |
+| Legal and Compliance | Legal, regulatory, and compliance functions |
 
 [BUTTON — Accreditation and Authorization → 09 Accreditation & Authorization]
+
+[BUTTON — Donations and Foundation → 07 Donations]
+
 [BUTTON — Join Board and Governance → 10.4.1.3 Board of Governance]
 
 [DOWNLOAD — Governance Overview → SuiteDash Public Documentation Center]
+
+[DOWNLOAD — Corporate Governance Overview → SuiteDash Public Documentation Center]
+
+[DOWNLOAD — Foundation Governance Overview → SuiteDash Public Documentation Center]
+
+[DOWNLOAD — Institutional Governance Overview → SuiteDash Public Documentation Center]
+
 [DOWNLOAD — Board Governance Handbook → SuiteDash Public Documentation Center]
+
 [DOWNLOAD — Code of Conduct → SuiteDash Public Documentation Center]
+
 [DOWNLOAD — Conflict of Interest Policy → SuiteDash Public Documentation Center]
 
-[EXTERNAL LINK — Governance Policies → SuiteDash Public Documentation Center]
-[EXTERNAL LINK — Governance Procedures → SuiteDash Public Documentation Center]
+[EXTERNAL LINK — Corporate Governance Policies → SuiteDash Public Documentation Center]
+
+[EXTERNAL LINK — Foundation Policies and Procedures → SuiteDash Public Documentation Center]
+
+[EXTERNAL LINK — Institutional Policies and Procedures → SuiteDash Public Documentation Center]
+
 [EXTERNAL LINK — Governance Forms → SuiteDash Public Documentation Center]
 
 ---
