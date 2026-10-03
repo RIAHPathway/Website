@@ -83,7 +83,26 @@ Participants can enter through different pathways and continue through the broad
 
 ## OUR LEARNING MODEL
 
-[INFOGRAPHIC IMAGE — Online Education → Proctored Assessment → Applied Projects → Experiential Work → Certification → Career Development → Alumni → Lifelong Learning]
+[INFOGRAPHIC IMAGE — CONNECTED LEARNING MODEL]
+
+```mermaid
+flowchart LR
+N1["Online Education"]
+N2["Proctored Assessment"]
+N3["Applied Projects"]
+N4["Experiential Work"]
+N5["Certification"]
+N6["Career Development"]
+N7["Alumni"]
+N8["Lifelong Learning"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+N4 --> N5
+N5 --> N6
+N6 --> N7
+N7 --> N8
+```
 
 ### Academic Learning
 
@@ -269,7 +288,30 @@ Participants and professionals can contribute to the ecosystem while creating ed
 
 [PROCESS INFOGRAPHIC IMAGE — CONNECTED RIAH PATHWAY EXPERIENCE]
 
-**Discover → Choose → Apply → Onboard → Learn → Demonstrate → Experience → Progress → Contribute → Connect → Continue**
+```mermaid
+flowchart LR
+N1["Discover"]
+N2["Choose"]
+N3["Apply"]
+N4["Onboard"]
+N5["Learn"]
+N6["Demonstrate"]
+N7["Experience"]
+N8["Progress"]
+N9["Contribute"]
+N10["Connect"]
+N11["Continue"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+N4 --> N5
+N5 --> N6
+N6 --> N7
+N7 --> N8
+N8 --> N9
+N9 --> N10
+N10 --> N11
+```
 
 [BUTTON — Explore Your Pathway → 03 Pathway]
 
@@ -922,7 +964,32 @@ Education, experience, professional growth, community, opportunity, and legacy.
 
 # PAGE CONNECTION ARCHITECTURE
 
-**ABOUT → PATHWAYS → CURRICULUM → ADMISSIONS → TUITION → DONATIONS → PRODUCTS → ACCREDITATION & AUTHORIZATION → JOIN US → RESOURCES → FAQ → CONTACT**
+```mermaid
+flowchart LR
+N1["ABOUT"]
+N2["PATHWAYS"]
+N3["CURRICULUM"]
+N4["ADMISSIONS"]
+N5["TUITION"]
+N6["DONATIONS"]
+N7["PRODUCTS"]
+N8["ACCREDITATION & AUTHORIZATION"]
+N9["JOIN US"]
+N10["RESOURCES"]
+N11["FAQ"]
+N12["CONTACT"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+N4 --> N5
+N5 --> N6
+N6 --> N7
+N7 --> N8
+N8 --> N9
+N9 --> N10
+N10 --> N11
+N11 --> N12
+```
 
 The About page introduces the complete ecosystem.
 
