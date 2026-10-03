@@ -92,14 +92,19 @@ A finalized public dollar-cost schedule for every targeted accreditor and state 
 
 The public development repository can track:
 
-```yaml
-flow:
-  step_1: "Target"
-  step_2: "Requirement"
-  step_3: "Estimated Cost"
-  step_4: "Funding Progress"
-  step_5: "Application Status"
-  step_6: "Approval Status"
+```mermaid
+flowchart LR
+    A["Target"]
+    B["Requirement"]
+    C["Estimated Cost"]
+    D["Funding Progress"]
+    E["Application Status"]
+    F["Approval Status"]
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
 ```
 
 ---
