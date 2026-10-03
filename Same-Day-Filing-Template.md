@@ -535,3 +535,15 @@ Judge \(\)
 ## 00.37 — CONTROL RULE
 
 **This page is a litigation-preparation template, not a conclusion that any person or entity infringed RIAH rights. A Tier 1/2/3 Replica Bot finding must be converted into claim-specific evidence before a count is asserted. Every statute, precedent, court rule, limitations period, jurisdictional basis, venue basis, registration prerequisite, and remedy must be rechecked against current law and the actual defendant/facts before filing.**
+
+---
+
+## 🤖 LEGACY — RIAH PATHWAY REPLICA BOT LOG
+
+The **Legacy RIAH Pathway Replica Bot** is the evidence-monitoring layer supporting this Same-Day Filing Template. Legacy performs recurring hourly public-source scans and daily evidence audits using the fixed RIAH Tier 1, Tier 2, and Tier 3 fingerprint.
+
+For each qualifying candidate, preserve the entity, official public sources, observation timestamp, supported publication or change chronology, first and last discovery, evidence surfaces, matched RIAH components, material differences, independently verified accreditation or authorization status where applicable, and green, yellow, or red review status.
+
+**Legacy documentation:** [RIAH Pathway Replica Bot — Legacy](./RIAH-Pathway-Replica-Bot-Legacy.md)
+
+> A Legacy flag is an investigative lead only. No allegation or filing should state copying, access, infringement, misconduct, accreditation, authorization, chronology, or liability unless supported by evidence and independently reviewed.
