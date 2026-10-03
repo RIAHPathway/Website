@@ -1,18 +1,30 @@
 # RIAH PATHWAY — FINANCE CURRICULUM
 
-**School:** School of Business
+| Content |
+| --- |
+| **School:** School of Business |
 
-This standalone curriculum file combines the shared undergraduate foundation with the complete existing Finance curriculum. Existing course, track, certification-review, assessment, software, experiential, capstone, applied-build, and supervision details are retained from the controlling curriculum files.
+| Content |
+| --- |
+| This standalone curriculum file combines the shared undergraduate foundation with the complete existing Finance curriculum. Existing course, track, certification-review, assessment, software, experiential, capstone, applied-build, and supervision details are retained from the controlling curriculum files. |
 
 ## Year 1 — General Education — 30 Credit Hours
 
-General Education provides the academic foundation for applicable RIAH Pathway degree pathways.
+| Content |
+| --- |
+| General Education provides the academic foundation for applicable RIAH Pathway degree pathways. |
 
-General Education Total: 30 Credit Hours.
+| Content |
+| --- |
+| General Education Total: 30 Credit Hours. |
 
-General Education includes College English, College Algebra, Oral Communications, Foreign Language, History, Philosophy, Psychology, Sociology, Art, and Science.
+| Content |
+| --- |
+| General Education includes College English, College Algebra, Oral Communications, Foreign Language, History, Philosophy, Psychology, Sociology, Art, and Science. |
 
-Detailed course tables remain in the controlling degree curriculum.
+| Content |
+| --- |
+| Detailed course tables remain in the controlling degree curriculum. |
 
 ## ❤️ General Education — Edmentum Software Coverage
 
@@ -29,11 +41,15 @@ Detailed course tables remain in the controlling degree curriculum.
 | ART 1010 | Art | ✓ |
 | SCI 1010 | Science | ✓ |
 
-Philosophy Note — PHI 1010 remains part of the RIAH General Education curriculum. RIAH will provide and/or integrate additional Philosophy curriculum because Edmentum does not provide the mapped Philosophy coverage used for this structure.
+| Content |
+| --- |
+| Philosophy Note — PHI 1010 remains part of the RIAH General Education curriculum. RIAH will provide and/or integrate additional Philosophy curriculum because Edmentum does not provide the mapped Philosophy coverage used for this structure. |
 
 ## Year 2 — IV.I. Business Core — 30 Credit Hours 📘
 
-**Full Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · HubSpot · Microsoft Power Automate
+| Content |
+| --- |
+| **Full Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · HubSpot · Microsoft Power Automate |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Cengage MindTap | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -50,7 +66,9 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ## Finance — Minor through MBA
 
-**Full Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate
+| Content |
+| --- |
+| **Full Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate |
 
 ### Finance Minor — 15 Credit Hours
 
@@ -79,7 +97,9 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Finance — Bachelor’s Year 4 — 30 Credit Hours
 
-**General Bachelor’s Year 4 Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate
+| Content |
+| --- |
+| **General Bachelor’s Year 4 Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -96,9 +116,13 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Finance — Bachelor’s Year 4 — CFP Track — 30 Credit Hours
 
-**Combined Finance + CFP Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate
+| Content |
+| --- |
+| **Combined Finance + CFP Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate |
 
-**CFP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline
+| Content |
+| --- |
+| **CFP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -115,9 +139,13 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Finance — Bachelor’s Year 4 — CFA Track — 30 Credit Hours
 
-**Combined Finance + CFA Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate
+| Content |
+| --- |
+| **Combined Finance + CFA Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate |
 
-**CFA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline
+| Content |
+| --- |
+| **CFA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -134,7 +162,9 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Finance — Master’s — 30 Credit Hours
 
-**General Master’s Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate
+| Content |
+| --- |
+| **General Master’s Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -151,9 +181,13 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Finance — Master’s — CFA Track — 30 Credit Hours
 
-**Combined Finance + CFA Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate
+| Content |
+| --- |
+| **Combined Finance + CFA Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate |
 
-**CFA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline
+| Content |
+| --- |
+| **CFA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -170,9 +204,13 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Finance — Master’s — CFP Track — 30 Credit Hours
 
-**Combined Finance + CFP Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate
+| Content |
+| --- |
+| **Combined Finance + CFP Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate |
 
-**CFP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline
+| Content |
+| --- |
+| **CFP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -189,7 +227,9 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Finance — MBA — 30 Credit Hours
 
-**General MBA Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate
+| Content |
+| --- |
+| **General MBA Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -206,9 +246,13 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Finance — MBA — CFA Track — 30 Credit Hours
 
-**Combined Finance + CFA Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate
+| Content |
+| --- |
+| **Combined Finance + CFA Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate |
 
-**CFA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline
+| Content |
+| --- |
+| **CFA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -225,9 +269,13 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Finance — MBA — CFP Track — 30 Credit Hours
 
-**Combined Finance + CFP Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate
+| Content |
+| --- |
+| **Combined Finance + CFP Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate |
 
-**CFP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline
+| Content |
+| --- |
+| **CFP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
