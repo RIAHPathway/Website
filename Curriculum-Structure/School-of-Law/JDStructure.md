@@ -5,13 +5,13 @@
 #### JD Pathway Key
 
 | Pathway | Typical Length | Type | Acceleration | Experiential Status | Experiential — 1 Month Internal | Capstone |
-|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
 | **Juris Doctor (JD)** | **4 Years** | **JD** | **Eligible for acceleration. Students may progress at their individual pace while completing all required curriculum requirements. Unlike the Non-JD state pathways, the JD is not locked to a state-required pathway duration.** | **Eligible beginning 1L; capacity-based; first come, first served or automated selection depending on available capacity.** | **✅ Guaranteed during 4L. Students may apply during 4L; timing is based on RIAH ecosystem needs.** | **LAW 4108 — RIAH Pathway Bar Review — State-Specific Module (50 States + D.C.)** |
 
 #### JD Pathway Requirements
 
 | Requirement | Juris Doctor (JD) |
-|---|---|
+| --- | --- |
 | **Typical Pathway Duration** | **4 Years** |
 | **Type** | **JD** |
 | **Admissions Requirements** | **Bachelor’s degree or higher in any field. No LSAT or placement examination is required for admission.** |
@@ -36,7 +36,7 @@
 ##### JD 1L — 27 Credit Hours
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Certification Review | Certification Progression — Learning | Exam Modules | OA | PA | Experiential | Experiential — 1 Month Internal | Capstone | Supervision | Supervision Hours |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LAW 1101 | Law | JD | Contracts I | 3 | Admission | Westlaw · Lexis+ | RIAH Pathway 1L Review — Contracts I | Contracts — In Progress | Formation · Offer · Acceptance · Consideration | ✅ | ✅ | Eligible to Apply — Capacity-Based | ❌ | ❌ | ✅ | 20 hrs per month · 120 hrs per 6 months |
 | LAW 1102 | Law | JD | Contracts II | 3 | LAW 1101 | Same stack throughout | RIAH Pathway 1L Review — Contracts II | Contracts — Completed | Terms · Performance · Breach · Remedies | ✅ | ✅ | Eligible to Apply — Capacity-Based | ❌ | ❌ | ✅ | 20 hrs per month · 120 hrs per 6 months |
 | LAW 1103 | Law | JD | Criminal Law I | 3 | LAW 1102 | Same stack throughout | RIAH Pathway 1L Review — Criminal Law I | Criminal Law — In Progress | Principles · Homicide · Crimes | ✅ | ✅ | Eligible to Apply — Capacity-Based | ❌ | ❌ | ✅ | 20 hrs per month · 120 hrs per 6 months |
@@ -50,7 +50,7 @@
 ##### JD 2L — 24 Credit Hours
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Certification Review | Certification Progression — Learning | Exam Modules | OA | PA | Experiential | Experiential — 1 Month Internal | Capstone | Supervision | Supervision Hours |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LAW 2101 | Law | JD | Constitutional Law & Evidence I | 3 | Completion 1L | Westlaw · Lexis+ | RIAH Pathway 2L Review — Constitutional Law & Evidence I | Constitutional Law & Evidence — In Progress | Judicial Review · Federalism · Evidence | ✅ | ✅ | Capacity-Based Experiential | ❌ | ❌ | ✅ | 20 hrs per month · 120 hrs per 6 months |
 | LAW 2102 | Law | JD | Constitutional Law & Evidence II | 3 | LAW 2101 | Same stack throughout | RIAH Pathway 2L Review — Constitutional Law & Evidence II | Constitutional Law & Evidence — Completed | Rights · Hearsay · Authentication | ✅ | ✅ | Capacity-Based Experiential | ❌ | ❌ | ✅ | 20 hrs per month · 120 hrs per 6 months |
 | LAW 2103 | Law | JD | Criminal Procedure & Professional Responsibility I | 3 | LAW 2102 | Same stack throughout | RIAH Pathway 2L Review — Criminal Procedure & Professional Responsibility I | Criminal Procedure & Professional Responsibility — In Progress | Search · Seizure · Interrogation | ✅ | ✅ | Capacity-Based Experiential | ❌ | ❌ | ✅ | 20 hrs per month · 120 hrs per 6 months |
@@ -63,7 +63,7 @@
 ##### JD 3L — 21 Credit Hours
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Certification Review | Certification Progression — Learning | Exam Modules | OA | PA | Experiential | Experiential — 1 Month Internal | Capstone | Supervision | Supervision Hours |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LAW 3101 | Law | JD | Family Law & Advanced Legal Research and Writing I | 3 | Completion 2L | Westlaw · Lexis+ | RIAH Pathway 3L Review — Family Law & Advanced Legal Research and Writing I | Family Law & Advanced LRW — In Progress | Family Law · Advanced Research | ✅ | ✅ | Capacity-Based Experiential | ❌ | ❌ | ✅ | 20 hrs per month · 120 hrs per 6 months |
 | LAW 3102 | Law | JD | Family Law & Advanced Legal Research and Writing II | 3 | LAW 3101 | Same stack throughout | RIAH Pathway 3L Review — Family Law & Advanced Legal Research and Writing II | Family Law & Advanced LRW — Completed | Analysis · Advocacy · Citation | ✅ | ✅ | Capacity-Based Experiential | ❌ | ❌ | ✅ | 20 hrs per month · 120 hrs per 6 months |
 | LAW 3103 | Law | JD | Trial Advocacy & Alternative Dispute Resolution I | 3 | LAW 3102 | Same stack throughout | RIAH Pathway 3L Review — Trial Advocacy & Alternative Dispute Resolution I | Trial Advocacy & ADR — In Progress | Trial Preparation · Examination | ✅ | ✅ | Capacity-Based Experiential | ❌ | ❌ | ✅ | 20 hrs per month · 120 hrs per 6 months |
@@ -75,7 +75,7 @@
 ##### JD 4L — 24 Credit Hours
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Certification Review | Certification Progression — Learning | Exam Modules | OA | PA | Experiential | Experiential — 1 Month Internal | Capstone | Supervision | Supervision Hours |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LAW 4101 | Law | JD | Appellate Advocacy & Law Practice Management I | 3 | Completion 3L | Westlaw · Lexis+ · Case Management | RIAH Pathway 4L Review — Appellate Advocacy & Law Practice Management I | Appellate Advocacy & Practice Management — In Progress | Appellate Procedure · Brief Writing | ✅ | ✅ | Capacity-Based Experiential | **✅ Guaranteed — 4L** | ❌ | ✅ | 20 hrs per month · 120 hrs per 6 months |
 | LAW 4102 | Law | JD | Appellate Advocacy & Law Practice Management II | 3 | LAW 4101 | Same stack throughout | RIAH Pathway 4L Review — Appellate Advocacy & Law Practice Management II | Appellate Advocacy & Practice Management — Completed | Matter Management · Practice Operations | ✅ | ✅ | Capacity-Based Experiential | **✅ Guaranteed — 4L** | ❌ | ✅ | 20 hrs per month · 120 hrs per 6 months |
 | LAW 4103 | Law | JD | Client Counseling & Litigation Practice I | 3 | LAW 4102 | Same stack throughout | RIAH Pathway 4L Review — Client Counseling & Litigation Practice I | Client Counseling & Litigation — In Progress | Intake · Interviewing · Counseling | ✅ | ✅ | Capacity-Based Experiential | **✅ Guaranteed — 4L** | ❌ | ✅ | 20 hrs per month · 120 hrs per 6 months |
@@ -86,7 +86,7 @@
 | LAW 4108 | Law | JD | **RIAH Pathway Bar Review — State-Specific Module (50 States + D.C.)** | 3 | LAW 4107 | Full Law Practice Stack | **RIAH Pathway Bar Review — State-Specific Module (50 States + D.C.)** | **4L — Completed — Bar Review** | Comprehensive Bar Review · State-Specific Bar Module · Legal Analysis · Professional Responsibility · Examination Preparation | ✅ | ✅ | Capacity-Based Experiential | **✅ Guaranteed — 4L** | **✅** | ✅ | 20 hrs per month · 120 hrs per 6 months |
 
 | Total | Juris Doctor (JD) |
-|---|---|
+| --- | --- |
 | **Typical Curriculum Length** | **4 Years — Accelerated completion permitted based on student pace** |
 | **Curriculum Total** | **96 Credit Hours** |
 | **Type** | **JD** |
