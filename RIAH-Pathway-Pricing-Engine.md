@@ -134,7 +134,9 @@ Included Certification Review = \$0 additional. Included Bar Review =
 
 ### Technology and Cybersecurity Certification Review Coverage
 
-The Technology and Cybersecurity Certification Review catalog includes the existing configured review courses plus the following expanded vendor and cybersecurity coverage. Every eligible standalone certification review uses the same Certification Review pricing tiers established above: **Basic $500, Standard $1,000, Premium $1,500**. Included reviews remain **$0 additional** where an applicable pathway includes the review.
+- The Technology and Cybersecurity Certification Review catalog includes the existing configured review courses plus the following expanded vendor and cybersecurity coverage.
+- Every eligible standalone certification review uses the same Certification Review pricing tiers established above: **Basic $500, Standard $1,000, Premium $1,500**.
+- Included reviews remain **$0 additional** where an applicable pathway includes the review.
 
 | Certification Area | Review Course Coverage | Basic | Standard | Premium |
 |:---|:---|---:|---:|---:|
@@ -153,7 +155,6 @@ The Technology and Cybersecurity Certification Review catalog includes the exist
 | School of Law — Bar Review | Full RIAH Bar Review — All 50 States + Washington, D.C.; California Baby Bar Review | $500 | $1,000 | $1,500 |
 
 This expansion adds eligible certification coverage only. It does **not** change Certification Review pricing, multiple-review rules, included-review treatment, discount logic, refund rules, or any other Pricing Engine calculation rule.
-
 
 ### Basic, Standard, and Premium Review Package Inclusions
 
@@ -197,8 +198,6 @@ This expansion adds eligible certification coverage only. It does **not** change
 
 Full RIAH Bar Review uses one core Bar Review with the first applicable jurisdiction module included where applicable. Each additional jurisdiction module is **$250**. California Baby Bar Review uses the same **Basic $500, Standard $1,000, Premium $1,500** package architecture.
 
-
-
 ### Internal Student Collection Architecture
 
 RIAH Student Collections are internal curriculum resources. They are included or allocated according to the applicable student pathway and are not standalone external retail collections.
@@ -225,21 +224,25 @@ Applicable collections may include Textbooks, Workbooks, Journals, Planners, Rev
 
 The Year 4, Master’s, and MBA levels each retain their own level-specific capstone collection.
 
-
 ### External Products, Content Development, and Professional Support Delivery
 
 RIAH external educational products and professional-support services are **people-developed and people-delivered, supported by technology**.
 
-The Founder and CEO establishes and directs the curriculum architecture, product structure, ecosystem alignment, and applicable content direction. Certification Review courses, Bar Review materials, textbooks, workbooks, review resources, practice resources, and related educational content are developed and reviewed with qualified faculty, PhD-level subject-matter professionals, and professionals within the applicable discipline. Depending on the school and subject, this includes professionals in accounting, business, technology, cybersecurity, homeland security, and other applicable disciplines. Law and Bar Review content and support incorporate qualified legal professionals, including attorneys and judges where applicable.
+- The Founder and CEO establishes and directs the curriculum architecture, product structure, ecosystem alignment, and applicable content direction.
+- Certification Review courses, Bar Review materials, textbooks, workbooks, review resources, practice resources, and related educational content are developed and reviewed with qualified faculty, PhD-level subject-matter professionals, and professionals within the applicable discipline.
+- Depending on the school and subject, this includes professionals in accounting, business, technology, cybersecurity, homeland security, and other applicable disciplines.
+- Law and Bar Review content and support incorporate qualified legal professionals, including attorneys and judges where applicable.
 
-Live professional-support products—including applicable mentorship, coaching, academic advisement, study support, and live review—are delivered by qualified people within the relevant discipline. Delivery may use RIAH faculty, adjunct faculty, experiential professionals, and contracted external professionals who supplement the RIAH ecosystem and provide applicable subject-matter services. Contracted professionals extend service capacity beyond the 173-person at-scale internal team structure without replacing the RIAH product, curriculum, or quality-control architecture.
+- Live professional-support products—including applicable mentorship, coaching, academic advisement, study support, and live review—are delivered by qualified people within the relevant discipline.
+- Delivery may use RIAH faculty, adjunct faculty, experiential professionals, and contracted external professionals who supplement the RIAH ecosystem and provide applicable subject-matter services.
+- Contracted professionals extend service capacity beyond the 173-person at-scale internal team structure without replacing the RIAH product, curriculum, or quality-control architecture.
 
 Certification Review and Bar Review package support is matched to the applicable discipline and package inclusion so students and external customers receiving live mentorship, coaching, advisement, study support, or live review interact with applicable professionals rather than technology alone.
 
 Educational and review content is revised **quarterly** to remain aligned with applicable industry standards, professional expectations, certification or review structures, and approved RIAH curriculum and product standards.
 
-Technology supports delivery, access, practice, assessment, scheduling, communication, and the learning environment. Technology does not replace the qualified faculty, subject-matter professionals, experiential professionals, attorneys, judges, mentors, coaches, or other professionals responsible for applicable content development and live professional support.
-
+- Technology supports delivery, access, practice, assessment, scheduling, communication, and the learning environment.
+- Technology does not replace the qualified faculty, subject-matter professionals, experiential professionals, attorneys, judges, mentors, coaches, or other professionals responsible for applicable content development and live professional support.
 
 ### Product and Professional Support Price Records
 
@@ -310,8 +313,6 @@ Technology supports delivery, access, practice, assessment, scheduling, communic
 
 The majority of applicable educational and professional products are physical and shipped. Only select products are complete digital products. Applicable physical products may include a limited digital preview such as the first chapter, first few pages, or another selected preview portion.
 
-
-
 ## Fees and Deposits
 
 -   Application Fee: \$50
@@ -325,12 +326,9 @@ The majority of applicable educational and professional products are physical an
     -   Master's Resource Allocation: \$1,000
     -   MBA Resource Allocation: \$1,000
 
-Deposit behavior must be rule-driven. Do not automatically charge two
-deposits when Education and Experiential begin together if the active
-deposit rule says one initial standard deposit applies. If active
-pricing records conflict, the engine must select by Pricing Version and
-Effective Date; if no deterministic winner exists, return PENDING
-CONFIGURATION instead of guessing.
+- Deposit behavior must be rule-driven.
+- Do not automatically charge two deposits when Education and Experiential begin together if the active deposit rule says one initial standard deposit applies.
+- If active pricing records conflict, the engine must select by Pricing Version and Effective Date; if no deterministic winner exists, return PENDING CONFIGURATION instead of guessing.
 
 ## Transfer Fee Internal Allocation
 
@@ -394,11 +392,9 @@ These percentages are not automatic student awards.
 
 ## RIAH Student Loan Configuration
 
-Where the active institutional financing record uses this structure: -
-Minimum: \$500 - Maximum: \$5,000 - Collateral-supported tier: up to 10% of qualifying collateral - Credit score required above the 10% collateral tier: 700+ -
-Interest: 5% per 30 days - Active loans allowed: 1 - Payment plan maximum:
-12 months - Standard loan due date: 3 months after graduation - Subject to credit
-approval - All RIAH pathways are eligible for loan consideration. Without the higher-loan credit tier, the approved amount cannot exceed 10% of qualifying collateral. A credit score of 700 or above is required for an amount above the 10% collateral-supported tier, subject to the remaining tuition deficit and \$5,000 maximum
+- Where the active institutional financing record uses this structure: - Minimum: \$500 - Maximum: \$5,000 - Collateral-supported tier: up to 10% of qualifying collateral - Credit score required above the 10% collateral tier: 700+ - Interest: 5% per 30 days - Active loans allowed: 1 - Payment plan maximum: 12 months - Standard loan due date: 3 months after graduation - Subject to credit approval - All RIAH pathways are eligible for loan consideration.
+- Without the higher-loan credit tier, the approved amount cannot exceed 10% of qualifying collateral.
+- A credit score of 700 or above is required for an amount above the 10% collateral-supported tier, subject to the remaining tuition deficit and \$5,000 maximum
 
 Financing remains debt/payment method and never reduces underlying
 tuition.
@@ -1000,8 +996,10 @@ apply digital delivery or unlock and no physical shipping.
 IF physical product with digital preview:
 preview does not convert the full product to a digital SKU.
 
-IF Certification Review, Full RIAH Bar Review, or California Baby Bar Review:
-load Basic $500, Standard $1,000, or Premium $1,500 and the corresponding package inclusions. Basic loads the core review course, applicable sections or modules, core course materials, core questions, practice tests, simulations, and exams. Standard loads all Basic inclusions plus the textbook and expanded learning-material and practice package. Premium loads all Basic and Standard inclusions plus the complete expanded practice package and all applicable standalone professional-support services, including academic and review advisement, study support, mentorship, live review, coaching, and applicable professional supervision.
+- IF Certification Review, Full RIAH Bar Review, or California Baby Bar Review: load Basic $500, Standard $1,000, or Premium $1,500 and the corresponding package inclusions.
+- Basic loads the core review course, applicable sections or modules, core course materials, core questions, practice tests, simulations, and exams.
+- Standard loads all Basic inclusions plus the textbook and expanded learning-material and practice package.
+- Premium loads all Basic and Standard inclusions plus the complete expanded practice package and all applicable standalone professional-support services, including academic and review advisement, study support, mentorship, live review, coaching, and applicable professional supervision.
 
 IF Full RIAH Bar Review:
 first applicable jurisdiction module is included where applicable;
@@ -1530,30 +1528,14 @@ Engine**.
 
 Student heading: **Build Your RIAH Pathway. See What It Costs.**
 
-This application is one master deterministic pricing engine for RIAH
-Pathway. It must function as a Pathway Builder, Eligibility Engine,
-Conditional Rules Engine, Pricing Engine, Combination Engine, Transfer
-Engine, Experiential Engine, Non-JD/Legal Engine, Certification Engine,
-Tuition Reduction Engine, Scholarship Engine, Grant Engine, Stipend
-Engine, Other Funding Engine, Deposit/Fee Engine, Product Engine,
-Payment Engine, Financing Engine, Refund/Earned Amount Engine,
-Reimbursement Engine, Results Generator, Testing Engine, and
-Administrative Rule Trace.
+- This application is one master deterministic pricing engine for RIAH Pathway.
+- It must function as a Pathway Builder, Eligibility Engine, Conditional Rules Engine, Pricing Engine, Combination Engine, Transfer Engine, Experiential Engine, Non-JD/Legal Engine, Certification Engine, Tuition Reduction Engine, Scholarship Engine, Grant Engine, Stipend Engine, Other Funding Engine, Deposit/Fee Engine, Product Engine, Payment Engine, Financing Engine, Refund/Earned Amount Engine, Reimbursement Engine, Results Generator, Testing Engine, and Administrative Rule Trace.
 
 Do not build a simple calculator and do not place financial rules only
 inside UI components.
 
-Create the relational database first. Create structured tables for
-Schools, Programs, Credentials, Majors, Pathways, Pricing Records,
-Pricing Stages, Pricing Versions, Student Pricing Preservation,
-Experiential Programs, Experiential Capacity, Non-JD Jurisdictions,
-Non-JD Conversions, Academic Add-Ons, Certification Reviews, Legal/Bar
-Components, Transfer Rules, Transfer Evaluations, Tuition Reduction
-Rules, Scholarships, Grants, Stipends, Funding Sources, Funding Awards,
-Deposit Rules, Fee Rules, Products, Product Discounts, Payment Options,
-Financing Rules, Refund Rules, Reimbursement Rules, Conditional Rules,
-External Costs, Calculator Sessions, Calculator Inputs, Calculator
-Results, Rule Trace, Test Scenarios, and Audit Log.
+- Create the relational database first.
+- Create structured tables for Schools, Programs, Credentials, Majors, Pathways, Pricing Records, Pricing Stages, Pricing Versions, Student Pricing Preservation, Experiential Programs, Experiential Capacity, Non-JD Jurisdictions, Non-JD Conversions, Academic Add-Ons, Certification Reviews, Legal/Bar Components, Transfer Rules, Transfer Evaluations, Tuition Reduction Rules, Scholarships, Grants, Stipends, Funding Sources, Funding Awards, Deposit Rules, Fee Rules, Products, Product Discounts, Payment Options, Financing Rules, Refund Rules, Reimbursement Rules, Conditional Rules, External Costs, Calculator Sessions, Calculator Inputs, Calculator Results, Rule Trace, Test Scenarios, and Audit Log.
 
 Every financial component must first receive an applicability/status
 determination. Supported statuses are Included, Required, Optional,
@@ -1611,13 +1593,11 @@ flowchart LR
 A["Eligible"] --> B["Selected"] --> C["Placement / Commitment Requirements Satisfied"]
 ```
 
-For an eligible Education + Experiential combination: Combined Standard
-= Education Standard + Experiential Standard. Structural Combination
-Adjustment = Combined Standard × 5%. Integrated Standard = Combined
-Standard − Structural Combination Adjustment. Then apply the
-pricing-stage multiplier. The 5% combination adjustment is structural,
-occurs before stage pricing, is separate from the ordinary 25%
-tuition-reduction ceiling, and may not be applied twice.
+- For an eligible Education + Experiential combination: Combined Standard = Education Standard + Experiential Standard.
+- Structural Combination Adjustment = Combined Standard × 5%.
+- Integrated Standard = Combined Standard − Structural Combination Adjustment.
+- Then apply the pricing-stage multiplier.
+- The 5% combination adjustment is structural, occurs before stage pricing, is separate from the ordinary 25% tuition-reduction ceiling, and may not be applied twice.
 
 Included components have \$0 additional charge. Primary major and
 standard concentration/specialization are included. Included
@@ -1630,30 +1610,23 @@ complete Transfer/Alternative Credit/Prior-Learning determination
 triggers one \$500 Complete Transfer Fee when applicable, not one fee
 per transcript or institution.
 
-Evaluate tuition-reduction eligibility conditionally. Potential rules
-include eligible upfront payment 25%; SNAP 5%; TANF 5%; WIC 5%;
-qualifying homelessness/housing hardship 5%; applicable
-additional-major/minor rules; and other active approved rules.
-Distinguish self-reported, verified, approved, and not eligible. Only
-confirmed reductions enter the confirmed calculation. Enforce the 50%
-ceiling for reductions governed by that ceiling. Prevent same-benefit
-duplication.
+- Evaluate tuition-reduction eligibility conditionally.
+- Potential rules include eligible upfront payment 25%; SNAP 5%; TANF 5%; WIC 5%; qualifying homelessness/housing hardship 5%; applicable additional-major/minor rules; and other active approved rules.
+- Distinguish self-reported, verified, approved, and not eligible.
+- Only confirmed reductions enter the confirmed calculation.
+- Enforce the 50% ceiling for reductions governed by that ceiling.
+- Prevent same-benefit duplication.
 
-Scholarships, grants, stipends, employer funding, workforce funding,
-donor/community funding, external funding, and other approved funding
-are funding, not automatically tuition discounts. Only approved, funded,
-expense-eligible awards with satisfied conditions reduce confirmed
-tuition. Pending funding is displayed separately and does not reduce
-confirmed responsibility. Institutional Scholarship 5%, Grant 5%, and
-Stipend 5% pools are institutional allocations, not automatic student
-awards.
+- Scholarships, grants, stipends, employer funding, workforce funding, donor/community funding, external funding, and other approved funding are funding, not automatically tuition discounts.
+- Only approved, funded, expense-eligible awards with satisfied conditions reduce confirmed tuition.
+- Pending funding is displayed separately and does not reduce confirmed responsibility.
+- Institutional Scholarship 5%, Grant 5%, and Stipend 5% pools are institutional allocations, not automatic student awards.
 
-Deposit logic must be rule-driven and versioned. Initial Education +
-Experiential beginning together must never automatically create two
-initial deposits. Same-School Minor does not automatically trigger
-another deposit. Cross-School/distinct-resource and later separate
-Experiential opportunities may trigger an additional deposit only under
-active rules. Standard funding does not automatically cover deposits.
+- Deposit logic must be rule-driven and versioned.
+- Initial Education + Experiential beginning together must never automatically create two initial deposits.
+- Same-School Minor does not automatically trigger another deposit.
+- Cross-School/distinct-resource and later separate Experiential opportunities may trigger an additional deposit only under active rules.
+- Standard funding does not automatically cover deposits.
 
 Application Fee is \$50 when applicable. Admissions and Enrollment fees
 are \$0 where established. Do not invent fees. Included transcript,
@@ -1678,28 +1651,21 @@ configured, Per-Course/Course-Unlock where configured, and Financing.
 Ordinary RIAH payment-plan interest is 0%. Financing is a payment method
 and must never be treated as a tuition reduction.
 
-Where the active RIAH Pathway Student Loan record applies: \$500 minimum,
-\$5,000 maximum, collateral-supported tier up to 10% of qualifying collateral, 700+ credit required above the 10% collateral tier, 5% interest per 30
-days, one active loan, a 12-month maximum payment plan, and a standard
-due date 3 months after graduation, subject to credit approval. Potential
-all RIAH pathways are eligible for loan consideration. Without the higher-loan credit tier, the approved amount cannot exceed 10% of qualifying collateral. A credit score of 700 or above is required for an amount above the 10% collateral-supported tier, subject to the remaining tuition deficit and \$5,000 maximum.
+- Where the active RIAH Pathway Student Loan record applies: \$500 minimum, \$5,000 maximum, collateral-supported tier up to 10% of qualifying collateral, 700+ credit required above the 10% collateral tier, 5% interest per 30 days, one active loan, a 12-month maximum payment plan, and a standard due date 3 months after graduation, subject to credit approval.
+- Potential all RIAH pathways are eligible for loan consideration.
+- Without the higher-loan credit tier, the approved amount cannot exceed 10% of qualifying collateral.
+- A credit score of 700 or above is required for an amount above the 10% collateral-supported tier, subject to the remaining tuition deficit and \$5,000 maximum.
 
-Refund and earned-amount logic must remain separate from initial price
-calculation. Experiential weekly allocation equals applicable
-Experiential amount divided by applicable program weeks; earned amount
-equals weekly allocation multiplied by completed/used weeks. Products
-and purchased Certification/Bar Review follow their separate
-nonrefundability/replacement/access rules.
+- Refund and earned-amount logic must remain separate from initial price calculation.
+- Experiential weekly allocation equals applicable Experiential amount divided by applicable program weeks; earned amount equals weekly allocation multiplied by completed/used weeks.
+- Products and purchased Certification/Bar Review follow their separate nonrefundability/replacement/access rules.
 
-Reimbursement is not applied merely because a student enrolled.
-Determine completion and eligibility first. Eligible reimbursement basis
-equals applicable tuition minus applicable tuition reductions minus
-Scholarships minus Grants minus Stipends minus other non-reimbursable
-award funding, subject to controlling policy. Guaranteed reimbursement
-is 10% of eligible basis only after qualifying requirements are
-satisfied. Maximum potential reimbursement may display as up to 50%, but
-do not automatically award it. Unconfigured intermediate milestones must
-say Pending Configuration.
+- Reimbursement is not applied merely because a student enrolled.
+- Determine completion and eligibility first.
+- Eligible reimbursement basis equals applicable tuition minus applicable tuition reductions minus Scholarships minus Grants minus Stipends minus other non-reimbursable award funding, subject to controlling policy.
+- Guaranteed reimbursement is 10% of eligible basis only after qualifying requirements are satisfied.
+- Maximum potential reimbursement may display as up to 50%, but do not automatically award it.
+- Unconfigured intermediate milestones must say Pending Configuration.
 
 Use these master formulas:
 
@@ -1812,7 +1778,6 @@ Authoritative operational hierarchy:
 | Authoritative Calculation Source | Do not use public website prose as the authoritative calculation source. |
 | Reproducibility | Given the same input record, pricing version, effective date, and approval statuses, the calculator must return the same result and rule trace. |
 
-
 ---
 
 ## PART II — TUITION, PRICING, FEES, AND STUDENT COST GUIDE
@@ -1892,13 +1857,10 @@ flowchart LR
 
 ---
 
-
 > **1. TUITION AT A GLANCE**
-
 
 RIAH Pathway uses total-program tuition rather than pricing education
 solely by individual credit hour.
-
 
   Pathway                                         Base Tuition
   --------------------- --------------------------------------
@@ -1912,20 +1874,15 @@ solely by individual credit hour.
   JD                                                  \$40,000
   Non-JD                  \$10,000 per applicable pathway year
 
-
 Students may be able to complete their programs faster than the typical
 duration. Accelerating completion changes the student's estimated
 timeline but does not automatically reduce total-program tuition.
 
-
 ---
-
 
 > **2. RIAH PRICING STAGES**
 
-
 RIAH uses three Pricing Stages.
-
 
   Pricing Stage          Student Tuition Percentage
   -------------------- ----------------------------
@@ -1933,76 +1890,54 @@ RIAH uses three Pricing Stages.
   Pre-Accreditation                             50%
   Post-Accreditation                           100%
 
-
 Only the Pricing Stages currently available for enrollment will appear
 in the public calculator.
 
-
 ## Beta --- 25%
-
 
 Beta pricing is reserved for the first applicable cohort.
 
-
 A student pays 25% of the applicable tuition amount.
 
-
 **\$20,000 Bachelor's × 25% = \$5,000**
-
 
 Once the Beta cohort has ended, Beta pricing will no longer appear as a
 public calculator option.
 
-
 ## Pre-Accreditation --- 50%
-
 
 Applicable students enrolling during the Pre-Accreditation stage pay 50%
 of the applicable tuition amount.
 
-
 **\$20,000 Bachelor's × 50% = \$10,000**
-
 
 ## Post-Accreditation --- 100%
 
-
 Post-Accreditation represents the full applicable tuition amount.
 
-
 **\$20,000 Bachelor's × 100% = \$20,000**
-
 
 The applicable Post-Accreditation stage is also where RIAH's Title IV
 functionality is intended to operate when available under the applicable
 institutional status.
 
-
 ---
-
 
 > **3. PRIMARY AND SECONDARY DEGREES**
 
-
 Students building a degree pathway begin with a Primary Degree.
-
 
 The Primary Degree is the student's first selected degree. A student
 does not have to add another degree.
 
-
 Students who want to pursue an additional degree may select a Secondary
 Degree.
 
-
 Secondary Degree Tuition Reduction:
-
 
 > **5%**
 
-
 Examples may include:
-
 
 -   Bachelor's and Bachelor's
 -   Bachelor's and Master's
@@ -2012,62 +1947,43 @@ Examples may include:
 -   JD and Bachelor's
 -   JD and Master's
 
-
 The calculator automatically applies the applicable Pricing Stage before
 calculating the Secondary Degree reduction.
 
-
 ---
-
 
 > **4. OPTIONAL MINORS**
 
-
 ## Primary Minor
-
 
 Base Tuition:
 
-
 # \$5,000
-
 
 The Primary Minor is priced at the applicable Pricing Stage.
 
-
 Reduction:
-
 
 > **0%**
 
-
 ## Secondary Minor
-
 
 Base Tuition:
 
-
 # \$5,000
-
 
 Secondary Minor Reduction:
 
-
 > **5%**
-
 
 The 5% Secondary Minor reduction counts toward the student's maximum
 ordinary tuition reduction.
 
-
 ---
-
 
 > **5. OPTIONAL EXPERIENTIAL PATHWAY**
 
-
 Experiential participation is optional.
-
 
   Experiential Selection       Base Amount
   -------------------------- -------------
@@ -2078,44 +1994,32 @@ Experiential participation is optional.
   Manager                         \$10,000
   Executive                       \$10,000
 
-
 When an eligible Education pathway and Experiential pathway are selected
 together, the combined pathway receives a:
 
-
 > **5% Integrated Adjustment**
-
 
 The 5% Integrated Adjustment is applied before the Pricing Stage and
 does not count toward the student's ordinary 25% tuition-reduction
 maximum.
 
-
 ---
-
 
 > **6. NON-JD PATHWAYS**
 
-
 RIAH's Non-JD pathway pricing is:
 
-
 # \$10,000 per applicable pathway year
-
 
 The calculator includes California, Maine, Vermont, Virginia,
 Washington, New York, and West Virginia.
 
-
 The applicable Pricing Stage is applied after determining the applicable
 state pathway tuition.
 
-
 ---
 
-
 > **7. TUITION REDUCTIONS**
-
 
   Tuition Reduction                         Amount
   ------------------------------------ -----------
@@ -2133,163 +2037,114 @@ state pathway tuition.
   Rideshare and Delivery Ambassador      Up to 25%
   Transfer Tuition Reduction                   \$0
 
-
 The maximum ordinary tuition reduction actually applied is:
-
 
 > **25%**
 
-
 The calculator may display all reductions for which the student
 qualifies while applying no more than 25%.
-
 
 The Pricing Stage does not count toward this maximum. The Integrated
 Education and Experiential adjustment does not count toward this
 maximum. Scholarships, Grants, Stipends, and other funding do not count
 toward this maximum.
 
-
 ---
-
 
 > **8. PARTNER, TEAM, CONTRIBUTOR, AND AMBASSADOR PRICING**
 
-
 ## Partner Employees
-
 
 Eligible Partner Employee Tuition Reduction:
 
-
 > **15%**
-
 
 Eligible Partner Product Reduction:
 
-
 > **15%**
-
 
 ## RIAH Team Members
 
-
 Eligible Education Tuition:
 
-
 # \$0
-
 
 Eligible Team Product Reduction:
 
-
 > **50%**
-
 
 Team Member Tuition Reimbursement:
 
-
 # \$0
 
-
 ## Community Contributors
-
 
 Community Contributors may include individuals who make qualifying
 contributions to RIAH's public website, GitHub repositories, wireframes,
 documentation, development, testing, accessibility, design, code, or
 other approved public-development initiatives.
 
-
 Eligible Tuition Reduction:
 
-
 # Up to 25%
-
 
 Eligible Product Reduction:
 
-
 # Up to 25%
 
-
 The calculator provides a product-reduction dropdown containing every whole-number percentage from **1% through 25%**.
-
 
 The actual tuition-reduction percentage depends on the applicable
 published contribution milestones. The calculator provides separate tuition-reduction and product-reduction dropdowns containing every whole-number percentage from **1% through 25%**.
 
-
 ## Substitute Teacher Ambassadors
-
 
 Eligible Tuition Reduction:
 
-
 # Up to 25%
-
 
 Eligible Product Reduction:
 
-
 # Up to 25%
 
-
 The calculator provides a product-reduction dropdown containing every whole-number percentage from **1% through 25%**.
-
 
 Qualifying activities may include approved marketing, advertising,
 school events, career events, referrals, distribution of RIAH materials,
 and other established activities.
 
-
 The calculator provides separate tuition-reduction and product-reduction dropdowns containing every whole-number percentage from **1% through 25%**.
-
 
 ## Rideshare and Delivery Ambassadors
 
-
 Eligible Tuition Reduction:
 
-
 # Up to 25%
-
 
 Eligible Product Reduction:
 
-
 # Up to 25%
 
-
 The calculator provides a product-reduction dropdown containing every whole-number percentage from **1% through 25%**.
-
 
 Qualifying activities may include approved marketing, advertising, QR
 campaigns, referrals, vehicle marketing, community promotion,
 delivery-related marketing, and other established activities.
 
-
 The calculator provides separate tuition-reduction and product-reduction dropdowns containing every whole-number percentage from **1% through 25%**.
-
 
 Regardless of the number of ordinary reductions for which a student
 qualifies:
 
-
 # Maximum Ordinary Tuition Reduction = 25%
-
 
 ---
 
-
 > **9. EDUCATION DEPOSIT**
-
 
 The Education Deposit consists of:
 
-
 # Student Resource Allocation + One \$500 RIAH Fee
-
 
   Selected Pathway     Student Resource Allocation
   ------------------ -----------------------------
@@ -2300,21 +2155,17 @@ The Education Deposit consists of:
   MBA                                 \$1,000 each
   RIAH Fee                              \$500 once
 
-
 Student Resource Allocations may support applicable laptops, software,
 subscriptions, textbooks, workbooks, educational products, certification
 resources, proctoring, transcripts, graduation resources, and other
 applicable educational resources.
-
 
 For each selected Minor, the **$500 Minor Student Resource Allocation**
 is intended to support the actual textbooks for the three major courses,
 applicable software, and the Minor Applied Learning and Capstone
 Collection, including applicable software associated with that collection.
 
-
 Examples:
-
 
 -   Minor Only: **\$250 + \$500 = \$750**
 -   Associate's Only: **\$500 + \$500 = \$1,000**
@@ -2324,15 +2175,11 @@ Examples:
     \$2,750**
 -   Bachelor's + Master's: **\$1,000 + \$1,000 + \$500 = \$2,500**
 
-
 The Education Deposit is separate from tuition.
-
 
 ---
 
-
 > **10. OTHER FEES**
-
 
   Fee                                            Amount
   ----------------------------- -----------------------
@@ -2343,18 +2190,13 @@ The Education Deposit is separate from tuition.
   Education Deposit RIAH Fee                 \$500 once
   Student Resource Allocation                  Variable
 
-
 Transfer Tuition Reduction:
-
 
 # \$0
 
-
 ---
 
-
 > **11. CERTIFICATION AND BAR REVIEW PRICING**
-
 
   Review Tier       Price
   ------------- ---------
@@ -2362,64 +2204,47 @@ Transfer Tuition Reduction:
   Standard        \$1,000
   Premium         \$1,500
 
-
   Review            Applicable Price
   --------------- ------------------
   First Review                  100%
   Second Review                  50%
   Third Review                  100%
 
-
 Included Certification Review or Bar Review:
 
-
 # \$0 Additional Price
-
 
 Purchased Certification Review and Bar Review products are
 nonrefundable.
 
-
 ---
-
 
 > **12. RIAH FUNDING STRUCTURE**
 
-
 RIAH's internal funding system contains three separate categories:
-
 
 -   Scholarships
 -   Grants
 -   Stipends
 
-
 These categories remain separate in the Pricing Engine because they have
 different award structures and intended purposes.
 
-
 Scholarships and Grants use larger fixed award levels.
-
 
 Stipends are smaller student-support awards ranging from:
 
-
 # \$100 to \$500
-
 
 The amounts below are the established hard-dollar internal funding
 values used by the calculator. These fixed values are used as estimated funding amounts when students calculate tuition, fees, and pricing.
 
-
 ---
-
 
 > **13. SCHOLARSHIPS**
 
-
 RIAH's standard Scholarships are divided between Need-Based Scholarships
 and Merit-Based Scholarships.
-
 
   Scholarship                       Type            Fixed Award
   --------------------------------- ------------- -------------
@@ -2436,27 +2261,20 @@ and Merit-Based Scholarships.
   Merit-Based Scholarship Level 5   Merit-Based        \$15,000
   Merit-Based Scholarship Level 6   Merit-Based        \$50,000
 
-
 Standard Scholarship funding ladder:
 
-
 # \$500 → \$2,500 → \$5,000 → \$10,000 → \$15,000 → \$50,000
-
 
 These are fixed internal calculator values. RIAH may establish
 additional Scholarships outside this standard Need-Based and Merit-Based
 structure.
 
-
 ---
-
 
 > **14. GRANTS**
 
-
 RIAH's standard Grants are divided between Need-Based Grants and
 Merit-Based Grants.
-
 
   Grant                       Type            Fixed Award
   --------------------------- ------------- -------------
@@ -2473,25 +2291,18 @@ Merit-Based Grants.
   Merit-Based Grant Level 5   Merit-Based        \$15,000
   Merit-Based Grant Level 6   Merit-Based        \$50,000
 
-
 Standard Grant funding ladder:
 
-
 # \$500 → \$2,500 → \$5,000 → \$10,000 → \$15,000 → \$50,000
-
 
 These are fixed internal calculator values. Additional Grant programs
 may be established separately.
 
-
 ---
-
 
 > **15. STIPENDS**
 
-
 RIAH Stipends are smaller student-support awards.
-
 
   Stipend                             Fixed Amount
   --------------------------------- --------------
@@ -2501,29 +2312,21 @@ RIAH Stipends are smaller student-support awards.
   Student Support Stipend Level 4            \$400
   Student Support Stipend Level 5            \$500
 
-
 Maximum Standard Stipend:
-
 
 # \$500
 
-
 Standard Stipend funding ladder:
 
-
 # \$100 → \$200 → \$300 → \$400 → \$500
-
 
 Stipends may be used for applicable student-support costs such as
 textbooks, workbooks, graduation fees, transfer fees, educational
 materials, and other approved student-support expenses.
 
-
 ---
 
-
 > **16. STANDARD FUNDING MATRIX**
-
 
   -----------------------------------------------------------------------
   Funding Type            Category                Available Hard-Dollar
@@ -2533,63 +2336,46 @@ materials, and other approved student-support expenses.
                                                   \$5,000, \$10,000,
                                                   \$15,000, \$50,000
 
-
   Scholarship             Merit-Based             \$500, \$2,500,
                                                   \$5,000, \$10,000,
                                                   \$15,000, \$50,000
-
 
   Grant                   Need-Based              \$500, \$2,500,
                                                   \$5,000, \$10,000,
                                                   \$15,000, \$50,000
 
-
   Grant                   Merit-Based             \$500, \$2,500,
                                                   \$5,000, \$10,000,
                                                   \$15,000, \$50,000
-
 
   Stipend                 Student Support         \$100, \$200, \$300,
                                                   \$400, \$500
   -----------------------------------------------------------------------
 
-
 Scholarship Funding:
 
-
 # \$500 → \$2,500 → \$5,000 → \$10,000 → \$15,000 → \$50,000
-
 
 Grant Funding:
 
-
 # \$500 → \$2,500 → \$5,000 → \$10,000 → \$15,000 → \$50,000
-
 
 Stipend Funding:
 
-
 # \$100 → \$200 → \$300 → \$400 → \$500
-
 
 ---
 
-
 > **17. CALCULATOR FUNDING DROPDOWNS**
-
 
 ## Scholarship Dropdown
 
-
 Scholarship Type:
-
 
 -   Need-Based Scholarship
 -   Merit-Based Scholarship
 
-
 Established fixed internal award levels:
-
 
 -   \$500
 -   \$2,500
@@ -2598,19 +2384,14 @@ Established fixed internal award levels:
 -   \$15,000
 -   \$50,000
 
-
 ## Grant Dropdown
 
-
 Grant Type:
-
 
 -   Need-Based Grant
 -   Merit-Based Grant
 
-
 Established fixed internal award levels:
-
 
 -   \$500
 -   \$2,500
@@ -2619,12 +2400,9 @@ Established fixed internal award levels:
 -   \$15,000
 -   \$50,000
 
-
 ## Stipend Dropdown
 
-
 Established Stipends:
-
 
 -   Student Support Stipend Level 1 — \$100
 -   Student Support Stipend Level 2 — \$200
@@ -2632,105 +2410,74 @@ Established Stipends:
 -   Student Support Stipend Level 4 — \$400
 -   Student Support Stipend Level 5 — \$500
 
-
 Applicable support purposes may include textbooks, workbooks, graduation
 fees, transfer fees, educational materials, and other approved student
 support.
 
-
 ---
-
 
 > **18. ESTABLISHED RIAH FUNDING VS. EXTERNAL FUNDING**
 
-
 ## RIAH Established Funding
-
 
 Established internal RIAH funding uses fixed values. The calculator
 loads the established amount associated with the applicable Scholarship,
 Grant, or Stipend.
 
-
 ## Student-Entered External Funding
-
 
 Students may separately enter estimated external Scholarships, Grants,
 Stipends, Employer Assistance, Workforce Assistance, and other
 applicable funding.
 
-
 Student-entered external funding remains an estimate until confirmed.
-
 
 ---
 
-
 > **19. FUNDING CALCULATION**
-
 
 Scholarships, Grants, and Stipends are applied after applicable tuition
 reductions.
 
-
 **Tuition After Reductions − Applicable Funding = Remaining Tuition**
-
 
 Remaining Tuition cannot fall below:
 
-
 # \$0
-
 
 Example:
 
-
 Tuition After Reductions: **\$30,000**
-
 
 Need-Based Scholarship: **\$10,000**
 
-
 Grant: **\$5,000**
-
 
 Stipend: **\$500**
 
-
 Total Funding: **\$15,500**
-
 
 Remaining Tuition:
 
-
 **\$30,000 − \$15,500 = \$14,500**
-
 
 # Estimated Remaining Tuition = \$14,500
 
-
 ---
 
-
 > **20. FUNDING AND TUITION REIMBURSEMENT ARE DIFFERENT**
-
 
 Scholarships, Grants, Stipends, and other non-reimbursable funding can
 reduce tuition without becoming part of the student's
 tuition-reimbursement basis.
 
-
 Scholarships: **Not Reimbursable**
-
 
 Grants: **Not Reimbursable**
 
-
 Stipends: **Not Reimbursable**
 
-
 ---
-
 
 > **21. HOW STUDENTS CAN PAY TUITION**
 
@@ -2747,48 +2494,33 @@ flowchart TD
     G --> J[Pay Course in Full Before Unlock]
 ```
 
-
 Before the first tuition payment, the student's payment structure is determined by whether Title IV funding is being used.
-
 
 **Title IV:** Semester payment only.
 
-
 **Non-Title IV:** Upfront, Monthly, or Per Course.
-
 
 Except for the established 15% Upfront Payment Reduction, selecting a payment schedule does not independently reduce total-program tuition. Acceleration changes the student's completion timeline, not the established total-program tuition.
 
-
 ---
-
 
 > **22. UPFRONT PAYMENT**
 
-
 Upfront Payment Reduction:
-
 
 > **15%**
 
-
 The reduction counts toward the overall 25% ordinary tuition-reduction maximum.
-
 
 Using the **$40,000 JD** as the payment example, and assuming only the 15% Upfront Payment Reduction:
 
-
 **$40,000 × 15% = $6,000 reduction**
-
 
 **$40,000 − $6,000 = $34,000 upfront tuition**
 
-
 Courses remain sequential. The student begins with Course 1. After successfully completing the current course, the next course unlocks automatically. The student does not make another tuition payment to unlock each subsequent course because the applicable tuition has already been paid upfront.
 
-
 ---
-
 
 > **23. MONTHLY PAYMENT**
 
@@ -2801,81 +2533,55 @@ flowchart LR
     C -- Yes --> E[Next Course Unlocks]
 ```
 
-
 Monthly payment is available for **Non-Title-IV students** and operates at the individual-course level.
-
 
 Using the **$40,000 JD** example:
 
-
 **One JD Course Cost = $40,000 ÷ Total Configured JD Courses**
-
 
 The JD course count is not yet configured in the Pricing Engine, so the calculator must not invent a JD per-course dollar amount.
 
-
 For a JD course costing **$X**:
-
 
 **Maximum payment period = 6 months**
 
-
 **Monthly Payment = $X ÷ 6**
-
 
 The student receives access to one course. The student may take up to six months to complete that course while making the required monthly payments.
 
-
 **Current Course Completed + Current Course Paid in Full = Next Course Unlocks**
-
 
 If the course is paid but not completed, the next course remains locked.
 
-
 If the course is completed but not paid in full, the next course remains locked.
-
 
 If the student does not complete the course within the applicable enrollment period, the student may return to the same course, satisfy the applicable remaining payment or re-enrollment requirements, complete the course, and then proceed to the next course.
 
-
 A student cannot skip an unpaid or incomplete course.
 
-
 ---
-
 
 > **24. SEMESTER PAYMENT AND TITLE IV**
 
-
 RIAH semesters are **six months**. Students using Title IV follow the pathway's typical fixed-semester schedule and the fixed courses assigned to each semester.
-
 
 Title IV students do not use the accelerated Monthly, Per-Course, or Upfront payment paths while using Title IV funding.
 
-
 JD example:
-
 
 **Typical JD Duration = 4 Years**
 
-
 **2 Six-Month Semesters Per Year × 4 Years = 8 Semesters**
-
 
 **$40,000 ÷ 8 Semesters = $5,000 Per Semester**
 
-
 **$5,000 × 2 Semesters = $10,000 Per Year**
-
 
 **$10,000 × 4 Years = $40,000 Total Tuition**
 
-
 Each six-month semester contains the fixed courses assigned to that term. The student completes those semester courses before progressing to the next semester and its fixed course set.
 
-
 ---
-
 
 > **25. PER-COURSE PAYMENT**
 
@@ -2888,57 +2594,40 @@ flowchart LR
     E --> F[Continue Sequentially]
 ```
 
-
 Per-Course payment is available for **Non-Title-IV students**.
-
 
 Using the **$40,000 JD** example:
 
-
 **Per-Course Tuition = $40,000 ÷ Configured JD Course Count**
 
-
 The exact JD per-course dollar amount must not be displayed until the JD course count is configured.
-
 
 ```mermaid
 flowchart LR
 A["Pay Course 1 in Full"] --> B["Course 1 Unlocks"] --> C["Complete Course 1"] --> D["Pay Course 2"] --> E["Course 2 Unlocks"]
 ```
 
-
 The process continues sequentially. Students may accelerate by completing courses and satisfying the next applicable course payment more quickly.
-
 
 ---
 
-
 > **26. TITLE IV PAYMENT PATH**
-
 
 When **Title IV = Yes**, the calculator automatically uses the **Semester** payment structure.
 
-
 **Title IV Semester Tuition = Applicable Program Tuition ÷ Number of Typical Semesters**
-
 
 For the typical four-year JD:
 
-
 **$40,000 ÷ 8 Semesters = $5,000 Per Semester**
-
 
 **$5,000 × 2 Semesters = $10,000 Per Year**
 
-
 **$10,000 × 4 Years = $40,000 Total Tuition**
-
 
 Title IV students follow fixed six-month semesters with the required courses assigned to each semester. They do not use the accelerated Upfront, Monthly, or Per-Course payment paths while using Title IV funding.
 
-
 When **Title IV = No**, the calculator displays **Upfront, Monthly, and Per Course** as the available payment structures.
-
 
   Timing               Refund Percentage
   ------------------ -------------------
@@ -2947,13 +2636,10 @@ When **Title IV = No**, the calculator displays **Upfront, Monthly, and Per Cour
   Week 3                             50%
   After Four Weeks                    0%
 
-
 Actual Title IV administration remains subject to applicable financial-aid requirements when Title IV functionality is implemented.
-
 
 ---
 > **27. RIAH PRIVATE STUDENT LOAN**
-
 
   Loan Requirement                                         Amount or Rule
   ------------------------------------------- ---------------------------
@@ -2968,12 +2654,9 @@ Actual Title IV administration remains subject to applicable financial-aid requi
   Collateral-Supported Tier                   10% qualifying collateral
   Approval Basis                      700+ credit above collateral tier
 
-
 The student selects the requested amount from:
 
-
 # \$500 to \$5,000
-
 
 All RIAH pathways are eligible for RIAH Private Student Loan consideration.
 
@@ -3001,8 +2684,10 @@ flowchart TD
     G --> H
 ```
 
-
-Example: \$15,000 tuition − \$10,000 qualifying payment/collateral = \$5,000 tuition deficit. The 10% collateral-supported tier is \$1,000. Without the 700+ higher-loan credit tier, the maximum supported loan is \$1,000. With a 700+ credit score, the student may be considered for an amount above \$1,000 up to the \$5,000 remaining tuition deficit and \$5,000 loan maximum.
+- Example: \$15,000 tuition − \$10,000 qualifying payment/collateral = \$5,000 tuition deficit.
+- The 10% collateral-supported tier is \$1,000.
+- Without the 700+ higher-loan credit tier, the maximum supported loan is \$1,000.
+- With a 700+ credit score, the student may be considered for an amount above \$1,000 up to the \$5,000 remaining tuition deficit and \$5,000 loan maximum.
 
 ### 700+ Credit Example
 
@@ -3035,54 +2720,37 @@ flowchart LR
     D --> E["Maximum Total Loan = $5,000"]
 ```
 
-
 ---
-
 
 > **28. RIAH PRIVATE STUDENT LOAN INTEREST**
 
-
 Interest:
-
 
 > **5% Per 30 Days**
 
-
 Example using \$5,000 for 45 days:
-
 
 **\$5,000 × 1.05 = \$5,250**
 
-
 Partial 15-day interest:
-
 
 **\$5,250 × 2.5% = \$131.25**
 
-
 Estimated Balance:
-
 
 # \$5,381.25
 
-
 ---
-
 
 > **29. TUITION REIMBURSEMENT**
 
-
 Estimated Tuition Reimbursement:
-
 
 > **10% to 50%**
 
-
 Available in:
 
-
 > **1% Increments**
-
 
   Payment Source              Reimbursement Eligible
   --------------------------- ------------------------------------
@@ -3097,9 +2765,7 @@ Available in:
   Other Assistance            No
   Cash                        Not Accepted
 
-
 ---
-
 
 > **30. RIAH LOAN RECOVERY**
 
@@ -3111,34 +2777,24 @@ flowchart LR
     B -- No --> D
 ```
 
-
 Applicable reimbursement first satisfies an outstanding RIAH Private
 Student Loan.
 
-
 Example:
-
 
 Estimated Reimbursement: **\$4,000**
 
-
 Outstanding RIAH Loan: **\$3,000**
-
 
 RIAH Loan Recovery: **\$3,000**
 
-
 Remaining Student Reimbursement:
-
 
 # \$1,000
 
-
 ---
 
-
 > **31. PROGRAM DURATION**
-
 
   Program                          Typical Duration
   ------------- -----------------------------------
@@ -3150,187 +2806,126 @@ Remaining Student Reimbursement:
   JD                                      48 Months
   Non-JD          Applicable State Pathway Duration
 
-
 Acceleration changes estimated completion time but does not
 automatically reduce total-program tuition.
 
-
 ---
-
 
 > **32. COMPLETE STUDENT EXAMPLE**
 
-
 ## Student Selections
-
 
 **Pricing Stage:** Pre-Accreditation --- 50%
 
-
 **Primary Degree:** Bachelor's --- \$20,000
-
 
 **Secondary Degree:** Master's --- \$15,000
 
-
 **Primary Minor:** \$5,000
-
 
 **Community Contributor Reduction Earned:** 15%
 
-
 **WIC:** 5%
-
 
 **Secondary Degree Reduction:** 5%
 
-
 **Merit-Based Scholarship:** \$2,500
-
 
 **Grant:** \$5,000
 
-
 **Textbook and Workbook Stipend:** \$500
-
 
 ## Step 1 --- Pricing Stage
 
-
 Bachelor's:
-
 
 **\$20,000 × 50% = \$10,000**
 
-
 Master's:
-
 
 **\$15,000 × 50% = \$7,500**
 
-
 Minor:
-
 
 **\$5,000 × 50% = \$2,500**
 
-
 Pricing Stage Tuition Basis:
-
 
 # \$20,000
 
-
 ## Step 2 --- Tuition Reductions
-
 
 Community Contributor: **15%**
 
-
 Secondary Degree: **5%**
-
 
 WIC: **5%**
 
-
 Total:
-
 
 > **25%**
 
-
 Reduction:
-
 
 **\$20,000 × 25% = \$5,000**
 
-
 Tuition After Reductions:
-
 
 # \$15,000
 
-
 ## Step 3 --- Funding
-
 
 Merit-Based Scholarship: **\$2,500**
 
-
 Grant: **\$5,000**
-
 
 Stipend: **\$500**
 
-
 Total Funding:
-
 
 # \$8,000
 
-
 Remaining Tuition:
-
 
 **\$15,000 − \$8,000 = \$7,000**
 
-
 # Estimated Remaining Tuition = \$7,000
-
 
 ## Step 4 --- Education Deposit
 
-
 Bachelor's: **\$1,000**
-
 
 Master's: **\$1,000**
 
-
 Minor: **\$250**
-
 
 Student Resource Allocation:
 
-
 # \$2,250
-
 
 RIAH Fee:
 
-
 # \$500
-
 
 Education Deposit:
 
-
 # \$2,750
-
 
 ## Step 5 --- Estimated Tuition and Fees
 
-
 Remaining Tuition: **\$7,000**
-
 
 Application Fee: **\$50**
 
-
 Education Deposit: **\$2,750**
-
 
 **\$7,000 + \$50 + \$2,750 = \$9,800**
 
-
 # Estimated Tuition and Fees = \$9,800
-
 
 ---
 
-
 > **33. QUICK REFERENCE --- FUNDING**
-
 
   -----------------------------------------------------------------------
   Funding Type            Category                Fixed Amounts
@@ -3339,32 +2934,25 @@ Education Deposit: **\$2,750**
                                                   \$5,000, \$10,000,
                                                   \$15,000, \$50,000
 
-
   Scholarship             Merit-Based             \$500, \$2,500,
                                                   \$5,000, \$10,000,
                                                   \$15,000, \$50,000
-
 
   Grant                   Need-Based              \$500, \$2,500,
                                                   \$5,000, \$10,000,
                                                   \$15,000, \$50,000
 
-
   Grant                   Merit-Based             \$500, \$2,500,
                                                   \$5,000, \$10,000,
                                                   \$15,000, \$50,000
-
 
   Stipend                 Student Support         \$100, \$200, \$300,
                                                   \$400, \$500
   -----------------------------------------------------------------------
 
-
 ---
 
-
 > **34. QUICK REFERENCE --- ALL ACTIVE NUMBERS**
-
 
   Item                                                               Amount
   ------------------------------------------ ------------------------------
@@ -3423,56 +3011,40 @@ Education Deposit: **\$2,750**
   Typical Bachelor's Course                                       3 credits
   Bachelor's Course Count                                                40
 
-
 ---
 
-
 > **35. IMPORTANT CALCULATOR NOTES**
-
 
 The RIAH Dynasty Pricing Engine provides an estimate based on student
 selections and established RIAH pricing rules.
 
-
 RIAH Scholarships, Grants, and Stipends use fixed internal award values.
-
 
 The calculator distinguishes Scholarship, Grant, Stipend, and External
 Funding as separate funding sources.
 
-
 Scholarships and Grants use Need-Based and Merit-Based categories.
-
 
 Stipends use the \$100 to \$500 Student Support structure.
 
-
 Student-entered external funding remains an estimate until confirmed.
-
 
 Community Contributor, Substitute Teacher Ambassador, and Rideshare and
 Delivery Ambassador reductions are milestone-based and may provide up to
 a 25% tuition reduction.
 
-
 Those reductions remain subject to the overall:
-
 
 > **25% Maximum Ordinary Tuition Reduction**
 
-
 The calculator does not create negative tuition.
-
 
 The calculator does not invent unconfigured financial amounts or
 eligibility decisions.
 
-
 ---
 
-
 > **36. PUBLIC DEVELOPMENT AND CONTRIBUTION NOTICE**
-
 
 This document may be published publicly with RIAH Pathway website
 wireframes and development materials so prospective students,
@@ -3480,61 +3052,44 @@ developers, contributors, and other interested users can understand the
 intended public-facing tuition and pricing experience while the website
 is being developed.
 
-
 RIAH intends to support public website development through an
 open-source contribution model.
 
-
 Approved Community Contributors may earn:
-
 
 # Up to 25% Tuition Reduction
 
-
 and:
-
 
 # Up to 25% Product Reduction
 
-
 according to applicable published contribution milestones.
-
 
 Substitute Teacher Ambassadors and Rideshare and Delivery Ambassadors
 may likewise earn:
 
-
 # Up to 25% Tuition Reduction
-
 
 and:
 
-
 # Up to 25% Product Reduction
-
 
 according to their applicable published milestones.
 
-
 The tuition benefit remains subject to the overall:
 
-
 > **25% Maximum Ordinary Tuition Reduction**
-
 
 Public visibility of this document, source materials, wireframes,
 calculations, designs, specifications, or related development materials
 does not by itself define or waive ownership rights.
-
 
 RIAH Dynasty may separately establish the license and contribution terms
 governing copying, modification, redistribution, pull requests,
 derivative works, and other uses of its publicly available development
 materials.
 
-
 # RIAH PATHWAY
-
 
 **Build your pathway. Understand the price. See your options before you
 enroll.**
