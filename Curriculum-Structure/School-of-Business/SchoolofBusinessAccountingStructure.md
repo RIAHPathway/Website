@@ -1,18 +1,30 @@
 # RIAH PATHWAY — ACCOUNTING CURRICULUM
 
-**School:** School of Business
+| Content |
+| --- |
+| **School:** School of Business |
 
-This standalone curriculum file combines the shared undergraduate foundation with the complete existing Accounting curriculum. Existing course, track, certification-review, assessment, software, experiential, capstone, applied-build, and supervision details are retained from the controlling curriculum files.
+| Content |
+| --- |
+| This standalone curriculum file combines the shared undergraduate foundation with the complete existing Accounting curriculum. Existing course, track, certification-review, assessment, software, experiential, capstone, applied-build, and supervision details are retained from the controlling curriculum files. |
 
 ## Year 1 — General Education — 30 Credit Hours
 
-General Education provides the academic foundation for applicable RIAH Pathway degree pathways.
+| Content |
+| --- |
+| General Education provides the academic foundation for applicable RIAH Pathway degree pathways. |
 
-General Education Total: 30 Credit Hours.
+| Content |
+| --- |
+| General Education Total: 30 Credit Hours. |
 
-General Education includes College English, College Algebra, Oral Communications, Foreign Language, History, Philosophy, Psychology, Sociology, Art, and Science.
+| Content |
+| --- |
+| General Education includes College English, College Algebra, Oral Communications, Foreign Language, History, Philosophy, Psychology, Sociology, Art, and Science. |
 
-Detailed course tables remain in the controlling degree curriculum.
+| Content |
+| --- |
+| Detailed course tables remain in the controlling degree curriculum. |
 
 ## ❤️ General Education — Edmentum Software Coverage
 
@@ -29,11 +41,15 @@ Detailed course tables remain in the controlling degree curriculum.
 | ART 1010 | Art | ✓ |
 | SCI 1010 | Science | ✓ |
 
-Philosophy Note — PHI 1010 remains part of the RIAH General Education curriculum. RIAH will provide and/or integrate additional Philosophy curriculum because Edmentum does not provide the mapped Philosophy coverage used for this structure.
+| Content |
+| --- |
+| Philosophy Note — PHI 1010 remains part of the RIAH General Education curriculum. RIAH will provide and/or integrate additional Philosophy curriculum because Edmentum does not provide the mapped Philosophy coverage used for this structure. |
 
 ## Year 2 — IV.I. Business Core — 30 Credit Hours 📘
 
-**Full Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · HubSpot · Microsoft Power Automate
+| Content |
+| --- |
+| **Full Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · HubSpot · Microsoft Power Automate |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Cengage MindTap | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -50,7 +66,9 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ## Accounting — Minor through MBA
 
-**Full Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer
+| Content |
+| --- |
+| **Full Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
 
 ### Accounting Minor — 15 Credit Hours
 
@@ -79,7 +97,9 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Accounting — Bachelor’s Year 4 — 30 Credit Hours
 
-**General Bachelor’s Year 4 Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer
+| Content |
+| --- |
+| **General Bachelor’s Year 4 Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -96,9 +116,13 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Accounting — Bachelor’s Year 4 — CPA Track — 30 Credit Hours
 
-**Combined Accounting + CPA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer
+| Content |
+| --- |
+| **Combined Accounting + CPA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
 
-**CPA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline
+| Content |
+| --- |
+| **CPA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -115,9 +139,13 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Accounting — Bachelor’s Year 4 — CMA Track — 30 Credit Hours
 
-**Combined Accounting + CMA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer
+| Content |
+| --- |
+| **Combined Accounting + CMA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
 
-**CMA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline
+| Content |
+| --- |
+| **CMA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -134,9 +162,13 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Accounting — Bachelor’s Year 4 — CIA Track — 30 Credit Hours
 
-**Combined Accounting + CIA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer
+| Content |
+| --- |
+| **Combined Accounting + CIA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
 
-**CIA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline
+| Content |
+| --- |
+| **CIA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -153,9 +185,13 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Accounting — Bachelor’s Year 4 — CFE Track — 30 Credit Hours
 
-**Combined Accounting + CFE Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer
+| Content |
+| --- |
+| **Combined Accounting + CFE Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
 
-**CFE Learning Progression:** CFE Part 1 — Law → CFE Part 2 — Investigation → CFE Part 3 — Financial Transactions & Fraud Schemes → CFE Part 4 — Fraud Prevention & Deterrence → Comprehensive CFE Review Integration
+| Content |
+| --- |
+| **CFE Learning Progression:** CFE Part 1 — Law → CFE Part 2 — Investigation → CFE Part 3 — Financial Transactions & Fraud Schemes → CFE Part 4 — Fraud Prevention & Deterrence → Comprehensive CFE Review Integration |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -172,9 +208,13 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Accounting — Bachelor’s Year 4 — IRS EA Track — 30 Credit Hours
 
-**Combined Accounting + IRS EA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer
+| Content |
+| --- |
+| **Combined Accounting + IRS EA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
 
-**IRS EA Learning Progression:** IRS EA Part 1 — Individual Taxation → IRS EA Part 2 — Business Taxation → IRS EA Part 3 — Representation, Practices & Procedures → Comprehensive IRS EA Review Integration
+| Content |
+| --- |
+| **IRS EA Learning Progression:** IRS EA Part 1 — Individual Taxation → IRS EA Part 2 — Business Taxation → IRS EA Part 3 — Representation, Practices & Procedures → Comprehensive IRS EA Review Integration |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -191,9 +231,13 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Accounting — Bachelor’s Year 4 — CISA Track — 30 Credit Hours
 
-**Combined Accounting + CISA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies
+| Content |
+| --- |
+| **Combined Accounting + CISA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
 
-**CISA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline
+| Content |
+| --- |
+| **CISA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -210,9 +254,13 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Accounting — Bachelor’s Year 4 — CRISC Track — 30 Credit Hours
 
-**Combined Accounting + CRISC Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies
+| Content |
+| --- |
+| **Combined Accounting + CRISC Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
 
-**CRISC Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline
+| Content |
+| --- |
+| **CRISC Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -229,7 +277,9 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Accounting — Master’s — 30 Credit Hours
 
-**General Master’s Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer
+| Content |
+| --- |
+| **General Master’s Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -246,9 +296,13 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Accounting — Master’s — CPA Track — 30 Credit Hours
 
-**Combined Accounting + CPA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer
+| Content |
+| --- |
+| **Combined Accounting + CPA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
 
-**CPA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline
+| Content |
+| --- |
+| **CPA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -265,9 +319,13 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Accounting — Master’s — CMA Track — 30 Credit Hours
 
-**Combined Accounting + CMA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer
+| Content |
+| --- |
+| **Combined Accounting + CMA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
 
-**CMA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline
+| Content |
+| --- |
+| **CMA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -284,9 +342,13 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Accounting — Master’s — CIA Track — 30 Credit Hours
 
-**Combined Accounting + CIA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer
+| Content |
+| --- |
+| **Combined Accounting + CIA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
 
-**CIA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline
+| Content |
+| --- |
+| **CIA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -303,9 +365,13 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Accounting — Master’s — CFE Track — 30 Credit Hours
 
-**Combined Accounting + CFE Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer
+| Content |
+| --- |
+| **Combined Accounting + CFE Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
 
-**CFE Learning Progression:** CFE Part 1 — Law → CFE Part 2 — Investigation → CFE Part 3 — Financial Transactions & Fraud Schemes → CFE Part 4 — Fraud Prevention & Deterrence → Comprehensive CFE Review Integration
+| Content |
+| --- |
+| **CFE Learning Progression:** CFE Part 1 — Law → CFE Part 2 — Investigation → CFE Part 3 — Financial Transactions & Fraud Schemes → CFE Part 4 — Fraud Prevention & Deterrence → Comprehensive CFE Review Integration |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -322,9 +388,13 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Accounting — Master’s — IRS EA Track — 30 Credit Hours
 
-**Combined Accounting + IRS EA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer
+| Content |
+| --- |
+| **Combined Accounting + IRS EA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
 
-**IRS EA Learning Progression:** IRS EA Part 1 — Individual Taxation → IRS EA Part 2 — Business Taxation → IRS EA Part 3 — Representation, Practices & Procedures → Comprehensive IRS EA Review Integration
+| Content |
+| --- |
+| **IRS EA Learning Progression:** IRS EA Part 1 — Individual Taxation → IRS EA Part 2 — Business Taxation → IRS EA Part 3 — Representation, Practices & Procedures → Comprehensive IRS EA Review Integration |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -341,9 +411,13 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Accounting — Master’s — CISA Track — 30 Credit Hours
 
-**Combined Accounting + CISA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies
+| Content |
+| --- |
+| **Combined Accounting + CISA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
 
-**CISA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline
+| Content |
+| --- |
+| **CISA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -360,9 +434,13 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Accounting — Master’s — CRISC Track — 30 Credit Hours
 
-**Combined Accounting + CRISC Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies
+| Content |
+| --- |
+| **Combined Accounting + CRISC Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
 
-**CRISC Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline
+| Content |
+| --- |
+| **CRISC Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -379,7 +457,9 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Accounting — MBA — 30 Credit Hours
 
-**General MBA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer
+| Content |
+| --- |
+| **General MBA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -396,9 +476,13 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Accounting — MBA — CPA Track — 30 Credit Hours
 
-**Combined Accounting + CPA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer
+| Content |
+| --- |
+| **Combined Accounting + CPA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
 
-**CPA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline
+| Content |
+| --- |
+| **CPA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -415,9 +499,13 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Accounting — MBA — CMA Track — 30 Credit Hours
 
-**Combined Accounting + CMA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer
+| Content |
+| --- |
+| **Combined Accounting + CMA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
 
-**CMA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline
+| Content |
+| --- |
+| **CMA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -434,9 +522,13 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Accounting — MBA — CIA Track — 30 Credit Hours
 
-**Combined Accounting + CIA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer
+| Content |
+| --- |
+| **Combined Accounting + CIA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
 
-**CIA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline
+| Content |
+| --- |
+| **CIA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -453,9 +545,13 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Accounting — MBA — CFE Track — 30 Credit Hours
 
-**Combined Accounting + CFE Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer
+| Content |
+| --- |
+| **Combined Accounting + CFE Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
 
-**CFE Learning Progression:** CFE Part 1 — Law → CFE Part 2 — Investigation → CFE Part 3 — Financial Transactions & Fraud Schemes → CFE Part 4 — Fraud Prevention & Deterrence → Comprehensive CFE Review Integration
+| Content |
+| --- |
+| **CFE Learning Progression:** CFE Part 1 — Law → CFE Part 2 — Investigation → CFE Part 3 — Financial Transactions & Fraud Schemes → CFE Part 4 — Fraud Prevention & Deterrence → Comprehensive CFE Review Integration |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -472,9 +568,13 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Accounting — MBA — IRS EA Track — 30 Credit Hours
 
-**Combined Accounting + IRS EA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer
+| Content |
+| --- |
+| **Combined Accounting + IRS EA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
 
-**IRS EA Learning Progression:** IRS EA Part 1 — Individual Taxation → IRS EA Part 2 — Business Taxation → IRS EA Part 3 — Representation, Practices & Procedures → Comprehensive IRS EA Review Integration
+| Content |
+| --- |
+| **IRS EA Learning Progression:** IRS EA Part 1 — Individual Taxation → IRS EA Part 2 — Business Taxation → IRS EA Part 3 — Representation, Practices & Procedures → Comprehensive IRS EA Review Integration |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -491,9 +591,13 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Accounting — MBA — CISA Track — 30 Credit Hours
 
-**Combined Accounting + CISA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies
+| Content |
+| --- |
+| **Combined Accounting + CISA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
 
-**CISA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline
+| Content |
+| --- |
+| **CISA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -510,9 +614,13 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Accounting — MBA — CRISC Track — 30 Credit Hours
 
-**Combined Accounting + CRISC Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies
+| Content |
+| --- |
+| **Combined Accounting + CRISC Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
 
-**CRISC Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline
+| Content |
+| --- |
+| **CRISC Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
