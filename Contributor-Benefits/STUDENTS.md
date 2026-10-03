@@ -87,7 +87,7 @@ Students who successfully complete an eligible RIAH Pathway Education Pathway or
 
 **Complete the entire eligible pathway = guaranteed 10% eligible tuition reduction.**
 
-The Graduate Tuition Benefit may increase to **50% maximum eligible tuition**. **Education Graduates and Experiential Graduates receive a product benefit from 10% at 1,000 points up to 25% at 2,500 approved Graduate Points.**
+The Graduate Tuition Benefit may increase to **50% maximum eligible tuition**. **Education Graduates and Experiential Graduates may qualify for up to 25% eligible products based on applicable approved Graduate Points and eligibility requirements. The product benefit is not guaranteed at pathway completion.**
 
 ## II. 👑 Eligibility
 
@@ -103,7 +103,7 @@ The Graduate Tuition Benefit may increase to **50% maximum eligible tuition**. *
 10. Verify additional milestone activities above 10%.
 11. Graduate points cannot be purchased.
 12. Graduate points cannot be transferred.
-13. Education Graduates and Experiential Graduates receive 10% eligible products at 1,000 points, plus 1% for each additional 100 approved Graduate Points, up to 25% at 2,500 points.
+13. Education Graduates and Experiential Graduates may qualify for up to 25% eligible products based on applicable approved Graduate Points and eligibility requirements. Product benefits are not guaranteed by pathway completion.
 14. Maximum Graduate Tuition Benefit is 50%.
 
 Qualifying pathways may include High School, GED, Associate's, Bachelor's, MBA, JD when applicable, Non-JD, designated approved Certification pathways, Experiential pathways and other designated qualifying RIAH educational pathways.
@@ -112,57 +112,57 @@ Qualifying pathways may include High School, GED, Associate's, Bachelor's, MBA, 
 
 | Achievement | Points | Tuition | Products |
 |---|---:|---:|---:|
-| Complete Entire Eligible Pathway | **1,000** | **10% GUARANTEED** | **10% GUARANTEED** |
+| Complete Entire Eligible Pathway | **1,000** | **10% GUARANTEED** | **Up to 25%** |
 
 ## IV. 🧮 Graduate Point Formula
 
-After the guaranteed 10%, **each additional 100 approved Graduate Points = +1% eligible tuition**. Maximum: **5,000 total Graduate Points = 50% tuition**. This consists of 1,000 guaranteed completion points plus up to 4,000 additional approved Graduate Points. For Education and Experiential Graduates, the same approved-point progression provides **10% eligible products at 1,000 points, +1% per additional 100 approved Graduate Points, up to 25% at 2,500 points**.
+After the guaranteed 10%, **each additional 100 approved Graduate Points = +1% eligible tuition**. Maximum: **5,000 total Graduate Points = 50% tuition**. This consists of 1,000 guaranteed completion points plus up to 4,000 additional approved Graduate Points. For Education and Experiential Graduates, eligible product benefits are **up to 25%** based on applicable approved Graduate Points and eligibility requirements. The guaranteed 10% completion milestone applies to tuition only.
 
 ## V. 🏆 Graduate 10%–50% Milestones
 
 | Points | Tuition | Products |
 |---:|---:|---:|
-| 1000 | 10% GUARANTEED| 10% |
-| 1100 | 11%| 11% |
-| 1200 | 12%| 12% |
-| 1300 | 13%| 13% |
-| 1400 | 14%| 14% |
-| 1500 | 15%| 15% |
-| 1600 | 16%| 16% |
-| 1700 | 17%| 17% |
-| 1800 | 18%| 18% |
-| 1900 | 19%| 19% |
-| 2000 | 20%| 20% |
-| 2100 | 21%| 21% |
-| 2200 | 22%| 22% |
-| 2300 | 23%| 23% |
-| 2400 | 24%| 24% |
-| 2500 | 25% | 25% MAX |
-| 2600 | 26%| 25% MAX |
-| 2700 | 27%| 25% MAX |
-| 2800 | 28%| 25% MAX |
-| 2900 | 29%| 25% MAX |
-| 3000 | 30%| 25% MAX |
-| 3100 | 31%| 25% MAX |
-| 3200 | 32%| 25% MAX |
-| 3300 | 33%| 25% MAX |
-| 3400 | 34%| 25% MAX |
-| 3500 | 35%| 25% MAX |
-| 3600 | 36%| 25% MAX |
-| 3700 | 37%| 25% MAX |
-| 3800 | 38%| 25% MAX |
-| 3900 | 39%| 25% MAX |
-| 4000 | 40%| 25% MAX |
-| 4100 | 41%| 25% MAX |
-| 4200 | 42%| 25% MAX |
-| 4300 | 43%| 25% MAX |
-| 4400 | 44%| 25% MAX |
-| 4500 | 45%| 25% MAX |
-| 4600 | 46%| 25% MAX |
-| 4700 | 47%| 25% MAX |
-| 4800 | 48%| 25% MAX |
-| 4900 | 49%| 25% MAX |
-| 5000 | 50% MAX| 25% MAX |
+| 1000 | 10% GUARANTEED| Up to 25% |
+| 1100 | 11%| Up to 25% |
+| 1200 | 12%| Up to 25% |
+| 1300 | 13%| Up to 25% |
+| 1400 | 14%| Up to 25% |
+| 1500 | 15%| Up to 25% |
+| 1600 | 16%| Up to 25% |
+| 1700 | 17%| Up to 25% |
+| 1800 | 18%| Up to 25% |
+| 1900 | 19%| Up to 25% |
+| 2000 | 20%| Up to 25% |
+| 2100 | 21%| Up to 25% |
+| 2200 | 22%| Up to 25% |
+| 2300 | 23%| Up to 25% |
+| 2400 | 24%| Up to 25% |
+| 2500 | 25% | Up to 25% |
+| 2600 | 26%| Up to 25% |
+| 2700 | 27%| Up to 25% |
+| 2800 | 28%| Up to 25% |
+| 2900 | 29%| Up to 25% |
+| 3000 | 30%| Up to 25% |
+| 3100 | 31%| Up to 25% |
+| 3200 | 32%| Up to 25% |
+| 3300 | 33%| Up to 25% |
+| 3400 | 34%| Up to 25% |
+| 3500 | 35%| Up to 25% |
+| 3600 | 36%| Up to 25% |
+| 3700 | 37%| Up to 25% |
+| 3800 | 38%| Up to 25% |
+| 3900 | 39%| Up to 25% |
+| 4000 | 40%| Up to 25% |
+| 4100 | 41%| Up to 25% |
+| 4200 | 42%| Up to 25% |
+| 4300 | 43%| Up to 25% |
+| 4400 | 44%| Up to 25% |
+| 4500 | 45%| Up to 25% |
+| 4600 | 46%| Up to 25% |
+| 4700 | 47%| Up to 25% |
+| 4800 | 48%| Up to 25% |
+| 4900 | 49%| Up to 25% |
+| 5000 | 50% MAX| Up to 25% |
 
 ## VI. ⭐ Graduate Point Activities
 
@@ -208,13 +208,13 @@ Completion and every additional point-bearing activity must be verified. Fabrica
 
 ## IX. 📋 Graduate Record
 
-Record Participant, Participant ID, Pathway, Completion Verification, Activity ID, Activity, Date, Base Completion Points, Added Points, Total Graduate Points, Milestone, Tuition Benefit, Product Benefit, Approved By, Next Milestone, Points Remaining and Status. Education Graduate and Experiential Graduate Product Benefits follow the approved 10%–25% product points progression.
+Record Participant, Participant ID, Pathway, Completion Verification, Activity ID, Activity, Date, Base Completion Points, Added Points, Total Graduate Points, Milestone, Tuition Benefit, Product Benefit, Approved By, Next Milestone, Points Remaining and Status. Education Graduate and Experiential Graduate Product Benefits are up to 25% based on applicable approved Graduate Points and eligibility requirements.
 
 ## X. 🏆 Examples
 
-Education Graduate: 1,000 completion + 50 peer mentoring + 25 orientation support + 50 workshop + 50 educational resource + 100 approved initiative = **1,275 points = 12% tuition + 12% eligible products + 75 points toward 13%**.
+Education Graduate: 1,000 completion + 50 peer mentoring + 25 orientation support + 50 workshop + 50 educational resource + 100 approved initiative = **1,275 points = 12% tuition; eligible product benefit may be up to 25% under applicable product-benefit requirements**.
 
-Experiential Graduate: 1,000 completion + 50 Experiential support + 50 mentorship + 50 education booth + 50 research + 200 major initiative = **1,400 points = 14% tuition + 14% eligible products**.
+Experiential Graduate: 1,000 completion + 50 Experiential support + 50 mentorship + 50 education booth + 50 research + 200 major initiative = **1,400 points = 14% tuition; eligible product benefit may be up to 25% under applicable product-benefit requirements**.
 
 Maximum Education Graduate: **2,500 points = 25% eligible products maximum; tuition may continue through 5,000 points = 50% tuition maximum**.
 
