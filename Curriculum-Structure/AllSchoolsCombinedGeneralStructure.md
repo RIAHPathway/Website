@@ -11,6 +11,7 @@
 | 📚 | General Education / academic curriculum |
 | 🧭 | Curriculum progression / academic pathway structure |
 | 🔁 | Transfer, placement, test-out & alternative credit |
+| 🧾 | School Core alternative credit course mapping |
 | 📈 | Academic progression / acceleration |
 | 🪜 | Developmental sequence / placement bands |
 | 🏛️ | School structure / school-level architecture |
@@ -42,6 +43,54 @@
 | --- | --- |
 | Transfer / Credit | Display Rule — Detailed course-by-course curriculum remains in the applicable curriculum document. This General document establishes the controlling institutional structure, academic architecture, assessment model, progression rules, transfer/placement framework, secondary-school structure, and curriculum-wide standards. |
 
+
+## 📑 Curriculum Master Index
+
+| Section | Curriculum Area |
+| --- | --- |
+| 1 | 📋 CURRICULUM PURPOSE AND EDUCATIONAL MODEL |
+| 2 | 🧭 RIAH PATHWAY ACADEMIC STRUCTURE |
+| 3 | 🏛️ SCHOOL STRUCTURE |
+| 4 | 💻 SCHOOL OF TECHNOLOGY STRUCTURE |
+| 5 | 🛡️ SCHOOL OF HOMELAND SECURITY STRUCTURE |
+| 6 | ⚖️ SCHOOL OF LAW STRUCTURE |
+| 7 | 💼 SCHOOL OF BUSINESS STRUCTURE |
+| 8 | 📚 GENERAL EDUCATION — 30 CREDITS |
+| 9 | 🔁 GENERAL EDUCATION PLACEMENT / TEST-OUT STANDARD |
+| 10 | 🪜 COLLEGE ENGLISH & COLLEGE ALGEBRA DEVELOPMENTAL PLACEMENT |
+| 11 | 🔁 TRANSFER & ALTERNATIVE CREDIT STRUCTURE |
+| 12 | 🚪 ACADEMIC PROGRESSION GATEWAYS |
+| 13 | 🌱 MINOR ARCHITECTURE |
+| 14 | 🎒 BACHELOR’S ARCHITECTURE |
+| 15 | 🧠 YEAR 3 MAJOR ARCHITECTURE |
+| 16 | 🛠️ YEAR 4 MAJOR ARCHITECTURE |
+| 17 | 🏅 CERTIFICATION-REVIEW ARCHITECTURE |
+| 18 | 🔬 MASTER’S ARCHITECTURE |
+| 19 | 📊 MBA ARCHITECTURE |
+| 20 | 📊 GENERAL MBA |
+| 21 | 🎓 EXPERIENTIAL STRUCTURE |
+| 22 | 🏫 RIAH PATHWAY SECONDARY SCHOOL |
+| 23 | 🏅 FOUR-YEAR HIGH SCHOOL DIPLOMA ARCHITECTURE |
+| 24 | 🧩 HIGH SCHOOL STATE-COMPONENT STRUCTURE |
+| 25 | 📘 GED/HSE PREPARATION ARCHITECTURE |
+| 26 | ❤️ GED/HSE LEARNING ENVIRONMENT |
+| 27 | 📘 GED/HSE ACADEMIC FLOW |
+| 28 | 🧠 GED/HSE, HIGH SCHOOL & REGULAR COURSE ASSESSMENT STANDARD |
+| 29 | 📈 GED/HSE CONCURRENT ACCELERATION |
+| 30 | 📋 HIGH SCHOOL DIPLOMA VS. GED/HSE |
+| 31 | 📐 UNIVERSAL COURSE ARCHITECTURE |
+| 32 | 📐 ASSESSMENT × PROJECT ARCHITECTURE BY LEVEL |
+| 33 | 📈 PREREQUISITE PROGRESSION STANDARD |
+| 34 | 📋 DUPLICATE CREDIT & COURSE IDENTITY STANDARD |
+| 35 | 🏅 PROFESSIONAL TRACK STANDARD |
+| 36 | 🚪 PROGRAM COMPLETION STANDARD |
+| 37 | 🧭 COMPLETE RIAH ACADEMIC ARCHITECTURE FLOW |
+| 38 | ✅ CONTROLLING CURRICULUM STANDARD |
+| 4.1 | 🔁 School of Technology — School Core Alternative Credit |
+| 5.1 | 🔁 School of Homeland Security — School Core Alternative Credit |
+| 6.1 | 🔁 School of Law — Criminal Justice School Core Alternative Credit |
+| 7.1 | 🔁 School of Business — School Core Alternative Credit |
+| 11A | 🧾 School Core Alternative Credit Course Tables Cross-Reference |
 
 # 📋 1. CURRICULUM PURPOSE AND EDUCATIONAL MODEL
 
@@ -108,8 +157,6 @@ flowchart TD
 | School of Technology | Computer Science, Cybersecurity, Data Analytics, Data Science, Software Development, Software Engineering, Project Management, Program Management, Information Systems. Each has the applicable Minor, Bachelor’s Year 3, Bachelor’s Year 4, Master’s, and MBA structure in the controlling degree curriculum. |
 
 
-
-
 ## ❤️ School of Technology Core — Cengage MindTap Software Coverage
 | RIAH Course | Course Name | Cengage MindTap |
 | --- | --- | --- |
@@ -127,6 +174,60 @@ flowchart TD
 | TEC 2112 | Principles of Software Engineering | ✓ |
 | TEC 2113 | Statistics | ✓ |
 
+## 🔁 4.1 SCHOOL OF TECHNOLOGY — SCHOOL CORE ALTERNATIVE CREDIT
+
+| **RIAH Course** | **RIAH Placement** | **ACT** | **SAT** | **AP** | **IB** | **CLEP** | **Sophia Learning** | **StraighterLine** | **Accredited College Transfer** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **TEC 2101 — Principles of Computer Science** | 80%+ | — | — | AP Computer Science A — 3+ | IB Computer Science — 6+ | — | Introduction to Python Programming — Pass | Introduction to Programming — 80%+ | Equivalent Computer Science or Programming course — B− or better / Pass |
+| **TEC 2102 — Web Development** | 80%+ | — | — | — | — | — | Introduction to Web Development — Pass | — | Equivalent Web Development course — B− or better / Pass |
+| **TEC 2103 — Principles of Cybersecurity** | 80%+ | — | — | — | IB Computer Science — 6+ | — | Introduction to Cybersecurity — Pass | Introduction to Cybersecurity — 80%+ | Equivalent Cybersecurity or Information Security course — B− or better / Pass |
+| **TEC 2104 — Principles of Information Systems** | 80%+ | — | — | AP Computer Science Principles — 3+ | IB Computer Science — 6+ | Information Systems — 64+ | Introduction to Information Technology — Pass | Introduction to Information Technology — 80%+ | Equivalent Information Systems course — B− or better / Pass |
+| **TEC 2105 — Operating Systems & Architecture** | 80%+ | — | — | AP Computer Science A — 3+ | IB Computer Science — 6+ | — | — | — | Equivalent Operating Systems or Computer Architecture course — B− or better / Pass |
+| **TEC 2106 — Systems Analysis & Design** | 80%+ | — | — | — | — | — | — | — | Equivalent Systems Analysis & Design course — B− or better / Pass |
+| **TEC 2107 — Principles of Data Analytics** | 80%+ | — | — | — | — | — | Introduction to Data Analytics — Pass | — | Equivalent Data Analytics course — B− or better / Pass |
+| **TEC 2108 — Principles of Data Science** | 80%+ | — | — | — | — | — | — | — | Equivalent Data Science course — B− or better / Pass |
+| **TEC 2109 — Principles of Project Management** | 80%+ | — | — | — | — | — | Project Management — Pass | — | Equivalent Project Management course — B− or better / Pass |
+| **TEC 2110 — Principles of Program Management** | 80%+ | — | — | — | — | — | Project Management — Pass | — | Equivalent Program Management or Project Management course — B− or better / Pass |
+| **TEC 2111 — Principles of Software Development** | 80%+ | — | — | AP Computer Science A — 3+ | IB Computer Science — 6+ | — | Introduction to Python Programming — Pass | Introduction to Programming — 80%+ | Equivalent Software Development or Programming course — B− or better / Pass |
+| **TEC 2112 — Principles of Software Engineering** | 80%+ | — | — | AP Computer Science A — 3+ | IB Computer Science — 6+ | — | — | — | Equivalent Software Engineering course — B− or better / Pass |
+| **TEC 2113 — Statistics** | 80%+ | — | — | AP Statistics — 3+ | IB Mathematics — 6+ | — | Introduction to Statistics — Pass | Introduction to Statistics — 80%+ | Equivalent Statistics course — B− or better / Pass |
+
+---
+
+## 🔁 5.1 SCHOOL OF HOMELAND SECURITY — SCHOOL CORE ALTERNATIVE CREDIT
+
+| **RIAH Course** | **RIAH Placement** | **ACT** | **SAT** | **AP** | **IB** | **CLEP** | **Sophia Learning** | **StraighterLine** | **Accredited College Transfer** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **HS 2101 — Foundations of Homeland Security** | 80%+ | — | — | — | — | — | — | — | Equivalent Homeland Security or Introduction to Homeland Security course — B− or better / Pass |
+| **HS 2102 — Homeland Security Law, Policy and Ethics** | 80%+ | — | — | — | — | — | — | — | Equivalent Homeland Security Law, Policy or Ethics course — B− or better / Pass |
+| **HS 2103 — Principles of Governance, Risk and Compliance** | 80%+ | — | — | — | — | — | — | — | Equivalent Governance, Risk & Compliance, Risk Management or Security Governance course — B− or better / Pass |
+| **HS 2104 — Principles of Intelligence** | 80%+ | — | — | — | — | — | — | — | Equivalent Intelligence or Intelligence Analysis course — B− or better / Pass |
+| **HS 2105 — Principles of Physical Security** | 80%+ | — | — | — | — | — | — | — | Equivalent Physical Security or Security Management course — B− or better / Pass |
+| **HS 2106 — Principles of Private Investigations** | 80%+ | — | — | — | — | — | — | — | Equivalent Private Investigations, Investigations or Criminal Investigation course — B− or better / Pass |
+| **HS 2107 — Emergency Management and Preparedness** | 80%+ | — | — | — | — | — | — | — | Equivalent Emergency Management, Emergency Preparedness or Disaster Management course — B− or better / Pass |
+| **HS 2108 — Critical Infrastructure Protection** | 80%+ | — | — | — | — | — | — | — | Equivalent Critical Infrastructure Protection or Infrastructure Security course — B− or better / Pass |
+| **HS 2109 — Security Operations and Incident Management** | 80%+ | — | — | — | — | — | — | — | Equivalent Security Operations, Incident Management or Security Management course — B− or better / Pass |
+| **HS 2110 — Homeland Security Strategy and Coordination** | 80%+ | — | — | — | — | — | — | — | Equivalent Homeland Security Strategy, Security Strategy or Interagency Coordination course — B− or better / Pass |
+
+---
+
+## 🔁 7.1 SCHOOL OF BUSINESS — SCHOOL CORE ALTERNATIVE CREDIT
+
+| **RIAH Course** | **RIAH Placement** | **ACT** | **SAT** | **AP** | **IB** | **CLEP** | **Sophia Learning** | **StraighterLine** | **Accredited College Transfer** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **BUS 2101 — Principles of Business** | 80%+ | — | — | — | IB Business Management — 6+ | Introductory Business Law — 64+ where applicable | Introduction to Business — Pass | Introduction to Business — 80%+ | Equivalent Introduction to Business or Principles of Business course — B− or better / Pass |
+| **BUS 2102 — Principles of Accounting** | 80%+ | — | — | — | IB Business Management — 6+ | Financial Accounting — 64+ | Financial Accounting — Pass | Accounting I — 80%+ | Equivalent Financial Accounting or Principles of Accounting course — B− or better / Pass |
+| **BUS 2103 — Principles of Finance** | 80%+ | — | — | — | IB Business Management — 6+ | — | Principles of Finance — Pass | Introduction to Business Finance — 80%+ | Equivalent Principles of Finance or Financial Management course — B− or better / Pass |
+| **BUS 2104 — Principles of Management** | 80%+ | — | — | — | IB Business Management — 6+ | Principles of Management — 64+ | Principles of Management — Pass | Organizational Behavior — 80%+ | Equivalent Principles of Management or Management course — B− or better / Pass |
+| **BUS 2105 — Principles of Marketing** | 80%+ | — | — | — | IB Business Management — 6+ | Principles of Marketing — 64+ | Principles of Marketing — Pass | Introduction to Marketing — 80%+ | Equivalent Principles of Marketing or Marketing course — B− or better / Pass |
+| **BUS 2106 — Business Law & Ethics** | 80%+ | — | — | — | IB Business Management — 6+ | Introductory Business Law — 64+ | Business Law — Pass | Business Law — 80%+ | Equivalent Business Law, Legal Environment of Business or Business Ethics course — B− or better / Pass |
+| **BUS 2107 — Organizational Behavior** | 80%+ | — | — | — | IB Business Management — 6+ | — | Organizational Behavior — Pass | Organizational Behavior — 80%+ | Equivalent Organizational Behavior course — B− or better / Pass |
+| **BUS 2108 — Operations Management** | 80%+ | — | — | — | IB Business Management — 6+ | — | — | — | Equivalent Operations Management course — B− or better / Pass |
+| **BUS 2109 — Business Analytics** | 80%+ | — | — | AP Statistics — 3+ | IB Mathematics — 6+ | — | Introduction to Statistics — Pass | Business Statistics — 80%+ | Equivalent Business Analytics, Business Statistics or Quantitative Business Analysis course — B− or better / Pass |
+| **BUS 2110 — Strategic Management** | 80%+ | — | — | — | IB Business Management — 6+ | — | — | — | Equivalent Strategic Management, Business Strategy or Strategic Planning course — B− or better / Pass |
+
+---
+
 | Certification-Review Element | Academic / Professional Structure |
 | --- | --- |
 | Certification-Review | Applicable Technology programs may contain established professional certification-review tracks in addition to the general academic pathway. |
@@ -142,8 +243,6 @@ flowchart TD
 | School | Majors and Minors |
 | --- | --- |
 | School of Homeland Security | Governance, Risk & Compliance; Intelligence; Physical Security; Private Investigations. Each has the applicable Minor, Bachelor’s Year 3, Bachelor’s Year 4, Master’s, and MBA structure in the controlling degree curriculum. |
-
-
 
 
 ## ❤️ School of Homeland Security Core — Cengage MindTap Software Coverage
@@ -172,8 +271,6 @@ flowchart TD
 | RIAH Pathway School of Law contains Criminal Justice, Juris Doctor | JD, and Non-JD State Law Pathways. |
 
 
-
-
 | School Core | Credit Hours |
 | --- | --- |
 | School of Law Core | 30 Credit Hours. |
@@ -190,6 +287,21 @@ flowchart TD
 | LAW 2008 | Criminology | ✓ |
 | LAW 2009 | Ethics in Criminal Justice | ✓ |
 | LAW 2010 | Criminal Justice Research & Analysis | ✓ |
+
+## 🔁 6.1 SCHOOL OF LAW — CRIMINAL JUSTICE SCHOOL CORE ALTERNATIVE CREDIT
+
+| **RIAH Course** | **RIAH Placement** | **ACT** | **SAT** | **AP** | **IB** | **CLEP** | **Sophia Learning** | **StraighterLine** | **Accredited College Transfer** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **LAW 2001 — Introduction to Law & Legal Systems** | 80%+ | — | — | — | — | — | — | — | Equivalent Introduction to Law, Legal Systems or Legal Studies course — B− or better / Pass |
+| **LAW 2002 — Principles of Criminal Justice** | 80%+ | — | — | — | — | — | — | — | Equivalent Introduction to Criminal Justice or Principles of Criminal Justice course — B− or better / Pass |
+| **LAW 2003 — Criminal Law** | 80%+ | — | — | — | — | — | — | — | Equivalent Criminal Law course — B− or better / Pass |
+| **LAW 2004 — Courts & Judicial Systems** | 80%+ | — | — | — | — | — | — | — | Equivalent Courts, Judicial Process or Judicial Systems course — B− or better / Pass |
+| **LAW 2005 — Policing & Law Enforcement** | 80%+ | — | — | — | — | — | — | — | Equivalent Policing, Police Administration or Law Enforcement course — B− or better / Pass |
+| **LAW 2006 — Corrections & Rehabilitation** | 80%+ | — | — | — | — | — | — | — | Equivalent Corrections, Correctional Systems or Rehabilitation course — B− or better / Pass |
+| **LAW 2007 — Criminal Investigation & Evidence** | 80%+ | — | — | — | — | — | — | — | Equivalent Criminal Investigation, Criminal Evidence or Investigation & Evidence course — B− or better / Pass |
+| **LAW 2008 — Criminology** | 80%+ | — | — | — | — | — | — | — | Equivalent Criminology course — B− or better / Pass |
+| **LAW 2009 — Ethics in Criminal Justice** | 80%+ | — | — | — | — | — | — | — | Equivalent Criminal Justice Ethics, Ethics in Criminal Justice or Professional Ethics in Justice course — B− or better / Pass |
+| **LAW 2010 — Criminal Justice Research & Analysis** | 80%+ | — | — | — | — | — | — | — | Equivalent Criminal Justice Research Methods, Criminal Justice Research & Analysis or Justice Research course — B− or better / Pass |
 
 | Criminal Justice Level | Credits | Additional Structure |
 | --- | --- | --- |
@@ -253,8 +365,6 @@ Non-JD Law Pathways:
 | School of Business | General MBA | General MBA is a separate MBA pathway. |
 
 
-
-
 ## ❤️ School of Business Core — Cengage MindTap Software Coverage
 | RIAH Course | Course Name | Cengage MindTap |
 | --- | --- | --- |
@@ -290,7 +400,6 @@ Non-JD Law Pathways:
 | Academic | General Education includes College English, College Algebra, Oral Communications, Foreign Language, History, Philosophy, Psychology, Sociology, Art, and Science. |
 
 Detailed course tables remain in the controlling degree curriculum.
-
 
 
 ## ❤️ General Education — Edmentum Software Coverage
@@ -390,6 +499,10 @@ Transfer Maximums:
 | Non-JD | Per applicable state pathway. |
 | Master’s | Per applicable graduate pathway. |
 
+
+## 🧾 School Core Alternative Credit Course Tables
+
+The School Core alternative-credit course tables are distributed within the applicable School of Technology, School of Homeland Security, School of Law, and School of Business sections of this combined curriculum document.
 
 # 🚪 12. ACADEMIC PROGRESSION GATEWAYS
 
@@ -773,7 +886,6 @@ High School Progression:
 | High School Curriculum | Detailed course tables and state-component mappings remain in the controlling High School Diploma Curriculum. |
 
 
-
 ## ❤️ High School Instructional Software / Curriculum Content Layer
 
 
@@ -869,8 +981,6 @@ flowchart TD
 | GED 103 | Science Preparation — 3 credits. |
 | GED 104 | Social Studies Preparation — 3 credits. |
 | Total | 12 credits. |
-
-
 
 
 ## ❤️ GED/HSE Preparation — Edmentum Software Coverage
@@ -1009,7 +1119,6 @@ Not every field applies to every course.
 2. ❌ = not applicable/not included.
 
 
-
 | High School Software and Content Layer | Curriculum Control |
 | --- | --- |
 | High School Software / Content Layer | Applicable High School Diploma courses use Edmentum as the mapped instructional software/content layer. The software content does not replace the RIAH curriculum; RIAH curriculum remains controlling and may add supplemental content, requirements, assignments, OA, PA, and other applicable course components. |
@@ -1135,7 +1244,6 @@ flowchart TD
 ```
 
 
-
 | Curriculum Owner / Source | Software / Content Function |
 | --- | --- |
 | Curriculum Ownership | High School Software Mapping — The High School Diploma curriculum also controls the course-level mapping of Edmentum instructional content to applicable RIAH high-school courses. Edmentum functions as the instructional software/content layer beneath the RIAH curriculum and does not replace RIAH course ownership or curriculum requirements. |
@@ -1165,3 +1273,4 @@ flowchart TD
 | Curriculum Architecture | Source |
 | --- | --- |
 | General Curriculum Architecture | Updated from the Final Curriculum Structure |
+Displaying RIAH Pathway General Curriculum Architecture Rules and Standards.md.
