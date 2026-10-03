@@ -27,8 +27,7 @@ XII. 🛡️ Verification and Anti-Abuse
 XIII. ⏳ Status Workflow  
 XIV. 📋 Participant Ledger
 
-## 📦 Category Key
-
+## I. 📦 Category Key
 | Emoji | Meaning |
 |---|---|
 | 📦 | Delivery Ambassador |
@@ -45,8 +44,7 @@ XIV. 📋 Participant Ledger
 | ✅ | Approved or verified |
 | ❌ | Rejected or ineligible |
 
-## 📦 End-to-End Category Flow
-
+## II. 📦 End-to-End Category Flow
 ```mermaid
 flowchart TB
 A["📦 Delivery Ambassador"] --> B["👑 Eligibility, Orientation & Marketing Training"]
@@ -75,8 +73,7 @@ S -- No --> C
 S -- Yes --> T["👑🏆 25% Tuition + 25% Products Maximum"]
 ```
 
-## ⚙️ Flow Metadata
-
+## III. ⚙️ Flow Metadata
 ```yaml
 track: "Delivery Ambassador"
 profile_category: "Delivery Ambassador"
@@ -94,18 +91,15 @@ review_state:
 
 Delivery Ambassadors may participate through approved vehicle vinyl, vehicle QR codes, referral links, brochures, information cards, community events, information booths, webinars, marketing campaigns, qualified referrals, student conversions, product conversions, community outreach and approved organizational introductions.
 
-## 👑 General Eligibility
-
+## IV. 👑 General Eligibility
 Participants must maintain an identifiable profile; use assigned participant, Ambassador, referral or contributor identifiers when required; follow program instructions; use approved RIAH Pathway branding and current marketing materials; accurately represent programs, products, services and pathways; never make unauthorized promises regarding admission, accreditation, authorization, financial aid, employment, certification, licensure or educational outcomes; follow applicable school, employer, venue, platform and property requirements; obtain required permissions; submit evidence for point-bearing activity; use assigned QR codes and referral links where required; protect student, prospect, customer, employee and organizational information; never fabricate activity or conversions; complete required training; follow applicable RIAH policies; and receive verification before points become permanent.
 
 Marketing materials must not be placed inside customer food, packages, mailboxes, private property or delivery orders unless specifically permitted.
 
-## 🧮 Benefit Formula
-
+## V. 🧮 Benefit Formula
 **100 approved points = 1% eligible tuition + 1% eligible products.** Maximum: **2,500 points = 25% tuition + 25% products**.
 
-## ⭐ Delivery Point System
-
+## VI. ⭐ Delivery Point System
 | Activity | Points |
 |---|---:|
 | Complete Ambassador orientation | 25 |
@@ -127,8 +121,7 @@ Marketing materials must not be placed inside customer food, packages, mailboxes
 | Coordinate approved community event | 75 |
 | Major approved Ambassador campaign | 100–200 |
 
-## 🎪 Events, Workshops and Outreach
-
+## VII. 🎪 Events, Workshops and Outreach
 Eligible activities may include college fairs, career fairs, community festivals, education fairs, school district events, parent information events, workforce events, career-development workshops, college-readiness events, professional-development events, community-center events, library events, approved school events, virtual information sessions, educational webinars, certification workshops, career workshops and Experiential pathway sessions.
 
 | Event Contribution | Points |
@@ -142,15 +135,13 @@ Eligible activities may include college fairs, career fairs, community festivals
 | Coordinate major multi-partner event | 150–200 |
 
 Multiple event awards require genuinely separate responsibilities.
-## 🔗 QR Codes, Referral Links and Attribution
-
+## VIII. 🔗 QR Codes, Referral Links and Attribution
 Each applicable Ambassador uses an individually attributable QR code and referral link. Approved destinations may include the RIAH Pathway website, program pages, educational webinars, application pages, event registration, product pages, information-request forms and approved landing pages.
 
 **Ambassador → QR or Link → Engagement → Lead → Webinar → Application → Enrollment or Purchase**
 
 Conversions must be traceable to the assigned identifier or otherwise verified. Self-referrals do not qualify. Duplicate referrals do not create duplicate conversion awards.
-## 🏆 1%–25% Milestones
-
+## IX. 🏆 1%–25% Milestones
 | Points | Tuition | Products |
 |---:|---:|---:|
 | 100 | 1% | 1% |
@@ -181,8 +172,7 @@ Conversions must be traceable to the assigned identifier or otherwise verified. 
 
 Only complete 100-point thresholds increase the benefit. Remaining points carry forward. Participation may continue after 2,500 points, but these benefits remain capped at 25%.
 
-## 👥 Benefit Levels
-
+## X. 👥 Benefit Levels
 | Level | Points | Benefit |
 |---|---:|---:|
 | 🟢 Level I | 100–400 | 1%–4% |
@@ -192,8 +182,7 @@ Only complete 100-point thresholds increase the benefit. Remaining points carry 
 | 👑 Level V | 2,000–2,400 | 20%–24% |
 | 👑🏆 Maximum | 2,500+ | 25% |
 
-## 🔗 Referral and Conversion Milestones
-
+## XI. 🔗 Referral and Conversion Milestones
 | Stage | Points |
 |---|---:|
 | Qualified Referral | 10 |
@@ -204,20 +193,17 @@ Only complete 100-point thresholds increase the benefit. Remaining points carry 
 
 A verified student completing the referral journey through enrollment may generate 150 points: 10 + 15 + 25 + 100.
 
-## 🛡️ Verification and Anti-Abuse
-
+## XII. 🛡️ Verification and Anti-Abuse
 Verification may include activity records, event registration or check-in, appropriate event evidence, QR analytics, referral analytics, webinar registration, application attribution, enrollment attribution, product-order attribution, approved campaign records, GitHub records where applicable, and coordinator or maintainer approval.
 
 No points are awarded for fake, duplicate or self-referrals; fake purchases; fraudulent transactions; fabricated events or attendance; QR manipulation; automated fake traffic; spam; plagiarism; duplicate submissions; unauthorized copyrighted material; fabricated testing or research; unauthorized school, vehicle or brand marketing; misleading program claims; pressure-based marketing; abandoned or rejected work; or restricted/confidential information.
 
 One underlying activity normally receives one primary award unless separate point-bearing milestones or deliverables are independently verified.
 
-## ⏳ Status Workflow
-
+## XIII. ⏳ Status Workflow
 **⏳ Pending → 👀 Under Review → 🔄 Revision if Required → ✅ Approved → 👑 Credited**
 
 Pending work receives no permanent points. Rejected work receives zero points.
 
-## 📋 Participant Ledger
-
+## XIV. 📋 Participant Ledger
 Record Participant, Participant ID, Track, Activity or Contribution ID, Activity, Attribution, Submission Date, Verification Source, Points, Approved By, Previous Total, Added Points, New Total, Milestone, Tuition Benefit, Product Benefit, Next Milestone, Points Remaining and Status.
