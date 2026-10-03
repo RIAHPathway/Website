@@ -106,45 +106,39 @@ VII. 📋 Master Record Fields
 
 ## V. 🔄 Master Participation Flow
 
-### 🔹 Mermaid Flow — Part 1
+### 👥 High-Level Flow — Contributor & Ambassador Categories
 
 ```mermaid
 flowchart TB
-A["👑 RIAH Pathway Benefit Framework"] --> B{"👥 Participant Category"}
-B --> C["💻 GitHub Contributor"]
-B --> D["🌎 Community Ambassador"]
-B --> E["🍎 Substitute Teacher Ambassador"]
-B --> F["🚗 Rideshare Ambassador"]
-B --> G["📦 Delivery Ambassador"]
-B --> H["🎓 Education / Experiential Graduate"]
-B --> I["🤝 Partner"]
-C --> J["⭐ Approved Contribution Points"]
-D --> K["⭐ Verified Outreach / Referral Points"]
-E --> K
-F --> K
-G --> K
-J --> L["🏆 100 Points = 1%"]
+A["👑 RIAH Pathway Benefit Framework"] --> B["👥 Contributor & Ambassador Categories"]
+B --> C["⭐ Approved / Verified Points"]
+C --> D["🏆 100 Points = 1%"]
+D --> E["🎓 Tuition + 🛍️ Product Benefit"]
+E --> F["👑 2,500 Points = 25% Maximum"]
 ```
 
-### 🔹 Mermaid Flow — Part 2
+### 🎓 High-Level Flow — Education & Experiential Graduates
 
 ```mermaid
 flowchart TB
-L["🏆 100 Points = 1%"]
-K --> L
-L --> M["🎓 Tuition + 🛍️ Product Benefit"]
-M --> N["👑 2,500 Points = 25% Maximum"]
-H --> O["✅ Complete Entire Eligible Pathway"]
-O --> P["⭐ 1,000 Graduate Points"]
-P --> Q["🎓 Guaranteed 10% Tuition"]
-Q --> R["⭐ Additional Approved Graduate Points"]
-R --> S["👑 5,000 Total = 50% Tuition Maximum"]
-S --> T["🛍️ Education & Experiential Product Benefit = Up to 25%"]
-I --> U["📄 Applicable Written Partnership Terms"]
-U --> V["🎓 15% Tuition + 🛍️ 15% Products for Eligible Partner Employees"]
-U --> W["🤝 Separate Authorized Partner / Pillar Product Benefit"]
-W --> X["🛍️ Up to 25% Products Where Authorized"]
+A["🎓 Complete Entire Eligible Pathway"] --> B["⭐ 1,000 Graduate Points"]
+B --> C["🎓 Guaranteed 10% Tuition"]
+C --> D["⭐ Additional Approved Graduate Points"]
+D --> E["👑 Up to 50% Tuition Maximum"]
+E --> F["🛍️ Product Benefit Up to 25%"]
 ```
+
+### 🤝 High-Level Flow — Partners
+
+```mermaid
+flowchart TB
+A["🤝 Partner"] --> B["📄 Applicable Written Partnership Terms"]
+B --> C["🎓 Eligible Tuition Benefit"]
+B --> D["🛍️ Eligible Product Benefit"]
+C --> E["📋 Apply Authorized Partner Terms"]
+D --> E
+```
+
 
 ## VI. 👑 Shared Rules
 
