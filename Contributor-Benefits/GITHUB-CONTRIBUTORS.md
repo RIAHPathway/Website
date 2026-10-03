@@ -63,19 +63,14 @@ E --> F
 
 ## ⚙️ Flow Metadata
 
-```yaml
-track: "GitHub Contributor"
-profile_category: "Contributor"
-status: "in-progress"
-verification_required: true
-points_require_approval: true
-benefit_record_required: true
-review_state:
-  - pending
-  - under-review
-  - revision-if-required
-  - approved
-  - credited
+**Flow Configuration:** Track — GitHub Contributor; Profile Category — Contributor; Status — in-progress; Verification Required — true; Points Require Approval — true; Benefit Record Required — true.
+
+```mermaid
+flowchart LR
+    A["Pending"] --> B["Under Review"]
+    B --> C["Revision if Required"]
+    C --> D["Approved"]
+    D --> E["Credited"]
 ```
 
 ## 💰 Tuition, Products & Pricing Resources
