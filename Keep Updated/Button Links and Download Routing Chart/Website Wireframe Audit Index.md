@@ -37,203 +37,145 @@
 |---|---|---|---|---|---|---|
 | 02-B01 | Explore the RIAH Pathway | Button | 02.0 Hero | 03 Pathway | Public | COMPLETE |
 | 02-B02 | Explore Our Schools | Button | 02.0 Hero | 02.3 Schools | Public | COMPLETE |
-| 02-B03 | Explore Pathways | Button | 02.1 Overview | 03 Pathway | Public | COMPLETE |
-| 02-B04 | View Admissions | Button | 02.1 Overview | 05 Admissions | Public | COMPLETE |
-| 02-B05 | Enter Portal | Button | 02.1 Public Architecture | portal.RIAHPathway.com | Public gateway | LIVING WEB RESOURCE |
-| 02-B06 | Explore Education | Button | 02.2 Ecosystem | 03 Pathway | Public | COMPLETE |
-| 02-B07 | Explore Experiential | Button | 02.2 Ecosystem | 03.5 Experiential Pathway | Public | COMPLETE |
-| 02-B08 | Explore Certification | Button | 02.2 Ecosystem | 03.6 Certification Pathway | Public | COMPLETE |
-| 02-B09 | Explore Opportunities | Button | 02.2 Ecosystem | 10 Join Us | Public | COMPLETE |
-| 02-B10 | Explore Student Life | Button | 02.2 Ecosystem | 10.2 Student Life | Public | COMPLETE |
-| 02-B11 | Explore Products | Button | 02.2 Ecosystem | 08 Products | Public | COMPLETE |
-| 02-B12 | Explore Resources | Button | 02.2 Ecosystem | 11 Resources | Public | COMPLETE |
-| 02-B13 | Explore Your Pathway | Button | 02.2 Participant Journey | 03 Pathway | Public | COMPLETE |
-| 02-B14 | Join Our Team | Button | 02.2 Internal Operational Capability | 10.4 Join Our Team | Public | COMPLETE |
-| 02-B15 | Explore Experiential Pathways | Button | 02.2 Experiential Operating Model | 03.5 Experiential Pathway | Public | COMPLETE |
-| 02-B16 | Explore Technology Curriculum | Button | 02.2 Technology Architecture | 04.5 School of Technology | Public | COMPLETE |
-| 02-B17 | View Tuition | Button | 02.2 Finance and Accounting | 06 Tuition | Public | COMPLETE |
-| 02-B18 | Accreditation and Authorization | Button | 02.2 Legal and Compliance | 09 Accreditation and Authorization | Public | COMPLETE |
-| 02-B19 | Explore Resources | Button | 02.2 Training and Professional Development | 11 Resources | Public | COMPLETE |
-| 02-B20 | Explore Partnerships | Button | 02.2 Strategic External Relationships | 10.3 Partnerships | Public | COMPLETE |
-| 02-B21 | Explore Business | Button | 02.3 Schools | 04.3 School of Business | Public | COMPLETE |
-| 02-B22 | Explore Technology | Button | 02.3 Schools | 04.5 School of Technology | Public | COMPLETE |
-| 02-B23 | Explore Homeland Security | Button | 02.3 Schools | 04.4 School of Homeland Security | Public | COMPLETE |
-| 02-B24 | Explore Law | Button | 02.3 Schools | 04.6 School of Law | Public | COMPLETE |
-| 02-B25 | Explore Diploma and GED | Button | 02.3 Schools | 04.7 School of Diploma and GED | Public | COMPLETE |
-| 02-B26 | Explore Experiential | Button | 02.3 Schools | 04.8 Experiential | Public | COMPLETE |
-| 02-B27 | View Complete Curriculum | Button | 02.3 Schools | 04 Curriculum | Public | COMPLETE |
-| 02-B28 | Join Our Team | Button | 02.4 Leadership | 10.4 Join Our Team | Public | COMPLETE |
-| 02-B29 | Corporate Opportunities | Button | 02.5 Corporate Governance | 10.4 Join Our Team | Public | COMPLETE |
-| 02-B30 | Donations and Foundation | Button | 02.5 Foundation Governance | 07 Donations | Public | COMPLETE |
-| 02-B33 | Explore Curriculum | Button | 02.5 Institutional Governance | 04 Curriculum | Public | COMPLETE |
-| 02-B34 | Explore Experiential | Button | 02.5 Institutional Governance | 03.5 Experiential Pathway | Public | COMPLETE |
-| 02-B35 | Accreditation and Authorization | Button | 02.5 Governance Responsibilities | 09 Accreditation and Authorization | Public | COMPLETE |
-| 02-B36 | Donations and Foundation | Button | 02.5 Governance Responsibilities | 07 Donations | Public | COMPLETE |
-| 02-B37 | Join Board and Governance | Button | 02.5 Governance Responsibilities | 10.4.1.3 Board of Governance | Public | COMPLETE |
-| 02-B31 | Explore Curriculum | Button | 02.6 School Brand System | 04 Curriculum | Public | COMPLETE |
-| 02-B32 | Explore Products | Button | 02.6 School Brand System | 08 Products | Public | COMPLETE |
+| 02-B03 | Explore Pathways | Button | 02.1 Who We Are | 03 Pathway | Public | COMPLETE |
+| 02-B04 | View Admissions | Button | 02.1 Who We Are | 05 Admissions | Public | COMPLETE |
+| 02-B05 | Explore Curriculum | Button | 02.1 Learning Model | 04 Curriculum | Public | COMPLETE |
+| 02-B06 | Explore Experiential | Button | 02.1 Learning Model | 03.5 Experiential Pathway | Public | COMPLETE |
+| 02-B07 | Explore Tuition | Button | 02.1 Community Benefit | 06 Tuition | Public | COMPLETE |
+| 02-B08 | Explore Products | Button | 02.1 Community Benefit | 08 Products | Public | COMPLETE |
+| 02-B09 | Join the Ecosystem | Button | 02.1 Community Benefit | 10 Join Us | Public | COMPLETE |
+| 02-B10 | Enter Portal | Button | 02.1 Public Architecture | portal.RIAHPathway.com | Public gateway | LIVING WEB RESOURCE |
+| 02-B11 | Explore Education | Button | 02.2 Ecosystem | 03 Pathway | Public | COMPLETE |
+| 02-B12 | Explore Experiential | Button | 02.2 Ecosystem | 03.5 Experiential Pathway | Public | COMPLETE |
+| 02-B13 | Explore Certification | Button | 02.2 Ecosystem | 03.6 Certification Pathway | Public | COMPLETE |
+| 02-B14 | Explore Opportunities | Button | 02.2 Ecosystem | 10 Join Us | Public | COMPLETE |
+| 02-B15 | Explore Student Life | Button | 02.2 Ecosystem | 10.2 Student Life | Public | COMPLETE |
+| 02-B16 | Explore Products | Button | 02.2 Ecosystem | 08 Products | Public | COMPLETE |
+| 02-B17 | Explore Resources | Button | 02.2 Ecosystem | 11 Resources | Public | COMPLETE |
+| 02-B18 | Explore Community Opportunities | Button | 02.2 Ecosystem | 10 Join Us | Public | COMPLETE |
+| 02-B19 | Explore Your Pathway | Button | 02.2 Participant Journey | 03 Pathway | Public | COMPLETE |
+| 02-B20 | Join Our Team | Button | 02.2 Lean Institutional Model | 10.4 Join Our Team | Public | COMPLETE |
+| 02-B21 | Explore Experiential Pathways | Button | 02.2 Experiential Operating Model | 03.5 Experiential Pathway | Public | COMPLETE |
+| 02-B22 | Explore Business | Button | 02.3 Schools | 04.3 School of Business | Public | COMPLETE |
+| 02-B23 | Explore Technology | Button | 02.3 Schools | 04.5 School of Technology | Public | COMPLETE |
+| 02-B24 | Explore Homeland Security | Button | 02.3 Schools | 04.4 School of Homeland Security | Public | COMPLETE |
+| 02-B25 | Explore Law | Button | 02.3 Schools | 04.6 School of Law | Public | COMPLETE |
+| 02-B26 | Explore Diploma and GED | Button | 02.3 Schools | 04.7 School of Diploma and GED | Public | COMPLETE |
+| 02-B27 | Explore Experiential | Button | 02.3 Schools | 04.8 Experiential | Public | COMPLETE |
+| 02-B28 | View Complete Curriculum | Button | 02.3 Schools | 04 Curriculum | Public | COMPLETE |
+| 02-B29 | Join Our Team | Button | 02.4 Team | 10.4 Join Our Team | Public | COMPLETE |
+| 02-B30 | Explore Partnerships | Button | 02.4 Team | 10.3 Partnerships | Public | COMPLETE |
+| 02-B31 | Explore Experiential | Button | 02.5 Professional Services | 03.5 Experiential Pathway | Public | COMPLETE |
+| 02-B32 | Explore Partnerships | Button | 02.5 Professional Services | 10.3 Partnerships | Public | COMPLETE |
+| 02-B33 | Corporate Opportunities | Button | 02.6 Corporate Pillar | 10.4 Join Our Team | Public | COMPLETE |
+| 02-B34 | Donations and Foundation | Button | 02.6 Foundation Pillar | 07 Donations | Public | COMPLETE |
+| 02-B35 | Explore Curriculum | Button | 02.6 Institutional Pillar | 04 Curriculum | Public | COMPLETE |
+| 02-B36 | Explore Experiential | Button | 02.6 Institutional Pillar | 03.5 Experiential Pathway | Public | COMPLETE |
+| 02-B37 | Accreditation and Authorization | Button | 02.6 Governance | 09 Accreditation and Authorization | Public | COMPLETE |
+| 02-B38 | Donations and Foundation | Button | 02.6 Governance | 07 Donations | Public | COMPLETE |
+| 02-B39 | Join Board and Governance | Button | 02.6 Governance | 10.4.1.3 Board of Governance | Public | COMPLETE |
+| 02-B40 | View Accreditation Status | Button | 02.7 Transparency | 09 Accreditation and Authorization | Public | COMPLETE |
+| 02-B41 | View State Authorization | Button | 02.7 Transparency | 09 Accreditation and Authorization | Public | COMPLETE |
+| 02-B42 | View Donations and Impact | Button | 02.7 Transparency | 07 Donations | Public | COMPLETE |
+| 02-B43 | Explore Community Impact | Button | 02.7 Transparency | 07 Donations | Public | COMPLETE |
+| 02-B44 | Explore Curriculum | Button | 02.8 Brand | 04 Curriculum | Public | COMPLETE |
+| 02-B45 | Explore Products | Button | 02.8 Brand | 08 Products | Public | COMPLETE |
 | 02-L01 | Our Ecosystem | Internal Link | 02.0 Hero | 02.2 Ecosystem | Public | COMPLETE |
-| 02-L02 | Curriculum | Internal Link | 02.0 and 02.1 | 04 Curriculum | Public | COMPLETE |
-| 02-L03 | Admissions | Internal Link | 02.0 and 02.2 | 05 Admissions | Public | COMPLETE |
-| 02-L04 | Tuition | Internal Link | 02.1 | 06 Tuition | Public | COMPLETE |
-| 02-L05 | Pathways | Internal Link | 02.1 | 03 Pathway | Public | COMPLETE |
-| 02-L06 | Home | Internal Link | 02.1 and 02.6 | 01 Home | Public | COMPLETE |
-| 02-L07 | Donations | Internal Link | 02.1 and 02.2 | 07 Donations | Public | COMPLETE |
-| 02-L08 | Resources | Internal Link | 02.1 | 11 Resources | Public | COMPLETE |
-| 02-L09 | FAQ | Internal Link | 02.1 | 12 FAQ | Public | COMPLETE |
-| 02-L10 | Contact | Internal Link | 02.1 and 02.4 | 13 Contact | Public | COMPLETE |
-| 02-L11 | Products | Internal Link | 02.2 and 02.6 | 08 Products | Public | COMPLETE |
-| 02-L12 | Partnerships | Internal Link | 02.4 | 10.3 Partnerships | Public | COMPLETE |
-| 02-L13 | Join Us | Internal Link | 02.6 | 10 Join Us | Public | COMPLETE |
-| 02-L14 | Student Life | Internal Link | 02.6 | 10.2 Student Life | Public | COMPLETE |
+| 02-L02 | Curriculum | Internal Link | Throughout | 04 Curriculum | Public | COMPLETE |
+| 02-L03 | Admissions | Internal Link | Throughout | 05 Admissions | Public | COMPLETE |
+| 02-L04 | Tuition | Internal Link | 02.1 Public Architecture | 06 Tuition | Public | COMPLETE |
+| 02-L05 | Home | Internal Link | 02.1 Public Architecture | 01 Home | Public | COMPLETE |
+| 02-L06 | Pathway | Internal Link | 02.1 Public Architecture | 03 Pathway | Public | COMPLETE |
+| 02-L07 | Donations | Internal Link | 02.1 Public Architecture | 07 Donations | Public | COMPLETE |
+| 02-L08 | Products | Internal Link | 02.1 Public Architecture | 08 Products | Public | COMPLETE |
+| 02-L09 | Accreditation and Authorization | Internal Link | 02.1 Public Architecture | 09 Accreditation and Authorization | Public | COMPLETE |
+| 02-L10 | Join Us | Internal Link | 02.1 Public Architecture | 10 Join Us | Public | COMPLETE |
+| 02-L11 | Resources | Internal Link | 02.1 Public Architecture | 11 Resources | Public | COMPLETE |
+| 02-L12 | FAQ | Internal Link | 02.1 Public Architecture | 12 FAQ | Public | COMPLETE |
+| 02-L13 | Contact | Internal Link | 02.1 Public Architecture | 13 Contact | Public | COMPLETE |
 | 02-E01 | Portal | External Link | 02.1 Public Architecture | portal.RIAHPathway.com | Public gateway | LIVING WEB RESOURCE |
-| 02-E02 | Public Documentation Center | External Documentation | 02.1 Public Architecture | SuiteDash Public Documentation Center | Public | TO FINALIZE |
-| 02-E03 | Public Forms | External Documentation | 02.2 Participant Journey | SuiteDash Public Documentation Center | Public | TO FINALIZE |
-| 02-E04 | Public Guidelines | External Documentation | 02.2 Participant Journey | SuiteDash Public Documentation Center | Public | TO FINALIZE |
-| 02-E05 | Experiential Forms | External Documentation | 02.2 Experiential Operating Model | SuiteDash Public Documentation Center | Public | TO FINALIZE |
-| 02-E06 | Technology Policies and Procedures | External Documentation | 02.2 Technology Architecture | SuiteDash Public Documentation Center | Public | TO FINALIZE |
-| 02-E07 | Financial Forms | External Documentation | 02.2 Finance and Accounting | SuiteDash Public Documentation Center | Public | TO FINALIZE |
-| 02-E08 | Policies | External Documentation | 02.2 Legal and Compliance | SuiteDash Public Documentation Center | Public | TO FINALIZE |
-| 02-E09 | Procedures | External Documentation | 02.2 Legal and Compliance | SuiteDash Public Documentation Center | Public | TO FINALIZE |
-| 02-E10 | Rules and Guidelines | External Documentation | 02.2 Legal and Compliance | SuiteDash Public Documentation Center | Public | TO FINALIZE |
-| 02-E11 | Partnership Forms | External Documentation | 02.2 Strategic Relationships | SuiteDash Public Documentation Center | Public | TO FINALIZE |
-| 02-E12 | Academic Policies | External Documentation | 02.3 Schools | SuiteDash Public Documentation Center | Public | TO FINALIZE |
-| 02-E13 | Academic Guidelines | External Documentation | 02.3 Academic Leadership | SuiteDash Public Documentation Center | Public | TO FINALIZE |
-| 02-E14 | Employment Forms | External Documentation | 02.4 Leadership | SuiteDash Public Documentation Center | Public | TO FINALIZE |
-| 02-E15 | Employment Guidelines | External Documentation | 02.4 Leadership | SuiteDash Public Documentation Center | Public | TO FINALIZE |
-| 02-E16 | Corporate Governance Policies | External Documentation | 02.5 Corporate Governance | SuiteDash Public Documentation Center | Public | TO FINALIZE |
-| 02-E17 | Scholarship Forms | External Documentation | 02.5 Foundation Governance | SuiteDash Public Documentation Center | Public | TO FINALIZE |
-| 02-E18 | Grant Forms | External Documentation | 02.5 Foundation Governance | SuiteDash Public Documentation Center | Public | TO FINALIZE |
-| 02-E21 | Foundation Policies and Procedures | External Documentation | 02.5 Foundation Governance | SuiteDash Public Documentation Center | Public | TO FINALIZE |
-| 02-E22 | Institutional Policies and Procedures | External Documentation | 02.5 Institutional Governance | SuiteDash Public Documentation Center | Public | TO FINALIZE |
-| 02-E23 | Governance Forms | External Documentation | 02.5 Governance Responsibilities | SuiteDash Public Documentation Center | Public | TO FINALIZE |
-| 02-E19 | Brand Standards | External Documentation | 02.6 Institutional Brand | SuiteDash Public Documentation Center | Public | TO FINALIZE |
-| 02-E20 | Brand Standards and Guidelines | External Documentation | 02.6 School Brand System | SuiteDash Public Documentation Center | Public | TO FINALIZE |
-| 02-D01 | RIAH Pathway Institutional Overview | PDF Download | 02.0 Hero | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D02 | RIAH Pathway Ecosystem Overview | PDF Download | 02.0 Hero | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D03 | Institutional Model Overview | PDF Download | 02.1 Overview | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D04 | Participant Pathway Guide | PDF Download | 02.1 and 02.2 | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D05 | Website and Ecosystem Navigation Guide | PDF Download | 02.1 Public Architecture | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D06 | RIAH Pathway Ecosystem Guide | PDF Download | 02.2 Ecosystem | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D07 | Participant Journey Roadmap | PDF Download | 02.2 Participant Journey | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D08 | Organizational Overview | PDF Download | 02.2 Internal Operational Capability | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D09 | Experiential Program Overview | PDF Download | 02.2 Experiential Operating Model | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D10 | Experiential Participant Handbook | Handbook | 02.2 Experiential Operating Model | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D11 | Experiential Rules and Guidelines | Rules and Guidelines | 02.2 Experiential Operating Model | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D12 | Technology and Systems Overview | PDF Download | 02.2 Technology Architecture | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D13 | Technology Acceptable Use Policy | Policy | 02.2 Technology Architecture | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D14 | Student Cost Guide | PDF Download | 02.2 Finance and Accounting | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D15 | Financial Policies and Procedures | Policy and Procedure | 02.2 Finance and Accounting | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D16 | Institutional Policies | Policy | 02.2 Legal and Compliance | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D17 | Compliance Guidelines | Guideline | 02.2 Legal and Compliance | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D18 | Professional Development Guide | PDF Download | 02.2 Training and Professional Development | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D19 | Partnership Overview | PDF Download | 02.2 Strategic Relationships | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D20 | Partnership Interest Form | Form | 02.2 Strategic Relationships | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D21 | Schools and Programs Guide | PDF Download | 02.3 Schools | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D22 | Academic Catalog | Catalog | 02.3 Schools | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D23 | Academic Governance Overview | PDF Download | 02.3 Academic Leadership | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D24 | Faculty Handbook | Handbook | 02.3 Academic Leadership | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D25 | Leadership and Organizational Structure | PDF Download | 02.4 Leadership | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D26 | Employee Handbook | Handbook | 02.4 Leadership | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D27 | Team Policies and Procedures | Policy and Procedure | 02.4 Leadership | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D28 | Governance Overview | PDF Download | 02.5 Governance Responsibilities | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D29 | Board Governance Handbook | Handbook | 02.5 Governance Responsibilities | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D30 | Code of Conduct | Policy | 02.5 Governance Responsibilities | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D31 | Conflict of Interest Policy | Policy | 02.5 Governance Responsibilities | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D36 | Corporate Governance Overview | PDF Download | 02.5 Corporate Governance and Governance Responsibilities | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D37 | Foundation Governance Overview | PDF Download | 02.5 Foundation Governance and Governance Responsibilities | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D38 | Scholarship and Funding Guide | PDF Download | 02.5 Foundation Governance | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D39 | Institutional Governance Overview | PDF Download | 02.5 Institutional Governance and Governance Responsibilities | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D40 | Academic Governance Overview | PDF Download | 02.5 Institutional Governance | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D41 | Experiential Governance Guidelines | Guideline | 02.5 Institutional Governance | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D32 | RIAH Pathway Brand Guide | Brand Guide | 02.6 Brand | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D33 | Logo Usage Guidelines | Brand Guideline | 02.6 Institutional Symbol and School Brand System | SuiteDash Public Documentation Center | Public | TO CREATE |
-| 02-D34 | Approved Logo Asset Package | Asset Download | 02.6 Institutional Symbol and School Brand System | SuiteDash Public Documentation Center | Public | TO ATTACH |
-| 02-D35 | School Colors and Identity Guide | Brand Guide | 02.6 School Brand System | SuiteDash Public Documentation Center | Public | TO CREATE |
+| 02-D01 | RIAH Pathway Institutional Overview | Download | 02.0 Hero | SuiteDash Public Documentation Center | Public | TO CREATE |
+| 02-D02 | RIAH Pathway Ecosystem Overview | Download | 02.0 Hero | SuiteDash Public Documentation Center | Public | TO CREATE |
+| 02-D03 | Institutional Model Overview | Download | 02.1 Who We Are | SuiteDash Public Documentation Center | Public | TO CREATE |
+| 02-D04 | Participant Pathway Guide | Download | 02.1 Learning Model | SuiteDash Public Documentation Center | Public | TO CREATE |
+| 02-D05 | Community Contribution Overview | Download | 02.1 Community Benefit | SuiteDash Public Documentation Center | Public | TO CREATE |
+| 02-D06 | Tuition and Product Benefit Guide | Download | 02.1 Community Benefit | SuiteDash Public Documentation Center | Public | TO CREATE |
+| 02-D07 | Website and Ecosystem Navigation Guide | Download | 02.1 Public Architecture | SuiteDash Public Documentation Center | Public | TO CREATE |
+| 02-D08 | Participant Journey Roadmap | Download | 02.2 Participant Journey | SuiteDash Public Documentation Center | Public | TO CREATE |
+| 02-D09 | Organizational Overview | Download | 02.2 Lean Institutional Model | SuiteDash Public Documentation Center | Public | TO CREATE |
+| 02-D10 | Experiential Program Overview | Download | 02.2 Experiential Operating Model | SuiteDash Public Documentation Center | Public | TO CREATE |
+| 02-D11 | Experiential Participant Handbook | Download | 02.2 Experiential Operating Model | SuiteDash Public Documentation Center | Public | TO CREATE |
+| 02-D12 | Schools and Programs Guide | Download | 02.3 Schools | SuiteDash Public Documentation Center | Public | TO CREATE |
+| 02-D13 | Academic Catalog | Download | 02.3 Schools | SuiteDash Public Documentation Center | Public | TO CREATE |
+| 02-D14 | Academic Governance Overview | Download | 02.3 Academic Leadership | SuiteDash Public Documentation Center | Public | TO CREATE |
+| 02-D15 | Faculty Handbook | Download | 02.3 Academic Leadership | SuiteDash Public Documentation Center | Public | TO CREATE |
+| 02-D16 | Leadership and Organizational Structure | Download | 02.4 Team | SuiteDash Public Documentation Center | Public | TO CREATE |
+| 02-D17 | Professional Services Experiential Overview | Download | 02.5 Professional Services | SuiteDash Public Documentation Center | Public | TO CREATE |
+| 02-D18 | Corporate Governance Overview | Download | 02.6 Corporate Pillar | SuiteDash Public Documentation Center | Public | TO CREATE |
+| 02-D19 | Foundation Governance Overview | Download | 02.6 Foundation Pillar | SuiteDash Public Documentation Center | Public | TO CREATE |
+| 02-D20 | Scholarship and Funding Guide | Download | 02.6 Foundation Pillar | SuiteDash Public Documentation Center | Public | TO CREATE |
+| 02-D21 | Institutional Governance Overview | Download | 02.6 Institutional Pillar | SuiteDash Public Documentation Center | Public | TO CREATE |
+| 02-D22 | Governance Overview | Download | 02.6 Governance | SuiteDash Public Documentation Center | Public | TO CREATE |
+| 02-D23 | Board Governance Handbook | Download | 02.6 Governance | SuiteDash Public Documentation Center | Public | TO CREATE |
+| 02-D24 | Code of Conduct | Download | 02.6 Governance | SuiteDash Public Documentation Center | Public | TO CREATE |
+| 02-D25 | Conflict of Interest Policy | Download | 02.6 Governance | SuiteDash Public Documentation Center | Public | TO CREATE |
+| 02-D26 | Transparency Overview | Download | 02.7 Transparency | SuiteDash Public Documentation Center | Public | TO CREATE |
+| 02-D27 | Donation Impact Report | Download | 02.7 Transparency | SuiteDash Public Documentation Center | Public | TO CREATE |
+| 02-D28 | Accreditation and Authorization Overview | Download | 02.7 Transparency | SuiteDash Public Documentation Center | Public | TO CREATE |
+| 02-D29 | RIAH Pathway Brand Guide | Download | 02.8 Brand | SuiteDash Public Documentation Center | Public | TO CREATE |
+| 02-D30 | School Colors and Identity Guide | Download | 02.8 Brand | SuiteDash Public Documentation Center | Public | TO CREATE |
 
-## Combined Media, Icon, CTA, Routing, Content, and Asset Status Audit
+## Media, Icon, CTA, Routing, Content, and Asset Status Audit
 
 | ID | Category | Element or Asset | Placement | Purpose or Action | Destination or Route | Status |
 |---|---|---|---|---|---|---|
-| 02-M01 | Video | About Hero Institutional Video | 02.0 Hero | Introduce the complete ecosystem | None | TO CREATE |
-| 02-M02 | Media | Hero Supporting Image | 02.0 Hero | Show student and human professional engagement | None | TO CREATE |
-| 02-M03 | Media | Overview Ecosystem Image | 02.1 Overview | Represent education, experience, technology, careers and community | None | TO CREATE |
-| 02-M04 | Icon Set | Ecosystem Connection Icons | 02.1 Overview | Represent 12 connected ecosystem functions | None | TO CREATE |
-| 02-M05 | Infographic | Institutional Model | 02.1 Institutional Model | Show participant progression | 03 Pathway | TO CREATE |
-| 02-M06 | Diagram | Public Architecture | 02.1 Public Architecture | Explain domains and portal | Public destinations | TO CREATE |
-| 02-M07 | Media | Ecosystem Hero Image | 02.2 Ecosystem | Represent ecosystem participants and functions | None | TO CREATE |
-| 02-M08 | Media and Icons | Ecosystem Card Asset Set | 02.2 Ecosystem Cards | Represent seven ecosystem functions | Applicable routes | TO CREATE |
-| 02-M09 | Infographic | Participant Journey | 02.2 Participant Journey | Visualize participant progression | 03 Pathway | TO CREATE |
-| 02-M10 | Media | Internal Team Image | 02.2 Internal Operational Capability | Represent cross-functional team | 10.4 Join Our Team | TO CREATE |
-| 02-M11 | Media | Experiential Professional Image | 02.2 Experiential Operating Model | Show professional supervision | 03.5 Experiential Pathway | TO CREATE |
-| 02-M12 | Diagram | Experiential Operating Model | 02.2 Experiential Operating Model | Show participant, Supervisor, Manager and Reviewer structure | 03.5 Experiential Pathway | TO CREATE |
-| 02-M13 | Media and Icons | Technology Architecture Assets | 02.2 Technology Architecture | Represent technology and six technology functions | 04.5 School of Technology | TO CREATE |
-| 02-M14 | Diagram | Technology Architecture | 02.2 Technology Architecture | Visualize leadership, systems, integrations, security and proprietary technology | None | TO CREATE |
-| 02-M15 | Media and Icon | Finance and Accounting Assets | 02.2 Finance and Accounting | Represent internal finance capability | 06 Tuition | TO CREATE |
-| 02-M16 | Media and Icon | Legal and Compliance Assets | 02.2 Legal and Compliance | Represent legal and compliance capability | 09 Accreditation and Authorization | TO CREATE |
-| 02-M17 | Media and Icon | Professional Development Assets | 02.2 Training and Professional Development | Represent training and continued learning | 11 Resources | TO CREATE |
-| 02-M18 | Media and Icon | Partnership Assets | 02.2 Strategic External Relationships | Represent collaboration | 10.3 Partnerships | TO CREATE |
-| 02-M19 | Media | Schools Hero Image | 02.3 Schools | Represent all schools | 04 Curriculum | TO CREATE |
-| 02-M20 | Media and Icons | School Card Asset Set | 02.3 Schools | Represent six schools | Applicable school pages | TO CREATE |
-| 02-M21 | Media | Academic Leadership Image | 02.3 Academic Leadership | Represent deans and faculty | None | TO CREATE |
-| 02-M22 | Media | Leadership Hero Image | 02.4 Leadership | Represent institutional leadership | 10.4 Join Our Team | TO CREATE |
-| 02-M23 | Media and Icons | Leadership Function Asset Set | 02.4 Leadership | Represent ten leadership functions | Applicable routes | TO CREATE |
-| 02-M24 | Media | Three-Pillar Governance Hero Image | 02.5 Governance | Represent Corporate, Foundation, and Institutional governance | Applicable governance routes | TO CREATE |
-| 02-M25 | Diagram and Icons | Three-Pillar Governance Asset Set | 02.5 Governance | Show Corporate, Foundation, and Institutional governance relationships | Applicable routes | TO CREATE |
-| 02-M34 | Media | Corporate Governance Image | 02.5 Corporate Governance | Represent corporate board and applicable subsidiary oversight | 10.4 Join Our Team | TO CREATE |
-| 02-M35 | Media | Foundation Governance Image | 02.5 Foundation Governance | Represent foundation, accreditation, authorization, scholarships, stipends, grants and loans | 07 Donations | TO CREATE |
-| 02-M36 | Media | Institutional Governance Image | 02.5 Institutional Governance | Represent education and experiential governance | 04 Curriculum and 03.5 Experiential Pathway | TO CREATE |
-| 02-M37 | Diagram | Three-Board Cross-Governance Diagram | 02.5 Three-Pillar Governance Structure | Show Corporate Board, Foundation Board and Institutional Board with cross-governance visibility | Applicable governance routes | TO CREATE |
-| 02-M38 | Icon Set | Expanded Governance Responsibility Icons | 02.5 Governance Responsibilities | Represent 16 governance responsibility areas | Applicable routes | TO CREATE |
-| 02-M26 | Media | Brand Hero Image | 02.6 Brand | Show institutional brand applications | None | TO CREATE |
-| 02-M27 | Brand Asset | Institutional Logo | 02.6 Institutional Brand | Institutional identity | None | TO ATTACH |
-| 02-M28 | Brand Asset | Institutional Crown or Symbol | 02.6 Institutional Brand and Symbol | Institutional identity | None | TO ATTACH |
-| 02-M29 | Media | Brand Application Image | 02.6 Institutional Brand | Show print, digital, product, apparel and signage applications | None | TO CREATE |
-| 02-M30 | Brand Asset | Institutional Positioning Graphic | 02.6 Institutional Positioning | One Dynasty. Infinite Legacies. | None | TO CREATE |
-| 02-M31 | Brand Asset | Institutional Mascot | 02.6 Mascot | Institutional and community identity | None | TO FINALIZE |
-| 02-M32 | Brand Asset | Six-School Brand Family | 02.6 School Brand System | Represent school identities | Applicable school pages | TO CREATE |
-| 02-M33 | Brand Asset | Six School Brand Images | 02.6 School Brand System | Individual school brand applications | Applicable school pages | TO CREATE |
-| 02-CTA01 | CTA | Explore the RIAH Pathway | 02.0 Hero | Primary pathway navigation | 03 Pathway | COMPLETE |
-| 02-CTA02 | CTA | Explore Our Schools | 02.0 Hero | About section navigation | 02.3 Schools | COMPLETE |
-| 02-CTA03 | CTA | Explore Pathways | 02.1 Overview | Pathway navigation | 03 Pathway | COMPLETE |
-| 02-CTA04 | CTA | View Admissions | 02.1 Overview | Admissions navigation | 05 Admissions | COMPLETE |
-| 02-CTA05 | CTA | Enter Portal | 02.1 Public Architecture | Portal navigation | portal.RIAHPathway.com | LIVING WEB RESOURCE |
-| 02-CTA06 | CTA | Ecosystem Card Buttons | 02.2 Ecosystem | Route to education, experiential, certification, opportunities, student life, products and resources | Applicable routes | COMPLETE |
-| 02-CTA07 | CTA | Explore Your Pathway | 02.2 Participant Journey | Pathway navigation | 03 Pathway | COMPLETE |
-| 02-CTA08 | CTA | Join Our Team | 02.2 and 02.4 | Team navigation | 10.4 Join Our Team | COMPLETE |
-| 02-CTA09 | CTA | Explore Experiential Pathways | 02.2 Experiential | Experiential navigation | 03.5 Experiential Pathway | COMPLETE |
-| 02-CTA10 | CTA | Explore Technology Curriculum | 02.2 Technology | Technology curriculum navigation | 04.5 School of Technology | COMPLETE |
-| 02-CTA11 | CTA | View Tuition | 02.2 Finance | Tuition navigation | 06 Tuition | COMPLETE |
-| 02-CTA12 | CTA | Accreditation and Authorization | 02.2 and 02.5 Governance Responsibilities | Regulatory information navigation | 09 Accreditation and Authorization | COMPLETE |
-| 02-CTA13 | CTA | Explore Resources | 02.2 Professional Development | Resource navigation | 11 Resources | COMPLETE |
-| 02-CTA14 | CTA | Explore Partnerships | 02.2 Strategic Relationships | Partnership navigation | 10.3 Partnerships | COMPLETE |
-| 02-CTA15 | CTA | School Buttons | 02.3 Schools | Route to six school destinations and curriculum | Applicable 04 routes | COMPLETE |
-| 02-CTA16 | CTA | Corporate, Foundation and Institutional Governance Buttons | 02.5 Governance | Route to corporate opportunities, donations, curriculum, experiential, accreditation and board governance | Applicable routes | COMPLETE |
-| 02-CTA17 | CTA | Explore Curriculum and Products | 02.6 School Brand System | Curriculum and product navigation | 04 Curriculum and 08 Products | COMPLETE |
-| 02-R01 | Routing | About Section Routing | Complete Page | Route among About sections | 02.0 through 02.6 | COMPLETE |
-| 02-R02 | Routing | Cross-Site Internal Routing | Complete Page | Route to relevant Pages 01, 03 through 13 and subpages | Applicable internal routes | COMPLETE |
-| 02-R03 | Routing | Portal Routing | 02.1 Public Architecture | Centralized gateway | portal.RIAHPathway.com | LIVING WEB RESOURCE |
-| 02-R04 | Routing | SuiteDash Public Documentation | Throughout About | Public downloads, policies, forms, procedures, guidelines and handbooks | SuiteDash | TO FINALIZE |
-| 02-C01 | Content | About Page Content Architecture | 02.0 through 02.6 | Implement approved concise wireframe | About | COMPLETE |
-| 02-C02 | Content | Institutional Ecosystem Content | 02.1 and 02.2 | Implement current ecosystem structure | About | COMPLETE |
-| 02-C03 | Content | At-Scale Internal Organization | 02.2 | Implement 173-person structure | About | COMPLETE |
-| 02-C04 | Content | Experiential Operating Model | 02.2 | Implement 40 Supervisor, 40 Manager and 40 Reviewer structure | About | COMPLETE |
-| 02-C05 | Content | School Structure | 02.3 | Implement approved school structure | About | COMPLETE |
-| 02-C06 | Content | Leadership Structure | 02.4 | Implement institutional leadership functions | About | COMPLETE |
-| 02-C07 | Content | Three-Pillar Board and Governance Content | 02.5 | Implement Corporate, Foundation, and Institutional governance structure | About | COMPLETE |
-| 02-C08 | Content | Brand and School Identity Content | 02.6 | Implement institutional and school brand system | About | COMPLETE |
-| 02-C09 | Asset | Public Download Library | Throughout | Create approved downloads | SuiteDash | TO CREATE |
-| 02-C10 | Asset | Page Image and Icon Collection | Throughout | Create approved images and icons | About | TO CREATE |
-| 02-C11 | Asset | Infographics and Diagrams | Throughout | Create approved visual diagrams | About | TO CREATE |
-| 02-C12 | Brand Asset | Institutional Logo and Crown Assets | 02.6 | Attach approved production assets | About | TO ATTACH |
-| 02-C13 | Brand Asset | Mascot Identity and Asset | 02.6 | Finalize approved mascot | About | TO FINALIZE |
-| 02-C14 | Brand Asset | School Brand Assets | 02.6 | Create approved school identities | About | TO CREATE |
+| 02-M01 | Video | Institutional Hero Video | 02.0 | Online learning, proctored assessment, experiential work, community and progression | None | TO CREATE |
+| 02-M02 | Media | Hero Supporting Image | 02.0 | Student and industry professional | None | TO CREATE |
+| 02-M03 | Media | Who We Are Ecosystem Image | 02.1 | Education, experience, technology, careers, products and community | None | TO CREATE |
+| 02-M04 | Icon Set | Ecosystem Connection Icons | 02.1 | Twelve ecosystem connections | Applicable routes | TO CREATE |
+| 02-M05 | Infographic | Learning Model | 02.1 | Online education through lifelong learning | 04 Curriculum and 03.5 Experiential | TO CREATE |
+| 02-M06 | Media and Icons | Community Benefit Assets | 02.1 | Contributors and benefit structure | 06 Tuition and 10 Join Us | TO CREATE |
+| 02-M07 | Diagram | Public Architecture | 02.1 | Public domains and portal | Pages 01 through 13 and portal | TO CREATE |
+| 02-M08 | Media and Icons | Ecosystem Asset Set | 02.2 | Eight ecosystem areas | Applicable routes | TO CREATE |
+| 02-M09 | Infographic | Participant Journey | 02.2 | End-to-end participant journey | 03 Pathway | TO CREATE |
+| 02-M10 | Media | Lean Scale Visual | 02.2 | 173-person at-scale model | 10.4 Join Our Team | TO CREATE |
+| 02-M11 | Media and Diagram | Experiential Operating Model | 02.2 | Supervisors, Managers and Reviewers | 03.5 Experiential | TO CREATE |
+| 02-M12 | Media and Icons | Six-School Visual Family | 02.3 | Schools and academic leadership | 04 Curriculum | TO CREATE |
+| 02-M13 | Media and Icons | Team Asset Set | 02.4 | Ten institutional team functions | 10 Join Us | TO CREATE |
+| 02-M14 | Diagram | Entity Ecosystem | 02.5 | Connected RIAH Dynasty entities | None | TO CREATE |
+| 02-M15 | Media and Icons | Professional Services Assets | 02.5 | Student-centric real work and experience formats | 03.5 Experiential and 10.3 Partnerships | TO CREATE |
+| 02-M16 | Media and Diagram | Unified Governance Assets | 02.6 | Corporate, Foundation and Institutional pillars | Applicable routes | TO CREATE |
+| 02-M17 | Media | Corporate Pillar | 02.6 | Corporate and subsidiary governance | 10.4 Join Our Team | TO CREATE |
+| 02-M18 | Media | Foundation Pillar | 02.6 | Funding, access, donations and community benefit | 07 Donations | TO CREATE |
+| 02-M19 | Media | Institutional Pillar | 02.6 | Education and experiential governance | 04 Curriculum and 03.5 Experiential | TO CREATE |
+| 02-M20 | Media and Icons | Transparency Dashboard Assets | 02.7 | Accreditation, authorization, donations and impact | 07 Donations and 09 Accreditation and Authorization | TO CREATE |
+| 02-M21 | Media and Brand Assets | Brand Family | 02.8 | Institutional identity and six-school brand family | 04 Curriculum and 08 Products | TO CREATE |
+| 02-M22 | Brand Asset | Mascot | 02.8 | Institutional identity | None | TO FINALIZE |
+| 02-CTA01 | CTA | Complete About Button Architecture | Throughout | Route all approved About buttons | Applicable destinations | COMPLETE |
+| 02-R01 | Routing | About Section Routing | Complete Page | Route among About sections | 02.0 through 02.8 | COMPLETE |
+| 02-R02 | Routing | Pages 01 through 13 | Complete Page | Connect About to full public website | Pages 01 through 13 | COMPLETE |
+| 02-R03 | Routing | Portal | 02.1 | Central participant system gateway | portal.RIAHPathway.com | LIVING WEB RESOURCE |
+| 02-R04 | Routing | SuiteDash Public Documentation | Throughout | Public downloads and documentation | SuiteDash | TO FINALIZE |
+| 02-C01 | Content | About Content Architecture | 02.0 through 02.8 | Approved complete About wireframe | About | COMPLETE |
+| 02-C02 | Content | Community Benefit Model | 02.1 | Contributors, points and benefit connections | 06 Tuition, 08 Products and 10 Join Us | COMPLETE |
+| 02-C03 | Content | Lean At-Scale Model | 02.2 | 173-person internal organization | About | COMPLETE |
+| 02-C04 | Content | Experiential Operating Model | 02.2 | 120 experiential professionals supporting up to 1,000 participants | About | COMPLETE |
+| 02-C05 | Content | Schools and Academic Leadership | 02.3 | Six schools and faculty allocation | About | COMPLETE |
+| 02-C06 | Content | Team Structure | 02.4 | Institutional team functions | About | COMPLETE |
+| 02-C07 | Content | Entity Ecosystem | 02.5 | RIAH Dynasty entity structure | About | COMPLETE |
+| 02-C08 | Content | Student-Centric Professional Services | 02.5 | Real paid and unpaid work with industry professionals | About | COMPLETE |
+| 02-C09 | Content | Three-Pillar Governance | 02.6 | Corporate, Foundation and Institutional pillars | About | COMPLETE |
+| 02-C10 | Content | Transparency and Public Accountability | 02.7 | Accreditation, authorization, donations and community impact | About | COMPLETE |
+| 02-C11 | Content | Brand and School Identity | 02.8 | Institutional and school brand structure | About | COMPLETE |
+| 02-C12 | Asset | Public Download Library | Throughout | Create approved downloads | SuiteDash | TO CREATE |
+| 02-C13 | Asset | Page Media, Icons and Diagrams | Throughout | Create approved visual assets | About | TO CREATE |
+| 02-C14 | Brand Asset | Mascot | 02.8 | Finalize approved mascot | About | TO FINALIZE |
 
 ## Page II Status
 
 Overall Status: **IN PROGRESS**
 
-Page II now reflects the approved concise 02.0 through 02.6 About wireframe. Its buttons, internal links, SuiteDash external-documentation routes, downloads, media, icons, diagrams, content and asset statuses are reconciled to that wireframe. Items marked TO CREATE, TO ATTACH or TO FINALIZE remain in progress.
+Page II reflects the approved complete 02.0 through 02.8 About wireframe. Button, internal-link, portal, download, media, icon, diagram, content and asset records are reconciled to the current About architecture.
 
 ## Expansion Rule
 
