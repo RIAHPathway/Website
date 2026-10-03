@@ -500,47 +500,48 @@ flowchart TD
 # COMPLETE FOUR-YEAR FLOW
 
 ```mermaid
-flowchart TD
-    N0["RIAH PATHWAY; SECONDARY SCHOOL"]
-    N1["VIRTUAL-ONLY; DELIVERY MODEL"]
-    N2["GRADE 9; 30 CREDITS"]
-    N3["English I / Composition I; Algebra I; Geology; World Geography; Digital Literacy"]
-    N4["English II / Composition II; Geometry; Astronomy; World History; Health"]
-    N5["GRADE 10; 30 CREDITS"]
-    N6["English III / American Literature; Algebra II; Earth Science; Holocaust &amp; Genocide Studies; Physical Education"]
-    N7["English IV / World Literature; Trigonometry; Environmental Science; Government; Fine Arts"]
-    N8["GRADE 11; 30 CREDITS"]
-    N9["Precalculus; Biology; American History; Financial Literacy; World Language I"]
-    N10["Calculus; Chemistry; State History; World Language II; Personal Finance"]
-    N11["GRADE 12; 30 CREDITS"]
-    N12["Statistics; Anatomy; Economics; Computer Science; Ethnic Studies"]
-    N13["Physiology; Physics; Sociology; Psychology; Oral Communication"]
-    N14["40 FIXED COURSES"]
-    N15["120 RIAH CREDIT HOURS"]
-    N16["STATE CURRICULUM; COMPONENTS"]
-    N17["STATE-SPECIFIC; GRADUATION CONTROLS; WHERE APPLICABLE"]
-    N18["GRADUATION AUDIT"]
-    N19["RIAH PATHWAY; HIGH SCHOOL DIPLOMA"]
-    N0 --> N1
-    N1 --> N2
-    N2 --> N3
-    N3 --> N4
-    N4 --> N5
-    N5 --> N6
-    N6 --> N7
-    N7 --> N8
-    N8 --> N9
-    N9 --> N10
-    N10 --> N11
-    N11 --> N12
-    N12 --> N13
-    N13 --> N14
-    N14 --> N15
-    N15 --> N16
-    N16 --> N17
-    N17 --> N18
-    N18 --> N19
+graph TD;
+    FLOW_0["RIAH PATHWAY, SECONDARY SCHOOL"];
+    FLOW_1["VIRTUAL-ONLY, DELIVERY MODEL"];
+    FLOW_2["GRADE 9, 30 CREDITS"];
+    FLOW_3["English I / Composition I, Algebra I, Geology, World Geography, Digital Literacy"];
+    FLOW_4["English II / Composition II, Geometry, Astronomy, World History, Health"];
+    FLOW_5["GRADE 10, 30 CREDITS"];
+    FLOW_6["English III / American Literature, Algebra II, Earth Science, Holocaust &amp, Genocide Studies, Physical Education"];
+    FLOW_7["English IV / World Literature, Trigonometry, Environmental Science, Government, Fine Arts"];
+    FLOW_8["GRADE 11, 30 CREDITS"];
+    FLOW_9["Precalculus, Biology, American History, Financial Literacy, World Language I"];
+    FLOW_10["Calculus, Chemistry, State History, World Language II, Personal Finance"];
+    FLOW_11["GRADE 12, 30 CREDITS"];
+    FLOW_12["Statistics, Anatomy, Economics, Computer Science, Ethnic Studies"];
+    FLOW_13["Physiology, Physics, Sociology, Psychology, Oral Communication"];
+    FLOW_14["40 FIXED COURSES"];
+    FLOW_15["120 RIAH CREDIT HOURS"];
+    FLOW_16["STATE CURRICULUM, COMPONENTS"];
+    FLOW_17["STATE-SPECIFIC, GRADUATION CONTROLS, WHERE APPLICABLE"];
+    FLOW_18["GRADUATION AUDIT"];
+    FLOW_19["RIAH PATHWAY, HIGH SCHOOL DIPLOMA"];
+    FLOW_0 --> FLOW_1;
+    FLOW_1 --> FLOW_2;
+    FLOW_2 --> FLOW_3;
+    FLOW_3 --> FLOW_4;
+    FLOW_4 --> FLOW_5;
+    FLOW_5 --> FLOW_6;
+    FLOW_6 --> FLOW_7;
+    FLOW_7 --> FLOW_8;
+    FLOW_8 --> FLOW_9;
+    FLOW_9 --> FLOW_10;
+    FLOW_10 --> FLOW_11;
+    FLOW_11 --> FLOW_12;
+    FLOW_12 --> FLOW_13;
+    FLOW_13 --> FLOW_14;
+    FLOW_14 --> FLOW_15;
+    FLOW_15 --> FLOW_16;
+    FLOW_16 --> FLOW_17;
+    FLOW_17 --> FLOW_18;
+    FLOW_18 --> FLOW_19;
 ```
+
 
 # RIAH PATHWAY SECONDARY SCHOOL
 
@@ -989,45 +990,46 @@ flowchart TD
 # COMPLETE FOUR-YEAR FLOW
 
 ```mermaid
-flowchart TD
-    N0["RIAH PATHWAY; SECONDARY SCHOOL"]
-    N1["VIRTUAL-ONLY; DELIVERY MODEL"]
-    N2["GRADE 9; 30 CREDITS"]
-    N3["English I / Composition I; Algebra I; Geology; World Geography; Digital Literacy"]
-    N4["English II / Composition II; Geometry; Astronomy; World History; Health"]
-    N5["GRADE 10; 30 CREDITS"]
-    N6["English III / American Literature; Algebra II; Earth Science; Holocaust &amp; Genocide Studies; Physical Education"]
-    N7["English IV / World Literature; Trigonometry; Environmental Science; Government; Fine Arts"]
-    N8["GRADE 11; 30 CREDITS"]
-    N9["Precalculus; Biology; American History; Financial Literacy; World Language I"]
-    N10["Calculus; Chemistry; State History; World Language II; Personal Finance"]
-    N11["GRADE 12; 30 CREDITS"]
-    N12["Statistics; Anatomy; Economics; Computer Science; Ethnic Studies"]
-    N13["Physiology; Physics; Sociology; Psychology; Oral Communication"]
-    N14["40 FIXED COURSES"]
-    N15["120 RIAH CREDIT HOURS"]
-    N16["STATE CURRICULUM; COMPONENTS"]
-    N17["STATE-SPECIFIC; GRADUATION CONTROLS; WHERE APPLICABLE"]
-    N18["GRADUATION AUDIT"]
-    N19["RIAH PATHWAY; HIGH SCHOOL DIPLOMA"]
-    N0 --> N1
-    N1 --> N2
-    N2 --> N3
-    N3 --> N4
-    N4 --> N5
-    N5 --> N6
-    N6 --> N7
-    N7 --> N8
-    N8 --> N9
-    N9 --> N10
-    N10 --> N11
-    N11 --> N12
-    N12 --> N13
-    N13 --> N14
-    N14 --> N15
-    N15 --> N16
-    N16 --> N17
-    N17 --> N18
-    N18 --> N19
+graph TD;
+    FLOW_0["RIAH PATHWAY, SECONDARY SCHOOL"];
+    FLOW_1["VIRTUAL-ONLY, DELIVERY MODEL"];
+    FLOW_2["GRADE 9, 30 CREDITS"];
+    FLOW_3["English I / Composition I, Algebra I, Geology, World Geography, Digital Literacy"];
+    FLOW_4["English II / Composition II, Geometry, Astronomy, World History, Health"];
+    FLOW_5["GRADE 10, 30 CREDITS"];
+    FLOW_6["English III / American Literature, Algebra II, Earth Science, Holocaust &amp, Genocide Studies, Physical Education"];
+    FLOW_7["English IV / World Literature, Trigonometry, Environmental Science, Government, Fine Arts"];
+    FLOW_8["GRADE 11, 30 CREDITS"];
+    FLOW_9["Precalculus, Biology, American History, Financial Literacy, World Language I"];
+    FLOW_10["Calculus, Chemistry, State History, World Language II, Personal Finance"];
+    FLOW_11["GRADE 12, 30 CREDITS"];
+    FLOW_12["Statistics, Anatomy, Economics, Computer Science, Ethnic Studies"];
+    FLOW_13["Physiology, Physics, Sociology, Psychology, Oral Communication"];
+    FLOW_14["40 FIXED COURSES"];
+    FLOW_15["120 RIAH CREDIT HOURS"];
+    FLOW_16["STATE CURRICULUM, COMPONENTS"];
+    FLOW_17["STATE-SPECIFIC, GRADUATION CONTROLS, WHERE APPLICABLE"];
+    FLOW_18["GRADUATION AUDIT"];
+    FLOW_19["RIAH PATHWAY, HIGH SCHOOL DIPLOMA"];
+    FLOW_0 --> FLOW_1;
+    FLOW_1 --> FLOW_2;
+    FLOW_2 --> FLOW_3;
+    FLOW_3 --> FLOW_4;
+    FLOW_4 --> FLOW_5;
+    FLOW_5 --> FLOW_6;
+    FLOW_6 --> FLOW_7;
+    FLOW_7 --> FLOW_8;
+    FLOW_8 --> FLOW_9;
+    FLOW_9 --> FLOW_10;
+    FLOW_10 --> FLOW_11;
+    FLOW_11 --> FLOW_12;
+    FLOW_12 --> FLOW_13;
+    FLOW_13 --> FLOW_14;
+    FLOW_14 --> FLOW_15;
+    FLOW_15 --> FLOW_16;
+    FLOW_16 --> FLOW_17;
+    FLOW_17 --> FLOW_18;
+    FLOW_18 --> FLOW_19;
 ```
+
 
