@@ -1,6 +1,69 @@
+---
+document_type: contributor-benefit-framework
+track: "Partner"
+status: "In Progress — Review and Finalization Required"
+benefit_system: "RIAH Pathway"
+flow_status: "draft-review"
+---
+
 # 🤝 Partners
 
 **Status: In Progress — Review and Finalization Required**
+
+## 🤝 Category Key
+
+| Emoji | Meaning |
+|---|---|
+| 🤝 | Partner |
+| 👑 | Approved eligibility or contribution |
+| ⭐ | Approved points |
+| 🏆 | Completed milestone |
+| 🎓 | Tuition benefit |
+| 🛍️ | Product benefit |
+| 🔗 | QR, referral, routing or attribution |
+| 🎪 | Event, workshop or outreach |
+| 🎥 | Webinar, presentation, video or media |
+| 👀 | Under review |
+| 🔄 | Revision or re-verification |
+| ✅ | Approved or verified |
+| ❌ | Rejected or ineligible |
+
+## 🤝 End-to-End Category Flow
+
+```mermaid
+flowchart TB
+A["🤝 Approved RIAH Pathway Partner"] --> B["📄 Applicable Written Partnership Terms"]
+B --> C["👑 Verify Active Partner Affiliation"]
+C --> D["👤 Verify Eligible Employee, Member, Participant or Beneficiary"]
+D --> E["✅ Partner Benefit Eligibility"]
+E --> F["🎓 15% Eligible Tuition"]
+E --> G["🛍️ 15% Eligible Products"]
+B --> H{"🤝 Separate Partner / Pillar Product Benefit Authorized?"}
+H -- Yes --> I["🛍️ Up to 25% Eligible Products Under Written Terms"]
+H -- No --> J["📄 Use Established Applicable Benefit"]
+D --> K["⭐ Approved Partner Activities"]
+K --> L["🎥 Webinar / 🎪 Event / 🪧 Booth / 📚 Resource / 🤝 Joint Initiative"]
+L --> M["👀 Verification"]
+M --> N["📋 Partner Activity Record & Points"]
+N --> O["🔄 Re-Verify When Affiliation or Terms Change"]
+```
+
+## ⚙️ Flow Metadata
+
+```yaml
+track: "Partner"
+profile_category: "Partner"
+status: "in-progress"
+verification_required: true
+points_require_approval: true
+benefit_record_required: true
+review_state:
+  - pending
+  - under-review
+  - revision-if-required
+  - approved
+  - credited
+```
 
 ## 📑 Index
 
