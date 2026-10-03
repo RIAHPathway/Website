@@ -1,0 +1,123 @@
+# RIAH PATHWAY — PHYSICAL SECURITY CURRICULUM
+
+**School:** School of Homeland Security
+
+This standalone curriculum file combines the shared undergraduate foundation with the complete existing Physical Security curriculum. Existing course, track, certification-review, assessment, software, experiential, capstone, applied-build, and supervision details are retained from the controlling curriculum files.
+
+## Year 1 — General Education — 30 Credit Hours
+
+General Education provides the academic foundation for applicable RIAH Pathway degree pathways.
+
+General Education Total: 30 Credit Hours.
+
+General Education includes College English, College Algebra, Oral Communications, Foreign Language, History, Philosophy, Psychology, Sociology, Art, and Science.
+
+Detailed course tables remain in the controlling degree curriculum.
+
+## ❤️ General Education — Edmentum Software Coverage
+
+RIAH Course | Course Name | Edmentum
+ENG 1010 | College English | ✓
+MAT 1010 | College Algebra | ✓
+COM 1010 | Oral Communications | ✓
+LAN 1010 | Foreign Language | ✓
+HIS 1010 | History | ✓
+PHI 1010 | Philosophy | X — RIAH Additional Curriculum
+PSY 1010 | Psychology | ✓
+SOC 1010 | Sociology | ✓
+ART 1010 | Art | ✓
+SCI 1010 | Science | ✓
+
+Philosophy Note — PHI 1010 remains part of the RIAH General Education curriculum. RIAH will provide and/or integrate additional Philosophy curriculum because Edmentum does not provide the mapped Philosophy coverage used for this structure.
+
+## Year 2 — II.I. HOMELAND SECURITY SCHOOL CORE — 30 CREDIT HOURS 📘
+
+| Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Cengage MindTap | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| HS 2101 | Homeland Security | Core | Foundations of Homeland Security | 3 | ENG 1010 — College English | ServiceNow · QGIS · Tableau · Maltego · AutoCAD | ✓ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| HS 2102 | Homeland Security | Core | Homeland Security Law, Policy and Ethics | 3 | HS 2101 | ServiceNow · OpenRMF · QGIS · Tableau · Maltego | ✓ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| HS 2103 | Homeland Security | Core | Principles of Governance, Risk and Compliance | 3 | HS 2101 | ServiceNow · OpenRMF · QGIS · Tableau · Maltego | X | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| HS 2104 | Homeland Security | Core | Principles of Intelligence | 3 | HS 2101 | Maltego · QGIS · Tableau · ServiceNow · AutoCAD | ✓ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| HS 2105 | Homeland Security | Core | Principles of Physical Security | 3 | HS 2101 | AutoCAD · Revit · QGIS · ServiceNow · Tableau | X | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| HS 2106 | Homeland Security | Core | Principles of Private Investigations | 3 | HS 2101 | Maltego · QGIS · Tableau · ServiceNow · AutoCAD | ✓ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| HS 2107 | Homeland Security | Core | Emergency Management and Preparedness | 3 | HS 2102 | ServiceNow · QGIS · Tableau · Maltego · AutoCAD | ✓ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| HS 2108 | Homeland Security | Core | Critical Infrastructure Protection | 3 | HS 2107 | AutoCAD · Revit · QGIS · ServiceNow · Tableau | ✓ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| HS 2109 | Homeland Security | Core | Security Operations and Incident Management | 3 | HS 2107 | ServiceNow · OpenRMF · QGIS · Tableau · Maltego | X | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| HS 2110 | Homeland Security | Core | Homeland Security Strategy and Coordination | 3 | HS 2109 | ServiceNow · OpenRMF · QGIS · Tableau · Maltego | ✓ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| TOTAL | Homeland Security | Core | Homeland Security School Core | 30 | — | — | — | — | — | — | — | — | — | — | — | — | — |  |
+
+## Physical Security — Minor through MBA
+
+**Full Software Stack:** QGIS · Tableau · AutoCAD · Revit · ServiceNow
+
+Students are admitted into the Physical Security major after completing Year 1 General Education and the School of Homeland Security Core.
+
+### Physical Security Minor — 15 Credits
+
+| Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| HS 2105 | Homeland Security | Minor | Principles of Physical Security | 3 | HS 2104 — Principles of Intelligence | QGIS · Tableau · AutoCAD | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| PHS 3101 | Homeland Security | Minor | Physical Security Assessment | 3 | HS 2105 — Principles of Physical Security | QGIS, Tableau, AutoCAD | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| PHS 3102 | Homeland Security | Minor | Access Control and Perimeter Security | 3 | PHS 3101 — Physical Security Assessment | AutoCAD, Revit | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| PHS 300A | Homeland Security | Minor | Physical Security Assessment and Protection Applied Learning | 3 | PHS 3102 — Access Control and Perimeter Security | QGIS + Tableau + AutoCAD + Revit | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| PHS 300B | Homeland Security | Minor | Physical Security Applied Learning Capstone — Exit | 3 | PHS 300A — Physical Security Assessment and Protection Applied Learning | QGIS + Tableau + AutoCAD + Revit | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+
+### PHS — Year 3
+
+| Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| PHS 3101 | Homeland Security | Bachelor’s | Physical Security Assessment | 3 | PHS 3100 — Admission to Major Year 3 | QGIS, Tableau, AutoCAD | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| PHS 3102 | Homeland Security | Bachelor’s | Access Control and Perimeter Security | 3 | PHS 3101 | AutoCAD, Revit | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| PHS 3103 | Homeland Security | Bachelor’s | Security Systems and Surveillance | 3 | PHS 3102 | AutoCAD, Revit | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| PHS 3104 | Homeland Security | Bachelor’s | Facility Security | 3 | PHS 3103 | Revit, AutoCAD | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| PHS 3105 | Homeland Security | Bachelor’s | Protective Security Operations | 3 | PHS 3104 | ServiceNow, Tableau | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| PHS 3106 | Homeland Security | Bachelor’s | Asset and Personnel Protection | 3 | PHS 3105 | QGIS, ServiceNow | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| PHS 3107 | Homeland Security | Bachelor’s | Critical Infrastructure Security | 3 | PHS 3106 | QGIS, Revit | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| PHS 3108 | Homeland Security | Bachelor’s | Physical Threat and Vulnerability Assessment | 3 | PHS 3107 | QGIS, Tableau, AutoCAD | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| PHS 3109 | Homeland Security | Bachelor’s | Security Incident Response | 3 | PHS 3108 | ServiceNow, Tableau | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| PHS 3110 | Homeland Security | Bachelor’s | Integrated Physical Security Operations | 3 | PHS 3109 | AutoCAD, Revit, QGIS, ServiceNow, Tableau | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+
+### PHS — Year 4
+
+| Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| PHS 4101 | Homeland Security | Bachelor’s | Physical Security Venture Development | 3 | PHS 4100 — Admission to Major Year 4 | QGIS · Tableau · AutoCAD · Revit · ServiceNow | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| PHS 4102 | Homeland Security | Bachelor’s | Physical Security Assessment Development | 3 | PHS 4101 | Same stack throughout | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| PHS 4103 | Homeland Security | Bachelor’s | Physical Security Systems Design | 3 | PHS 4102 | Same stack throughout | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| PHS 4104 | Homeland Security | Bachelor’s | Facility Protection Development | 3 | PHS 4103 | Same stack throughout | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| PHS 4105 | Homeland Security | Bachelor’s | Access Control and Perimeter Systems | 3 | PHS 4104 | Same stack throughout | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| PHS 4106 | Homeland Security | Bachelor’s | Surveillance and Detection Systems | 3 | PHS 4105 | Same stack throughout | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| PHS 4107 | Homeland Security | Bachelor’s | Protective Measures Implementation | 3 | PHS 4106 | Same stack throughout | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| PHS 4108 | Homeland Security | Bachelor’s | Physical Security Program Evaluation | 3 | PHS 4107 | Same stack throughout | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| PHS 4109 | Homeland Security | Bachelor’s | PSP Certification Review | 3 | PHS 4108 | Same stack throughout | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| PHS 4110 | Homeland Security | Bachelor’s | Physical Security Applied Venture Capstone — Exit | 3 | PHS 4109 | Same stack throughout | ✓ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+### Master of Science in Physical Security
+
+| Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| PHS 5101 | Homeland Security | Master’s | Applied Physical Security Systems Project | 3 | PHS 5100 — Admission to Master’s Program | QGIS · Tableau · AutoCAD · Revit · ServiceNow | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| PHS 5102 | Homeland Security | Master’s | Physical Security Engineering | 3 | PHS 5101 | Same stack throughout | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| PHS 5103 | Homeland Security | Master’s | Vulnerability Assessment Systems | 3 | PHS 5101 | Same stack throughout | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| PHS 5104 | Homeland Security | Master’s | Access Control Systems Engineering | 3 | PHS 5101 | Same stack throughout | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| PHS 5105 | Homeland Security | Master’s | Surveillance and Detection Engineering | 3 | PHS 5102 | Same stack throughout | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| PHS 5106 | Homeland Security | Master’s | Facility Security Systems Engineering | 3 | PHS 5102 | Same stack throughout | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| PHS 5107 | Homeland Security | Master’s | Critical Infrastructure Protection Engineering | 3 | PHS 5103 | Same stack throughout | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| PHS 5108 | Homeland Security | Master’s | Physical Security Systems Optimization | 3 | PHS 5103 | Same stack throughout | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| PHS 5109 | Homeland Security | Master’s | PSP Certification Review | 3 | PHS 5108 | Same stack throughout | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| PHS 5110 | Homeland Security | Master’s | Physical Security Applied Master's Capstone — Exit | 3 | PHS 5109 | Same stack throughout | ✓ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+### MBA — Physical Security
+
+| Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| PHS 6101 | Homeland Security | MBA | Physical Security Management Venture Development | 3 | PHS 6100 — Admission to MBA Program | QGIS · Tableau · AutoCAD · Revit · ServiceNow | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| PHS 6102 | Homeland Security | MBA | Physical Security Leadership and Governance | 3 | PHS 6101 | Same stack throughout | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| PHS 6103 | Homeland Security | MBA | Physical Security Risk Management | 3 | PHS 6102 | Same stack throughout | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| PHS 6104 | Homeland Security | MBA | Physical Security Operations Management | 3 | PHS 6103 | Same stack throughout | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| PHS 6105 | Homeland Security | MBA | Security Financial and Resource Management | 3 | PHS 6104 | Same stack throughout | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| PHS 6106 | Homeland Security | MBA | Security Systems Management | 3 | PHS 6105 | Same stack throughout | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| PHS 6107 | Homeland Security | MBA | Security Workforce and Vendor Management | 3 | PHS 6106 | Same stack throughout | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| PHS 6108 | Homeland Security | MBA | Enterprise Physical Security Program Management | 3 | PHS 6107 | Same stack throughout | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| PHS 6109 | Homeland Security | MBA | PSP Management Certification Review | 3 | PHS 6108 | Same stack throughout | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| PHS 6110 | Homeland Security | MBA | Physical Security Management Venture Capstone — Exit | 3 | PHS 6109 | Same stack throughout | ✓ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
