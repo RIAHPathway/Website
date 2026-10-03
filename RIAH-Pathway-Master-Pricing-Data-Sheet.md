@@ -108,25 +108,35 @@ Numbers inside tables, formulas, funding levels, calculations, and operational r
 
 ## 🖼️ Image 1 — Example Student Complete RIAH Pathway, Tuition & Reimbursement Journey.
 
-This image follows an example California student who begins as an Associate’s degree or transfer student and builds a four-year RIAH Pathway combining the California Non-JD legal pathway, B.S. in Criminal Justice, Associate Experiential Path, Technology and Intellectual Property Law experience, attorney or judge supervision, L1–L4 legal reviews, RIAH Bar Review, Law Review, honor society, Greek life, and student government leadership. Her combined tuition is $70,000, consisting of $40,000 for the California Non-JD pathway, $10,000 for her B.S. Criminal Justice pathway, and $20,000 for her experiential pathway, plus separate application fees and deposits. By completing her required monthly and annual milestones throughout the four-year journey, she qualifies for the maximum 50% tuition reimbursement—$35,000—reducing her $70,000 tuition to $35,000 after reimbursement.
+- S.
+- in Criminal Justice, Associate Experiential Path, Technology and Intellectual Property Law experience, attorney or judge supervision, L1–L4 legal reviews, RIAH Bar Review, Law Review, honor society, Greek life, and student government leadership.
+- S.
+- Criminal Justice pathway, and $20,000 for her experiential pathway, plus separate application fees and deposits.
+- By completing her required monthly and annual milestones throughout the four-year journey, she qualifies for the maximum 50% tuition reimbursement—$35,000—reducing her $70,000 tuition to $35,000 after reimbursement.
 
 <img width="1024" height="1536" alt="1" src="https://github.com/user-attachments/assets/278890c2-4d49-4a20-b713-020b9c65a713" />
 
 ## 🖼️ Image 2 — Four Years of Education, Experience, Leadership & Milestones.
 
-This image takes a closer look at how the student progresses from L1 through L4 across four years, showing that her RIAH experience extends beyond completing coursework. Her journey develops year by year through her California Non-JD and Criminal Justice pathways, legal development, Technology and Intellectual Property Law experience, attorney or judge supervision, Law Review, honor society participation, Sigma Gamma Rho, student government leadership, community involvement, and final RIAH Bar Review preparation. Each year contributes to her required reimbursement milestones, ultimately allowing her to earn the full $35,000 tuition reimbursement, cutting her original $70,000 combined tuition in half to a $35,000 net tuition amount while completing a multidimensional academic, experiential, professional, and leadership pathway.
+- This image takes a closer look at how the student progresses from L1 through L4 across four years, showing that her RIAH experience extends beyond completing coursework.
+- Her journey develops year by year through her California Non-JD and Criminal Justice pathways, legal development, Technology and Intellectual Property Law experience, attorney or judge supervision, Law Review, honor society participation, Sigma Gamma Rho, student government leadership, community involvement, and final RIAH Bar Review preparation.
+- Each year contributes to her required reimbursement milestones, ultimately allowing her to earn the full $35,000 tuition reimbursement, cutting her original $70,000 combined tuition in half to a $35,000 net tuition amount while completing a multidimensional academic, experiential, professional, and leadership pathway.
 
 <img width="1024" height="1536" alt="2" src="https://github.com/user-attachments/assets/2b2d4ac7-7d99-4e21-b513-52de3cbee10a" />
 
 ## 🖼️ Image 3 — Example Student to Graduate to Career Opportunity.
 
-This image brings the entire student story together—from entering RIAH with goals of earning a degree, completing the California Non-JD pathway, gaining real legal experience, earning certifications, and becoming a student leader, to completing four years of education and professional development. Along the way, she completes her B.S. Criminal Justice pathway, California Non-JD education, four years of supervised legal development, experiential learning, certifications, Law Review, honor society participation, and student government leadership, while meeting the milestones necessary to receive $35,000 back through RIAH’s 50% tuition reimbursement program. Her story concludes with graduation and a career opportunity in law, illustrating the intended full-circle RIAH Pathway: invest in education and experience, complete the milestones, receive substantial tuition reimbursement, and leave with education, experience, professional preparation, leadership development, and a foundation for the next stage of her career.
+- This image brings the entire student story together—from entering RIAH with goals of earning a degree, completing the California Non-JD pathway, gaining real legal experience, earning certifications, and becoming a student leader, to completing four years of education and professional development.
+- S.
+- Criminal Justice pathway, California Non-JD education, four years of supervised legal development, experiential learning, certifications, Law Review, honor society participation, and student government leadership, while meeting the milestones necessary to receive $35,000 back through RIAH’s 50% tuition reimbursement program.
+- Her story concludes with graduation and a career opportunity in law, illustrating the intended full-circle RIAH Pathway: invest in education and experience, complete the milestones, receive substantial tuition reimbursement, and leave with education, experience, professional preparation, leadership development, and a foundation for the next stage of her career.
 
 <img width="1536" height="1024" alt="3" src="https://github.com/user-attachments/assets/78cca0b4-4a2e-4ba1-acec-074610949aa3" />
 
 # I. 🎓 Academic Standard Tuition
 
-Academic Standard Tuition establishes the 100% standard tuition amount for each education pathway before the applicable Pricing Stage, tuition reductions, funding, financing, or other adjustments are calculated. Tuition is configured by total program except Non JD, which is calculated by the applicable required pathway year.
+- Academic Standard Tuition establishes the 100% standard tuition amount for each education pathway before the applicable Pricing Stage, tuition reductions, funding, financing, or other adjustments are calculated.
+- Tuition is configured by total program except Non JD, which is calculated by the applicable required pathway year.
 
 | Pricing Category | Standard 100% Amount | Unit |
 |:---|---:|:---|
@@ -246,7 +256,8 @@ Ordinary Tuition Reductions are applied to qualifying tuition according to the e
 
 # IX. 🛡️ Ordinary Tuition Reduction Cap
 
-The Pricing Engine may identify multiple qualifying ordinary tuition reductions, but their combined applied value cannot exceed 25%. Pricing Stages, the Integrated Education and Experiential Adjustment, Scholarships, Grants, Stipends, other applicable funding, Education Deposit, Student Resource Allocations, and financing remain outside this cap.
+- The Pricing Engine may identify multiple qualifying ordinary tuition reductions, but their combined applied value cannot exceed 25%.
+- Pricing Stages, the Integrated Education and Experiential Adjustment, Scholarships, Grants, Stipends, other applicable funding, Education Deposit, Student Resource Allocations, and financing remain outside this cap.
 
 | Rule | Value |
 |:---|---:|
@@ -333,7 +344,8 @@ tuition calculations.
 
 # XVI. 🧾 Education Deposit Resource Allocations
 
-Student Resource Allocations are separate from tuition and provide pathway based funding for student educational resources. Depending on the student and pathway, resources may include textbooks, workbooks, educational materials, laptops and technology, software and subscriptions, certification resources, proctoring, transcripts, graduation resources, welcome materials, and other student academic resources.
+- Student Resource Allocations are separate from tuition and provide pathway based funding for student educational resources.
+- Depending on the student and pathway, resources may include textbooks, workbooks, educational materials, laptops and technology, software and subscriptions, certification resources, proctoring, transcripts, graduation resources, welcome materials, and other student academic resources.
 
 | Pathway | Student Resource Allocation |
 |:---|---:|
@@ -416,7 +428,9 @@ Certification Review and Bar Review use the established Basic, Standard, and Pre
 
 ### Technology and Cybersecurity Certification Review Coverage
 
-The Technology and Cybersecurity Certification Review catalog includes the existing configured review courses plus the following expanded vendor and cybersecurity coverage. Every eligible standalone certification review uses the same Certification Review pricing tiers established above: **Basic $500, Standard $1,000, Premium $1,500**. Included reviews remain **$0 additional** where an applicable pathway includes the review.
+- The Technology and Cybersecurity Certification Review catalog includes the existing configured review courses plus the following expanded vendor and cybersecurity coverage.
+- Every eligible standalone certification review uses the same Certification Review pricing tiers established above: **Basic $500, Standard $1,000, Premium $1,500**.
+- Included reviews remain **$0 additional** where an applicable pathway includes the review.
 
 | Certification Area | Review Course Coverage | Basic | Standard | Premium |
 |:---|:---|---:|---:|---:|
@@ -435,7 +449,6 @@ The Technology and Cybersecurity Certification Review catalog includes the exist
 | School of Law — Bar Review | Full RIAH Bar Review — All 50 States + Washington, D.C.; California Baby Bar Review | $500 | $1,000 | $1,500 |
 
 This expansion adds eligible certification coverage only. It does **not** change Certification Review pricing, multiple-review rules, included-review treatment, discount logic, refund rules, or any other Pricing Engine calculation rule.
-
 
 ### Basic, Standard, and Premium Review Package Inclusions
 
@@ -477,11 +490,11 @@ This expansion adds eligible certification coverage only. It does **not** change
 | Coaching | — | — | 5 |
 | Applicable Professional Supervision | — | — | 2 |
 
-Basic is the core review package and includes timed testing, grading review, grading and scoring, and performance review. Standard includes everything in Basic plus the additional learning materials listed for Standard. Premium includes everything in Basic and Standard plus the textbook, printed textbook, Expanded 250-Question Practice Bank, complete expanded practice package, and all applicable standalone professional-support services, including academic and review advisement, study support, mentorship, live review, coaching, and applicable professional supervision.
+- Basic is the core review package and includes timed testing, grading review, grading and scoring, and performance review.
+- Standard includes everything in Basic plus the additional learning materials listed for Standard.
+- Premium includes everything in Basic and Standard plus the textbook, printed textbook, Expanded 250-Question Practice Bank, complete expanded practice package, and all applicable standalone professional-support services, including academic and review advisement, study support, mentorship, live review, coaching, and applicable professional supervision.
 
 Full RIAH Bar Review uses one core Bar Review with the first applicable jurisdiction module included where applicable. Each additional jurisdiction module is **$250**. California Baby Bar Review uses the same **Basic $500, Standard $1,000, Premium $1,500** package architecture.
-
-
 
 ### Internal Student Collection Architecture
 
@@ -509,21 +522,25 @@ Applicable collections may include Textbooks, Workbooks, Journals, Planners, Rev
 
 The Year 4, Master’s, and MBA levels each retain their own level-specific capstone collection.
 
-
 ### External Products, Content Development, and Professional Support Delivery
 
 RIAH external educational products and professional-support services are **people-developed and people-delivered, supported by technology**.
 
-The Founder and CEO establishes and directs the curriculum architecture, product structure, ecosystem alignment, and applicable content direction. Certification Review courses, Bar Review materials, textbooks, workbooks, review resources, practice resources, and related educational content are developed and reviewed with qualified faculty, PhD-level subject-matter professionals, and professionals within the applicable discipline. Depending on the school and subject, this includes professionals in accounting, business, technology, cybersecurity, homeland security, and other applicable disciplines. Law and Bar Review content and support incorporate qualified legal professionals, including attorneys and judges where applicable.
+- The Founder and CEO establishes and directs the curriculum architecture, product structure, ecosystem alignment, and applicable content direction.
+- Certification Review courses, Bar Review materials, textbooks, workbooks, review resources, practice resources, and related educational content are developed and reviewed with qualified faculty, PhD-level subject-matter professionals, and professionals within the applicable discipline.
+- Depending on the school and subject, this includes professionals in accounting, business, technology, cybersecurity, homeland security, and other applicable disciplines.
+- Law and Bar Review content and support incorporate qualified legal professionals, including attorneys and judges where applicable.
 
-Live professional-support products—including applicable mentorship, coaching, academic advisement, study support, and live review—are delivered by qualified people within the relevant discipline. Delivery may use RIAH faculty, adjunct faculty, experiential professionals, and contracted external professionals who supplement the RIAH ecosystem and provide applicable subject-matter services. Contracted professionals extend service capacity beyond the 173-person at-scale internal team structure without replacing the RIAH product, curriculum, or quality-control architecture.
+- Live professional-support products—including applicable mentorship, coaching, academic advisement, study support, and live review—are delivered by qualified people within the relevant discipline.
+- Delivery may use RIAH faculty, adjunct faculty, experiential professionals, and contracted external professionals who supplement the RIAH ecosystem and provide applicable subject-matter services.
+- Contracted professionals extend service capacity beyond the 173-person at-scale internal team structure without replacing the RIAH product, curriculum, or quality-control architecture.
 
 Certification Review and Bar Review package support is matched to the applicable discipline and package inclusion so students and external customers receiving live mentorship, coaching, advisement, study support, or live review interact with applicable professionals rather than technology alone.
 
 Educational and review content is revised **quarterly** to remain aligned with applicable industry standards, professional expectations, certification or review structures, and approved RIAH curriculum and product standards.
 
-Technology supports delivery, access, practice, assessment, scheduling, communication, and the learning environment. Technology does not replace the qualified faculty, subject-matter professionals, experiential professionals, attorneys, judges, mentors, coaches, or other professionals responsible for applicable content development and live professional support.
-
+- Technology supports delivery, access, practice, assessment, scheduling, communication, and the learning environment.
+- Technology does not replace the qualified faculty, subject-matter professionals, experiential professionals, attorneys, judges, mentors, coaches, or other professionals responsible for applicable content development and live professional support.
 
 ### Product and Professional Support Price Records
 
@@ -593,8 +610,6 @@ Technology supports delivery, access, practice, assessment, scheduling, communic
 **Product Price − Applicable Product Discount + Applicable Taxes/Fees + Applicable Shipping = Final Product Amount**
 
 The majority of applicable educational and professional products are physical and shipped. Only select products are complete digital products. Applicable physical products may include a limited digital preview such as the first chapter, first few pages, or another selected preview portion.
-
-
 
 | Review Tier | Standard Price |
 |:---|---:|
@@ -836,7 +851,11 @@ total program tuition.
 
 # XXXV. 🏦 RIAH Private Student Loan
 
-The RIAH Private Student Loan is separate financing rather than a tuition reduction. All RIAH pathways are eligible for loan consideration. Students select a requested amount within the configured \$500 minimum and \$5,000 maximum. Without the higher-loan credit tier, the maximum collateral-supported loan is 10% of qualifying collateral. A credit score of 700 or above is required to approve an amount above the 10% collateral-supported tier, subject to the tuition deficit and \$5,000 maximum.
+- The RIAH Private Student Loan is separate financing rather than a tuition reduction.
+- All RIAH pathways are eligible for loan consideration.
+- Students select a requested amount within the configured \$500 minimum and \$5,000 maximum.
+- Without the higher-loan credit tier, the maximum collateral-supported loan is 10% of qualifying collateral.
+- A credit score of 700 or above is required to approve an amount above the 10% collateral-supported tier, subject to the tuition deficit and \$5,000 maximum.
 
 | Financing Configuration | Value |
 |:---|---:|
@@ -857,7 +876,11 @@ maximum loan amount. Financing is not a tuition reduction.
 
 # XXXVI. 🛡️ RIAH Private Student Loan Pathway Eligibility and Collateral
 
-All RIAH pathways are eligible for RIAH Private Student Loan consideration. Pathway type does not independently exclude a student from consideration. The approved loan amount remains subject to the \$500 minimum and \$5,000 maximum. The collateral-supported tier is limited to 10% of qualifying collateral. A credit score of 700 or above is required for an approved loan above that 10% collateral-supported amount.
+- All RIAH pathways are eligible for RIAH Private Student Loan consideration.
+- Pathway type does not independently exclude a student from consideration.
+- The approved loan amount remains subject to the \$500 minimum and \$5,000 maximum.
+- The collateral-supported tier is limited to 10% of qualifying collateral.
+- A credit score of 700 or above is required for an approved loan above that 10% collateral-supported amount.
 
 | Component | Loan Eligible |
 |:---|:---|
@@ -899,7 +922,6 @@ flowchart TD
     G --> H
 ```
 
-
 ### Private Student Loan Flow — Part I: Collateral Tier
 
 ```mermaid
@@ -934,7 +956,8 @@ flowchart LR
 | Additional Potential RIAH Loan | $4,000 |
 | Maximum Total RIAH Loan | $5,000 |
 
-Where an applicable reimbursement is payable and an outstanding RIAH Private Student Loan exists, the existing Loan Recovery Through Reimbursement rule applies first. Reimbursement generated from qualifying eligible payment sources, including qualifying direct debit or credit payments and qualifying student-loan payments, follows the reimbursement rules and applicable loan-servicer or student payment routing.
+- Where an applicable reimbursement is payable and an outstanding RIAH Private Student Loan exists, the existing Loan Recovery Through Reimbursement rule applies first.
+- Reimbursement generated from qualifying eligible payment sources, including qualifying direct debit or credit payments and qualifying student-loan payments, follows the reimbursement rules and applicable loan-servicer or student payment routing.
 
 # XXXVII. ➗ RIAH Private Student Loan Interest
 
@@ -975,7 +998,8 @@ Loan Balance, \$0)**
 
 # XXXIX. ✅ Included Zero Dollar Components
 
-The following components have no additional configured price where active policy establishes their inclusion. Applicable standard transcripts, diploma, graduation items, cap and gown, orientation, and standard administrative services are also treated as included rather than separately charged where established by active policy.
+- The following components have no additional configured price where active policy establishes their inclusion.
+- Applicable standard transcripts, diploma, graduation items, cap and gown, orientation, and standard administrative services are also treated as included rather than separately charged where established by active policy.
 
 | Component | Additional Price |
 |:---|---:|
@@ -1031,7 +1055,9 @@ const HIGH_SCHOOL_CONFIGURATION = {
 };
 ```
 
-The current \$5,000 High School tuition is the active price for the High School program with 30 General Education college credits embedded and converted throughout the High School curriculum. The broader concurrent-enrollment General Education structure is 60 credits. Pricing may change slightly as duration and additional program components are finalized through community suggestions and final RIAH approval.
+- The current \$5,000 High School tuition is the active price for the High School program with 30 General Education college credits embedded and converted throughout the High School curriculum.
+- The broader concurrent-enrollment General Education structure is 60 credits.
+- Pricing may change slightly as duration and additional program components are finalized through community suggestions and final RIAH approval.
 
 ### Scholarship, Grant, and Stipend Configuration
 
@@ -1232,7 +1258,8 @@ The Master Scholarship, Grant, and Stipend Lookup Table consolidates the fixed f
 
 # XLII. 🔐 Engine Source of Truth Rule
 
-The Master Pricing Data Sheet and its corresponding structured database records are the numerical source of truth for the Pricing Engine. The engine should retrieve configured financial values rather than independently inventing or estimating tuition, fees, deposits, allocations, reductions, funding, financing, interest, reimbursement, review pricing, or other financial values.
+- The Master Pricing Data Sheet and its corresponding structured database records are the numerical source of truth for the Pricing Engine.
+- The engine should retrieve configured financial values rather than independently inventing or estimating tuition, fees, deposits, allocations, reductions, funding, financing, interest, reimbursement, review pricing, or other financial values.
 
 The RIAH Pathway Pricing Engine should retrieve applicable financial
 values from this Master Pricing Data Sheet or its corresponding
