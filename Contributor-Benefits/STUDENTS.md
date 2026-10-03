@@ -62,19 +62,14 @@ D --> F["👑 Up to Applicable Product Maximum"]
 
 ## ⚙️ Flow Metadata
 
-```yaml
-track: "Education & Experiential Graduate"
-profile_category: "Student / Graduate"
-status: "in-progress"
-verification_required: true
-points_require_approval: true
-benefit_record_required: true
-review_state:
-  - pending
-  - under-review
-  - revision-if-required
-  - approved
-  - credited
+**Flow Configuration:** Track — Education & Experiential Graduate; Profile Category — Student / Graduate; Status — in-progress; Verification Required — true; Points Require Approval — true; Benefit Record Required — true.
+
+```mermaid
+flowchart LR
+    A["Pending"] --> B["Under Review"]
+    B --> C["Revision if Required"]
+    C --> D["Approved"]
+    D --> E["Credited"]
 ```
 
 ## 💰 Tuition, Products & Pricing Resources
