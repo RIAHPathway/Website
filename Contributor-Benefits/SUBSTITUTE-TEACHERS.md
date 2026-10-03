@@ -1,6 +1,79 @@
+---
+document_type: contributor-benefit-framework
+track: "Substitute Teacher Ambassador"
+status: "In Progress — Review and Finalization Required"
+benefit_system: "RIAH Pathway"
+flow_status: "draft-review"
+---
+
 # 🍎 Substitute Teacher Ambassadors
 
 **Status: In Progress — Review and Finalization Required**
+
+## 🍎 Category Key
+
+| Emoji | Meaning |
+|---|---|
+| 🍎 | Substitute Teacher Ambassador |
+| 👑 | Approved eligibility or contribution |
+| ⭐ | Approved points |
+| 🏆 | Completed milestone |
+| 🎓 | Tuition benefit |
+| 🛍️ | Product benefit |
+| 🔗 | QR, referral, routing or attribution |
+| 🎪 | Event, workshop or outreach |
+| 🎥 | Webinar, presentation, video or media |
+| 👀 | Under review |
+| 🔄 | Revision or re-verification |
+| ✅ | Approved or verified |
+| ❌ | Rejected or ineligible |
+
+## 🍎 End-to-End Category Flow
+
+```mermaid
+flowchart TB
+A["🍎 Substitute Teacher Ambassador"] --> B["👑 Eligibility, Orientation & Marketing Training"]
+B --> C["🏫 Obtain School, District, Venue or Employer Permission"]
+C --> D["🔗 Assigned QR Code / Referral Link"]
+D --> E["🎪 Career Fair, School Event, Booth, Webinar or Workshop"]
+E --> F["📚 Approved Education, Experiential, Certification & Product Materials"]
+F --> G["👤 Student, Family or Community Engagement"]
+G --> H{"🎯 Verified Outcome?"}
+H --> I["🔗 Qualified Referral +10"]
+H --> J["🎥 Webinar Attendance +15"]
+H --> K["📝 Application +25"]
+H --> L["🎓+ Enrollment +100"]
+H --> M["🛒 Product Purchase +25"]
+I --> N["📋 Verification & Activity Ledger"]
+J --> N
+K --> N
+L --> N
+M --> N
+N --> O["⭐ Approved Points"]
+O --> P{"🏆 Complete 100-Point Milestone?"}
+P -- No --> Q["⭐ Carry Points Forward"]
+P -- Yes --> R["🎓 +1% Tuition & 🛍️ +1% Products"]
+R --> S{"👑 2,500 Points?"}
+S -- No --> E
+S -- Yes --> T["👑🏆 25% Tuition + 25% Products Maximum"]
+```
+
+## ⚙️ Flow Metadata
+
+```yaml
+track: "Substitute Teacher Ambassador"
+profile_category: "Substitute Teacher Ambassador"
+status: "in-progress"
+verification_required: true
+points_require_approval: true
+benefit_record_required: true
+review_state:
+  - pending
+  - under-review
+  - revision-if-required
+  - approved
+  - credited
+```
 
 Substitute Teacher Ambassadors may contribute through school district events, career fairs, college fairs, education events, approved school-community events, informational booths, educational webinars, information sessions, workshops, approved brochures, flyers, information cards, QR codes, referral links, Education Pathway promotion, Experiential Pathway promotion, certification information, product information, family-information events, community events, approved social campaigns, organizational introductions, prospective-student referrals, student conversions and product conversions.
 
