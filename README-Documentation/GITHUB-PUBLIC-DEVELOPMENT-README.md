@@ -434,28 +434,18 @@ The repository's LICENSE, CONTRIBUTING terms, notices, and applicable file-level
 
 ## 16. 🔀 GITHUB CONTRIBUTION WORKFLOW
 
-```text
-RIAH Requirement
-        ↓
-GitHub Issue
-        ↓
-GitHub Project
-        ↓
-Contributor Assignment
-        ↓
-Branch or Fork
-        ↓
-Contribution
-        ↓
-Pull Request
-        ↓
-Testing and Review
-        ↓
-RIAH Approval
-        ↓
-Merge
-        ↓
-Release
+### GitHub Contribution Workflow — Part I: Requirement to Contribution
+
+```mermaid
+flowchart LR
+A["RIAH Requirement"] --> B["GitHub Issue"] --> C["GitHub Project"] --> D["Contributor Assignment"] --> E["Branch or Fork"] --> F["Contribution"]
+```
+
+### GitHub Contribution Workflow — Part II: Review to Release
+
+```mermaid
+flowchart LR
+A["Pull Request"] --> B["Testing and Review"] --> C["RIAH Approval"] --> D["Merge"] --> E["Release"]
 ```
 
 ## 17. 📊 GITHUB PROJECTS
@@ -660,32 +650,16 @@ and:
 
 ## 23. 👑 COMPLETE DEVELOPMENT MODEL
 
-```text
-RIAH Private Company and IP
-              │
-              ↓
-Approved Public Specifications
-              │
-              ↓
-GitHub Repository
-              │
-      ┌───────┼────────┐
-      ↓       ↓        ↓
-    Issues  Projects  Discussions
-      │       │        │
-      └───────┼────────┘
-              ↓
-       Public Contributors
-              ↓
-     Branches and Pull Requests
-              ↓
-        RIAH Review
-              ↓
-      Testing and Approval
-              ↓
-       Public Website
-              ↓
-      RIAH Ecosystem V1+
+```mermaid
+flowchart TD
+A["RIAH Private Company and IP"] --> B["Approved Public Specifications"] --> C["GitHub Repository"]
+C --> D["Issues"]
+C --> E["Projects"]
+C --> F["Discussions"]
+D --> G["Public Contributors"]
+E --> G
+F --> G
+G --> H["Branches and Pull Requests"] --> I["RIAH Review"] --> J["Testing and Approval"] --> K["Public Website"] --> L["RIAH Ecosystem V1+"]
 ```
 
 ---
