@@ -16,17 +16,18 @@ Detailed course tables remain in the controlling degree curriculum.
 
 ## ❤️ General Education — Edmentum Software Coverage
 
-RIAH Course | Course Name | Edmentum
-ENG 1010 | College English | ✓
-MAT 1010 | College Algebra | ✓
-COM 1010 | Oral Communications | ✓
-LAN 1010 | Foreign Language | ✓
-HIS 1010 | History | ✓
-PHI 1010 | Philosophy | X — RIAH Additional Curriculum
-PSY 1010 | Psychology | ✓
-SOC 1010 | Sociology | ✓
-ART 1010 | Art | ✓
-SCI 1010 | Science | ✓
+| RIAH Course | Course Name | Edmentum |
+| --- | --- | --- |
+| ENG 1010 | College English | ✓ |
+| MAT 1010 | College Algebra | ✓ |
+| COM 1010 | Oral Communications | ✓ |
+| LAN 1010 | Foreign Language | ✓ |
+| HIS 1010 | History | ✓ |
+| PHI 1010 | Philosophy | X — RIAH Additional Curriculum |
+| PSY 1010 | Psychology | ✓ |
+| SOC 1010 | Sociology | ✓ |
+| ART 1010 | Art | ✓ |
+| SCI 1010 | Science | ✓ |
 
 Philosophy Note — PHI 1010 remains part of the RIAH General Education curriculum. RIAH will provide and/or integrate additional Philosophy curriculum because Edmentum does not provide the mapped Philosophy coverage used for this structure.
 
@@ -70,7 +71,7 @@ Students are admitted into the Program Management major after completing Year 1 
 
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PGM 2101 | Technology | Minor | Principles of Program Management | 3 | Admission to Program Management Minor | Microsoft Planner · Microsoft 365 | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | PGM 3101 | Technology | Minor | Program Architecture and Component Mapping | 3 | PGM 2101 — Principles of Program Management | Microsoft Planner + Microsoft 365 + HubSpot | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | PGM 3102 | Technology | Minor | Program Data and Dependency Analysis | 3 | PGM 3101 — Program Architecture and Component Mapping | Microsoft Planner + Microsoft 365 + HubSpot | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
@@ -86,7 +87,7 @@ Students are admitted into the Program Management major after completing Year 1 
 
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PGM 3101 | Technology | Bachelor’s | Program Architecture and Component Mapping | 3 | PGM 3100 — Admission to Major Year 3 | Microsoft Planner + Microsoft 365 + HubSpot | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | PGM 3102 | Technology | Bachelor’s | Program Data and Dependency Analysis | 3 | PGM 3101 | Microsoft Planner + Microsoft 365 + HubSpot | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | PGM 3103 | Technology | Bachelor’s | Program Scheduling and Integration | 3 | PGM 3102 | Microsoft Planner + Microsoft 365 + Excel | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
@@ -106,7 +107,7 @@ Students are admitted into the Program Management major after completing Year 1 
 **General Bachelor’s Year 4 Software Stack:** Microsoft Planner · Microsoft 365 · HubSpot · Microsoft Excel · Microsoft Power BI · Integrated Program Management Stack · Planner
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PGM 4101 | Technology | Bachelor’s | Program Venture Selection & Strategic Formation | 3 | PGM 4100 — Admission to Major Year 4 | Microsoft Planner · Microsoft 365 · HubSpot · Microsoft Excel · Microsoft Power BI · Integrated Program Management Stack · Planner | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | PGM 4102 | Technology | Bachelor’s | Program Venture Governance & Stakeholder Alignment | 3 | PGM 4101 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | PGM 4103 | Technology | Bachelor’s | Program Venture Planning & Component Integration | 3 | PGM 4102 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
@@ -131,7 +132,7 @@ Students are admitted into the Program Management major after completing Year 1 
 **PgMP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PGM 4101 | Technology | Bachelor’s | Program Venture Selection & Strategic Formation | 3 | PGM 4100 — Admission to Major Year 4 | Microsoft Planner · Microsoft 365 · HubSpot · Microsoft Excel · Microsoft Power BI · Integrated Program Management Stack · Planner | ❌ | PgMP Review | Introduced — In Progress | Strategic program management | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | PGM 4102 | Technology | Bachelor’s | Program Venture Governance & Stakeholder Alignment — Program life cycle: definition | 3 | PGM 4101 | Same stack throughout | ❌ | PgMP Review | In Progress — Carry Forward | Program life cycle: definition | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | PGM 4103 | Technology | Bachelor’s | Program Venture Planning & Component Integration — Program life cycle: benefits delivery | 3 | PGM 4102 | Same stack throughout | ❌ | PgMP Review | In Progress — Carry Forward | Program life cycle: benefits delivery | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
@@ -151,7 +152,7 @@ Students are admitted into the Program Management major after completing Year 1 
 **General Master’s Software Stack:** Microsoft Planner · Microsoft 365 · HubSpot · Microsoft Excel · Microsoft Power BI · Integrated Program Management Stack · Planner
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PGM 5101 | Technology | Master’s | Program Technical Venture Selection & Strategic Formation | 3 | PGM 5100 — Admission to Master’s Program | Microsoft Planner · Microsoft 365 · HubSpot · Microsoft Excel · Microsoft Power BI · Integrated Program Management Stack · Planner | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | PGM 5102 | Technology | Master’s | Program Technical Venture Governance & Stakeholder Management | 3 | PGM 5101 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | PGM 5103 | Technology | Master’s | Program Technical Venture Planning & Component Management | 3 | PGM 5102 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
@@ -176,7 +177,7 @@ Students are admitted into the Program Management major after completing Year 1 
 **PgMP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PGM 5101 | Technology | Master’s | Program Technical Venture Selection & Strategic Formation | 3 | PGM 5100 — Admission to Master’s Program | Microsoft Planner · Microsoft 365 · HubSpot · Microsoft Excel · Microsoft Power BI · Integrated Program Management Stack · Planner | ❌ | PgMP Review | Introduced — In Progress | Strategic program management | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | PGM 5102 | Technology | Master’s | Program Technical Venture Governance & Stakeholder Management — Program life cycle: definition | 3 | PGM 5101 | Same stack throughout | ❌ | PgMP Review | In Progress — Carry Forward | Program life cycle: definition | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | PGM 5103 | Technology | Master’s | Program Technical Venture Planning & Component Management — Program life cycle: benefits delivery | 3 | PGM 5102 | Same stack throughout | ❌ | PgMP Review | In Progress — Carry Forward | Program life cycle: benefits delivery | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
@@ -196,7 +197,7 @@ Students are admitted into the Program Management major after completing Year 1 
 **General MBA Software Stack:** Microsoft Planner · Microsoft 365 · HubSpot · Microsoft Excel · Microsoft Power BI · Integrated Program Management Stack · Planner
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PGM 6101 | Technology | MBA | Program Management Venture Selection & Strategy | 3 | PGM 6100 — Admission to MBA Program | Microsoft Planner · Microsoft 365 · HubSpot · Microsoft Excel · Microsoft Power BI · Integrated Program Management Stack · Planner | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | PGM 6102 | Technology | MBA | Program Management Venture Governance & Stakeholder Strategy | 3 | PGM 6101 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | PGM 6103 | Technology | MBA | Program Management Venture Planning & Component Strategy | 3 | PGM 6102 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
@@ -221,7 +222,7 @@ Students are admitted into the Program Management major after completing Year 1 
 **PgMP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PGM 6101 | Technology | MBA | Program Management Venture Selection & Strategy | 3 | PGM 6100 — Admission to MBA Program | Microsoft Planner · Microsoft 365 · HubSpot · Microsoft Excel · Microsoft Power BI · Integrated Program Management Stack · Planner | ❌ | PgMP Review | Introduced — In Progress | Strategic program management | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | PGM 6102 | Technology | MBA | Program Management Venture Governance & Stakeholder Strategy — Program life cycle: definition | 3 | PGM 6101 | Same stack throughout | ❌ | PgMP Review | In Progress — Carry Forward | Program life cycle: definition | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | PGM 6103 | Technology | MBA | Program Management Venture Planning & Component Strategy — Program life cycle: benefits delivery | 3 | PGM 6102 | Same stack throughout | ❌ | PgMP Review | In Progress — Carry Forward | Program life cycle: benefits delivery | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
