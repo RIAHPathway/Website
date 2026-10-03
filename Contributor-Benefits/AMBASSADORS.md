@@ -1,14 +1,6 @@
----
-document_type: contributor-benefit-framework
-track: "Community Ambassador"
-status: "In Progress — Review and Finalization Required"
-benefit_system: "RIAH Pathway"
-flow_status: "draft-review"
----
-
 # 🌎 Community Ambassadors
 
-**Status: In Progress — Review and Finalization Required**
+<img width="562" height="317" alt="image" src="https://github.com/user-attachments/assets/5cc26bb2-530d-49c4-a9fb-2410befd05ca" />
 
 ## 💰 Tuition, Products & Pricing Resources
 
