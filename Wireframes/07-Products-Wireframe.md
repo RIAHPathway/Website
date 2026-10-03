@@ -368,7 +368,8 @@ Applicable Microsoft technical, cloud, data, AI, software, infrastructure, and c
 |:---|:---:|:---:|:---:|
 | RIAH Certification Review Course | Included | Included | Included |
 | Applicable Certification Sections, Parts, or Modules | Included | Included | Included |
-| Applicable Course Textbook or Course Material | Included | Included | Included |
+| Applicable Course Material | Included | Included | Included |
+| Textbook | — | Included | Included |
 | Core Questions and MCQs | Included | Included | Included |
 | Core Practice Tests | Included | Included | Included |
 | Core Simulations | Included | Included | Included |
@@ -387,13 +388,17 @@ Applicable Microsoft technical, cloud, data, AI, software, infrastructure, and c
 | Grading and Scoring | — | Included | Included |
 | Performance Review | — | Included | Included |
 | Complete Printed Product Set | — | — | Included |
-| Printed Textbook | — | — | Included |
+| Printed Textbook | — | Included | Included |
 | 500 Additional Questions Per Applicable Module | — | — | Included |
 | Academic and Review Advisement | — | — | Included |
+| Study Support | — | — | Included |
 | Mentorship | — | — | Included |
 | Study Sessions | — | — | 5 |
+| Live Review | — | — | Included |
 | Live Review Sessions | — | — | 5 |
+| Coaching | — | — | Included |
 | Coaching Sessions | — | — | 5 |
+| Applicable Professional Supervision | — | — | Included Where Applicable |
 
 ## BASIC — $500
 
@@ -403,7 +408,7 @@ Includes:
 
 - RIAH Certification Review Course
 - Applicable Certification Sections, Parts, or Modules
-- Applicable Course Textbook or Course Material
+- Applicable Course Material
 - Core Questions and MCQs
 - Core Practice Tests
 - Core Simulations
@@ -419,6 +424,7 @@ Applicable course materials follow the RIAH product-format structure. Complete p
 
 Includes everything in Basic plus:
 
+- Textbook
 - Workbook
 - Study Guide
 - Review Guide
@@ -443,7 +449,6 @@ Includes everything in Basic and Standard plus:
 
 ### COMPLETE PRINTED PRODUCT SET
 
-- Printed Textbook
 - Printed Workbook
 - Printed Study Guide
 - Printed Review Guide
@@ -461,10 +466,14 @@ Includes everything in Basic and Standard plus:
 ### PROFESSIONAL SUPPORT
 
 - Academic and Review Advisement
+- Study Support
 - Mentorship
 - 5 Study Sessions
+- Live Review
 - 5 Live Review Sessions
+- Coaching
 - 5 Coaching Sessions
+- Applicable Professional Supervision Where Applicable
 
 **The Premium package is primarily a physical product package. Printed products are shipped to the applicable customer. Select digital resources, course components, practice resources, simulations, and limited product previews may be provided digitally where applicable.**
 
@@ -509,7 +518,8 @@ It is one RIAH Bar Review with applicable jurisdiction-specific modules.
 |:---|:---:|:---:|:---:|
 | Full RIAH Bar Review Course | Included | Included | Included |
 | Applicable Jurisdiction Module | Included | Included | Included |
-| Applicable Course Textbook or Course Material | Included | Included | Included |
+| Applicable Course Material | Included | Included | Included |
+| Textbook | — | Included | Included |
 | Core Questions and MCQs | Included | Included | Included |
 | Core Practice Tests | Included | Included | Included |
 | Core Simulations | Included | Included | Included |
@@ -530,10 +540,14 @@ It is one RIAH Bar Review with applicable jurisdiction-specific modules.
 | Complete Printed Product Set | — | — | Included |
 | 500 Additional Questions Per Applicable Module | — | — | Included |
 | Academic and Review Advisement | — | — | Included |
+| Study Support | — | — | Included |
 | Mentorship | — | — | Included |
 | Study Sessions | — | — | 5 |
+| Live Review | — | — | Included |
 | Live Review Sessions | — | — | 5 |
+| Coaching | — | — | Included |
 | Coaching Sessions | — | — | 5 |
+| Applicable Professional Supervision | — | — | Included Where Applicable |
 
 ## BASIC BAR REVIEW — $500
 
@@ -541,7 +555,7 @@ Includes:
 
 - Full RIAH Bar Review Course
 - Applicable Jurisdiction Module
-- Applicable Course Textbook or Course Material
+- Applicable Course Material
 - Core Questions and MCQs
 - Core Practice Tests
 - Core Simulations
@@ -553,6 +567,7 @@ Includes:
 
 Includes everything in Basic plus:
 
+- Textbook
 - Workbook
 - Study Guide
 - Review Guide
@@ -576,10 +591,14 @@ Includes everything in Basic and Standard plus:
 - 5 Additional Practice Tests Per Applicable Module
 - 5 Additional Simulations Per Applicable Module
 - Academic and Review Advisement
+- Study Support
 - Mentorship
 - 5 Study Sessions
+- Live Review
 - 5 Live Review Sessions
+- Coaching
 - 5 Coaching Sessions
+- Applicable Professional Supervision Where Applicable
 
 **Physical review products are primarily printed and shipped. Select digital resources, practice tools, simulations, jurisdiction modules, and limited product previews may be provided digitally where applicable.**
 
@@ -1240,7 +1259,7 @@ Applicable Certification Reviews are organized by **School of Business, School o
 
 ### What is included in Premium?
 
-Premium combines the Basic and Standard package structures with the complete printed product set, 500 additional questions per applicable module, 5 additional practice tests per applicable module, 5 additional simulations per applicable module, advisement, mentorship, 5 Study Sessions, 5 Live Review Sessions, and 5 Coaching Sessions.
+Premium combines the Basic and Standard package structures with the complete printed product set, 500 additional questions per applicable module, 5 additional practice tests per applicable module, 5 additional simulations per applicable module, and the complete applicable standalone professional-support layer, including academic and review advisement, study support, mentorship, live review, coaching, applicable professional supervision, 5 Study Sessions, 5 Live Review Sessions, and 5 Coaching Sessions.
 
 ### Does RIAH have a separate Bar Review for every state?
 
