@@ -106,6 +106,8 @@ VII. 📋 Master Record Fields
 
 ## V. 🔄 Master Participation Flow
 
+### 🔹 Mermaid Flow — Part 1
+
 ```mermaid
 flowchart TB
 A["👑 RIAH Pathway Benefit Framework"] --> B{"👥 Participant Category"}
@@ -122,6 +124,13 @@ E --> K
 F --> K
 G --> K
 J --> L["🏆 100 Points = 1%"]
+```
+
+### 🔹 Mermaid Flow — Part 2
+
+```mermaid
+flowchart TB
+L["🏆 100 Points = 1%"]
 K --> L
 L --> M["🎓 Tuition + 🛍️ Product Benefit"]
 M --> N["👑 2,500 Points = 25% Maximum"]
