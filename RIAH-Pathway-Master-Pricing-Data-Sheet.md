@@ -445,12 +445,12 @@ This expansion adds eligible certification coverage only. It does **not** change
 | Applicable Certification Sections, Parts, or Modules | Included | Included | Included |
 | Applicable Bar Jurisdiction Module | Included Where Applicable | Included Where Applicable | Included Where Applicable |
 | Applicable Course Material | Included | Included | Included |
-| Textbook | — | Included | Included |
+| Textbook | — | — | Included |
 | Core Questions and MCQs | Included | Included | Included |
 | Core Practice Tests | Included | Included | Included |
 | Core Simulations | Included | Included | Included |
-| Mini Practice Exams | 2 | 2 + Additional Practice Exams | 2 + Additional Practice Exams + 5 Additional Practice Tests Per Applicable Module |
-| Mini Simulated Exams | 2 | 2 + Additional Simulation Practice | 2 + Additional Simulation Practice + 5 Additional Simulations Per Applicable Module |
+| Mini Practice Exams | 2 | 2 | 2 + Additional Practice Exams + 5 Additional Practice Tests Per Applicable Module |
+| Mini Simulated Exams | 2 | 2 | 2 + Additional Simulation Practice + 5 Additional Simulations Per Applicable Module |
 | Full Simulated Exam | 1 | 1 | 1 |
 | Workbook | — | Included | Printed Workbook Included |
 | Study Guide | — | Included | Printed Study Guide Included |
@@ -477,7 +477,7 @@ This expansion adds eligible certification coverage only. It does **not** change
 | Coaching Sessions | — | — | 5 |
 | Applicable Professional Supervision | — | — | Included Where Applicable |
 
-Basic is the core review package and includes timed testing, grading review, grading and scoring, and performance review. Standard includes everything in Basic plus the textbook, additional learning materials, and additional practice resources. Premium includes everything in Basic and Standard plus the printed textbook, Expanded 250-Question Practice Bank, complete expanded practice package, and all applicable standalone professional-support services, including academic and review advisement, study support, mentorship, live review, coaching, and applicable professional supervision.
+Basic is the core review package and includes timed testing, grading review, grading and scoring, and performance review. Standard includes everything in Basic plus the additional learning materials listed for Standard. Premium includes everything in Basic and Standard plus the textbook, printed textbook, Expanded 250-Question Practice Bank, complete expanded practice package, and all applicable standalone professional-support services, including academic and review advisement, study support, mentorship, live review, coaching, and applicable professional supervision.
 
 Full RIAH Bar Review uses one core Bar Review with the first applicable jurisdiction module included where applicable. Each additional jurisdiction module is **$250**. California Baby Bar Review uses the same **Basic $500, Standard $1,000, Premium $1,500** package architecture.
 
