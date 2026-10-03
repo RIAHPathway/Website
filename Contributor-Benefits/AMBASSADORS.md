@@ -70,7 +70,7 @@ XIV. 📋 Participant Ledger
 | ❌ | Rejected or ineligible |
 
 ## II. 🌎 End-to-End Category Flow
-### 🔹 Mermaid Flow — Part 1
+### 🌎 High-Level Flow — Participation
 
 ```mermaid
 flowchart TB
@@ -79,31 +79,17 @@ B --> C["🔗 Assigned QR Code / Referral Link"]
 C --> D["🎪 Community Event, Workshop, Booth, Webinar or Outreach"]
 D --> E["📣 Approved RIAH Materials & Local Promotion"]
 E --> F["👤 Qualified Prospect Engagement"]
-F --> G{"🎯 Verified Progress?"}
-G --> H["🔗 Qualified Referral +10"]
-G --> I["🎥 Webinar / Info Session +15"]
-G --> J["📝 Completed Application +25"]
-G --> K["🎓+ Verified Enrollment +100"]
-G --> L["🛒 Verified Product Purchase +25"]
-H --> M["📋 Verification & Activity Ledger"]
 ```
 
-### 🔹 Mermaid Flow — Part 2
+### ⭐ High-Level Flow — Verification & Benefits
 
 ```mermaid
 flowchart TB
-M["📋 Verification & Activity Ledger"]
-I --> M
-J --> M
-K --> M
-L --> M
-M --> N["⭐ Approved Points"]
-N --> O{"🏆 Complete 100-Point Milestone?"}
-O -- No --> P["⭐ Carry Points Forward"]
-O -- Yes --> Q["🎓 +1% Tuition & 🛍️ +1% Products"]
-Q --> R{"👑 2,500 Points?"}
-R -- No --> D
-R -- Yes --> S["👑🏆 25% Tuition + 25% Products Maximum"]
+A["🎯 Verified Progress"] --> B["📋 Verification & Activity Ledger"]
+B --> C["⭐ Approved Points"]
+C --> D["🏆 Complete 100-Point Milestone"]
+D --> E["🎓 +1% Tuition & 🛍️ +1% Products"]
+E --> F["👑🏆 Up to 25% Tuition + 25% Products Maximum"]
 ```
 
 ## III. ⚙️ Flow Metadata
