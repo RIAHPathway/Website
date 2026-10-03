@@ -177,12 +177,13 @@ This expansion adds eligible certification coverage only. It does **not** change
 | Flashcards | — | Included | Printed Flashcards Included |
 | Planner | — | Included | Printed Planner Included |
 | Journal | — | Included | Printed Journal Included |
-| Expanded 250-Question Practice Bank | — | Included | Included |
-| Timed Testing | — | Included | Included |
-| Grading and Scoring | — | Included | Included |
-| Performance Review | — | Included | Included |
+| Expanded 250-Question Practice Bank | — | — | Included |
+| Timed Testing | Included | Included | Included |
+| Grading Review | Included | Included | Included |
+| Grading and Scoring | Included | Included | Included |
+| Performance Review | Included | Included | Included |
 | Complete Printed Product Set | — | — | Included |
-| Printed Textbook | — | Included | Included |
+| Printed Textbook | — | — | Included |
 | 500 Additional Questions Per Applicable Module | — | — | Included |
 | Academic and Review Advisement | — | — | Included |
 | Study Support | — | — | Included |
