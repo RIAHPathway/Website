@@ -153,7 +153,15 @@ Multiple event awards require genuinely separate responsibilities.
 ## VIII. 🔗 QR Codes, Referral Links and Attribution
 Each applicable Ambassador uses an individually attributable QR code and referral link. Approved destinations may include the RIAH Pathway website, program pages, educational webinars, application pages, event registration, product pages, information-request forms and approved landing pages.
 
-**Ambassador → QR or Link → Engagement → Lead → Webinar → Application → Enrollment or Purchase**
+```mermaid
+flowchart LR
+    N1["Ambassador"] --> N2["QR or Link"]
+    N2["QR or Link"] --> N3["Engagement"]
+    N3["Engagement"] --> N4["Lead"]
+    N4["Lead"] --> N5["Webinar"]
+    N5["Webinar"] --> N6["Application"]
+    N6["Application"] --> N7["Enrollment or Purchase"]
+```
 
 Conversions must be traceable to the assigned identifier or otherwise verified. Self-referrals do not qualify. Duplicate referrals do not create duplicate conversion awards.
 ## IX. 🏆 1%–25% Milestones
@@ -216,7 +224,13 @@ No points are awarded for fake, duplicate or self-referrals; fake purchases; fra
 One underlying activity normally receives one primary award unless separate point-bearing milestones or deliverables are independently verified.
 
 ## XIII. ⏳ Status Workflow
-**⏳ Pending → 👀 Under Review → 🔄 Revision if Required → ✅ Approved → 👑 Credited**
+```mermaid
+flowchart LR
+    N1["⏳ Pending"] --> N2["👀 Under Review"]
+    N2["👀 Under Review"] --> N3["🔄 Revision if Required"]
+    N3["🔄 Revision if Required"] --> N4["✅ Approved"]
+    N4["✅ Approved"] --> N5["👑 Credited"]
+```
 
 Pending work receives no permanent points. Rejected work receives zero points.
 
