@@ -350,6 +350,37 @@ Applicable Microsoft technical, cloud, data, AI, software, infrastructure, and c
 
 [COMPONENT — THREE-COLUMN PACKAGE COMPARISON]
 
+| Package Feature | Basic — $500 | Standard — $1,000 | Premium — $1,500 |
+|:---|:---:|:---:|:---:|
+| RIAH Certification Review Course | Included | Included | Included |
+| Applicable Certification Sections, Parts, or Modules | Included | Included | Included |
+| Applicable Course Textbook or Course Material | Included | Included | Included |
+| Core Questions and MCQs | Included | Included | Included |
+| Core Practice Tests | Included | Included | Included |
+| Core Simulations | Included | Included | Included |
+| Mini Practice Exams | 2 | 2 + Additional Practice Exams | 2 + Additional Practice Exams + 5 Additional Practice Tests Per Applicable Module |
+| Mini Simulated Exams | 2 | 2 + Additional Simulation Practice | 2 + Additional Simulation Practice + 5 Additional Simulations Per Applicable Module |
+| Full Simulated Exam | 1 | 1 | 1 |
+| Workbook | — | Included | Printed Workbook Included |
+| Study Guide | — | Included | Printed Study Guide Included |
+| Review Guide | — | Included | Printed Review Guide Included |
+| Solution Guide | — | Included | Printed Solution Guide Included |
+| Flashcards | — | Included | Printed Flashcards Included |
+| Planner | — | Included | Printed Planner Included |
+| Journal | — | Included | Printed Journal Included |
+| Expanded 250-Question Practice Bank | — | Included | Included |
+| Timed Testing | — | Included | Included |
+| Grading and Scoring | — | Included | Included |
+| Performance Review | — | Included | Included |
+| Complete Printed Product Set | — | — | Included |
+| Printed Textbook | — | — | Included |
+| 500 Additional Questions Per Applicable Module | — | — | Included |
+| Academic and Review Advisement | — | — | Included |
+| Mentorship | — | — | Included |
+| Study Sessions | — | — | 5 |
+| Live Review Sessions | — | — | 5 |
+| Coaching Sessions | — | — | 5 |
+
 ## BASIC — $500
 
 ### CORE REVIEW PACKAGE
@@ -459,6 +490,36 @@ It is one RIAH Bar Review with applicable jurisdiction-specific modules.
 # BAR REVIEW PACKAGE COMPARISON
 
 [COMPONENT — THREE-COLUMN PACKAGE COMPARISON]
+
+| Package Feature | Basic Bar Review — $500 | Standard Bar Review — $1,000 | Premium Bar Review — $1,500 |
+|:---|:---:|:---:|:---:|
+| Full RIAH Bar Review Course | Included | Included | Included |
+| Applicable Jurisdiction Module | Included | Included | Included |
+| Applicable Course Textbook or Course Material | Included | Included | Included |
+| Core Questions and MCQs | Included | Included | Included |
+| Core Practice Tests | Included | Included | Included |
+| Core Simulations | Included | Included | Included |
+| Mini Practice Exams | 2 | 2 + Additional Practice Exams | 2 + Additional Practice Exams + 5 Additional Practice Tests Per Applicable Module |
+| Mini Simulated Exams | 2 | 2 + Additional Simulation Practice | 2 + Additional Simulation Practice + 5 Additional Simulations Per Applicable Module |
+| Full Simulated Exam | 1 | 1 | 1 |
+| Workbook | — | Included | Included in Complete Printed Product Set |
+| Study Guide | — | Included | Included in Complete Printed Product Set |
+| Review Guide | — | Included | Included in Complete Printed Product Set |
+| Solution Guide | — | Included | Included in Complete Printed Product Set |
+| Flashcards | — | Included | Included in Complete Printed Product Set |
+| Planner | — | Included | Included in Complete Printed Product Set |
+| Journal | — | Included | Included in Complete Printed Product Set |
+| Expanded 250-Question Practice Bank | — | Included | Included |
+| Timed Testing | — | Included | Included |
+| Grading and Scoring | — | Included | Included |
+| Performance Review | — | Included | Included |
+| Complete Printed Product Set | — | — | Included |
+| 500 Additional Questions Per Applicable Module | — | — | Included |
+| Academic and Review Advisement | — | — | Included |
+| Mentorship | — | — | Included |
+| Study Sessions | — | — | 5 |
+| Live Review Sessions | — | — | 5 |
+| Coaching Sessions | — | — | 5 |
 
 ## BASIC BAR REVIEW — $500
 
@@ -707,6 +768,19 @@ Supports applicable General Education coursework.
 
 Each individual major receives its own applicable **Year 3 Major Collection**, organized by school and major.
 
+### CERTIFICATION REVIEW COLLECTION
+
+A representative Certification Review Collection may include:
+
+- Certification Textbook or Textbooks
+- Workbook
+- Journal
+- Study Guide
+- Review Guide
+- Flashcards
+- Planner
+- LMS Certification Review
+
 ### YEAR 4 + CAPSTONE COLLECTIONS
 
 - Bachelor’s and Year 4 Collection
@@ -717,6 +791,16 @@ Each individual major receives its own applicable **Year 3 Major Collection**, o
 - Master’s Capstone Collection
 - MBA Collection
 - MBA Capstone Collection
+
+The Year 4, Master’s, and MBA examples each retain their own level-specific Capstone Collection.
+
+### HIGH SCHOOL DIPLOMA COLLECTION
+
+A representative High School Diploma Collection shows the physical and digital learning products associated with the secondary-education pathway.
+
+### GED + HISET COLLECTION
+
+A representative GED + HiSET Preparation Collection shows the applicable preparation products and digital learning environment.
 
 Applicable multidisciplinary and integrated Business, Technology, Homeland Security, Law, and MBA components are incorporated into the appropriate collection.
 
