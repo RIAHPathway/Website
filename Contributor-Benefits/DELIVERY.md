@@ -1,6 +1,79 @@
+---
+document_type: contributor-benefit-framework
+track: "Delivery Ambassador"
+status: "In Progress — Review and Finalization Required"
+benefit_system: "RIAH Pathway"
+flow_status: "draft-review"
+---
+
 # 📦 Delivery Ambassadors
 
 **Status: In Progress — Review and Finalization Required**
+
+## 📦 Category Key
+
+| Emoji | Meaning |
+|---|---|
+| 📦 | Delivery Ambassador |
+| 👑 | Approved eligibility or contribution |
+| ⭐ | Approved points |
+| 🏆 | Completed milestone |
+| 🎓 | Tuition benefit |
+| 🛍️ | Product benefit |
+| 🔗 | QR, referral, routing or attribution |
+| 🎪 | Event, workshop or outreach |
+| 🎥 | Webinar, presentation, video or media |
+| 👀 | Under review |
+| 🔄 | Revision or re-verification |
+| ✅ | Approved or verified |
+| ❌ | Rejected or ineligible |
+
+## 📦 End-to-End Category Flow
+
+```mermaid
+flowchart TB
+A["📦 Delivery Ambassador"] --> B["👑 Eligibility, Orientation & Marketing Training"]
+B --> C["🚘 Approved Vehicle Vinyl / QR Display"]
+C --> D["📄 Approved Brochures, Information Cards & Marketing Kit"]
+D --> E["🎪 Community Event, Booth, Webinar or Outreach"]
+E --> F["🔗 Assigned QR Code / Referral Link"]
+F --> G["👤 Voluntary Prospect Engagement"]
+G --> H{"🎯 Verified Outcome?"}
+H --> I["🔗 Qualified Referral +10"]
+H --> J["🎥 Webinar Attendance +15"]
+H --> K["📝 Application +25"]
+H --> L["🎓+ Enrollment +100"]
+H --> M["🛒 Product Purchase +25"]
+I --> N["📋 Verification & Activity Ledger"]
+J --> N
+K --> N
+L --> N
+M --> N
+N --> O["⭐ Approved Points"]
+O --> P{"🏆 Complete 100-Point Milestone?"}
+P -- No --> Q["⭐ Carry Points Forward"]
+P -- Yes --> R["🎓 +1% Tuition & 🛍️ +1% Products"]
+R --> S{"👑 2,500 Points?"}
+S -- No --> C
+S -- Yes --> T["👑🏆 25% Tuition + 25% Products Maximum"]
+```
+
+## ⚙️ Flow Metadata
+
+```yaml
+track: "Delivery Ambassador"
+profile_category: "Delivery Ambassador"
+status: "in-progress"
+verification_required: true
+points_require_approval: true
+benefit_record_required: true
+review_state:
+  - pending
+  - under-review
+  - revision-if-required
+  - approved
+  - credited
+```
 
 Delivery Ambassadors may participate through approved vehicle vinyl, vehicle QR codes, referral links, brochures, information cards, community events, information booths, webinars, marketing campaigns, qualified referrals, student conversions, product conversions, community outreach and approved organizational introductions.
 
