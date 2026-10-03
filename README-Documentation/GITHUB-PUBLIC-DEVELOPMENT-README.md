@@ -138,16 +138,23 @@ This allows a contributor to work on one specific deliverable without having to 
 
 A contributor could independently complete:
 
-```yaml
-flow:
-  step_1: "Wireframe Text"
-  step_2: "Black-and-White Wireframe"
-  step_3: "Designed Wireframe"
-  step_4: "Images"
-  step_5: "Video"
-  step_6: "Documents"
-  step_7: "Development"
-  step_8: "Testing"
+```mermaid
+flowchart LR
+N1["Wireframe Text"]
+N2["Black-and-White Wireframe"]
+N3["Designed Wireframe"]
+N4["Images"]
+N5["Video"]
+N6["Documents"]
+N7["Development"]
+N8["Testing"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+N4 --> N5
+N5 --> N6
+N6 --> N7
+N7 --> N8
 ```
 
 ## 03. 🎥 VIDEO
@@ -483,17 +490,25 @@ The project can track work across:
 
 Project status:
 
-```yaml
-flow:
-  step_1: "💡 Idea"
-  step_2: "📋 Planned"
-  step_3: "🟢 Ready"
-  step_4: "🚧 In Progress"
-  step_5: "👀 Review"
-  step_6: "🧪 Testing"
-  step_7: "🔄 Changes Requested"
-  step_8: "✅ Approved"
-  step_9: "📦 Released"
+```mermaid
+flowchart LR
+N1["💡 Idea"]
+N2["📋 Planned"]
+N3["🟢 Ready"]
+N4["🚧 In Progress"]
+N5["👀 Review"]
+N6["🧪 Testing"]
+N7["🔄 Changes Requested"]
+N8["✅ Approved"]
+N9["📦 Released"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+N4 --> N5
+N5 --> N6
+N6 --> N7
+N7 --> N8
+N8 --> N9
 ```
 
 ## 18. 🏷️ GITHUB PROJECT FIELDS
@@ -721,18 +736,27 @@ RIAH determines whether a proposed change is feasible and whether it should be i
 
 ## XLVIII. 🔀 PULL REQUEST WORKFLOW
 
-```yaml
-flow:
-  step_1: "Issue"
-  step_2: "Assignment"
-  step_3: "Branch or Fork"
-  step_4: "Development"
-  step_5: "Pull Request"
-  step_6: "Review"
-  step_7: "Testing"
-  step_8: "Changes if Required"
-  step_9: "Approval"
-  step_10: "Merge"
+```mermaid
+flowchart LR
+N1["Issue"]
+N2["Assignment"]
+N3["Branch or Fork"]
+N4["Development"]
+N5["Pull Request"]
+N6["Review"]
+N7["Testing"]
+N8["Changes if Required"]
+N9["Approval"]
+N10["Merge"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+N4 --> N5
+N5 --> N6
+N6 --> N7
+N7 --> N8
+N8 --> N9
+N9 --> N10
 ```
 
 Pull requests should identify what was changed, why it was changed, applicable issue, testing performed, screenshots where relevant, responsive behavior where relevant, accessibility considerations where relevant, and affected website page or ecosystem component.
