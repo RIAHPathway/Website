@@ -30,6 +30,8 @@ flow_status: "draft-review"
 
 ## 💻 End-to-End Category Flow
 
+### 🔹 Mermaid Flow — Part 1
+
 ```mermaid
 flowchart TB
 A["💻 GitHub Contributor"] --> B["👑 Confirm Eligibility & Approved Public Scope"]
@@ -41,6 +43,13 @@ F --> G["👀 Maintainer Review"]
 G --> H{"🔄 Revision Required?"}
 H -- Yes --> I["🔄 Revise & Resubmit"]
 I --> G
+```
+
+### 🔹 Mermaid Flow — Part 2
+
+```mermaid
+flowchart TB
+H{"🔄 Revision Required?"}
 H -- No --> J["✅ Accepted, Merged or Formally Verified"]
 J --> K["⭐ Assign 5–250 Points Based on Accepted Value"]
 K --> L["📋 Add to Contributor Ledger"]
