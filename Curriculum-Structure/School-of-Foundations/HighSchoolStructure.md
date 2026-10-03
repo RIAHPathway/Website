@@ -22,27 +22,47 @@
 | 🟪 | Tennessee |
 | 🟧 | Virginia |
 
-State emojis identify state-specific curriculum components within applicable courses.
+| Content |
+| --- |
+| State emojis identify state-specific curriculum components within applicable courses. |
 
-**1 RIAH Course = 3 RIAH Credit Hours**
+| Content |
+| --- |
+| **1 RIAH Course = 3 RIAH Credit Hours** |
 
-**5 Courses Per Semester = 15 Credit Hours**
+| Content |
+| --- |
+| **5 Courses Per Semester = 15 Credit Hours** |
 
-**2 Semesters Per Academic Year = 30 Credit Hours**
+| Content |
+| --- |
+| **2 Semesters Per Academic Year = 30 Credit Hours** |
 
-**4 Academic Years = 120 RIAH Credit Hours**
+| Content |
+| --- |
+| **4 Academic Years = 120 RIAH Credit Hours** |
 
-**40 Fixed Courses = 120 RIAH Credit Hours**
+| Content |
+| --- |
+| **40 Fixed Courses = 120 RIAH Credit Hours** |
 
-**No unspecified electives.**
+| Content |
+| --- |
+| **No unspecified electives.** |
 
----
+| Content |
+| --- |
+| --- |
 
 # HIGH SCHOOL INSTRUCTIONAL SOFTWARE / CURRICULUM CONTENT LAYER
 
-**Edmentum is the primary instructional software and curriculum-content ecosystem for the RIAH Pathway High School Diploma curriculum.**
+| Content |
+| --- |
+| **Edmentum is the primary instructional software and curriculum-content ecosystem for the RIAH Pathway High School Diploma curriculum.** |
 
-RIAH Pathway retains and controls its own curriculum. Edmentum instructional content/courseware is mapped into the applicable RIAH courses, and RIAH may supplement, expand, reorganize, or add curriculum content, assignments, OA, PA, state components, and other course requirements.
+| Content |
+| --- |
+| RIAH Pathway retains and controls its own curriculum. Edmentum instructional content/courseware is mapped into the applicable RIAH courses, and RIAH may supplement, expand, reorganize, or add curriculum content, assignments, OA, PA, state components, and other course requirements. |
 
 | RIAH Course | Course Name | Edmentum |
 | --- | --- | --- |
@@ -87,59 +107,73 @@ RIAH Pathway retains and controls its own curriculum. Edmentum instructional con
 | **PSY 4101** | Psychology | **✓** |
 | **COM 4101** | Oral Communication | **✓** |
 
-**✓ = Edmentum provides applicable instructional content/courseware mapped into the RIAH course. RIAH curriculum remains controlling for every course.**
+| Content |
+| --- |
+| **✓ = Edmentum provides applicable instructional content/courseware mapped into the RIAH course. RIAH curriculum remains controlling for every course.** |
 
----
+| Content |
+| --- |
+| --- |
 
 # SCIENCE SEQUENCE
 
-```text
-Geology
-    ↓
-Astronomy
-    ↓
-Earth Science
-    ↓
-Environmental Science
-    ↓
-Biology
-    ↓
-Chemistry
-    ↓
-Anatomy
-    ↓
-Physiology
-    ↓
-Physics
-```
+| Content |
+| --- |
+| ```text |
+| Geology |
+|     ↓ |
+| Astronomy |
+|     ↓ |
+| Earth Science |
+|     ↓ |
+| Environmental Science |
+|     ↓ |
+| Biology |
+|     ↓ |
+| Chemistry |
+|     ↓ |
+| Anatomy |
+|     ↓ |
+| Physiology |
+|     ↓ |
+| Physics |
+| ``` |
 
----
+| Content |
+| --- |
+| --- |
 
 # HISTORY / SOCIAL SCIENCE SEQUENCE
 
-```text
-World Geography
-    ↓
-World History
-    ↓
-Holocaust & Genocide Studies
-    ↓
-Government
-    ↓
-American History
-    ↓
-State History
-    ↓
-Economics
-    ↓
-Sociology
-    ↓
-Psychology
-```
+| Content |
+| --- |
+| ```text |
+| World Geography |
+|     ↓ |
+| World History |
+|     ↓ |
+| Holocaust & Genocide Studies |
+|     ↓ |
+| Government |
+|     ↓ |
+| American History |
+|     ↓ |
+| State History |
+|     ↓ |
+| Economics |
+|     ↓ |
+| Sociology |
+|     ↓ |
+| Psychology |
+| ``` |
 
-**Ethnic Studies — Fixed Additional Social Studies Course**
+| Content |
+| --- |
+| **Ethnic Studies — Fixed Additional Social Studies Course** |
 
----
+| Content |
+| --- |
+| --- |
 
 # GRADE 9 — FRESHMAN YEAR
 
@@ -167,27 +201,31 @@ Psychology
 
 ### Grade 9 Total: **30 Credit Hours**
 
-```text
-GRADE 9
-        ↓
-English I / Composition I
-Algebra I
-Geology
-World Geography
-Digital Literacy
-        ↓
-English II / Composition II
-Geometry
-Astronomy
-World History
-Health
-        ↓
-30 CREDITS
-        ↓
-GRADE 10
-```
+| Content |
+| --- |
+| ```text |
+| GRADE 9 |
+|         ↓ |
+| English I / Composition I |
+| Algebra I |
+| Geology |
+| World Geography |
+| Digital Literacy |
+|         ↓ |
+| English II / Composition II |
+| Geometry |
+| Astronomy |
+| World History |
+| Health |
+|         ↓ |
+| 30 CREDITS |
+|         ↓ |
+| GRADE 10 |
+| ``` |
 
----
+| Content |
+| --- |
+| --- |
 
 # GRADE 10 — SOPHOMORE YEAR
 
@@ -215,27 +253,31 @@ GRADE 10
 
 ### Grade 10 Total: **30 Credit Hours**
 
-```text
-GRADE 10
-        ↓
-English III / American Literature
-Algebra II
-Earth Science
-Holocaust & Genocide Studies
-Physical Education
-        ↓
-English IV / World Literature
-Trigonometry
-Environmental Science
-Government
-Fine Arts
-        ↓
-30 CREDITS
-        ↓
-GRADE 11
-```
+| Content |
+| --- |
+| ```text |
+| GRADE 10 |
+|         ↓ |
+| English III / American Literature |
+| Algebra II |
+| Earth Science |
+| Holocaust & Genocide Studies |
+| Physical Education |
+|         ↓ |
+| English IV / World Literature |
+| Trigonometry |
+| Environmental Science |
+| Government |
+| Fine Arts |
+|         ↓ |
+| 30 CREDITS |
+|         ↓ |
+| GRADE 11 |
+| ``` |
 
----
+| Content |
+| --- |
+| --- |
 
 # GRADE 11 — JUNIOR YEAR
 
@@ -265,32 +307,38 @@ GRADE 11
 
 ### Concurrent Enrollment
 
-Eligible Grade 11 students may begin applicable RIAH Pathway General Education coursework concurrently with the high-school curriculum.
+| Content |
+| --- |
+| Eligible Grade 11 students may begin applicable RIAH Pathway General Education coursework concurrently with the high-school curriculum. |
 
-```text
-GRADE 11
-        ↓
-Precalculus
-Biology
-American History
-Financial Literacy
-World Language I
-        ↓
-Calculus
-Chemistry
-State History
-World Language II
-Personal Finance
-        ↓
-30 CREDITS
-        +
-CONCURRENT ENROLLMENT
-WHERE APPLICABLE
-        ↓
-GRADE 12
-```
+| Content |
+| --- |
+| ```text |
+| GRADE 11 |
+|         ↓ |
+| Precalculus |
+| Biology |
+| American History |
+| Financial Literacy |
+| World Language I |
+|         ↓ |
+| Calculus |
+| Chemistry |
+| State History |
+| World Language II |
+| Personal Finance |
+|         ↓ |
+| 30 CREDITS |
+|         + |
+| CONCURRENT ENROLLMENT |
+| WHERE APPLICABLE |
+|         ↓ |
+| GRADE 12 |
+| ``` |
 
----
+| Content |
+| --- |
+| --- |
 
 # GRADE 12 — SENIOR YEAR
 
@@ -332,33 +380,37 @@ GRADE 12
 
 ### Grade 12 Total: **30 Credit Hours**
 
-```text
-GRADE 12
-        ↓
-Statistics
-Anatomy
-Economics
-Computer Science
-Ethnic Studies
-        ↓
-Physiology
-Physics
-Sociology
-Psychology
-Oral Communication
-        ↓
-30 CREDITS
-        ↓
-STATE-SPECIFIC
-GRADUATION CONTROLS
-        ↓
-GRADUATION AUDIT
-        ↓
-RIAH PATHWAY
-HIGH SCHOOL DIPLOMA
-```
+| Content |
+| --- |
+| ```text |
+| GRADE 12 |
+|         ↓ |
+| Statistics |
+| Anatomy |
+| Economics |
+| Computer Science |
+| Ethnic Studies |
+|         ↓ |
+| Physiology |
+| Physics |
+| Sociology |
+| Psychology |
+| Oral Communication |
+|         ↓ |
+| 30 CREDITS |
+|         ↓ |
+| STATE-SPECIFIC |
+| GRADUATION CONTROLS |
+|         ↓ |
+| GRADUATION AUDIT |
+|         ↓ |
+| RIAH PATHWAY |
+| HIGH SCHOOL DIPLOMA |
+| ``` |
 
----
+| Content |
+| --- |
+| --- |
 
 # FOUR-YEAR FIXED CREDIT STRUCTURE
 
@@ -370,115 +422,141 @@ HIGH SCHOOL DIPLOMA
 | **Grade 12** | 5 | 15 | 5 | 15 | **30** |
 | **TOTAL** | **20** | **60** | **20** | **60** | **120** |
 
-**40 Fixed Courses**
+| Content |
+| --- |
+| **40 Fixed Courses** |
 
-**120 RIAH Credit Hours**
+| Content |
+| --- |
+| **120 RIAH Credit Hours** |
 
-**No unspecified electives**
+| Content |
+| --- |
+| **No unspecified electives** |
 
-**No Senior Capstone in the current high-school curriculum**
+| Content |
+| --- |
+| **No Senior Capstone in the current high-school curriculum** |
 
----
+| Content |
+| --- |
+| --- |
 
 # SUBJECT SEQUENCES
 
 ## English
 
-```text
-ENG 1101 — English I / Composition I
-        ↓
-ENG 1102 — English II / Composition II
-        ↓
-ENG 2101 — English III / American Literature
-        ↓
-ENG 2102 — English IV / World Literature
-```
+| Content |
+| --- |
+| ```text |
+| ENG 1101 — English I / Composition I |
+|         ↓ |
+| ENG 1102 — English II / Composition II |
+|         ↓ |
+| ENG 2101 — English III / American Literature |
+|         ↓ |
+| ENG 2102 — English IV / World Literature |
+| ``` |
 
 ## Mathematics
 
-```text
-MAT 1101 — Algebra I
-        ↓
-MAT 1102 — Geometry
-        ↓
-MAT 2101 — Algebra II
-        ↓
-MAT 2102 — Trigonometry
-        ↓
-MAT 3101 — Precalculus
-        ↓
-MAT 3102 — Calculus
-        ↓
-MAT 4101 — Statistics
-```
+| Content |
+| --- |
+| ```text |
+| MAT 1101 — Algebra I |
+|         ↓ |
+| MAT 1102 — Geometry |
+|         ↓ |
+| MAT 2101 — Algebra II |
+|         ↓ |
+| MAT 2102 — Trigonometry |
+|         ↓ |
+| MAT 3101 — Precalculus |
+|         ↓ |
+| MAT 3102 — Calculus |
+|         ↓ |
+| MAT 4101 — Statistics |
+| ``` |
 
 ## Science
 
-```text
-SCI 1101 — Geology
-        ↓
-SCI 1102 — Astronomy
-        ↓
-SCI 2101 — Earth Science
-        ↓
-SCI 2102 — Environmental Science
-        ↓
-SCI 3101 — Biology
-        ↓
-SCI 3102 — Chemistry
-        ↓
-SCI 4101 — Anatomy
-        ↓
-SCI 4102 — Physiology
-        ↓
-SCI 4103 — Physics
-```
+| Content |
+| --- |
+| ```text |
+| SCI 1101 — Geology |
+|         ↓ |
+| SCI 1102 — Astronomy |
+|         ↓ |
+| SCI 2101 — Earth Science |
+|         ↓ |
+| SCI 2102 — Environmental Science |
+|         ↓ |
+| SCI 3101 — Biology |
+|         ↓ |
+| SCI 3102 — Chemistry |
+|         ↓ |
+| SCI 4101 — Anatomy |
+|         ↓ |
+| SCI 4102 — Physiology |
+|         ↓ |
+| SCI 4103 — Physics |
+| ``` |
 
 ## History / Social Sciences
 
-```text
-GEO 1101 — World Geography
-        ↓
-HIS 1101 — World History
-        ↓
-HIS 2101 — Holocaust & Genocide Studies
-        ↓
-GOV 2101 — Government
-        ↓
-HIS 3101 — American History
-        ↓
-HIS 3102 — State History
-        ↓
-ECO 4101 — Economics
-        ↓
-SOC 4101 — Sociology
-        ↓
-PSY 4101 — Psychology
-```
+| Content |
+| --- |
+| ```text |
+| GEO 1101 — World Geography |
+|         ↓ |
+| HIS 1101 — World History |
+|         ↓ |
+| HIS 2101 — Holocaust & Genocide Studies |
+|         ↓ |
+| GOV 2101 — Government |
+|         ↓ |
+| HIS 3101 — American History |
+|         ↓ |
+| HIS 3102 — State History |
+|         ↓ |
+| ECO 4101 — Economics |
+|         ↓ |
+| SOC 4101 — Sociology |
+|         ↓ |
+| PSY 4101 — Psychology |
+| ``` |
 
 ## Additional Social Studies
 
-```text
-ETH 4101 — Ethnic Studies
-```
+| Content |
+| --- |
+| ```text |
+| ETH 4101 — Ethnic Studies |
+| ``` |
 
 ## Financial Education
 
-```text
-FIN 3101 — Financial Literacy
-        ↓
-PFI 3101 — Personal Finance
-```
+| Content |
+| --- |
+| ```text |
+| FIN 3101 — Financial Literacy |
+|         ↓ |
+| PFI 3101 — Personal Finance |
+| ``` |
 
 ## Technology
 
-```text
-TEC 1101 — Digital Literacy
-        ↓
-CSC 4101 — Computer Science
-```
+| Content |
+| --- |
+| ```text |
+| TEC 1101 — Digital Literacy |
+|         ↓ |
+| CSC 4101 — Computer Science |
+| ``` |
 
----
+| Content |
+| --- |
+| --- |
 
 # STATE-COMPONENT COURSE MAP
 
@@ -505,7 +583,9 @@ CSC 4101 — Computer Science
 | 🔻 | Arizona | GOV 2101 | Applicable Arizona government/civics content is mapped into Government. |
 | 🟦 | Connecticut | HLT 1101 | Applicable Connecticut health/safety content is mapped into Health. |
 
----
+| Content |
+| --- |
+| --- |
 
 # HIGH SCHOOL DIPLOMA AVAILABILITY
 
@@ -514,93 +594,97 @@ CSC 4101 — Computer Science
 | **Virtual Only — RIAH High School Diploma Offered** | Alabama, Alaska, Arizona, Arkansas, California, Connecticut, Delaware, Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin, Wyoming |
 | **Physical / Hybrid — RIAH High School Diploma Not Offered Under Current Virtual-Only Model** | District of Columbia, Maine, Maryland, Massachusetts, Pennsylvania, Rhode Island, Washington, Hawaii |
 
----
+| Content |
+| --- |
+| --- |
 
 # COMPLETE FOUR-YEAR FLOW
 
-```text
-RIAH PATHWAY
-SECONDARY SCHOOL
-        ↓
-VIRTUAL-ONLY
-DELIVERY MODEL
-        ↓
-GRADE 9
-30 CREDITS
-        ↓
-English I / Composition I
-Algebra I
-Geology
-World Geography
-Digital Literacy
-        ↓
-English II / Composition II
-Geometry
-Astronomy
-World History
-Health
-        ↓
-GRADE 10
-30 CREDITS
-        ↓
-English III / American Literature
-Algebra II
-Earth Science
-Holocaust & Genocide Studies
-Physical Education
-        ↓
-English IV / World Literature
-Trigonometry
-Environmental Science
-Government
-Fine Arts
-        ↓
-GRADE 11
-30 CREDITS
-        ↓
-Precalculus
-Biology
-American History
-Financial Literacy
-World Language I
-        ↓
-Calculus
-Chemistry
-State History
-World Language II
-Personal Finance
-        ↓
-GRADE 12
-30 CREDITS
-        ↓
-Statistics
-Anatomy
-Economics
-Computer Science
-Ethnic Studies
-        ↓
-Physiology
-Physics
-Sociology
-Psychology
-Oral Communication
-        ↓
-40 FIXED COURSES
-        ↓
-120 RIAH CREDIT HOURS
-        ↓
-STATE CURRICULUM
-COMPONENTS
-        ↓
-STATE-SPECIFIC
-GRADUATION CONTROLS
-WHERE APPLICABLE
-        ↓
-GRADUATION AUDIT
-        ↓
-RIAH PATHWAY
-HIGH SCHOOL DIPLOMA
-```# RIAH PATHWAY SECONDARY SCHOOL
+| Content |
+| --- |
+| ```text |
+| RIAH PATHWAY |
+| SECONDARY SCHOOL |
+|         ↓ |
+| VIRTUAL-ONLY |
+| DELIVERY MODEL |
+|         ↓ |
+| GRADE 9 |
+| 30 CREDITS |
+|         ↓ |
+| English I / Composition I |
+| Algebra I |
+| Geology |
+| World Geography |
+| Digital Literacy |
+|         ↓ |
+| English II / Composition II |
+| Geometry |
+| Astronomy |
+| World History |
+| Health |
+|         ↓ |
+| GRADE 10 |
+| 30 CREDITS |
+|         ↓ |
+| English III / American Literature |
+| Algebra II |
+| Earth Science |
+| Holocaust & Genocide Studies |
+| Physical Education |
+|         ↓ |
+| English IV / World Literature |
+| Trigonometry |
+| Environmental Science |
+| Government |
+| Fine Arts |
+|         ↓ |
+| GRADE 11 |
+| 30 CREDITS |
+|         ↓ |
+| Precalculus |
+| Biology |
+| American History |
+| Financial Literacy |
+| World Language I |
+|         ↓ |
+| Calculus |
+| Chemistry |
+| State History |
+| World Language II |
+| Personal Finance |
+|         ↓ |
+| GRADE 12 |
+| 30 CREDITS |
+|         ↓ |
+| Statistics |
+| Anatomy |
+| Economics |
+| Computer Science |
+| Ethnic Studies |
+|         ↓ |
+| Physiology |
+| Physics |
+| Sociology |
+| Psychology |
+| Oral Communication |
+|         ↓ |
+| 40 FIXED COURSES |
+|         ↓ |
+| 120 RIAH CREDIT HOURS |
+|         ↓ |
+| STATE CURRICULUM |
+| COMPONENTS |
+|         ↓ |
+| STATE-SPECIFIC |
+| GRADUATION CONTROLS |
+| WHERE APPLICABLE |
+|         ↓ |
+| GRADUATION AUDIT |
+|         ↓ |
+| RIAH PATHWAY |
+| HIGH SCHOOL DIPLOMA |
+| ```# RIAH PATHWAY SECONDARY SCHOOL |
 # FOUR-YEAR HIGH SCHOOL DIPLOMA CURRICULUM
 
 ## State-Component Emoji Key
@@ -624,71 +708,97 @@ HIGH SCHOOL DIPLOMA
 | 🟪 | Tennessee |
 | 🟧 | Virginia |
 
-State emojis identify state-specific curriculum components within applicable courses.
+| Content |
+| --- |
+| State emojis identify state-specific curriculum components within applicable courses. |
 
-**1 RIAH Course = 3 RIAH Credit Hours**
+| Content |
+| --- |
+| **1 RIAH Course = 3 RIAH Credit Hours** |
 
-**5 Courses Per Semester = 15 Credit Hours**
+| Content |
+| --- |
+| **5 Courses Per Semester = 15 Credit Hours** |
 
-**2 Semesters Per Academic Year = 30 Credit Hours**
+| Content |
+| --- |
+| **2 Semesters Per Academic Year = 30 Credit Hours** |
 
-**4 Academic Years = 120 RIAH Credit Hours**
+| Content |
+| --- |
+| **4 Academic Years = 120 RIAH Credit Hours** |
 
-**40 Fixed Courses = 120 RIAH Credit Hours**
+| Content |
+| --- |
+| **40 Fixed Courses = 120 RIAH Credit Hours** |
 
-**No unspecified electives.**
+| Content |
+| --- |
+| **No unspecified electives.** |
 
----
+| Content |
+| --- |
+| --- |
 
 # SCIENCE SEQUENCE
 
-```text
-Geology
-    ↓
-Astronomy
-    ↓
-Earth Science
-    ↓
-Environmental Science
-    ↓
-Biology
-    ↓
-Chemistry
-    ↓
-Anatomy
-    ↓
-Physiology
-    ↓
-Physics
-```
+| Content |
+| --- |
+| ```text |
+| Geology |
+|     ↓ |
+| Astronomy |
+|     ↓ |
+| Earth Science |
+|     ↓ |
+| Environmental Science |
+|     ↓ |
+| Biology |
+|     ↓ |
+| Chemistry |
+|     ↓ |
+| Anatomy |
+|     ↓ |
+| Physiology |
+|     ↓ |
+| Physics |
+| ``` |
 
----
+| Content |
+| --- |
+| --- |
 
 # HISTORY / SOCIAL SCIENCE SEQUENCE
 
-```text
-World Geography
-    ↓
-World History
-    ↓
-Holocaust & Genocide Studies
-    ↓
-Government
-    ↓
-American History
-    ↓
-State History
-    ↓
-Economics
-    ↓
-Sociology
-    ↓
-Psychology
-```
+| Content |
+| --- |
+| ```text |
+| World Geography |
+|     ↓ |
+| World History |
+|     ↓ |
+| Holocaust & Genocide Studies |
+|     ↓ |
+| Government |
+|     ↓ |
+| American History |
+|     ↓ |
+| State History |
+|     ↓ |
+| Economics |
+|     ↓ |
+| Sociology |
+|     ↓ |
+| Psychology |
+| ``` |
 
-**Ethnic Studies — Fixed Additional Social Studies Course**
+| Content |
+| --- |
+| **Ethnic Studies — Fixed Additional Social Studies Course** |
 
----
+| Content |
+| --- |
+| --- |
 
 # GRADE 9 — FRESHMAN YEAR
 
@@ -716,27 +826,31 @@ Psychology
 
 ### Grade 9 Total: **30 Credit Hours**
 
-```text
-GRADE 9
-        ↓
-English I / Composition I
-Algebra I
-Geology
-World Geography
-Digital Literacy
-        ↓
-English II / Composition II
-Geometry
-Astronomy
-World History
-Health
-        ↓
-30 CREDITS
-        ↓
-GRADE 10
-```
+| Content |
+| --- |
+| ```text |
+| GRADE 9 |
+|         ↓ |
+| English I / Composition I |
+| Algebra I |
+| Geology |
+| World Geography |
+| Digital Literacy |
+|         ↓ |
+| English II / Composition II |
+| Geometry |
+| Astronomy |
+| World History |
+| Health |
+|         ↓ |
+| 30 CREDITS |
+|         ↓ |
+| GRADE 10 |
+| ``` |
 
----
+| Content |
+| --- |
+| --- |
 
 # GRADE 10 — SOPHOMORE YEAR
 
@@ -764,27 +878,31 @@ GRADE 10
 
 ### Grade 10 Total: **30 Credit Hours**
 
-```text
-GRADE 10
-        ↓
-English III / American Literature
-Algebra II
-Earth Science
-Holocaust & Genocide Studies
-Physical Education
-        ↓
-English IV / World Literature
-Trigonometry
-Environmental Science
-Government
-Fine Arts
-        ↓
-30 CREDITS
-        ↓
-GRADE 11
-```
+| Content |
+| --- |
+| ```text |
+| GRADE 10 |
+|         ↓ |
+| English III / American Literature |
+| Algebra II |
+| Earth Science |
+| Holocaust & Genocide Studies |
+| Physical Education |
+|         ↓ |
+| English IV / World Literature |
+| Trigonometry |
+| Environmental Science |
+| Government |
+| Fine Arts |
+|         ↓ |
+| 30 CREDITS |
+|         ↓ |
+| GRADE 11 |
+| ``` |
 
----
+| Content |
+| --- |
+| --- |
 
 # GRADE 11 — JUNIOR YEAR
 
@@ -814,32 +932,38 @@ GRADE 11
 
 ### Concurrent Enrollment
 
-Eligible Grade 11 students may begin applicable RIAH Pathway General Education coursework concurrently with the high-school curriculum.
+| Content |
+| --- |
+| Eligible Grade 11 students may begin applicable RIAH Pathway General Education coursework concurrently with the high-school curriculum. |
 
-```text
-GRADE 11
-        ↓
-Precalculus
-Biology
-American History
-Financial Literacy
-World Language I
-        ↓
-Calculus
-Chemistry
-State History
-World Language II
-Personal Finance
-        ↓
-30 CREDITS
-        +
-CONCURRENT ENROLLMENT
-WHERE APPLICABLE
-        ↓
-GRADE 12
-```
+| Content |
+| --- |
+| ```text |
+| GRADE 11 |
+|         ↓ |
+| Precalculus |
+| Biology |
+| American History |
+| Financial Literacy |
+| World Language I |
+|         ↓ |
+| Calculus |
+| Chemistry |
+| State History |
+| World Language II |
+| Personal Finance |
+|         ↓ |
+| 30 CREDITS |
+|         + |
+| CONCURRENT ENROLLMENT |
+| WHERE APPLICABLE |
+|         ↓ |
+| GRADE 12 |
+| ``` |
 
----
+| Content |
+| --- |
+| --- |
 
 # GRADE 12 — SENIOR YEAR
 
@@ -881,33 +1005,37 @@ GRADE 12
 
 ### Grade 12 Total: **30 Credit Hours**
 
-```text
-GRADE 12
-        ↓
-Statistics
-Anatomy
-Economics
-Computer Science
-Ethnic Studies
-        ↓
-Physiology
-Physics
-Sociology
-Psychology
-Oral Communication
-        ↓
-30 CREDITS
-        ↓
-STATE-SPECIFIC
-GRADUATION CONTROLS
-        ↓
-GRADUATION AUDIT
-        ↓
-RIAH PATHWAY
-HIGH SCHOOL DIPLOMA
-```
+| Content |
+| --- |
+| ```text |
+| GRADE 12 |
+|         ↓ |
+| Statistics |
+| Anatomy |
+| Economics |
+| Computer Science |
+| Ethnic Studies |
+|         ↓ |
+| Physiology |
+| Physics |
+| Sociology |
+| Psychology |
+| Oral Communication |
+|         ↓ |
+| 30 CREDITS |
+|         ↓ |
+| STATE-SPECIFIC |
+| GRADUATION CONTROLS |
+|         ↓ |
+| GRADUATION AUDIT |
+|         ↓ |
+| RIAH PATHWAY |
+| HIGH SCHOOL DIPLOMA |
+| ``` |
 
----
+| Content |
+| --- |
+| --- |
 
 # FOUR-YEAR FIXED CREDIT STRUCTURE
 
@@ -919,115 +1047,141 @@ HIGH SCHOOL DIPLOMA
 | **Grade 12** | 5 | 15 | 5 | 15 | **30** |
 | **TOTAL** | **20** | **60** | **20** | **60** | **120** |
 
-**40 Fixed Courses**
+| Content |
+| --- |
+| **40 Fixed Courses** |
 
-**120 RIAH Credit Hours**
+| Content |
+| --- |
+| **120 RIAH Credit Hours** |
 
-**No unspecified electives**
+| Content |
+| --- |
+| **No unspecified electives** |
 
-**No Senior Capstone in the current high-school curriculum**
+| Content |
+| --- |
+| **No Senior Capstone in the current high-school curriculum** |
 
----
+| Content |
+| --- |
+| --- |
 
 # SUBJECT SEQUENCES
 
 ## English
 
-```text
-ENG 1101 — English I / Composition I
-        ↓
-ENG 1102 — English II / Composition II
-        ↓
-ENG 2101 — English III / American Literature
-        ↓
-ENG 2102 — English IV / World Literature
-```
+| Content |
+| --- |
+| ```text |
+| ENG 1101 — English I / Composition I |
+|         ↓ |
+| ENG 1102 — English II / Composition II |
+|         ↓ |
+| ENG 2101 — English III / American Literature |
+|         ↓ |
+| ENG 2102 — English IV / World Literature |
+| ``` |
 
 ## Mathematics
 
-```text
-MAT 1101 — Algebra I
-        ↓
-MAT 1102 — Geometry
-        ↓
-MAT 2101 — Algebra II
-        ↓
-MAT 2102 — Trigonometry
-        ↓
-MAT 3101 — Precalculus
-        ↓
-MAT 3102 — Calculus
-        ↓
-MAT 4101 — Statistics
-```
+| Content |
+| --- |
+| ```text |
+| MAT 1101 — Algebra I |
+|         ↓ |
+| MAT 1102 — Geometry |
+|         ↓ |
+| MAT 2101 — Algebra II |
+|         ↓ |
+| MAT 2102 — Trigonometry |
+|         ↓ |
+| MAT 3101 — Precalculus |
+|         ↓ |
+| MAT 3102 — Calculus |
+|         ↓ |
+| MAT 4101 — Statistics |
+| ``` |
 
 ## Science
 
-```text
-SCI 1101 — Geology
-        ↓
-SCI 1102 — Astronomy
-        ↓
-SCI 2101 — Earth Science
-        ↓
-SCI 2102 — Environmental Science
-        ↓
-SCI 3101 — Biology
-        ↓
-SCI 3102 — Chemistry
-        ↓
-SCI 4101 — Anatomy
-        ↓
-SCI 4102 — Physiology
-        ↓
-SCI 4103 — Physics
-```
+| Content |
+| --- |
+| ```text |
+| SCI 1101 — Geology |
+|         ↓ |
+| SCI 1102 — Astronomy |
+|         ↓ |
+| SCI 2101 — Earth Science |
+|         ↓ |
+| SCI 2102 — Environmental Science |
+|         ↓ |
+| SCI 3101 — Biology |
+|         ↓ |
+| SCI 3102 — Chemistry |
+|         ↓ |
+| SCI 4101 — Anatomy |
+|         ↓ |
+| SCI 4102 — Physiology |
+|         ↓ |
+| SCI 4103 — Physics |
+| ``` |
 
 ## History / Social Sciences
 
-```text
-GEO 1101 — World Geography
-        ↓
-HIS 1101 — World History
-        ↓
-HIS 2101 — Holocaust & Genocide Studies
-        ↓
-GOV 2101 — Government
-        ↓
-HIS 3101 — American History
-        ↓
-HIS 3102 — State History
-        ↓
-ECO 4101 — Economics
-        ↓
-SOC 4101 — Sociology
-        ↓
-PSY 4101 — Psychology
-```
+| Content |
+| --- |
+| ```text |
+| GEO 1101 — World Geography |
+|         ↓ |
+| HIS 1101 — World History |
+|         ↓ |
+| HIS 2101 — Holocaust & Genocide Studies |
+|         ↓ |
+| GOV 2101 — Government |
+|         ↓ |
+| HIS 3101 — American History |
+|         ↓ |
+| HIS 3102 — State History |
+|         ↓ |
+| ECO 4101 — Economics |
+|         ↓ |
+| SOC 4101 — Sociology |
+|         ↓ |
+| PSY 4101 — Psychology |
+| ``` |
 
 ## Additional Social Studies
 
-```text
-ETH 4101 — Ethnic Studies
-```
+| Content |
+| --- |
+| ```text |
+| ETH 4101 — Ethnic Studies |
+| ``` |
 
 ## Financial Education
 
-```text
-FIN 3101 — Financial Literacy
-        ↓
-PFI 3101 — Personal Finance
-```
+| Content |
+| --- |
+| ```text |
+| FIN 3101 — Financial Literacy |
+|         ↓ |
+| PFI 3101 — Personal Finance |
+| ``` |
 
 ## Technology
 
-```text
-TEC 1101 — Digital Literacy
-        ↓
-CSC 4101 — Computer Science
-```
+| Content |
+| --- |
+| ```text |
+| TEC 1101 — Digital Literacy |
+|         ↓ |
+| CSC 4101 — Computer Science |
+| ``` |
 
----
+| Content |
+| --- |
+| --- |
 
 # STATE-COMPONENT COURSE MAP
 
@@ -1054,7 +1208,9 @@ CSC 4101 — Computer Science
 | 🔻 | Arizona | GOV 2101 | Applicable Arizona government/civics content is mapped into Government. |
 | 🟦 | Connecticut | HLT 1101 | Applicable Connecticut health/safety content is mapped into Health. |
 
----
+| Content |
+| --- |
+| --- |
 
 # HIGH SCHOOL DIPLOMA AVAILABILITY
 
@@ -1063,90 +1219,94 @@ CSC 4101 — Computer Science
 | **Virtual Only — RIAH High School Diploma Offered** | Alabama, Alaska, Arizona, Arkansas, California, Connecticut, Delaware, Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin, Wyoming |
 | **Physical / Hybrid — RIAH High School Diploma Not Offered Under Current Virtual-Only Model** | District of Columbia, Maine, Maryland, Massachusetts, Pennsylvania, Rhode Island, Washington, Hawaii |
 
----
+| Content |
+| --- |
+| --- |
 
 # COMPLETE FOUR-YEAR FLOW
 
-```text
-RIAH PATHWAY
-SECONDARY SCHOOL
-        ↓
-VIRTUAL-ONLY
-DELIVERY MODEL
-        ↓
-GRADE 9
-30 CREDITS
-        ↓
-English I / Composition I
-Algebra I
-Geology
-World Geography
-Digital Literacy
-        ↓
-English II / Composition II
-Geometry
-Astronomy
-World History
-Health
-        ↓
-GRADE 10
-30 CREDITS
-        ↓
-English III / American Literature
-Algebra II
-Earth Science
-Holocaust & Genocide Studies
-Physical Education
-        ↓
-English IV / World Literature
-Trigonometry
-Environmental Science
-Government
-Fine Arts
-        ↓
-GRADE 11
-30 CREDITS
-        ↓
-Precalculus
-Biology
-American History
-Financial Literacy
-World Language I
-        ↓
-Calculus
-Chemistry
-State History
-World Language II
-Personal Finance
-        ↓
-GRADE 12
-30 CREDITS
-        ↓
-Statistics
-Anatomy
-Economics
-Computer Science
-Ethnic Studies
-        ↓
-Physiology
-Physics
-Sociology
-Psychology
-Oral Communication
-        ↓
-40 FIXED COURSES
-        ↓
-120 RIAH CREDIT HOURS
-        ↓
-STATE CURRICULUM
-COMPONENTS
-        ↓
-STATE-SPECIFIC
-GRADUATION CONTROLS
-WHERE APPLICABLE
-        ↓
-GRADUATION AUDIT
-        ↓
-RIAH PATHWAY
-HIGH SCHOOL DIPLOMA
-```
+| Content |
+| --- |
+| ```text |
+| RIAH PATHWAY |
+| SECONDARY SCHOOL |
+|         ↓ |
+| VIRTUAL-ONLY |
+| DELIVERY MODEL |
+|         ↓ |
+| GRADE 9 |
+| 30 CREDITS |
+|         ↓ |
+| English I / Composition I |
+| Algebra I |
+| Geology |
+| World Geography |
+| Digital Literacy |
+|         ↓ |
+| English II / Composition II |
+| Geometry |
+| Astronomy |
+| World History |
+| Health |
+|         ↓ |
+| GRADE 10 |
+| 30 CREDITS |
+|         ↓ |
+| English III / American Literature |
+| Algebra II |
+| Earth Science |
+| Holocaust & Genocide Studies |
+| Physical Education |
+|         ↓ |
+| English IV / World Literature |
+| Trigonometry |
+| Environmental Science |
+| Government |
+| Fine Arts |
+|         ↓ |
+| GRADE 11 |
+| 30 CREDITS |
+|         ↓ |
+| Precalculus |
+| Biology |
+| American History |
+| Financial Literacy |
+| World Language I |
+|         ↓ |
+| Calculus |
+| Chemistry |
+| State History |
+| World Language II |
+| Personal Finance |
+|         ↓ |
+| GRADE 12 |
+| 30 CREDITS |
+|         ↓ |
+| Statistics |
+| Anatomy |
+| Economics |
+| Computer Science |
+| Ethnic Studies |
+|         ↓ |
+| Physiology |
+| Physics |
+| Sociology |
+| Psychology |
+| Oral Communication |
+|         ↓ |
+| 40 FIXED COURSES |
+|         ↓ |
+| 120 RIAH CREDIT HOURS |
+|         ↓ |
+| STATE CURRICULUM |
+| COMPONENTS |
+|         ↓ |
+| STATE-SPECIFIC |
+| GRADUATION CONTROLS |
+| WHERE APPLICABLE |
+|         ↓ |
+| GRADUATION AUDIT |
+|         ↓ |
+| RIAH PATHWAY |
+| HIGH SCHOOL DIPLOMA |
+| ``` |
