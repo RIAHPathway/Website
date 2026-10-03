@@ -167,29 +167,16 @@ The CTO and CISO are already included within the five-person Executive Leadershi
 
 The largest component of the at-scale internal organization is the Experiential Team.
 
-```text
-EXPERIENTIAL PROFESSIONAL HIERARCHY
-
-40 EXPERIENTIAL SUPERVISORS
-            ↓
-40 EXPERIENTIAL MANAGERS
-            ↓
-40 EXPERIENTIAL REVIEWERS
-
-TOTAL = 120
+```mermaid
+flowchart TD
+A["40 EXPERIENTIAL SUPERVISORS"] --> B["40 EXPERIENTIAL MANAGERS"] --> C["40 EXPERIENTIAL REVIEWERS"]
 ```
 
-```yaml
-reporting_structure:
-  experiential_reviewers:
-    count: 40
-    report_to: "Experiential Managers"
-  experiential_managers:
-    count: 40
-    report_to: "Experiential Supervisors"
-  experiential_supervisors:
-    count: 40
-    level: "Senior Experiential oversight"
+TOTAL = 120
+
+```mermaid
+flowchart TD
+A["40 Experiential Supervisors<br>Senior Experiential oversight"] --> B["40 Experiential Managers"] --> C["40 Experiential Reviewers"]
 ```
 ### TOTAL EXPERIENTIAL TEAM — 120
 
@@ -337,19 +324,29 @@ The broader RIAH organizational ecosystem includes the established entities used
 
 ## XXV. 🌐 ONE ECOSYSTEM — MULTIPLE CONNECTED FUNCTIONS
 
-```yaml
-flow:
-  step_1: "Education"
-  step_2: "Curriculum"
-  step_3: "Experiential Learning"
-  step_4: "Certification and Professional Review"
-  step_5: "Applied Work"
-  step_6: "Career Preparation"
-  step_7: "Products and Resources"
-  step_8: "Technology"
-  step_9: "Professional Services"
-  step_10: "Community"
-  step_11: "Foundation and Public-Benefit Initiatives"
+```mermaid
+flowchart LR
+N1["Education"]
+N2["Curriculum"]
+N3["Experiential Learning"]
+N4["Certification and Professional Review"]
+N5["Applied Work"]
+N6["Career Preparation"]
+N7["Products and Resources"]
+N8["Technology"]
+N9["Professional Services"]
+N10["Community"]
+N11["Foundation and Public-Benefit Initiatives"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+N4 --> N5
+N5 --> N6
+N6 --> N7
+N7 --> N8
+N8 --> N9
+N9 --> N10
+N10 --> N11
 ```
 
 The entities, schools, technology systems, academic team, Experiential professionals, executives, governance structure, products, programs, and public website are intended to operate as connected parts of the broader RIAH ecosystem.
