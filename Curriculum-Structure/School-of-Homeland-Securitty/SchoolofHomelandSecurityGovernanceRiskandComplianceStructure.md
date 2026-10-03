@@ -1,30 +1,18 @@
 # RIAH PATHWAY — GOVERNANCE, RISK AND COMPLIANCE CURRICULUM
 
-| Content |
-| --- |
-| **School:** School of Homeland Security |
-
-| Content |
-| --- |
-| This standalone curriculum file combines the shared undergraduate foundation with the complete existing Governance, Risk and Compliance curriculum. Existing course, track, certification-review, assessment, software, experiential, capstone, applied-build, and supervision details are retained from the controlling curriculum files. |
+| RIAH PATHWAY — GOVERNANCE, RISK AND COMPLIANCE CURRICULUM Component | RIAH PATHWAY — GOVERNANCE, RISK AND COMPLIANCE CURRICULUM Requirement |
+| --- | --- |
+| School | **School:** School of Homeland Security |
+| Curriculum | This standalone curriculum file combines the shared undergraduate foundation with the complete existing Governance, Risk and Compliance curriculum. Existing course, track, certification-review, assessment, software, experiential, capstone, applied-build, and supervision details are retained from the controlling curriculum files. |
 
 ## Year 1 — General Education — 30 Credit Hours
 
-| Content |
-| --- |
-| General Education provides the academic foundation for applicable RIAH Pathway degree pathways. |
-
-| Content |
-| --- |
-| General Education Total: 30 Credit Hours. |
-
-| Content |
-| --- |
-| General Education includes College English, College Algebra, Oral Communications, Foreign Language, History, Philosophy, Psychology, Sociology, Art, and Science. |
-
-| Content |
-| --- |
-| Detailed course tables remain in the controlling degree curriculum. |
+| Year 1 — General Education — 30 Credit Hours Component | Year 1 — General Education — 30 Credit Hours Requirement |
+| --- | --- |
+| General Education | General Education provides the academic foundation for applicable RIAH Pathway degree pathways. |
+| General Education Total | General Education Total: 30 Credit Hours. |
+| Philosophy | General Education includes College English, College Algebra, Oral Communications, Foreign Language, History, Philosophy, Psychology, Sociology, Art, and Science. |
+| Curriculum | Detailed course tables remain in the controlling degree curriculum. |
 
 ## ❤️ General Education — Edmentum Software Coverage
 
@@ -41,9 +29,9 @@
 | ART 1010 | Art | ✓ |
 | SCI 1010 | Science | ✓ |
 
-| Content |
-| --- |
-| Philosophy Note — PHI 1010 remains part of the RIAH General Education curriculum. RIAH will provide and/or integrate additional Philosophy curriculum because Edmentum does not provide the mapped Philosophy coverage used for this structure. |
+| Instructional Component | Curriculum Mapping / Authority |
+| --- | --- |
+| Edmentum | Philosophy Note — PHI 1010 remains part of the RIAH General Education curriculum. RIAH will provide and/or integrate additional Philosophy curriculum because Edmentum does not provide the mapped Philosophy coverage used for this structure. |
 
 ## Year 2 — II.I. HOMELAND SECURITY SCHOOL CORE — 30 CREDIT HOURS 📘
 
@@ -63,13 +51,10 @@
 
 ## Governance, Risk and Compliance — Minor through MBA
 
-| Content |
-| --- |
-| **Full Software Stack:** ServiceNow · OpenRMF · Tableau · QGIS · Maltego |
-
-| Content |
-| --- |
-| Students are admitted into the Governance, Risk and Compliance major after completing Year 1 General Education and the School of Homeland Security Core. |
+| Governance, Risk and Compliance — Minor through MBA Component | Governance, Risk and Compliance — Minor through MBA Requirement |
+| --- | --- |
+| Full Software Stack | **Full Software Stack:** ServiceNow · OpenRMF · Tableau · QGIS · Maltego |
+| General Education | Students are admitted into the Governance, Risk and Compliance major after completing Year 1 General Education and the School of Homeland Security Core. |
 
 ### Governance, Risk and Compliance Minor — 15 Credits
 
@@ -113,13 +98,10 @@
 
 ### Governance, Risk and Compliance — Bachelor’s Year 4 — CISSP Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Governance, Risk and Compliance + CISSP Software Stack:** ServiceNow · OpenRMF · Tableau · QGIS · Maltego · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
-
-| Content |
-| --- |
-| **CISSP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+| Governance, Risk and Compliance — Bachelor’s Year 4 — CISSP Track — 30 Credit Hours Component | Governance, Risk and Compliance — Bachelor’s Year 4 — CISSP Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Governance, Risk and Compliance + CISSP Software Stack | **Combined Governance, Risk and Compliance + CISSP Software Stack:** ServiceNow · OpenRMF · Tableau · QGIS · Maltego · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
+| CISSP Learning Progression | **CISSP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -136,13 +118,10 @@
 
 ### Governance, Risk and Compliance — Bachelor’s Year 4 — CISA Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Governance, Risk and Compliance + CISA Software Stack:** ServiceNow · OpenRMF · Tableau · QGIS · Maltego · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
-
-| Content |
-| --- |
-| **CISA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+| Governance, Risk and Compliance — Bachelor’s Year 4 — CISA Track — 30 Credit Hours Component | Governance, Risk and Compliance — Bachelor’s Year 4 — CISA Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Governance, Risk and Compliance + CISA Software Stack | **Combined Governance, Risk and Compliance + CISA Software Stack:** ServiceNow · OpenRMF · Tableau · QGIS · Maltego · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
+| CISA Learning Progression | **CISA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -159,13 +138,10 @@
 
 ### Governance, Risk and Compliance — Bachelor’s Year 4 — CISM Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Governance, Risk and Compliance + CISM Software Stack:** ServiceNow · OpenRMF · Tableau · QGIS · Maltego · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
-
-| Content |
-| --- |
-| **CISM Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+| Governance, Risk and Compliance — Bachelor’s Year 4 — CISM Track — 30 Credit Hours Component | Governance, Risk and Compliance — Bachelor’s Year 4 — CISM Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Governance, Risk and Compliance + CISM Software Stack | **Combined Governance, Risk and Compliance + CISM Software Stack:** ServiceNow · OpenRMF · Tableau · QGIS · Maltego · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
+| CISM Learning Progression | **CISM Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -182,13 +158,10 @@
 
 ### Governance, Risk and Compliance — Bachelor’s Year 4 — CRISC Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Governance, Risk and Compliance + CRISC Software Stack:** ServiceNow · OpenRMF · Tableau · QGIS · Maltego · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
-
-| Content |
-| --- |
-| **CRISC Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+| Governance, Risk and Compliance — Bachelor’s Year 4 — CRISC Track — 30 Credit Hours Component | Governance, Risk and Compliance — Bachelor’s Year 4 — CRISC Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Governance, Risk and Compliance + CRISC Software Stack | **Combined Governance, Risk and Compliance + CRISC Software Stack:** ServiceNow · OpenRMF · Tableau · QGIS · Maltego · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
+| CRISC Learning Progression | **CRISC Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -220,13 +193,10 @@
 
 ### Governance, Risk and Compliance — Master’s — CISSP Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Governance, Risk and Compliance + CISSP Software Stack:** ServiceNow · OpenRMF · Tableau · QGIS · Maltego · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
-
-| Content |
-| --- |
-| **CISSP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+| Governance, Risk and Compliance — Master’s — CISSP Track — 30 Credit Hours Component | Governance, Risk and Compliance — Master’s — CISSP Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Governance, Risk and Compliance + CISSP Software Stack | **Combined Governance, Risk and Compliance + CISSP Software Stack:** ServiceNow · OpenRMF · Tableau · QGIS · Maltego · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
+| CISSP Learning Progression | **CISSP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -243,13 +213,10 @@
 
 ### Governance, Risk and Compliance — Master’s — CISA Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Governance, Risk and Compliance + CISA Software Stack:** ServiceNow · OpenRMF · Tableau · QGIS · Maltego · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
-
-| Content |
-| --- |
-| **CISA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+| Governance, Risk and Compliance — Master’s — CISA Track — 30 Credit Hours Component | Governance, Risk and Compliance — Master’s — CISA Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Governance, Risk and Compliance + CISA Software Stack | **Combined Governance, Risk and Compliance + CISA Software Stack:** ServiceNow · OpenRMF · Tableau · QGIS · Maltego · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
+| CISA Learning Progression | **CISA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -266,13 +233,10 @@
 
 ### Governance, Risk and Compliance — Master’s — CISM Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Governance, Risk and Compliance + CISM Software Stack:** ServiceNow · OpenRMF · Tableau · QGIS · Maltego · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
-
-| Content |
-| --- |
-| **CISM Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+| Governance, Risk and Compliance — Master’s — CISM Track — 30 Credit Hours Component | Governance, Risk and Compliance — Master’s — CISM Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Governance, Risk and Compliance + CISM Software Stack | **Combined Governance, Risk and Compliance + CISM Software Stack:** ServiceNow · OpenRMF · Tableau · QGIS · Maltego · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
+| CISM Learning Progression | **CISM Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -289,13 +253,10 @@
 
 ### Governance, Risk and Compliance — Master’s — CRISC Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Governance, Risk and Compliance + CRISC Software Stack:** ServiceNow · OpenRMF · Tableau · QGIS · Maltego · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
-
-| Content |
-| --- |
-| **CRISC Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+| Governance, Risk and Compliance — Master’s — CRISC Track — 30 Credit Hours Component | Governance, Risk and Compliance — Master’s — CRISC Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Governance, Risk and Compliance + CRISC Software Stack | **Combined Governance, Risk and Compliance + CRISC Software Stack:** ServiceNow · OpenRMF · Tableau · QGIS · Maltego · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
+| CRISC Learning Progression | **CRISC Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -327,13 +288,10 @@
 
 ### Governance, Risk and Compliance — MBA — CISSP Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Governance, Risk and Compliance + CISSP Software Stack:** ServiceNow · OpenRMF · Tableau · QGIS · Maltego · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
-
-| Content |
-| --- |
-| **CISSP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+| Governance, Risk and Compliance — MBA — CISSP Track — 30 Credit Hours Component | Governance, Risk and Compliance — MBA — CISSP Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Governance, Risk and Compliance + CISSP Software Stack | **Combined Governance, Risk and Compliance + CISSP Software Stack:** ServiceNow · OpenRMF · Tableau · QGIS · Maltego · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
+| CISSP Learning Progression | **CISSP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -350,13 +308,10 @@
 
 ### Governance, Risk and Compliance — MBA — CISA Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Governance, Risk and Compliance + CISA Software Stack:** ServiceNow · OpenRMF · Tableau · QGIS · Maltego · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
-
-| Content |
-| --- |
-| **CISA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+| Governance, Risk and Compliance — MBA — CISA Track — 30 Credit Hours Component | Governance, Risk and Compliance — MBA — CISA Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Governance, Risk and Compliance + CISA Software Stack | **Combined Governance, Risk and Compliance + CISA Software Stack:** ServiceNow · OpenRMF · Tableau · QGIS · Maltego · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
+| CISA Learning Progression | **CISA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -373,13 +328,10 @@
 
 ### Governance, Risk and Compliance — MBA — CISM Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Governance, Risk and Compliance + CISM Software Stack:** ServiceNow · OpenRMF · Tableau · QGIS · Maltego · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
-
-| Content |
-| --- |
-| **CISM Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+| Governance, Risk and Compliance — MBA — CISM Track — 30 Credit Hours Component | Governance, Risk and Compliance — MBA — CISM Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Governance, Risk and Compliance + CISM Software Stack | **Combined Governance, Risk and Compliance + CISM Software Stack:** ServiceNow · OpenRMF · Tableau · QGIS · Maltego · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
+| CISM Learning Progression | **CISM Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -396,13 +348,10 @@
 
 ### Governance, Risk and Compliance — MBA — CRISC Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Governance, Risk and Compliance + CRISC Software Stack:** ServiceNow · OpenRMF · Tableau · QGIS · Maltego · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
-
-| Content |
-| --- |
-| **CRISC Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+| Governance, Risk and Compliance — MBA — CRISC Track — 30 Credit Hours Component | Governance, Risk and Compliance — MBA — CRISC Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Governance, Risk and Compliance + CRISC Software Stack | **Combined Governance, Risk and Compliance + CRISC Software Stack:** ServiceNow · OpenRMF · Tableau · QGIS · Maltego · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
+| CRISC Learning Progression | **CRISC Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

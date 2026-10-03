@@ -1,30 +1,18 @@
 # RIAH PATHWAY — ACCOUNTING CURRICULUM
 
-| Content |
-| --- |
-| **School:** School of Business |
-
-| Content |
-| --- |
-| This standalone curriculum file combines the shared undergraduate foundation with the complete existing Accounting curriculum. Existing course, track, certification-review, assessment, software, experiential, capstone, applied-build, and supervision details are retained from the controlling curriculum files. |
+| RIAH PATHWAY — ACCOUNTING CURRICULUM Component | RIAH PATHWAY — ACCOUNTING CURRICULUM Requirement |
+| --- | --- |
+| School | **School:** School of Business |
+| Curriculum | This standalone curriculum file combines the shared undergraduate foundation with the complete existing Accounting curriculum. Existing course, track, certification-review, assessment, software, experiential, capstone, applied-build, and supervision details are retained from the controlling curriculum files. |
 
 ## Year 1 — General Education — 30 Credit Hours
 
-| Content |
-| --- |
-| General Education provides the academic foundation for applicable RIAH Pathway degree pathways. |
-
-| Content |
-| --- |
-| General Education Total: 30 Credit Hours. |
-
-| Content |
-| --- |
-| General Education includes College English, College Algebra, Oral Communications, Foreign Language, History, Philosophy, Psychology, Sociology, Art, and Science. |
-
-| Content |
-| --- |
-| Detailed course tables remain in the controlling degree curriculum. |
+| Year 1 — General Education — 30 Credit Hours Component | Year 1 — General Education — 30 Credit Hours Requirement |
+| --- | --- |
+| General Education | General Education provides the academic foundation for applicable RIAH Pathway degree pathways. |
+| General Education Total | General Education Total: 30 Credit Hours. |
+| Philosophy | General Education includes College English, College Algebra, Oral Communications, Foreign Language, History, Philosophy, Psychology, Sociology, Art, and Science. |
+| Curriculum | Detailed course tables remain in the controlling degree curriculum. |
 
 ## ❤️ General Education — Edmentum Software Coverage
 
@@ -41,15 +29,15 @@
 | ART 1010 | Art | ✓ |
 | SCI 1010 | Science | ✓ |
 
-| Content |
-| --- |
-| Philosophy Note — PHI 1010 remains part of the RIAH General Education curriculum. RIAH will provide and/or integrate additional Philosophy curriculum because Edmentum does not provide the mapped Philosophy coverage used for this structure. |
+| Instructional Component | Curriculum Mapping / Authority |
+| --- | --- |
+| Edmentum | Philosophy Note — PHI 1010 remains part of the RIAH General Education curriculum. RIAH will provide and/or integrate additional Philosophy curriculum because Edmentum does not provide the mapped Philosophy coverage used for this structure. |
 
 ## Year 2 — IV.I. Business Core — 30 Credit Hours 📘
 
-| Content |
-| --- |
-| **Full Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · HubSpot · Microsoft Power Automate |
+| Curriculum Component | Software Stack |
+| --- | --- |
+| Full Software Stack | **Full Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · HubSpot · Microsoft Power Automate |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Cengage MindTap | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -66,9 +54,9 @@
 
 ## Accounting — Minor through MBA
 
-| Content |
-| --- |
-| **Full Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
+| Curriculum Component | Software Stack |
+| --- | --- |
+| Full Software Stack | **Full Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
 
 ### Accounting Minor — 15 Credit Hours
 
@@ -97,9 +85,9 @@
 
 ### Accounting — Bachelor’s Year 4 — 30 Credit Hours
 
-| Content |
-| --- |
-| **General Bachelor’s Year 4 Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
+| Accounting — Bachelor’s Year 4 — 30 Credit Hours Component | Accounting — Bachelor’s Year 4 — 30 Credit Hours Requirement |
+| --- | --- |
+| General Bachelor’s Year 4 Software Stack | **General Bachelor’s Year 4 Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -116,13 +104,10 @@
 
 ### Accounting — Bachelor’s Year 4 — CPA Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Accounting + CPA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
-
-| Content |
-| --- |
-| **CPA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+| Accounting — Bachelor’s Year 4 — CPA Track — 30 Credit Hours Component | Accounting — Bachelor’s Year 4 — CPA Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Accounting + CPA Software Stack | **Combined Accounting + CPA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
+| CPA Learning Progression | **CPA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -139,13 +124,10 @@
 
 ### Accounting — Bachelor’s Year 4 — CMA Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Accounting + CMA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
-
-| Content |
-| --- |
-| **CMA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+| Accounting — Bachelor’s Year 4 — CMA Track — 30 Credit Hours Component | Accounting — Bachelor’s Year 4 — CMA Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Accounting + CMA Software Stack | **Combined Accounting + CMA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
+| CMA Learning Progression | **CMA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -162,13 +144,10 @@
 
 ### Accounting — Bachelor’s Year 4 — CIA Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Accounting + CIA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
-
-| Content |
-| --- |
-| **CIA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+| Accounting — Bachelor’s Year 4 — CIA Track — 30 Credit Hours Component | Accounting — Bachelor’s Year 4 — CIA Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Accounting + CIA Software Stack | **Combined Accounting + CIA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
+| CIA Learning Progression | **CIA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -185,13 +164,10 @@
 
 ### Accounting — Bachelor’s Year 4 — CFE Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Accounting + CFE Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
-
-| Content |
-| --- |
-| **CFE Learning Progression:** CFE Part 1 — Law → CFE Part 2 — Investigation → CFE Part 3 — Financial Transactions & Fraud Schemes → CFE Part 4 — Fraud Prevention & Deterrence → Comprehensive CFE Review Integration |
+| Accounting — Bachelor’s Year 4 — CFE Track — 30 Credit Hours Component | Accounting — Bachelor’s Year 4 — CFE Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Accounting + CFE Software Stack | **Combined Accounting + CFE Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
+| CFE Learning Progression | **CFE Learning Progression:** CFE Part 1 — Law → CFE Part 2 — Investigation → CFE Part 3 — Financial Transactions & Fraud Schemes → CFE Part 4 — Fraud Prevention & Deterrence → Comprehensive CFE Review Integration |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -208,13 +184,10 @@
 
 ### Accounting — Bachelor’s Year 4 — IRS EA Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Accounting + IRS EA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
-
-| Content |
-| --- |
-| **IRS EA Learning Progression:** IRS EA Part 1 — Individual Taxation → IRS EA Part 2 — Business Taxation → IRS EA Part 3 — Representation, Practices & Procedures → Comprehensive IRS EA Review Integration |
+| Accounting — Bachelor’s Year 4 — IRS EA Track — 30 Credit Hours Component | Accounting — Bachelor’s Year 4 — IRS EA Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Accounting + IRS EA Software Stack | **Combined Accounting + IRS EA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
+| IRS EA Learning Progression | **IRS EA Learning Progression:** IRS EA Part 1 — Individual Taxation → IRS EA Part 2 — Business Taxation → IRS EA Part 3 — Representation, Practices & Procedures → Comprehensive IRS EA Review Integration |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -231,13 +204,10 @@
 
 ### Accounting — Bachelor’s Year 4 — CISA Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Accounting + CISA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
-
-| Content |
-| --- |
-| **CISA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+| Accounting — Bachelor’s Year 4 — CISA Track — 30 Credit Hours Component | Accounting — Bachelor’s Year 4 — CISA Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Accounting + CISA Software Stack | **Combined Accounting + CISA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
+| CISA Learning Progression | **CISA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -254,13 +224,10 @@
 
 ### Accounting — Bachelor’s Year 4 — CRISC Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Accounting + CRISC Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
-
-| Content |
-| --- |
-| **CRISC Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+| Accounting — Bachelor’s Year 4 — CRISC Track — 30 Credit Hours Component | Accounting — Bachelor’s Year 4 — CRISC Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Accounting + CRISC Software Stack | **Combined Accounting + CRISC Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
+| CRISC Learning Progression | **CRISC Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -277,9 +244,9 @@
 
 ### Accounting — Master’s — 30 Credit Hours
 
-| Content |
-| --- |
-| **General Master’s Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
+| Accounting — Master’s — 30 Credit Hours Component | Accounting — Master’s — 30 Credit Hours Requirement |
+| --- | --- |
+| General Master’s Software Stack | **General Master’s Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -296,13 +263,10 @@
 
 ### Accounting — Master’s — CPA Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Accounting + CPA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
-
-| Content |
-| --- |
-| **CPA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+| Accounting — Master’s — CPA Track — 30 Credit Hours Component | Accounting — Master’s — CPA Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Accounting + CPA Software Stack | **Combined Accounting + CPA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
+| CPA Learning Progression | **CPA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -319,13 +283,10 @@
 
 ### Accounting — Master’s — CMA Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Accounting + CMA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
-
-| Content |
-| --- |
-| **CMA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+| Accounting — Master’s — CMA Track — 30 Credit Hours Component | Accounting — Master’s — CMA Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Accounting + CMA Software Stack | **Combined Accounting + CMA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
+| CMA Learning Progression | **CMA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -342,13 +303,10 @@
 
 ### Accounting — Master’s — CIA Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Accounting + CIA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
-
-| Content |
-| --- |
-| **CIA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+| Accounting — Master’s — CIA Track — 30 Credit Hours Component | Accounting — Master’s — CIA Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Accounting + CIA Software Stack | **Combined Accounting + CIA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
+| CIA Learning Progression | **CIA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -365,13 +323,10 @@
 
 ### Accounting — Master’s — CFE Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Accounting + CFE Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
-
-| Content |
-| --- |
-| **CFE Learning Progression:** CFE Part 1 — Law → CFE Part 2 — Investigation → CFE Part 3 — Financial Transactions & Fraud Schemes → CFE Part 4 — Fraud Prevention & Deterrence → Comprehensive CFE Review Integration |
+| Accounting — Master’s — CFE Track — 30 Credit Hours Component | Accounting — Master’s — CFE Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Accounting + CFE Software Stack | **Combined Accounting + CFE Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
+| CFE Learning Progression | **CFE Learning Progression:** CFE Part 1 — Law → CFE Part 2 — Investigation → CFE Part 3 — Financial Transactions & Fraud Schemes → CFE Part 4 — Fraud Prevention & Deterrence → Comprehensive CFE Review Integration |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -388,13 +343,10 @@
 
 ### Accounting — Master’s — IRS EA Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Accounting + IRS EA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
-
-| Content |
-| --- |
-| **IRS EA Learning Progression:** IRS EA Part 1 — Individual Taxation → IRS EA Part 2 — Business Taxation → IRS EA Part 3 — Representation, Practices & Procedures → Comprehensive IRS EA Review Integration |
+| Accounting — Master’s — IRS EA Track — 30 Credit Hours Component | Accounting — Master’s — IRS EA Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Accounting + IRS EA Software Stack | **Combined Accounting + IRS EA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
+| IRS EA Learning Progression | **IRS EA Learning Progression:** IRS EA Part 1 — Individual Taxation → IRS EA Part 2 — Business Taxation → IRS EA Part 3 — Representation, Practices & Procedures → Comprehensive IRS EA Review Integration |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -411,13 +363,10 @@
 
 ### Accounting — Master’s — CISA Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Accounting + CISA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
-
-| Content |
-| --- |
-| **CISA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+| Accounting — Master’s — CISA Track — 30 Credit Hours Component | Accounting — Master’s — CISA Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Accounting + CISA Software Stack | **Combined Accounting + CISA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
+| CISA Learning Progression | **CISA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -434,13 +383,10 @@
 
 ### Accounting — Master’s — CRISC Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Accounting + CRISC Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
-
-| Content |
-| --- |
-| **CRISC Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+| Accounting — Master’s — CRISC Track — 30 Credit Hours Component | Accounting — Master’s — CRISC Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Accounting + CRISC Software Stack | **Combined Accounting + CRISC Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
+| CRISC Learning Progression | **CRISC Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -457,9 +403,9 @@
 
 ### Accounting — MBA — 30 Credit Hours
 
-| Content |
-| --- |
-| **General MBA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
+| Accounting — MBA — 30 Credit Hours Component | Accounting — MBA — 30 Credit Hours Requirement |
+| --- | --- |
+| General MBA Software Stack | **General MBA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -476,13 +422,10 @@
 
 ### Accounting — MBA — CPA Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Accounting + CPA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
-
-| Content |
-| --- |
-| **CPA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+| Accounting — MBA — CPA Track — 30 Credit Hours Component | Accounting — MBA — CPA Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Accounting + CPA Software Stack | **Combined Accounting + CPA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
+| CPA Learning Progression | **CPA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -499,13 +442,10 @@
 
 ### Accounting — MBA — CMA Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Accounting + CMA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
-
-| Content |
-| --- |
-| **CMA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+| Accounting — MBA — CMA Track — 30 Credit Hours Component | Accounting — MBA — CMA Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Accounting + CMA Software Stack | **Combined Accounting + CMA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
+| CMA Learning Progression | **CMA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -522,13 +462,10 @@
 
 ### Accounting — MBA — CIA Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Accounting + CIA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
-
-| Content |
-| --- |
-| **CIA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+| Accounting — MBA — CIA Track — 30 Credit Hours Component | Accounting — MBA — CIA Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Accounting + CIA Software Stack | **Combined Accounting + CIA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
+| CIA Learning Progression | **CIA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -545,13 +482,10 @@
 
 ### Accounting — MBA — CFE Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Accounting + CFE Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
-
-| Content |
-| --- |
-| **CFE Learning Progression:** CFE Part 1 — Law → CFE Part 2 — Investigation → CFE Part 3 — Financial Transactions & Fraud Schemes → CFE Part 4 — Fraud Prevention & Deterrence → Comprehensive CFE Review Integration |
+| Accounting — MBA — CFE Track — 30 Credit Hours Component | Accounting — MBA — CFE Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Accounting + CFE Software Stack | **Combined Accounting + CFE Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
+| CFE Learning Progression | **CFE Learning Progression:** CFE Part 1 — Law → CFE Part 2 — Investigation → CFE Part 3 — Financial Transactions & Fraud Schemes → CFE Part 4 — Fraud Prevention & Deterrence → Comprehensive CFE Review Integration |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -568,13 +502,10 @@
 
 ### Accounting — MBA — IRS EA Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Accounting + IRS EA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
-
-| Content |
-| --- |
-| **IRS EA Learning Progression:** IRS EA Part 1 — Individual Taxation → IRS EA Part 2 — Business Taxation → IRS EA Part 3 — Representation, Practices & Procedures → Comprehensive IRS EA Review Integration |
+| Accounting — MBA — IRS EA Track — 30 Credit Hours Component | Accounting — MBA — IRS EA Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Accounting + IRS EA Software Stack | **Combined Accounting + IRS EA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer |
+| IRS EA Learning Progression | **IRS EA Learning Progression:** IRS EA Part 1 — Individual Taxation → IRS EA Part 2 — Business Taxation → IRS EA Part 3 — Representation, Practices & Procedures → Comprehensive IRS EA Review Integration |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -591,13 +522,10 @@
 
 ### Accounting — MBA — CISA Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Accounting + CISA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
-
-| Content |
-| --- |
-| **CISA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+| Accounting — MBA — CISA Track — 30 Credit Hours Component | Accounting — MBA — CISA Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Accounting + CISA Software Stack | **Combined Accounting + CISA Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
+| CISA Learning Progression | **CISA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -614,13 +542,10 @@
 
 ### Accounting — MBA — CRISC Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Accounting + CRISC Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
-
-| Content |
-| --- |
-| **CRISC Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+| Accounting — MBA — CRISC Track — 30 Credit Hours Component | Accounting — MBA — CRISC Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Accounting + CRISC Software Stack | **Combined Accounting + CRISC Software Stack:** Microsoft Excel · Microsoft Dynamics · Microsoft Power BI · CaseWare IDEA · Microsoft Power Automate · TaxSlayer · PowerShell · Python · C# · Linux · Windows · Networking · Active Directory · JavaScript · HTML · CSS · HTTP · Wi-Fi Security · SIEM · Network Analysis · Security Operations Technologies · AI and ML Security · Security Testing Technologies |
+| CRISC Learning Progression | **CRISC Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

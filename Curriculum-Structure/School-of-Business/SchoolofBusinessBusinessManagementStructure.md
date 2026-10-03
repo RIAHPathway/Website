@@ -1,30 +1,18 @@
 # RIAH PATHWAY — BUSINESS MANAGEMENT CURRICULUM
 
-| Content |
-| --- |
-| **School:** School of Business |
-
-| Content |
-| --- |
-| This standalone curriculum file combines the shared undergraduate foundation with the complete existing Business Management curriculum. Existing course, track, certification-review, assessment, software, experiential, capstone, applied-build, and supervision details are retained from the controlling curriculum files. |
+| RIAH PATHWAY — BUSINESS MANAGEMENT CURRICULUM Component | RIAH PATHWAY — BUSINESS MANAGEMENT CURRICULUM Requirement |
+| --- | --- |
+| School | **School:** School of Business |
+| Curriculum | This standalone curriculum file combines the shared undergraduate foundation with the complete existing Business Management curriculum. Existing course, track, certification-review, assessment, software, experiential, capstone, applied-build, and supervision details are retained from the controlling curriculum files. |
 
 ## Year 1 — General Education — 30 Credit Hours
 
-| Content |
-| --- |
-| General Education provides the academic foundation for applicable RIAH Pathway degree pathways. |
-
-| Content |
-| --- |
-| General Education Total: 30 Credit Hours. |
-
-| Content |
-| --- |
-| General Education includes College English, College Algebra, Oral Communications, Foreign Language, History, Philosophy, Psychology, Sociology, Art, and Science. |
-
-| Content |
-| --- |
-| Detailed course tables remain in the controlling degree curriculum. |
+| Year 1 — General Education — 30 Credit Hours Component | Year 1 — General Education — 30 Credit Hours Requirement |
+| --- | --- |
+| General Education | General Education provides the academic foundation for applicable RIAH Pathway degree pathways. |
+| General Education Total | General Education Total: 30 Credit Hours. |
+| Philosophy | General Education includes College English, College Algebra, Oral Communications, Foreign Language, History, Philosophy, Psychology, Sociology, Art, and Science. |
+| Curriculum | Detailed course tables remain in the controlling degree curriculum. |
 
 ## ❤️ General Education — Edmentum Software Coverage
 
@@ -41,15 +29,15 @@
 | ART 1010 | Art | ✓ |
 | SCI 1010 | Science | ✓ |
 
-| Content |
-| --- |
-| Philosophy Note — PHI 1010 remains part of the RIAH General Education curriculum. RIAH will provide and/or integrate additional Philosophy curriculum because Edmentum does not provide the mapped Philosophy coverage used for this structure. |
+| Instructional Component | Curriculum Mapping / Authority |
+| --- | --- |
+| Edmentum | Philosophy Note — PHI 1010 remains part of the RIAH General Education curriculum. RIAH will provide and/or integrate additional Philosophy curriculum because Edmentum does not provide the mapped Philosophy coverage used for this structure. |
 
 ## Year 2 — IV.I. Business Core — 30 Credit Hours 📘
 
-| Content |
-| --- |
-| **Full Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · HubSpot · Microsoft Power Automate |
+| Curriculum Component | Software Stack |
+| --- | --- |
+| Full Software Stack | **Full Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · HubSpot · Microsoft Power Automate |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Cengage MindTap | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -66,9 +54,9 @@
 
 ## Business Management — Minor through MBA
 
-| Content |
-| --- |
-| **Full Software Stack:** Asana · Microsoft Excel · Microsoft Power BI · HubSpot · Microsoft Power Automate |
+| Curriculum Component | Software Stack |
+| --- | --- |
+| Full Software Stack | **Full Software Stack:** Asana · Microsoft Excel · Microsoft Power BI · HubSpot · Microsoft Power Automate |
 
 ### Business Management Minor — 15 Credit Hours
 
@@ -97,9 +85,9 @@
 
 ### Business Management — Bachelor’s Year 4 — 30 Credit Hours
 
-| Content |
-| --- |
-| **General Bachelor’s Year 4 Software Stack:** Asana · Microsoft Excel · Microsoft Power BI · HubSpot · Microsoft Power Automate |
+| Business Management — Bachelor’s Year 4 — 30 Credit Hours Component | Business Management — Bachelor’s Year 4 — 30 Credit Hours Requirement |
+| --- | --- |
+| General Bachelor’s Year 4 Software Stack | **General Bachelor’s Year 4 Software Stack:** Asana · Microsoft Excel · Microsoft Power BI · HubSpot · Microsoft Power Automate |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -116,13 +104,10 @@
 
 ### Business Management — Bachelor’s Year 4 — PMP Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Business Management + PMP Software Stack:** Asana · Microsoft Excel · Microsoft Power BI · HubSpot · Microsoft Power Automate · Microsoft Azure · GitHub · Microsoft Planner · Microsoft 365 · Microsoft SQL Server · Planner · Azure · Integrated Stack |
-
-| Content |
-| --- |
-| **PMP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+| Business Management — Bachelor’s Year 4 — PMP Track — 30 Credit Hours Component | Business Management — Bachelor’s Year 4 — PMP Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Business Management + PMP Software Stack | **Combined Business Management + PMP Software Stack:** Asana · Microsoft Excel · Microsoft Power BI · HubSpot · Microsoft Power Automate · Microsoft Azure · GitHub · Microsoft Planner · Microsoft 365 · Microsoft SQL Server · Planner · Azure · Integrated Stack |
+| PMP Learning Progression | **PMP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -139,13 +124,10 @@
 
 ### Business Management — Bachelor’s Year 4 — PgMP Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Business Management + PgMP Software Stack:** Asana · Microsoft Excel · Microsoft Power BI · HubSpot · Microsoft Power Automate · Microsoft Planner · Microsoft 365 · Integrated Program Management Stack · Planner |
-
-| Content |
-| --- |
-| **PgMP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+| Business Management — Bachelor’s Year 4 — PgMP Track — 30 Credit Hours Component | Business Management — Bachelor’s Year 4 — PgMP Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Business Management + PgMP Software Stack | **Combined Business Management + PgMP Software Stack:** Asana · Microsoft Excel · Microsoft Power BI · HubSpot · Microsoft Power Automate · Microsoft Planner · Microsoft 365 · Integrated Program Management Stack · Planner |
+| PgMP Learning Progression | **PgMP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -162,9 +144,9 @@
 
 ### Business Management — Master’s — 30 Credit Hours
 
-| Content |
-| --- |
-| **General Master’s Software Stack:** Asana · Microsoft Excel · Microsoft Power BI · HubSpot · Microsoft Power Automate |
+| Business Management — Master’s — 30 Credit Hours Component | Business Management — Master’s — 30 Credit Hours Requirement |
+| --- | --- |
+| General Master’s Software Stack | **General Master’s Software Stack:** Asana · Microsoft Excel · Microsoft Power BI · HubSpot · Microsoft Power Automate |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -181,13 +163,10 @@
 
 ### Business Management — Master’s — PMP Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Business Management + PMP Software Stack:** Asana · Microsoft Excel · Microsoft Power BI · HubSpot · Microsoft Power Automate · Microsoft Azure · GitHub · Microsoft Planner · Microsoft 365 · Microsoft SQL Server · Planner · Azure · Integrated Stack |
-
-| Content |
-| --- |
-| **PMP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+| Business Management — Master’s — PMP Track — 30 Credit Hours Component | Business Management — Master’s — PMP Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Business Management + PMP Software Stack | **Combined Business Management + PMP Software Stack:** Asana · Microsoft Excel · Microsoft Power BI · HubSpot · Microsoft Power Automate · Microsoft Azure · GitHub · Microsoft Planner · Microsoft 365 · Microsoft SQL Server · Planner · Azure · Integrated Stack |
+| PMP Learning Progression | **PMP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -204,13 +183,10 @@
 
 ### Business Management — Master’s — PgMP Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Business Management + PgMP Software Stack:** Asana · Microsoft Excel · Microsoft Power BI · HubSpot · Microsoft Power Automate · Microsoft Planner · Microsoft 365 · Integrated Program Management Stack · Planner |
-
-| Content |
-| --- |
-| **PgMP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+| Business Management — Master’s — PgMP Track — 30 Credit Hours Component | Business Management — Master’s — PgMP Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Business Management + PgMP Software Stack | **Combined Business Management + PgMP Software Stack:** Asana · Microsoft Excel · Microsoft Power BI · HubSpot · Microsoft Power Automate · Microsoft Planner · Microsoft 365 · Integrated Program Management Stack · Planner |
+| PgMP Learning Progression | **PgMP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -227,9 +203,9 @@
 
 ### Business Management — MBA — 30 Credit Hours
 
-| Content |
-| --- |
-| **General MBA Software Stack:** Asana · Microsoft Excel · Microsoft Power BI · HubSpot · Microsoft Power Automate |
+| Business Management — MBA — 30 Credit Hours Component | Business Management — MBA — 30 Credit Hours Requirement |
+| --- | --- |
+| General MBA Software Stack | **General MBA Software Stack:** Asana · Microsoft Excel · Microsoft Power BI · HubSpot · Microsoft Power Automate |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -246,13 +222,10 @@
 
 ### Business Management — MBA — PMP Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Business Management + PMP Software Stack:** Asana · Microsoft Excel · Microsoft Power BI · HubSpot · Microsoft Power Automate · Microsoft Azure · GitHub · Microsoft Planner · Microsoft 365 · Microsoft SQL Server · Planner · Azure · Integrated Stack |
-
-| Content |
-| --- |
-| **PMP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+| Business Management — MBA — PMP Track — 30 Credit Hours Component | Business Management — MBA — PMP Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Business Management + PMP Software Stack | **Combined Business Management + PMP Software Stack:** Asana · Microsoft Excel · Microsoft Power BI · HubSpot · Microsoft Power Automate · Microsoft Azure · GitHub · Microsoft Planner · Microsoft 365 · Microsoft SQL Server · Planner · Azure · Integrated Stack |
+| PMP Learning Progression | **PMP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -269,13 +242,10 @@
 
 ### Business Management — MBA — PgMP Track — 30 Credit Hours
 
-| Content |
-| --- |
-| **Combined Business Management + PgMP Software Stack:** Asana · Microsoft Excel · Microsoft Power BI · HubSpot · Microsoft Power Automate · Microsoft Planner · Microsoft 365 · Integrated Program Management Stack · Planner |
-
-| Content |
-| --- |
-| **PgMP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+| Business Management — MBA — PgMP Track — 30 Credit Hours Component | Business Management — MBA — PgMP Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Business Management + PgMP Software Stack | **Combined Business Management + PgMP Software Stack:** Asana · Microsoft Excel · Microsoft Power BI · HubSpot · Microsoft Power Automate · Microsoft Planner · Microsoft 365 · Integrated Program Management Stack · Planner |
+| PgMP Learning Progression | **PgMP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

@@ -3,75 +3,48 @@
 
 ## 1. GED PROGRAM MODEL
 
-| Content |
-| --- |
-| RIAH Pathway Secondary School offers the GED/HSE Preparation pathway as part of its secondary education structure. |
+| GED PROGRAM MODEL Component | GED PROGRAM MODEL Requirement |
+| --- | --- |
+| Preparation | RIAH Pathway Secondary School offers the GED/HSE Preparation pathway as part of its secondary education structure. |
+| GED/HSE students receive a complete RIAH Pathway learning environment consisting of | GED/HSE students receive a complete RIAH Pathway learning environment consisting of: |
 
-| Content |
-| --- |
-| GED/HSE students receive a complete RIAH Pathway learning environment consisting of: |
-
-| Content |
-| --- |
-| - **RIAH Textbook** |
-| - **RIAH Workbook** |
-| - **RIAH Journal / Module Notebook** |
-| - **RIAH Planner / Curriculum Planner** |
-| - **RIAH Study Guide** |
-| - **RIAH Review Guide** |
-| - **RIAH LMS** |
-| - **RIAH Curriculum** |
-| - **RIAH Assignments** |
-| - **RIAH Assessments** |
-| - **Edmentum GED/HSE Preparation Content** |
-| - **Edmentum Courseware** |
-| - **Edmentum Mathematics Content and Assessment Resources** |
-| - **Official HiSET Preparation Materials where applicable** |
-| - **State Add-On Curriculum and Resources, if applicable** |
+| Learning Resource | Curriculum Inclusion |
+| --- | --- |
+| RIAH Textbook | - **RIAH Textbook** |
+| RIAH Workbook | - **RIAH Workbook** |
+| RIAH Journal / Module Notebook | - **RIAH Journal / Module Notebook** |
+| RIAH Planner / Curriculum Planner | - **RIAH Planner / Curriculum Planner** |
+| RIAH Study Guide | - **RIAH Study Guide** |
+| RIAH Review Guide | - **RIAH Review Guide** |
+| RIAH LMS | - **RIAH LMS** |
+| RIAH Curriculum | - **RIAH Curriculum** |
+| RIAH Assignments | - **RIAH Assignments** |
+| RIAH Assessments | - **RIAH Assessments** |
+| Edmentum GED/HSE Preparation Content | - **Edmentum GED/HSE Preparation Content** |
+| Edmentum Courseware | - **Edmentum Courseware** |
+| Edmentum Mathematics Content and Assessment Resources | - **Edmentum Mathematics Content and Assessment Resources** |
+| Official HiSET Preparation Materials where applicable | - **Official HiSET Preparation Materials where applicable** |
+| State Add-On Curriculum and Resources, if applicable | - **State Add-On Curriculum and Resources, if applicable** |
 
 ### GED + HiSET Structure
 
-| Content |
-| --- |
-| GED and HiSET preparation are part of the **RIAH Pathway Secondary School**. |
-
-| Content |
-| --- |
-| RIAH separates: |
-
-| Content |
-| --- |
-| **Preparation → Official Credentialing** |
-
-| Content |
-| --- |
-| RIAH provides the preparation curriculum. |
-
-| Content |
-| --- |
-| Official GED/HiSET examination and credentialing follow the applicable examination provider and state/jurisdiction requirements. |
-
-| Content |
-| --- |
-| HiSET preparation is incorporated where the applicable jurisdiction uses or permits HiSET. |
+| GED + HiSET Structure Component | GED + HiSET Structure Requirement |
+| --- | --- |
+| GED / HiSET | GED and HiSET preparation are part of the **RIAH Pathway Secondary School**. |
+| RIAH separates | RIAH separates: |
+| Preparation | **Preparation → Official Credentialing** |
+| Preparation | RIAH provides the preparation curriculum. |
+| GED / HiSET | Official GED/HiSET examination and credentialing follow the applicable examination provider and state/jurisdiction requirements. |
+| GED / HiSET | HiSET preparation is incorporated where the applicable jurisdiction uses or permits HiSET. |
 
 ### Edmentum Structure
 
-| Content |
-| --- |
-| **Edmentum is the primary instructional software and curriculum-content ecosystem.** |
-
-| Content |
-| --- |
-| **Edmentum provides the primary mapped instructional content for GED/HSE preparation and applicable General Education coursework.** |
-
-| Content |
-| --- |
-| **Edmentum → GED/HSE Preparation Content + General Education Courseware + Applicable Assessment and Learning Resources** |
-
-| Content |
-| --- |
-| Edmentum serves two primary purposes: |
+| Instructional Component | Curriculum Mapping / Authority |
+| --- | --- |
+| Edmentum | **Edmentum is the primary instructional software and curriculum-content ecosystem.** |
+| Edmentum | **Edmentum provides the primary mapped instructional content for GED/HSE preparation and applicable General Education coursework.** |
+| Edmentum | **Edmentum → GED/HSE Preparation Content + General Education Courseware + Applicable Assessment and Learning Resources** |
+| Edmentum serves two primary purposes | Edmentum serves two primary purposes: |
 
 ### GED/HSE Preparation — Edmentum Software Coverage
 
@@ -82,45 +55,45 @@
 | **GED 103** | Science Preparation | **✓** |
 | **GED 104** | Social Studies Preparation | **✓** |
 
-| Content |
-| --- |
-| **✓ = Edmentum provides applicable instructional content/courseware that RIAH maps into its curriculum. RIAH curriculum remains controlling.** |
+| Instructional Component | Curriculum Mapping / Authority |
+| --- | --- |
+| ✓ | **✓ = Edmentum provides applicable instructional content/courseware that RIAH maps into its curriculum. RIAH curriculum remains controlling.** |
 
 ### Purpose 1 — GED / HiSET Preparation
 
-| Content |
-| --- |
-| - **GED 101 — Mathematical Reasoning Preparation** |
-| - **GED 102 — Reasoning Through Language Arts Preparation** |
-| - **GED 103 — Science Preparation** |
-| - **GED 104 — Social Studies Preparation** |
+| Course Code | Course / Credit Alignment |
+| --- | --- |
+| GED 101 | - **GED 101 — Mathematical Reasoning Preparation** |
+| GED 102 | - **GED 102 — Reasoning Through Language Arts Preparation** |
+| GED 103 | - **GED 103 — Science Preparation** |
+| GED 104 | - **GED 104 — Social Studies Preparation** |
 
-| Content |
-| --- |
-| For students following a HiSET pathway, RIAH incorporates applicable HiSET preparation materials into the corresponding RIAH courses. |
+| Purpose 1 — GED / HiSET Preparation Component | Purpose 1 — GED / HiSET Preparation Requirement |
+| --- | --- |
+| GED / HiSET | For students following a HiSET pathway, RIAH incorporates applicable HiSET preparation materials into the corresponding RIAH courses. |
 
 ### Purpose 2 — General Education Placement/Test-Out + Coursework
 
-| Content |
-| --- |
-| Edmentum and applicable Edmentum resources support: |
+| Assessment Component | Assessment Requirement |
+| --- | --- |
+| Edmentum and applicable Edmentum resources support | Edmentum and applicable Edmentum resources support: |
 
-| Content |
-| --- |
-| - **ENG 1010 — College English** |
-| - **MAT 1010 — College Algebra** |
-| - **COM 1010 — Oral Communications** |
-| - **LAN 1010 — Foreign Language** |
-| - **HIS 1010 — History** |
-| - **PHI 1010 — Philosophy** |
-| - **PSY 1010 — Psychology** |
-| - **SOC 1010 — Sociology** |
-| - **ART 1010 — Art** |
-| - **SCI 1010 — Science** |
+| Course Code | Course / Credit Alignment |
+| --- | --- |
+| ENG 1010 | - **ENG 1010 — College English** |
+| MAT 1010 | - **MAT 1010 — College Algebra** |
+| COM 1010 | - **COM 1010 — Oral Communications** |
+| LAN 1010 | - **LAN 1010 — Foreign Language** |
+| HIS 1010 | - **HIS 1010 — History** |
+| PHI 1010 | - **PHI 1010 — Philosophy** |
+| PSY 1010 | - **PSY 1010 — Psychology** |
+| SOC 1010 | - **SOC 1010 — Sociology** |
+| ART 1010 | - **ART 1010 — Art** |
+| SCI 1010 | - **SCI 1010 — Science** |
 
-| Content |
-| --- |
-| The placement/test-out determination remains a **RIAH Pathway institutional determination**. |
+| Assessment Component | Assessment Requirement |
+| --- | --- |
+| Purpose 2 — General Education Placement/Test-Out + Coursework | The placement/test-out determination remains a **RIAH Pathway institutional determination**. |
 
 ### General Education — Edmentum Software Coverage
 
@@ -137,60 +110,53 @@
 | **ART 1010** | Art | **✓** |
 | **SCI 1010** | Science | **✓** |
 
-| Content |
-| --- |
-| **Philosophy Note — PHI 1010 remains part of the RIAH General Education curriculum. RIAH will provide and/or integrate additional Philosophy curriculum because Edmentum does not provide the mapped Philosophy coverage used for this structure.** |
+| Instructional Component | Curriculum Mapping / Authority |
+| --- | --- |
+| Edmentum | **Philosophy Note — PHI 1010 remains part of the RIAH General Education curriculum. RIAH will provide and/or integrate additional Philosophy curriculum because Edmentum does not provide the mapped Philosophy coverage used for this structure.** |
 
 ### RIAH Curriculum + Edmentum Integration
 
-| Content |
-| --- |
-| Edmentum does **not replace the RIAH curriculum**. |
+| Instructional Component | Curriculum Mapping / Authority |
+| --- | --- |
+| Edmentum | Edmentum does **not replace the RIAH curriculum**. |
+| RIAH develops and controls its own | RIAH develops and controls its own: |
 
-| Content |
-| --- |
-| RIAH develops and controls its own: |
+| Learning Resource | Curriculum Inclusion |
+| --- | --- |
+| Curriculum | - Curriculum |
+| Textbooks | - Textbooks |
+| Workbooks | - Workbooks |
+| Journals / Module Notebooks | - Journals / Module Notebooks |
+| Curriculum Planners | - Curriculum Planners |
+| Study Guides | - Study Guides |
+| Review Guides | - Review Guides |
+| Assignments | - Assignments |
+| Projects | - Projects |
+| Assessments | - Assessments |
+| Checkpoints | - Checkpoints |
+| Final examinations | - Final examinations |
+| Academic requirements | - Academic requirements |
 
-| Content |
-| --- |
-| - Curriculum |
-| - Textbooks |
-| - Workbooks |
-| - Journals / Module Notebooks |
-| - Curriculum Planners |
-| - Study Guides |
-| - Review Guides |
-| - Assignments |
-| - Projects |
-| - Assessments |
-| - Checkpoints |
-| - Final examinations |
-| - Academic requirements |
+| Instructional Component | Curriculum Mapping / Authority |
+| --- | --- |
+| Edmentum | Edmentum resources are integrated into the RIAH curriculum. |
 
-| Content |
-| --- |
-| Edmentum resources are integrated into the RIAH curriculum. |
+```text id="j1u9za"
+RIAH PATHWAY SECONDARY SCHOOL
+        ↓
+RIAH CURRICULUM
+        +
+RIAH LEARNING PACKAGE
+        +
+EDMENTUM ECOSYSTEM
+        +
+HiSET MATERIALS
+WHERE APPLICABLE
+        ↓
+GED / HSE PREPARATION
+```
 
-| Content |
-| --- |
-| ```text id="j1u9za" |
-| RIAH PATHWAY SECONDARY SCHOOL |
-|         ↓ |
-| RIAH CURRICULUM |
-|         + |
-| RIAH LEARNING PACKAGE |
-|         + |
-| EDMENTUM ECOSYSTEM |
-|         + |
-| HiSET MATERIALS |
-| WHERE APPLICABLE |
-|         ↓ |
-| GED / HSE PREPARATION |
-| ``` |
-
-| Content |
-| --- |
-| --- |
+---
 
 # 2. GED / HiSET PREPARATION + GENERAL EDUCATION STRUCTURE
 
@@ -206,48 +172,41 @@
 
 ## Component 2 — Concurrent General Education
 
-| Content |
-| --- |
-| Eligible GED/HSE students may concurrently pursue the four directly corresponding RIAH Pathway General Education courses: |
+| Component 2 — Concurrent General Education Component | Component 2 — Concurrent General Education Requirement |
+| --- | --- |
+| Eligible GED/HSE students may concurrently pursue the four directly corresponding RIAH Pathway General Education courses | Eligible GED/HSE students may concurrently pursue the four directly corresponding RIAH Pathway General Education courses: |
 
-| Content |
-| --- |
-| - **GED 101 → MAT 1010 — College Algebra — 3 Credits** |
-| - **GED 102 → ENG 1010 — College English — 3 Credits** |
-| - **GED 103 → SCI 1010 — Science — 3 Credits** |
-| - **GED 104 → HIS 1010 — History — 3 Credits** |
+| Course Code | Course / Credit Alignment |
+| --- | --- |
+| GED 101 | - **GED 101 → MAT 1010 — College Algebra — 3 Credits** |
+| GED 102 | - **GED 102 → ENG 1010 — College English — 3 Credits** |
+| GED 103 | - **GED 103 → SCI 1010 — Science — 3 Credits** |
+| GED 104 | - **GED 104 → HIS 1010 — History — 3 Credits** |
 
-| Content |
-| --- |
-| **Total Concurrent General Education Opportunity: 12 Credits** |
+| Component 2 — Concurrent General Education Component | Component 2 — Concurrent General Education Requirement |
+| --- | --- |
+| Total Concurrent General Education Opportunity | **Total Concurrent General Education Opportunity: 12 Credits** |
+| General Education | The GED Preparation credits and General Education credits remain academically separate. |
 
-| Content |
-| --- |
-| The GED Preparation credits and General Education credits remain academically separate. |
+```text id="f5t44z"
+GED / HiSET PREPARATION
+        ↓
+GED 101–104
+        ↓
+12 GED PREPARATION CREDITS
+        +
+CONCURRENT GENERAL EDUCATION
+│
+├── MAT 1010 — 3 CR
+├── ENG 1010 — 3 CR
+├── SCI 1010 — 3 CR
+└── HIS 1010 — 3 CR
+        ↓
+UP TO 12 CORRESPONDING
+GENERAL EDUCATION CREDITS
+```
 
-| Content |
-| --- |
-| ```text id="f5t44z" |
-| GED / HiSET PREPARATION |
-|         ↓ |
-| GED 101–104 |
-|         ↓ |
-| 12 GED PREPARATION CREDITS |
-|         + |
-| CONCURRENT GENERAL EDUCATION |
-| │ |
-| ├── MAT 1010 — 3 CR |
-| ├── ENG 1010 — 3 CR |
-| ├── SCI 1010 — 3 CR |
-| └── HIS 1010 — 3 CR |
-|         ↓ |
-| UP TO 12 CORRESPONDING |
-| GENERAL EDUCATION CREDITS |
-| ``` |
-
-| Content |
-| --- |
-| --- |
+---
 
 # 3. GED/HSE STUDENT LEARNING PACKAGE
 
@@ -266,127 +225,115 @@
 | **Edmentum Courseware** | General Education instructional content and courseware environment |
 | **State Add-On Learning Package** | Applicable state-specific requirements |
 
-| Content |
-| --- |
-| ```text id="cr4czr" |
-| GED / HSE STUDENT |
-|         ↓ |
-| RIAH LMS |
-| │ |
-| ├── RIAH Textbook |
-| ├── RIAH Workbook |
-| ├── RIAH Journal |
-| ├── RIAH Planner |
-| ├── RIAH Study Guide |
-| ├── RIAH Review Guide |
-| │ |
-| ├── EDMENTUM |
-| │   ├── GED/HSE Preparation Content |
-| │   ├── General Education Courseware |
-| │   └── Assessment / Learning Resources |
-| │ |
-| └── HiSET MATERIALS |
-|     └── Where Applicable |
-| ``` |
+```text id="cr4czr"
+GED / HSE STUDENT
+        ↓
+RIAH LMS
+│
+├── RIAH Textbook
+├── RIAH Workbook
+├── RIAH Journal
+├── RIAH Planner
+├── RIAH Study Guide
+├── RIAH Review Guide
+│
+├── EDMENTUM
+│   ├── GED/HSE Preparation Content
+│   ├── General Education Courseware
+│   └── Assessment / Learning Resources
+│
+└── HiSET MATERIALS
+    └── Where Applicable
+```
 
-| Content |
-| --- |
-| --- |
+---
 
 # 4. GED / HiSET ACADEMIC FLOW HIERARCHY
 
-| Content |
-| --- |
-| ```text id="6wcrjg" |
-| RIAH PATHWAY SECONDARY SCHOOL |
-|         ↓ |
-| GED / HSE PATHWAY |
-| │ |
-| ├── GED 101 — MATHEMATICS |
-| │   ├── Edmentum |
-| │   └── HiSET Mathematics Alignment |
-| │       Where Applicable |
-| │ |
-| ├── GED 102 — ENGLISH |
-| │   ├── Edmentum |
-| │   └── HiSET Reading + Writing Alignment |
-| │       Where Applicable |
-| │ |
-| ├── GED 103 — SCIENCE |
-| │   ├── Edmentum |
-| │   └── HiSET Science Alignment |
-| │       Where Applicable |
-| │ |
-| └── GED 104 — SOCIAL STUDIES |
-|     ├── Edmentum |
-|     └── HiSET Social Studies Alignment |
-|         Where Applicable |
-|         ↓ |
-| RIAH PROCTORED CHECKPOINTS |
-|         ↓ |
-| RIAH PROCTORED FINAL |
-|         ↓ |
-| PREPARATION COMPLETE |
-|         ↓ |
-| OFFICIAL CREDENTIALING |
-| SEPARATE FROM PREPARATION |
-| ``` |
+```text id="6wcrjg"
+RIAH PATHWAY SECONDARY SCHOOL
+        ↓
+GED / HSE PATHWAY
+│
+├── GED 101 — MATHEMATICS
+│   ├── Edmentum
+│   └── HiSET Mathematics Alignment
+│       Where Applicable
+│
+├── GED 102 — ENGLISH
+│   ├── Edmentum
+│   └── HiSET Reading + Writing Alignment
+│       Where Applicable
+│
+├── GED 103 — SCIENCE
+│   ├── Edmentum
+│   └── HiSET Science Alignment
+│       Where Applicable
+│
+└── GED 104 — SOCIAL STUDIES
+    ├── Edmentum
+    └── HiSET Social Studies Alignment
+        Where Applicable
+        ↓
+RIAH PROCTORED CHECKPOINTS
+        ↓
+RIAH PROCTORED FINAL
+        ↓
+PREPARATION COMPLETE
+        ↓
+OFFICIAL CREDENTIALING
+SEPARATE FROM PREPARATION
+```
 
-| Content |
-| --- |
-| --- |
+---
 
 # 5. GED / HiSET ACADEMIC PROGRESSION
 
 ## GED 101 — Mathematical Reasoning Preparation
 
-| Content |
-| --- |
-| **Edmentum Diagnostic / Preparation Assessment → 80%+ Test-Out OR Developmental/Remedial Mathematics → RIAH Curriculum → Proctored Checkpoint → Proctored Final → GED 101 Complete** |
+| GED 101 — Mathematical Reasoning Preparation Component | GED 101 — Mathematical Reasoning Preparation Requirement |
+| --- | --- |
+| Edmentum | **Edmentum Diagnostic / Preparation Assessment → 80%+ Test-Out OR Developmental/Remedial Mathematics → RIAH Curriculum → Proctored Checkpoint → Proctored Final → GED 101 Complete** |
 
 ## GED 102 — Reasoning Through Language Arts Preparation
 
-| Content |
-| --- |
-| **Edmentum Diagnostic / Preparation Assessment → 80%+ Test-Out OR Developmental English → RIAH Curriculum → Proctored Checkpoint → Proctored Final → GED 102 Complete** |
+| GED 102 — Reasoning Through Language Arts Preparation Component | GED 102 — Reasoning Through Language Arts Preparation Requirement |
+| --- | --- |
+| Edmentum | **Edmentum Diagnostic / Preparation Assessment → 80%+ Test-Out OR Developmental English → RIAH Curriculum → Proctored Checkpoint → Proctored Final → GED 102 Complete** |
 
 ## GED 103 — Science Preparation
 
-| Content |
-| --- |
-| **Edmentum Science Pre-Assessment → 80%+ Test-Out OR Science Preparation → RIAH Curriculum → Proctored Checkpoint → Proctored Final → GED 103 Complete** |
+| GED 103 — Science Preparation Component | GED 103 — Science Preparation Requirement |
+| --- | --- |
+| Edmentum | **Edmentum Science Pre-Assessment → 80%+ Test-Out OR Science Preparation → RIAH Curriculum → Proctored Checkpoint → Proctored Final → GED 103 Complete** |
 
 ## GED 104 — Social Studies Preparation
 
-| Content |
-| --- |
-| **Edmentum Social Studies Pre-Assessment → 80%+ Test-Out OR Social Studies Preparation → RIAH Curriculum → Proctored Checkpoint → Proctored Final → GED 104 Complete** |
+| GED 104 — Social Studies Preparation Component | GED 104 — Social Studies Preparation Requirement |
+| --- | --- |
+| Edmentum | **Edmentum Social Studies Pre-Assessment → 80%+ Test-Out OR Social Studies Preparation → RIAH Curriculum → Proctored Checkpoint → Proctored Final → GED 104 Complete** |
 
-| Content |
-| --- |
-| ```text id="8gxgm7" |
-| DIAGNOSTIC |
-|         ↓ |
-| 80% TEST-OUT |
-|    OR |
-| PREPARATION / REMEDIATION |
-|         ↓ |
-| RIAH CURRICULUM |
-|         ↓ |
-| PROCTORED CHECKPOINT |
-|         ↓ |
-| 80% MINIMUM |
-|         ↓ |
-| PROCTORED FINAL |
-|         ↓ |
-| 80% MINIMUM |
-|         ↓ |
-| PREPARATION COMPLETE |
-| ``` |
+```text id="8gxgm7"
+DIAGNOSTIC
+        ↓
+80% TEST-OUT
+   OR
+PREPARATION / REMEDIATION
+        ↓
+RIAH CURRICULUM
+        ↓
+PROCTORED CHECKPOINT
+        ↓
+80% MINIMUM
+        ↓
+PROCTORED FINAL
+        ↓
+80% MINIMUM
+        ↓
+PREPARATION COMPLETE
+```
 
-| Content |
-| --- |
-| --- |
+---
 
 # 6. GED / HiSET ASSESSMENT + PROCTORING MODEL
 
@@ -400,27 +347,23 @@
 | **Regular Course Final** | **80%** | **Unlimited within semester** | **Proctored** |
 | **OA / Objective Assessment** | Applicable RIAH standard | Applicable course policy | **Proctored** |
 
-| Content |
-| --- |
-| ```text id="1y7xyi" |
-| RIAH COURSE / PREPARATION |
-|         ↓ |
-| PROCTORED ASSESSMENTS |
-| │ |
-| ├── Placement / Diagnostic |
-| ├── OA / Objective Assessment |
-| ├── Checkpoint / Midterm |
-| └── Final |
-|         ↓ |
-| 80% MASTERY |
-|         ↓ |
-| PREPARATION / COURSE |
-| REQUIREMENT COMPLETE |
-| ``` |
+```text id="1y7xyi"
+RIAH COURSE / PREPARATION
+        ↓
+PROCTORED ASSESSMENTS
+│
+├── Placement / Diagnostic
+├── OA / Objective Assessment
+├── Checkpoint / Midterm
+└── Final
+        ↓
+80% MASTERY
+        ↓
+PREPARATION / COURSE
+REQUIREMENT COMPLETE
+```
 
-| Content |
-| --- |
-| --- |
+---
 
 # 7. GENERAL EDUCATION PLACEMENT / TEST-OUT SYSTEM
 
@@ -439,41 +382,37 @@
 
 ### Placement/Test-Out Policy
 
-| Content |
-| --- |
-| - **Maximum 3 attempts** |
-| - **Minimum 24 hours between attempts** |
-| - **Proctored** |
-| - **No academic penalty for unsuccessful test-out** |
-| - **After 3 unsuccessful attempts: complete the RIAH course** |
+| Assessment Rule | Assessment Requirement |
+| --- | --- |
+| Maximum 3 attempts | - **Maximum 3 attempts** |
+| Minimum 24 hours between attempts | - **Minimum 24 hours between attempts** |
+| Proctored | - **Proctored** |
+| No academic penalty for unsuccessful test-out | - **No academic penalty for unsuccessful test-out** |
+| After 3 unsuccessful attempts: complete the RIAH course | - **After 3 unsuccessful attempts: complete the RIAH course** |
 
-| Content |
-| --- |
-| ```text id="d7rzhw" |
-| PROCTORED TEST-OUT |
-|         ↓ |
-| ATTEMPT 1 |
-|         ↓ |
-| PASS? ── YES → REQUIREMENT SATISFIED |
-|         ↓ NO |
-| 24 HOURS |
-|         ↓ |
-| ATTEMPT 2 |
-|         ↓ |
-| PASS? ── YES → REQUIREMENT SATISFIED |
-|         ↓ NO |
-| 24 HOURS |
-|         ↓ |
-| ATTEMPT 3 |
-|         ↓ |
-| PASS? ── YES → REQUIREMENT SATISFIED |
-|         ↓ NO |
-| COMPLETE RIAH COURSE |
-| ``` |
+```text id="d7rzhw"
+PROCTORED TEST-OUT
+        ↓
+ATTEMPT 1
+        ↓
+PASS? ── YES → REQUIREMENT SATISFIED
+        ↓ NO
+24 HOURS
+        ↓
+ATTEMPT 2
+        ↓
+PASS? ── YES → REQUIREMENT SATISFIED
+        ↓ NO
+24 HOURS
+        ↓
+ATTEMPT 3
+        ↓
+PASS? ── YES → REQUIREMENT SATISFIED
+        ↓ NO
+COMPLETE RIAH COURSE
+```
 
-| Content |
-| --- |
-| --- |
+---
 
 # 8. GED + GENERAL EDUCATION CONCURRENT ACCELERATION
 
@@ -485,24 +424,20 @@
 | **GED 104 — Social Studies** | **3** | **HIS 1010 — History** | **3** |
 | **TOTAL** | **12** | **TOTAL** | **12** |
 
-| Content |
-| --- |
-| ```text id="3b3sw3" |
-| GED 101–104 |
-|         ↓ |
-| 12 GED PREPARATION CREDITS |
-|         + |
-| CONCURRENT |
-| GENERAL EDUCATION |
-|         ↓ |
-| MAT + ENG + SCI + HIS |
-|         ↓ |
-| UP TO 12 GE CREDITS |
-| ``` |
+```text id="3b3sw3"
+GED 101–104
+        ↓
+12 GED PREPARATION CREDITS
+        +
+CONCURRENT
+GENERAL EDUCATION
+        ↓
+MAT + ENG + SCI + HIS
+        ↓
+UP TO 12 GE CREDITS
+```
 
-| Content |
-| --- |
-| --- |
+---
 
 # 9. EDMENTUM + HiSET PREPARATION MAPPING
 
@@ -513,26 +448,22 @@
 | **GED 103** | Science Preparation Content | Science | Complete RIAH learning package + proctored assessments |
 | **GED 104** | Social Studies Preparation Content | Social Studies | Complete RIAH learning package + proctored assessments |
 
-| Content |
-| --- |
-| ```text id="wr1srx" |
-| EDMENTUM |
-|         + |
-| HiSET MATERIALS |
-| WHERE APPLICABLE |
-|         ↓ |
-| RIAH CURRICULUM |
-|         ↓ |
-| RIAH LEARNING PACKAGE |
-|         ↓ |
-| PROCTORED ASSESSMENTS |
-|         ↓ |
-| PREPARATION COMPLETE |
-| ``` |
+```text id="wr1srx"
+EDMENTUM
+        +
+HiSET MATERIALS
+WHERE APPLICABLE
+        ↓
+RIAH CURRICULUM
+        ↓
+RIAH LEARNING PACKAGE
+        ↓
+PROCTORED ASSESSMENTS
+        ↓
+PREPARATION COMPLETE
+```
 
-| Content |
-| --- |
-| --- |
+---
 
 # 10. GED 101–104 + 12-CREDIT CORRESPONDING GENERAL EDUCATION
 
@@ -544,180 +475,156 @@
 | **GED 104** | **3** | **HIS 1010** | **3** |
 | **TOTAL** | **12** | **TOTAL** | **12** |
 
-| Content |
-| --- |
-| --- |
+---
 
 # 11. PRE-ADMISSION + ALTERNATIVE-CREDIT WINDOW
 
-| Content |
-| --- |
-| Applicable sources may include: |
+| PRE-ADMISSION + ALTERNATIVE-CREDIT WINDOW Component | PRE-ADMISSION + ALTERNATIVE-CREDIT WINDOW Requirement |
+| --- | --- |
+| Applicable sources may include | Applicable sources may include: |
 
-| Content |
-| --- |
-| - **Sophia Learning** |
-| - **StraighterLine** |
-| - **Accredited College Transfer** |
-| - **AP** |
-| - **IB** |
-| - **CLEP** |
-| - **ACT** |
-| - **SAT** |
-| - **Other applicable approved alternative-credit sources** |
-| - **RIAH Placement/Test-Out Assessment** |
+| Credit Source | Credit Eligibility |
+| --- | --- |
+| Sophia Learning | - **Sophia Learning** |
+| StraighterLine | - **StraighterLine** |
+| Accredited College Transfer | - **Accredited College Transfer** |
+| AP | - **AP** |
+| IB | - **IB** |
+| CLEP | - **CLEP** |
+| ACT | - **ACT** |
+| SAT | - **SAT** |
+| Other applicable approved alternative-credit sources | - **Other applicable approved alternative-credit sources** |
+| RIAH Placement/Test-Out Assessment | - **RIAH Placement/Test-Out Assessment** |
 
-| Content |
-| --- |
-| **RIAH Curriculum is not an alternative-credit source.** |
+| PRE-ADMISSION + ALTERNATIVE-CREDIT WINDOW Component | PRE-ADMISSION + ALTERNATIVE-CREDIT WINDOW Requirement |
+| --- | --- |
+| Curriculum | **RIAH Curriculum is not an alternative-credit source.** |
+| Curriculum | Sophia Learning remains an external alternative-credit source and is not embedded within the RIAH curriculum. |
 
-| Content |
-| --- |
-| Sophia Learning remains an external alternative-credit source and is not embedded within the RIAH curriculum. |
+```text id="x8ad3d"
+EXTERNAL CREDIT
+        OR
+RIAH PROCTORED TEST-OUT
+        ↓
+RIAH EVALUATION
+        ↓
+GENERAL EDUCATION
+        +
+SCHOOL CORE
+        ↓
+YEAR 3 / MAJOR
+```
 
-| Content |
-| --- |
-| ```text id="x8ad3d" |
-| EXTERNAL CREDIT |
-|         OR |
-| RIAH PROCTORED TEST-OUT |
-|         ↓ |
-| RIAH EVALUATION |
-|         ↓ |
-| GENERAL EDUCATION |
-|         + |
-| SCHOOL CORE |
-|         ↓ |
-| YEAR 3 / MAJOR |
-| ``` |
-
-| Content |
-| --- |
-| --- |
+---
 
 # 12. SCHOOL CORE ALTERNATIVE CREDIT + PLACEMENT / TEST-OUT
 
-| Content |
-| --- |
-| This structure applies to: |
+| Assessment Component | Assessment Requirement |
+| --- | --- |
+| This structure applies to | This structure applies to: |
 
-| Content |
-| --- |
-| - **RIAH Pathway School of Business** |
-| - **RIAH Pathway School of Technology** |
-| - **RIAH Pathway School of Law** |
-| - **RIAH Pathway School of Homeland Security** |
+| Credit Source | Credit Eligibility |
+| --- | --- |
+| RIAH Pathway School of Business | - **RIAH Pathway School of Business** |
+| RIAH Pathway School of Technology | - **RIAH Pathway School of Technology** |
+| RIAH Pathway School of Law | - **RIAH Pathway School of Law** |
+| RIAH Pathway School of Homeland Security | - **RIAH Pathway School of Homeland Security** |
 
-| Content |
-| --- |
-| Students may satisfy applicable requirements through accepted transfer/alternative credit or applicable RIAH proctored placement/test-out assessments. |
+| Assessment Component | Assessment Requirement |
+| --- | --- |
+| Student Eligibility | Students may satisfy applicable requirements through accepted transfer/alternative credit or applicable RIAH proctored placement/test-out assessments. |
 
-| Content |
-| --- |
-| ```text id="3vtjj6" |
-| RIAH PATHWAY |
-|         ↓ |
-| SCHOOL CORE |
-| │ |
-| ├── School of Business |
-| ├── School of Technology |
-| ├── School of Law |
-| └── School of Homeland Security |
-|         ↓ |
-| TRANSFER / ALTERNATIVE CREDIT |
-|         OR |
-| PROCTORED TEST-OUT |
-|         ↓ |
-| MAXIMUM 3 ATTEMPTS |
-|         ↓ |
-| NOT PASSED |
-|         ↓ |
-| COMPLETE RIAH COURSE |
-| ``` |
+```text id="3vtjj6"
+RIAH PATHWAY
+        ↓
+SCHOOL CORE
+│
+├── School of Business
+├── School of Technology
+├── School of Law
+└── School of Homeland Security
+        ↓
+TRANSFER / ALTERNATIVE CREDIT
+        OR
+PROCTORED TEST-OUT
+        ↓
+MAXIMUM 3 ATTEMPTS
+        ↓
+NOT PASSED
+        ↓
+COMPLETE RIAH COURSE
+```
 
-| Content |
-| --- |
-| --- |
+---
 
 # 13. COURSE COMPLETION AFTER TEST-OUT ATTEMPTS
 
-| Content |
-| --- |
-| ```text id="k4t6wv" |
-| 3 UNSUCCESSFUL |
-| PROCTORED TEST-OUT ATTEMPTS |
-|         ↓ |
-| RIAH COURSE |
-|         ↓ |
-| RIAH LEARNING PACKAGE |
-|         + |
-| EDMENTUM / |
-| APPLICABLE DIGITAL RESOURCES |
-|         ↓ |
-| PROCTORED CHECKPOINTS |
-|         ↓ |
-| 80% MINIMUM |
-|         ↓ |
-| PROCTORED FINAL |
-|         ↓ |
-| 80% MINIMUM |
-|         ↓ |
-| COURSE COMPLETE |
-| ``` |
+```text id="k4t6wv"
+3 UNSUCCESSFUL
+PROCTORED TEST-OUT ATTEMPTS
+        ↓
+RIAH COURSE
+        ↓
+RIAH LEARNING PACKAGE
+        +
+EDMENTUM /
+APPLICABLE DIGITAL RESOURCES
+        ↓
+PROCTORED CHECKPOINTS
+        ↓
+80% MINIMUM
+        ↓
+PROCTORED FINAL
+        ↓
+80% MINIMUM
+        ↓
+COURSE COMPLETE
+```
 
-| Content |
-| --- |
-| --- |
+---
 
 # 14. REGULAR COURSE CHECKPOINTS + FINALS
 
-| Content |
-| --- |
-| The three-attempt limitation applies **only to placement/test-out assessments**. |
+| Assessment Component | Assessment Requirement |
+| --- | --- |
+| REGULAR COURSE CHECKPOINTS + FINALS | The three-attempt limitation applies **only to placement/test-out assessments**. |
+| Regular course checkpoints and finals | Regular course checkpoints and finals: |
 
-| Content |
-| --- |
-| Regular course checkpoints and finals: |
+| Assessment Rule | Assessment Requirement |
+| --- | --- |
+| 80% minimum | - **80% minimum** |
+| Proctored | - **Proctored** |
+| Unlimited attempts within the applicable six-month semester | - **Unlimited attempts within the applicable six-month semester** |
 
-| Content |
-| --- |
-| - **80% minimum** |
-| - **Proctored** |
-| - **Unlimited attempts within the applicable six-month semester** |
+```text id="frhy6g"
+RIAH COURSE
+        ↓
+PROCTORED CHECKPOINT
+        ↓
+80%+
+│
+├── YES → CONTINUE
+└── NO → REVIEW + RETAKE
+         ↓
+    UNLIMITED WITHIN SEMESTER
+        ↓
+PROCTORED FINAL
+        ↓
+80%+
+│
+├── YES → COURSE COMPLETE
+└── NO → REVIEW + RETAKE
+         ↓
+    UNLIMITED WITHIN SEMESTER
+```
 
-| Content |
-| --- |
-| ```text id="frhy6g" |
-| RIAH COURSE |
-|         ↓ |
-| PROCTORED CHECKPOINT |
-|         ↓ |
-| 80%+ |
-| │ |
-| ├── YES → CONTINUE |
-| └── NO → REVIEW + RETAKE |
-|          ↓ |
-|     UNLIMITED WITHIN SEMESTER |
-|         ↓ |
-| PROCTORED FINAL |
-|         ↓ |
-| 80%+ |
-| │ |
-| ├── YES → COURSE COMPLETE |
-| └── NO → REVIEW + RETAKE |
-|          ↓ |
-|     UNLIMITED WITHIN SEMESTER |
-| ``` |
-
-| Content |
-| --- |
-| --- |
+---
 
 # 15. SIX-MONTH SEMESTER + ASSESSMENT ATTEMPTS
 
-| Content |
-| --- |
-| RIAH operates using **two six-month semesters per academic year**. |
+| Academic Component | Credit / Semester Requirement |
+| --- | --- |
+| SIX-MONTH SEMESTER + ASSESSMENT ATTEMPTS | RIAH operates using **two six-month semesters per academic year**. |
 
 | Assessment | Attempts | Proctored | Rule |
 | --- | --- | --- | --- |
@@ -728,129 +635,116 @@
 | **GED/HSE Prep Final** | **Unlimited** | **Yes** | Within six-month semester |
 | **OA / Objective Assessment** | Applicable RIAH policy | **Yes** | Applicable course structure |
 
-| Content |
-| --- |
-| --- |
+---
 
 # 16. PREPARATION SEPARATE FROM OFFICIAL CREDENTIALING
 
-| Content |
-| --- |
-| RIAH Pathway Secondary School provides the **GED/HSE Preparation pathway**. |
+| PREPARATION SEPARATE FROM OFFICIAL CREDENTIALING Component | PREPARATION SEPARATE FROM OFFICIAL CREDENTIALING Requirement |
+| --- | --- |
+| Preparation | RIAH Pathway Secondary School provides the **GED/HSE Preparation pathway**. |
+| Preparation | Preparation and official credentialing remain separate. |
 
-| Content |
-| --- |
-| Preparation and official credentialing remain separate. |
+```text id="6we6b2"
+RIAH PATHWAY
+SECONDARY SCHOOL
+        ↓
+GED / HSE PREPARATION
+        ↓
+RIAH CURRICULUM
+        +
+EDMENTUM
+        +
+HiSET MATERIALS
+WHERE APPLICABLE
+        ↓
+RIAH PROCTORED
+PREPARATION ASSESSMENTS
+        ↓
+PREPARATION COMPLETE
+        ↓
+────────────────────
+SEPARATE CREDENTIALING
+────────────────────
+        ↓
+APPLICABLE OFFICIAL
+GED / HSE PROCESS
+        ↓
+OFFICIAL HSE CREDENTIAL
+UNDER APPLICABLE
+JURISDICTION REQUIREMENTS
+```
 
-| Content |
-| --- |
-| ```text id="6we6b2" |
-| RIAH PATHWAY |
-| SECONDARY SCHOOL |
-|         ↓ |
-| GED / HSE PREPARATION |
-|         ↓ |
-| RIAH CURRICULUM |
-|         + |
-| EDMENTUM |
-|         + |
-| HiSET MATERIALS |
-| WHERE APPLICABLE |
-|         ↓ |
-| RIAH PROCTORED |
-| PREPARATION ASSESSMENTS |
-|         ↓ |
-| PREPARATION COMPLETE |
-|         ↓ |
-| ──────────────────── |
-| SEPARATE CREDENTIALING |
-| ──────────────────── |
-|         ↓ |
-| APPLICABLE OFFICIAL |
-| GED / HSE PROCESS |
-|         ↓ |
-| OFFICIAL HSE CREDENTIAL |
-| UNDER APPLICABLE |
-| JURISDICTION REQUIREMENTS |
-| ``` |
-
-| Content |
-| --- |
-| --- |
+---
 
 # 17. RIAH PATHWAY SECONDARY SCHOOL — TWO SECONDARY PATHWAYS
 
-| Content |
-| --- |
-| RIAH Pathway Secondary School offers: |
+| RIAH PATHWAY SECONDARY SCHOOL — TWO SECONDARY PATHWAYS Component | RIAH PATHWAY SECONDARY SCHOOL — TWO SECONDARY PATHWAYS Requirement |
+| --- | --- |
+| RIAH Pathway Secondary School offers | RIAH Pathway Secondary School offers: |
 
 ### High School Diploma Pathway
 
-| Content |
-| --- |
-| For students seeking: |
+| High School Diploma Pathway Component | High School Diploma Pathway Requirement |
+| --- | --- |
+| For students seeking | For students seeking: |
 
-| Content |
-| --- |
-| - Traditional Grades 9–12 education |
-| - Complete high-school curriculum |
-| - High-school transcript |
-| - Course grades |
-| - GPA |
-| - High-school diploma |
-| - Concurrent college-level coursework where applicable |
-| - Preparation for RIAH Pathway or other postsecondary institutions |
+| Pathway Component | Pathway Requirement |
+| --- | --- |
+| Traditional Grades 9–12 education | - Traditional Grades 9–12 education |
+| Complete high-school curriculum | - Complete high-school curriculum |
+| High-school transcript | - High-school transcript |
+| Course grades | - Course grades |
+| GPA | - GPA |
+| High-school diploma | - High-school diploma |
+| Concurrent college-level coursework where applicable | - Concurrent college-level coursework where applicable |
+| Preparation for RIAH Pathway or other postsecondary institutions | - Preparation for RIAH Pathway or other postsecondary institutions |
 
 ### GED/HSE Preparation Pathway
 
-| Content |
-| --- |
-| For students seeking: |
+| GED/HSE Preparation Pathway Component | GED/HSE Preparation Pathway Requirement |
+| --- | --- |
+| For students seeking | For students seeking: |
 
-| Content |
-| --- |
-| - Alternative high-school-equivalency preparation |
-| - GED/HSE preparation |
-| - 12 GED Preparation credits |
-| - Up to 12 corresponding concurrent General Education credits |
-| - Continuation into RIAH Pathway |
-| - Admission to other postsecondary institutions accepting the applicable HSE credential |
+| Pathway Component | Pathway Requirement |
+| --- | --- |
+| Alternative high-school-equivalency preparation | - Alternative high-school-equivalency preparation |
+| GED/HSE preparation | - GED/HSE preparation |
+| 12 GED Preparation credits | - 12 GED Preparation credits |
+| Up to 12 corresponding concurrent General Education credits | - Up to 12 corresponding concurrent General Education credits |
+| Continuation into RIAH Pathway | - Continuation into RIAH Pathway |
+| Admission to other postsecondary institutions accepting the applicable HSE credential | - Admission to other postsecondary institutions accepting the applicable HSE credential |
 
-| Content |
-| --- |
-| ```text id="cvahpd" |
-| RIAH PATHWAY |
-| SECONDARY SCHOOL |
-|         ↓ |
-| STUDENT PATHWAY |
-| │ |
-| ├─────────────────────────┐ |
-| │                         │ |
-| ▼                         ▼ |
-| HIGH SCHOOL               GED / HSE |
-| DIPLOMA                   PREPARATION |
-| │                         │ |
-| Grades 9–12               GED 101–104 |
-| │                         │ |
-| Transcript                12 GED Prep Credits |
-| + GPA                     │ |
-| │                         Concurrent GE |
-| Concurrent                Up to 12 Credits |
-| College-Level             │ |
-| Coursework                │ |
-| │                         │ |
-| ▼                         ▼ |
-| HIGH SCHOOL               SEPARATE OFFICIAL |
-| DIPLOMA                   HSE CREDENTIALING |
-| ``` |
+```text id="cvahpd"
+RIAH PATHWAY
+SECONDARY SCHOOL
+        ↓
+STUDENT PATHWAY
+│
+├─────────────────────────┐
+│                         │
+▼                         ▼
+HIGH SCHOOL               GED / HSE
+DIPLOMA                   PREPARATION
+│                         │
+Grades 9–12               GED 101–104
+│                         │
+Transcript                12 GED Prep Credits
++ GPA                     │
+│                         Concurrent GE
+Concurrent                Up to 12 Credits
+College-Level             │
+Coursework                │
+│                         │
+▼                         ▼
+HIGH SCHOOL               SEPARATE OFFICIAL
+DIPLOMA                   HSE CREDENTIALING
+```
 
-| Content |
-| --- |
-| --- |
+---
 
 # 18. HIGH SCHOOL DIPLOMA VS. GED/HSE PATHWAY BENEFITS
 
-|  | **RIAH Pathway High School Diploma** | **RIAH Pathway GED/HSE Preparation** |
+| Pathway Benefit | **RIAH Pathway High School Diploma** | **RIAH Pathway GED/HSE Preparation** |
 | --- | --- | --- |
 | **School** | RIAH Pathway Secondary School | RIAH Pathway Secondary School |
 | **Primary Purpose** | Traditional secondary education | Alternative HSE preparation |
@@ -866,176 +760,165 @@
 
 ### High School Diploma Student
 
-| Content |
-| --- |
-| Designed for students who want a traditional high-school diploma and may intend to apply to institutions requiring a diploma, specified secondary coursework, or a traditional high-school academic record. |
+| High School Diploma Student Component | High School Diploma Student Requirement |
+| --- | --- |
+| Student Eligibility | Designed for students who want a traditional high-school diploma and may intend to apply to institutions requiring a diploma, specified secondary coursework, or a traditional high-school academic record. |
 
 ### GED/HSE Student
 
-| Content |
-| --- |
-| Designed for students who want the HSE pathway and intend to continue through RIAH Pathway or apply to another institution accepting the applicable HSE credential. |
+| GED/HSE Student Component | GED/HSE Student Requirement |
+| --- | --- |
+| Student Eligibility | Designed for students who want the HSE pathway and intend to continue through RIAH Pathway or apply to another institution accepting the applicable HSE credential. |
 
-| Content |
-| --- |
-| ```text id="9przfp" |
-| STUDENT'S POSTSECONDARY GOAL |
-|         ↓ |
-| ┌──────────────────────────────┬──────────────────────────────┐ |
-| │                              │                              │ |
-| ▼                              ▼ |
-| TRADITIONAL                    GED / HSE |
-| DIPLOMA ROUTE                  ROUTE |
-| │                              │ |
-| RIAH PATHWAY                   RIAH PATHWAY |
-| SECONDARY SCHOOL               SECONDARY SCHOOL |
-| │                              │ |
-| Grades 9–12                    GED 101–104 |
-| │                              │ |
-| Transcript + GPA               12 GED Prep Credits |
-| │                              │ |
-| Concurrent                    Concurrent |
-| College-Level                  GE Option |
-| Coursework                     Up to 12 Credits |
-| │                              │ |
-| ▼                              ▼ |
-| HIGH SCHOOL                    OFFICIAL HSE |
-| DIPLOMA                        CREDENTIALING |
-| │                              │ |
-| ├─────────────┐                ├─────────────┐ |
-| ▼             ▼                ▼             ▼ |
-| RIAH        OTHER            RIAH          OTHER |
-| PATHWAY     POSTSECONDARY    PATHWAY       POSTSECONDARY |
-|             INSTITUTION                    INSTITUTION |
-|                                            ACCEPTING HSE |
-| ``` |
+```text id="9przfp"
+STUDENT'S POSTSECONDARY GOAL
+        ↓
+┌──────────────────────────────┬──────────────────────────────┐
+│                              │                              │
+▼                              ▼
+TRADITIONAL                    GED / HSE
+DIPLOMA ROUTE                  ROUTE
+│                              │
+RIAH PATHWAY                   RIAH PATHWAY
+SECONDARY SCHOOL               SECONDARY SCHOOL
+│                              │
+Grades 9–12                    GED 101–104
+│                              │
+Transcript + GPA               12 GED Prep Credits
+│                              │
+Concurrent                    Concurrent
+College-Level                  GE Option
+Coursework                     Up to 12 Credits
+│                              │
+▼                              ▼
+HIGH SCHOOL                    OFFICIAL HSE
+DIPLOMA                        CREDENTIALING
+│                              │
+├─────────────┐                ├─────────────┐
+▼             ▼                ▼             ▼
+RIAH        OTHER            RIAH          OTHER
+PATHWAY     POSTSECONDARY    PATHWAY       POSTSECONDARY
+            INSTITUTION                    INSTITUTION
+                                           ACCEPTING HSE
+```
 
-| Content |
-| --- |
-| --- |
+---
 
 # 19. POST-SECONDARY PATHWAY
 
 ## High School Diploma Route
 
-| Content |
-| --- |
-| ```text id="4hrk4y" |
-| RIAH PATHWAY |
-| SECONDARY SCHOOL |
-|         ↓ |
-| HIGH SCHOOL DIPLOMA |
-|         ↓ |
-| CONCURRENT COLLEGE-LEVEL |
-| CREDIT WHERE APPLICABLE |
-|         ↓ |
-| STUDENT CHOOSES |
-| │ |
-| ├── RIAH PATHWAY |
-| │   ├── School of Business |
-| │   ├── School of Technology |
-| │   ├── School of Law |
-| │   └── School of Homeland Security |
-| │ |
-| └── OTHER POSTSECONDARY |
-|     INSTITUTION |
-| ``` |
+```text id="4hrk4y"
+RIAH PATHWAY
+SECONDARY SCHOOL
+        ↓
+HIGH SCHOOL DIPLOMA
+        ↓
+CONCURRENT COLLEGE-LEVEL
+CREDIT WHERE APPLICABLE
+        ↓
+STUDENT CHOOSES
+│
+├── RIAH PATHWAY
+│   ├── School of Business
+│   ├── School of Technology
+│   ├── School of Law
+│   └── School of Homeland Security
+│
+└── OTHER POSTSECONDARY
+    INSTITUTION
+```
 
 ## GED/HSE Route
 
-| Content |
-| --- |
-| ```text id="q3rzac" |
-| RIAH PATHWAY |
-| SECONDARY SCHOOL |
-|         ↓ |
-| GED / HSE PREPARATION |
-|         ↓ |
-| 12 GED PREPARATION CREDITS |
-|         + |
-| UP TO 12 CONCURRENT |
-| GENERAL EDUCATION CREDITS |
-|         ↓ |
-| SEPARATE OFFICIAL |
-| HSE CREDENTIALING |
-|         ↓ |
-| STUDENT CHOOSES |
-| │ |
-| ├── RIAH PATHWAY |
-| │   ├── School of Business |
-| │   ├── School of Technology |
-| │   ├── School of Law |
-| │   └── School of Homeland Security |
-| │ |
-| └── OTHER POSTSECONDARY |
-|     INSTITUTION ACCEPTING |
-|     APPLICABLE HSE CREDENTIAL |
-| ``` |
+```text id="q3rzac"
+RIAH PATHWAY
+SECONDARY SCHOOL
+        ↓
+GED / HSE PREPARATION
+        ↓
+12 GED PREPARATION CREDITS
+        +
+UP TO 12 CONCURRENT
+GENERAL EDUCATION CREDITS
+        ↓
+SEPARATE OFFICIAL
+HSE CREDENTIALING
+        ↓
+STUDENT CHOOSES
+│
+├── RIAH PATHWAY
+│   ├── School of Business
+│   ├── School of Technology
+│   ├── School of Law
+│   └── School of Homeland Security
+│
+└── OTHER POSTSECONDARY
+    INSTITUTION ACCEPTING
+    APPLICABLE HSE CREDENTIAL
+```
 
-| Content |
-| --- |
-| --- |
+---
 
 # 20. COMPLETE RIAH PATHWAY SECONDARY SCHOOL → RIAH PATHWAY FLOW
 
-| Content |
-| --- |
-| ```text id="6ah9zz" |
-| RIAH PATHWAY |
-| SECONDARY SCHOOL |
-|         ↓ |
-| STUDENT SELECTS PATHWAY |
-| │ |
-| ├─────────────────────────────────┐ |
-| │                                 │ |
-| ▼                                 ▼ |
-| HIGH SCHOOL                       GED / HSE |
-| DIPLOMA                           PREPARATION |
-| │                                 │ |
-| GRADES 9–12                       GED 101–104 |
-| │                                 │ |
-| FULL HIGH SCHOOL                  McGRAW HILL |
-| CURRICULUM                        + |
-| │                                 HiSET MATERIALS |
-| TRANSCRIPT + GPA                  WHERE APPLICABLE |
-| │                                 │ |
-| CONCURRENT                        RIAH PROCTORED |
-| COLLEGE-LEVEL                     CHECKPOINTS |
-| COURSEWORK                        + |
-| WHERE APPLICABLE                  FINALS |
-| │                                 │ |
-| HIGH SCHOOL                       80% MINIMUM |
-| DIPLOMA                           │ |
-| │                                 12 GED PREP CREDITS |
-| │                                 + |
-| │                                 UP TO 12 CONCURRENT |
-| │                                 GE CREDITS |
-| │                                 │ |
-| │                                 PREPARATION COMPLETE |
-| │                                 │ |
-| │                                 SEPARATE OFFICIAL |
-| │                                 HSE CREDENTIALING |
-| │                                 │ |
-| └────────────────┬────────────────┘ |
-|                  ↓ |
-|         POSTSECONDARY PATH |
-|                  ↓ |
-|       ┌──────────┴──────────┐ |
-|       │                     │ |
-|       ▼                     ▼ |
-| RIAH PATHWAY          OTHER POSTSECONDARY |
-|       │                INSTITUTION |
-|       │ |
-|       ├── School of Business |
-|       ├── School of Technology |
-|       ├── School of Law |
-|       └── School of Homeland Security |
-|                  ↓ |
-|       GENERAL EDUCATION |
-|                  ↓ |
-|           SCHOOL CORE |
-|                  ↓ |
-|      YEAR 3 / MAJOR PATHWAY |
-|                  ↓ |
-|         MAJOR COURSEWORK |
-| ``` |
+```text id="6ah9zz"
+RIAH PATHWAY
+SECONDARY SCHOOL
+        ↓
+STUDENT SELECTS PATHWAY
+│
+├─────────────────────────────────┐
+│                                 │
+▼                                 ▼
+HIGH SCHOOL                       GED / HSE
+DIPLOMA                           PREPARATION
+│                                 │
+GRADES 9–12                       GED 101–104
+│                                 │
+FULL HIGH SCHOOL                  McGRAW HILL
+CURRICULUM                        +
+│                                 HiSET MATERIALS
+TRANSCRIPT + GPA                  WHERE APPLICABLE
+│                                 │
+CONCURRENT                        RIAH PROCTORED
+COLLEGE-LEVEL                     CHECKPOINTS
+COURSEWORK                        +
+WHERE APPLICABLE                  FINALS
+│                                 │
+HIGH SCHOOL                       80% MINIMUM
+DIPLOMA                           │
+│                                 12 GED PREP CREDITS
+│                                 +
+│                                 UP TO 12 CONCURRENT
+│                                 GE CREDITS
+│                                 │
+│                                 PREPARATION COMPLETE
+│                                 │
+│                                 SEPARATE OFFICIAL
+│                                 HSE CREDENTIALING
+│                                 │
+└────────────────┬────────────────┘
+                 ↓
+        POSTSECONDARY PATH
+                 ↓
+      ┌──────────┴──────────┐
+      │                     │
+      ▼                     ▼
+RIAH PATHWAY          OTHER POSTSECONDARY
+      │                INSTITUTION
+      │
+      ├── School of Business
+      ├── School of Technology
+      ├── School of Law
+      └── School of Homeland Security
+                 ↓
+      GENERAL EDUCATION
+                 ↓
+          SCHOOL CORE
+                 ↓
+     YEAR 3 / MAJOR PATHWAY
+                 ↓
+        MAJOR COURSEWORK
+```
+
