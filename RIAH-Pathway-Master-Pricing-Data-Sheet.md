@@ -131,7 +131,7 @@ Academic Standard Tuition establishes the 100% standard tuition amount for each 
 | Pricing Category | Standard 100% Amount | Unit |
 |:---|---:|:---|
 | GED and HSE | \$1,500 | Total Program — includes 12 concurrent college General Education credits across College English, College Math, History, and Science; applicable completed coursework converts into General Education college credit while GED and HSE preparation is completed concurrently |
-| High School Diploma | \$5,000 | Total Program |
+| High School Diploma | \$5,000 | Total Program — High School students participate in concurrent enrollment; 30 college General Education credits are embedded and converted throughout the High School curriculum within a broader 60-credit General Education structure |
 | Minor | \$5,000 | Total Program |
 | Associate’s | \$10,000 | Total Program |
 | Bachelor’s | \$20,000 | Total Program |
@@ -778,6 +778,23 @@ const GED_HSE_CONFIGURATION = {
 };
 ```
 
+### High School Concurrent General Education Rule
+
+```javascript
+const HIGH_SCHOOL_CONFIGURATION = {
+    tuition: 5000,
+    concurrentEnrollment: true,
+    generalEducationStructureCredits: 60,
+    embeddedGeneralEducationCredits: 30,
+    embeddedWithinHighSchoolCurriculum: true,
+    convertsEmbeddedCourseworkToGeneralEducationCredit: true,
+    pricingStatus: "CURRENT",
+    pricingReviewNote: "Current pricing may change slightly as duration and added program components are finalized through community suggestions and final RIAH approval."
+};
+```
+
+The current \$5,000 High School tuition is the active price for the High School program with 30 General Education college credits embedded and converted throughout the High School curriculum. The broader concurrent-enrollment General Education structure is 60 credits. Pricing may change slightly as duration and additional program components are finalized through community suggestions and final RIAH approval.
+
 ### Scholarship, Grant, and Stipend Configuration
 
 ```javascript
@@ -820,6 +837,11 @@ The Master Active Number Table consolidates the active numerical records used th
 | GED and HSE Science | Included in Concurrent General Education Coursework |
 | GED and HSE Course Conversion | Applicable Concurrent Coursework Converts to General Education College Credit |
 | High School Tuition | \$5,000 |
+| High School Concurrent Enrollment | Included |
+| High School General Education Structure | 60 College Credits |
+| High School Embedded General Education Coursework | 30 College Credits |
+| High School Embedded Credit Rule | 30 General Education college credits are embedded and converted throughout the High School curriculum |
+| High School Pricing Status | Current \$5,000 tuition; may change slightly as duration and added program components are finalized through community suggestions and final RIAH approval |
 | Minor Tuition | \$5,000 |
 | Associate’s Tuition | \$10,000 |
 | Bachelor’s Tuition | \$20,000 |
