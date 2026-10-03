@@ -1721,16 +1721,21 @@ A["CALCULATE EARNED AND REFUNDABLE AMOUNTS"] --> B["CALCULATE REIMBURSEMENT INFO
 
 Authoritative operational hierarchy:
 
-```mermaid
-flowchart LR
-A["Human-readable policy and approved pricing source"] --> B["Structured Pricing and Rules Database"] --> C["Master Conditional Rules Engine"] --> D["Student Pricing GUI"] --> E["Administrative Testing and Rule Trace"] --> F["Website Entry Points"] --> G["Saved Result"] --> H["Admissions / CRM / Automation"]
-```
+| Order | Implementation Layer | Control Function |
+|---:|:---|:---|
+| 1 | Human-readable policy and approved pricing source | Establishes the approved pricing and policy source |
+| 2 | Structured Pricing and Rules Database | Stores the approved structured pricing and rules |
+| 3 | Master Conditional Rules Engine | Applies the controlling conditional calculation logic |
+| 4 | Student Pricing GUI | Collects applicable student inputs and displays pricing results |
+| 5 | Administrative Testing and Rule Trace | Supports testing, validation, and calculation-rule tracing |
+| 6 | Website Entry Points | Provides the applicable public or internal entry points into the Pricing Engine |
+| 7 | Saved Result | Stores the applicable calculated result and associated pricing record |
+| 8 | Admissions / CRM / Automation | Routes the applicable result into admissions, CRM, and automation workflows |
 
-Do not use public website prose as the authoritative calculation source.
-
-The calculator must be reproducible: given the same input record,
-pricing version, effective date, and approval statuses, it must return
-the same result and rule trace.
+| Implementation Control | Requirement |
+|:---|:---|
+| Authoritative Calculation Source | Do not use public website prose as the authoritative calculation source. |
+| Reproducibility | Given the same input record, pricing version, effective date, and approval statuses, the calculator must return the same result and rule trace. |
 
 
 ---
