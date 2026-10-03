@@ -16,17 +16,18 @@ Detailed course tables remain in the controlling degree curriculum.
 
 ## ❤️ General Education — Edmentum Software Coverage
 
-RIAH Course | Course Name | Edmentum
-ENG 1010 | College English | ✓
-MAT 1010 | College Algebra | ✓
-COM 1010 | Oral Communications | ✓
-LAN 1010 | Foreign Language | ✓
-HIS 1010 | History | ✓
-PHI 1010 | Philosophy | X — RIAH Additional Curriculum
-PSY 1010 | Psychology | ✓
-SOC 1010 | Sociology | ✓
-ART 1010 | Art | ✓
-SCI 1010 | Science | ✓
+| RIAH Course | Course Name | Edmentum |
+| --- | --- | --- |
+| ENG 1010 | College English | ✓ |
+| MAT 1010 | College Algebra | ✓ |
+| COM 1010 | Oral Communications | ✓ |
+| LAN 1010 | Foreign Language | ✓ |
+| HIS 1010 | History | ✓ |
+| PHI 1010 | Philosophy | X — RIAH Additional Curriculum |
+| PSY 1010 | Psychology | ✓ |
+| SOC 1010 | Sociology | ✓ |
+| ART 1010 | Art | ✓ |
+| SCI 1010 | Science | ✓ |
 
 Philosophy Note — PHI 1010 remains part of the RIAH General Education curriculum. RIAH will provide and/or integrate additional Philosophy curriculum because Edmentum does not provide the mapped Philosophy coverage used for this structure.
 
