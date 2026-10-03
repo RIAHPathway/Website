@@ -233,7 +233,13 @@ All additional Graduate Points require verification.
 
 Completion and every additional point-bearing activity must be verified. Fabricated, duplicate, rejected, unauthorized or unverifiable activity receives no points. Pending activities do not change the benefit.
 
-**Pending → Under Review → Revision or Verification if Required → Approved → Credited**
+```mermaid
+flowchart LR
+    N1["Pending"] --> N2["Under Review"]
+    N2["Under Review"] --> N3["Revision or Verification if Required"]
+    N3["Revision or Verification if Required"] --> N4["Approved"]
+    N4["Approved"] --> N5["Credited"]
+```
 
 ## IX. 📋 Graduate Record
 
