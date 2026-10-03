@@ -6,6 +6,10 @@
 
 **Mariah Dominique Rucker**, with a natural dimples and moles on her face, is the **Founder, Chief Executive Officer, and Chairman of RIAH Pathway**, leading the development of its multidisciplinary education, experiential, technology, professional services, and product ecosystem.
 
+<p align="center">
+  <img src="https://github.com/mariahdominiquerucker.png" width="250" alt="Mariah Dominique Rucker GitHub profile picture" />
+</p>
+
 ### 👤 Founder Overview
 
 | Category | Details |
