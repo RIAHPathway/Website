@@ -118,7 +118,16 @@ RIAH-branded physical textbooks, workbooks, journals, planners, study guides, re
 Internal student collections should be visually distinguishable from externally purchasable products.
 
 **Content:**
-Print Products → Select Digital Resources → Certification Review → Bar Review → Practice → Student Collections → Professional Services → Pathway
+```mermaid
+flowchart LR
+    N1["Print Products"] --> N2["Select Digital Resources"]
+    N2["Select Digital Resources"] --> N3["Certification Review"]
+    N3["Certification Review"] --> N4["Bar Review"]
+    N4["Bar Review"] --> N5["Practice"]
+    N5["Practice"] --> N6["Student Collections"]
+    N6["Student Collections"] --> N7["Professional Services"]
+    N7["Professional Services"] --> N8["Pathway"]
+```
 
 **Controls:**
 Play • Pause • Captions • Full Screen
@@ -432,19 +441,12 @@ Students select the applicable jurisdiction module connected to the state or Was
 
 ### BAR REVIEW ARCHITECTURE
 
-**ONE RIAH BAR REVIEW**
-
-↓
-
-**CORE BAR REVIEW**
-
-↓
-
-**SELECT APPLICABLE JURISDICTION**
-
-↓
-
-**STATE-SPECIFIC OR WASHINGTON, D.C. MODULE**
+```mermaid
+flowchart TD
+    N1["ONE RIAH BAR REVIEW"] --> N2["CORE BAR REVIEW"]
+    N2["CORE BAR REVIEW"] --> N3["SELECT APPLICABLE JURISDICTION"]
+    N3["SELECT APPLICABLE JURISDICTION"] --> N4["STATE-SPECIFIC OR WASHINGTON, D.C. MODULE"]
+```
 
 The Full RIAH Bar Review is not structured as 51 separate complete Bar Review programs.
 
@@ -909,35 +911,16 @@ Applicable:
 
 ## RESOURCES THAT CONNECT TO THE JOURNEY.
 
-**PATHWAY**
-
-↓
-
-**CURRICULUM**
-
-↓
-
-**STUDENT COLLECTIONS**
-
-↓
-
-**EXPERIENTIAL**
-
-↓
-
-**CERTIFICATION AND LAW REVIEW**
-
-↓
-
-**PROFESSIONAL PRODUCTS**
-
-↓
-
-**PROFESSIONAL SUPPORT**
-
-↓
-
-**CAREER + PROFESSIONAL DEVELOPMENT**
+```mermaid
+flowchart TD
+    N1["PATHWAY"] --> N2["CURRICULUM"]
+    N2["CURRICULUM"] --> N3["STUDENT COLLECTIONS"]
+    N3["STUDENT COLLECTIONS"] --> N4["EXPERIENTIAL"]
+    N4["EXPERIENTIAL"] --> N5["CERTIFICATION AND LAW REVIEW"]
+    N5["CERTIFICATION AND LAW REVIEW"] --> N6["PROFESSIONAL PRODUCTS"]
+    N6["PROFESSIONAL PRODUCTS"] --> N7["PROFESSIONAL SUPPORT"]
+    N7["PROFESSIONAL SUPPORT"] --> N8["CAREER + PROFESSIONAL DEVELOPMENT"]
+```
 
 **[INTERNAL LINK — 03 PATHWAY]**
 
@@ -976,27 +959,14 @@ The RIAH website and future connected RIAH technology experience may allow appli
 
 ### CONCEPTUAL FLOW
 
-**RIAH WEBSITE AND APP**
-
-↓
-
-**PRODUCT EXPERIENCE**
-
-↓
-
-**PRODUCT OR SERVICE SELECTION**
-
-↓
-
-**PHYSICAL PRODUCT OR SELECT DIGITAL PRODUCT OR SERVICE**
-
-↓
-
-**PURCHASE OR STUDENT ACCESS**
-
-↓
-
-**SHIPPING OR DIGITAL ACCESS OR SERVICE FULFILLMENT**
+```mermaid
+flowchart TD
+    N1["RIAH WEBSITE AND APP"] --> N2["PRODUCT EXPERIENCE"]
+    N2["PRODUCT EXPERIENCE"] --> N3["PRODUCT OR SERVICE SELECTION"]
+    N3["PRODUCT OR SERVICE SELECTION"] --> N4["PHYSICAL PRODUCT OR SELECT DIGITAL PRODUCT OR SERVICE"]
+    N4["PHYSICAL PRODUCT OR SELECT DIGITAL PRODUCT OR SERVICE"] --> N5["PURCHASE OR STUDENT ACCESS"]
+    N5["PURCHASE OR STUDENT ACCESS"] --> N6["SHIPPING OR DIGITAL ACCESS OR SERVICE FULFILLMENT"]
+```
 
 **[BUTTON — SHOP NOW → EXTERNAL SHOPIFY]**
 
@@ -1272,7 +1242,14 @@ Explore physical and select digital products for professional preparation, compa
 
 Community members may sign up to review applicable student capstones, participate in applicable peer review, and provide structured feedback on student work. Qualifying completed reviews earn points that accumulate according to the number of capstone and peer-review activities completed.
 
-**COMMUNITY REVIEW → STRUCTURED FEEDBACK → QUALIFYING COMPLETION → POINTS EARNED → POINTS ACCUMULATED → DISCOUNT LEVEL UNLOCKED**
+```mermaid
+flowchart LR
+    N1["COMMUNITY REVIEW"] --> N2["STRUCTURED FEEDBACK"]
+    N2["STRUCTURED FEEDBACK"] --> N3["QUALIFYING COMPLETION"]
+    N3["QUALIFYING COMPLETION"] --> N4["POINTS EARNED"]
+    N4["POINTS EARNED"] --> N5["POINTS ACCUMULATED"]
+    N5["POINTS ACCUMULATED"] --> N6["DISCOUNT LEVEL UNLOCKED"]
+```
 
 | Community Participation | RIAH Structure |
 |---|---|
@@ -1285,7 +1262,11 @@ Community members may sign up to review applicable student capstones, participat
 | Bar Review | Applicable discounts may be used toward qualifying Bar Review products |
 | Educational Pathways | Applicable discounts may be used toward qualifying RIAH educational pathways, including the JD pathway and other applicable education pathways |
 
-**REVIEW MORE → ACCUMULATE MORE POINTS → UNLOCK GREATER APPLICABLE DISCOUNTS**
+```mermaid
+flowchart LR
+    N1["REVIEW MORE"] --> N2["ACCUMULATE MORE POINTS"]
+    N2["ACCUMULATE MORE POINTS"] --> N3["UNLOCK GREATER APPLICABLE DISCOUNTS"]
+```
 
 RIAH faculty and applicable academic personnel retain academic oversight and final evaluation requirements. Community and peer feedback supplements the formal academic review process.
 
