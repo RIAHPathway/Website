@@ -93,19 +93,14 @@ E --> F["👑🏆 Up to 25% Tuition + 25% Products Maximum"]
 ```
 
 ## III. ⚙️ Flow Metadata
-```yaml
-track: "Community Ambassador"
-profile_category: "Community Ambassador"
-status: "in-progress"
-verification_required: true
-points_require_approval: true
-benefit_record_required: true
-review_state:
-  - pending
-  - under-review
-  - revision-if-required
-  - approved
-  - credited
+**Flow Configuration:** Track — Community Ambassador; Profile Category — Community Ambassador; Status — in-progress; Verification Required — true; Points Require Approval — true; Benefit Record Required — true.
+
+```mermaid
+flowchart LR
+    A["Pending"] --> B["Under Review"]
+    B --> C["Revision if Required"]
+    C --> D["Approved"]
+    D --> E["Credited"]
 ```
 
 Community Ambassadors provide approved outreach through community events, educational events, career fairs, workshops, webinars, booths, information tables, local outreach, community organizations, approved presentations, social campaigns, QR campaigns, referral links, prospective-student referrals, application conversions, student enrollment conversions, product conversions and approved organizational introductions.
