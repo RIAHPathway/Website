@@ -73,9 +73,9 @@ VII. 📋 Master Record Fields
 
 **💻🌎🍎🚗📦 Contributors and Ambassadors:** 100 approved points = 1% eligible tuition + 1% eligible products; 2,500 points = 25% maximum.
 
-**🎓 Education Graduates:** Complete the entire eligible Education Pathway = automatic 1,000 Graduate Points = guaranteed 10% eligible tuition + 10% eligible products; each additional 100 approved Graduate Points = +1% tuition + 1% products until the product benefit reaches 25% at 2,500 points; tuition may continue to 50% at 5,000 points.
+**🎓 Education Graduates:** Complete the entire eligible Education Pathway = automatic 1,000 Graduate Points = guaranteed 10% eligible tuition; each additional 100 approved Graduate Points = +1% tuition until tuition reaches 50% at 5,000 points. Eligible product benefits are up to 25% under applicable product-benefit requirements and are not guaranteed at pathway completion.
 
-**💼 Experiential Graduates:** Complete the entire eligible Experiential Pathway = automatic 1,000 Graduate Points = guaranteed 10% eligible tuition + 10% eligible products; each additional 100 approved Graduate Points = +1% tuition + 1% products until the product benefit reaches 25% at 2,500 points; tuition may continue to 50% at 5,000 points.
+**💼 Experiential Graduates:** Complete the entire eligible Experiential Pathway = automatic 1,000 Graduate Points = guaranteed 10% eligible tuition; each additional 100 approved Graduate Points = +1% tuition until tuition reaches 50% at 5,000 points. Eligible product benefits are up to 25% under applicable product-benefit requirements and are not guaranteed at pathway completion.
 
 **🤝 Partners:** Eligible Partner Employees receive 15% eligible tuition + 15% eligible products under applicable written terms. A separate authorized Partner or Pillar Product Benefit may reach up to 25% eligible products where specifically authorized.
 
