@@ -220,6 +220,21 @@ Applicable collections may include Textbooks, Workbooks, Journals, Planners, Rev
 The Year 4, Master’s, and MBA levels each retain their own level-specific capstone collection.
 
 
+### External Products, Content Development, and Professional Support Delivery
+
+RIAH external educational products and professional-support services are **people-developed and people-delivered, supported by technology**.
+
+The Founder and CEO establishes and directs the curriculum architecture, product structure, ecosystem alignment, and applicable content direction. Certification Review courses, Bar Review materials, textbooks, workbooks, review resources, practice resources, and related educational content are developed and reviewed with qualified faculty, PhD-level subject-matter professionals, and professionals within the applicable discipline. Depending on the school and subject, this includes professionals in accounting, business, technology, cybersecurity, homeland security, and other applicable disciplines. Law and Bar Review content and support incorporate qualified legal professionals, including attorneys and judges where applicable.
+
+Live professional-support products—including applicable mentorship, coaching, academic advisement, study support, and live review—are delivered by qualified people within the relevant discipline. Delivery may use RIAH faculty, adjunct faculty, experiential professionals, and contracted external professionals who supplement the RIAH ecosystem and provide applicable subject-matter services. Contracted professionals extend service capacity beyond the 173-person at-scale internal team structure without replacing the RIAH product, curriculum, or quality-control architecture.
+
+Certification Review and Bar Review package support is matched to the applicable discipline and package inclusion so students and external customers receiving live mentorship, coaching, advisement, study support, or live review interact with applicable professionals rather than technology alone.
+
+Educational and review content is revised **quarterly** to remain aligned with applicable industry standards, professional expectations, certification or review structures, and approved RIAH curriculum and product standards.
+
+Technology supports delivery, access, practice, assessment, scheduling, communication, and the learning environment. Technology does not replace the qualified faculty, subject-matter professionals, experiential professionals, attorneys, judges, mentors, coaches, or other professionals responsible for applicable content development and live professional support.
+
+
 ### Product and Professional Support Price Records
 
 | Category | Product or Service | Digital | Printed or Physical | Standard Price |
