@@ -64,7 +64,7 @@ VII. 📋 Master Record Fields
 | 🍎 Substitute Teacher Ambassador | 1% at 100 points | 25% | Yes | Yes |
 | 🚗 Rideshare Ambassador | 1% at 100 points | 25% | Yes | Yes |
 | 📦 Delivery Ambassador | 1% at 100 points | 25% | Yes | Yes |
-| 🎓 Education Graduate | 10% guaranteed at completion | 50% | Yes | No |
+| 🎓 Education Graduate | 10% guaranteed at completion | 50% tuition; 25% products | Yes | Yes |
 | 💼 Experiential Graduate | 10% guaranteed at completion | 50% tuition; 25% products | Yes | Yes |
 | 🤝 Eligible Partner Employee | 15% | Per applicable written terms | Yes | Yes |
 | 🤝 Partner or Pillar Product Benefit | Per written agreement | Up to 25% products where authorized | Per agreement | Yes |
@@ -73,7 +73,7 @@ VII. 📋 Master Record Fields
 
 **💻🌎🍎🚗📦 Contributors and Ambassadors:** 100 approved points = 1% eligible tuition + 1% eligible products; 2,500 points = 25% maximum.
 
-**🎓 Education Graduates:** Complete the entire eligible Education Pathway = automatic 1,000 Graduate Points = guaranteed 10% eligible tuition; each additional 100 approved Graduate Points = +1% tuition; 5,000 total points = 50% maximum; no Graduate Product Benefit.
+**🎓 Education Graduates:** Complete the entire eligible Education Pathway = automatic 1,000 Graduate Points = guaranteed 10% eligible tuition + 10% eligible products; each additional 100 approved Graduate Points = +1% tuition + 1% products until the product benefit reaches 25% at 2,500 points; tuition may continue to 50% at 5,000 points.
 
 **💼 Experiential Graduates:** Complete the entire eligible Experiential Pathway = automatic 1,000 Graduate Points = guaranteed 10% eligible tuition + 10% eligible products; each additional 100 approved Graduate Points = +1% tuition + 1% products until the product benefit reaches 25% at 2,500 points; tuition may continue to 50% at 5,000 points.
 
@@ -105,7 +105,7 @@ O --> P["⭐ 1,000 Graduate Points"]
 P --> Q["🎓 Guaranteed 10% Tuition"]
 Q --> R["⭐ Additional Approved Graduate Points"]
 R --> S["👑 5,000 Total = 50% Tuition Maximum"]
-S --> T["🛍️ Graduate Product Benefit = None"]
+S --> T["🛍️ Education & Experiential Product Benefit = Up to 25%"]
 I --> U["📄 Applicable Written Partnership Terms"]
 U --> V["🎓 15% Tuition + 🛍️ 15% Products for Eligible Partner Employees"]
 U --> W["🤝 Separate Authorized Partner / Pillar Product Benefit"]
@@ -122,7 +122,7 @@ W --> X["🛍️ Up to 25% Products Where Authorized"]
 
 🏆 Contributor and Ambassador benefits remain capped at 25% tuition and 25% products through this framework.
 
-🎓 Graduate benefits remain capped at 50% eligible tuition and provide no Graduate Product Benefit.
+🎓 Graduate benefits remain capped at 50% eligible tuition and up to 25% eligible products under the applicable Graduate Points progression.
 
 🤝 Partner benefits remain governed by the applicable written partnership terms.
 
