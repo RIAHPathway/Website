@@ -1,6 +1,78 @@
+---
+document_type: contributor-benefit-framework
+track: "Community Ambassador"
+status: "In Progress — Review and Finalization Required"
+benefit_system: "RIAH Pathway"
+flow_status: "draft-review"
+---
+
 # 🌎 Community Ambassadors
 
 **Status: In Progress — Review and Finalization Required**
+
+## 🌎 Category Key
+
+| Emoji | Meaning |
+|---|---|
+| 🌎 | Community Ambassador |
+| 👑 | Approved eligibility or contribution |
+| ⭐ | Approved points |
+| 🏆 | Completed milestone |
+| 🎓 | Tuition benefit |
+| 🛍️ | Product benefit |
+| 🔗 | QR, referral, routing or attribution |
+| 🎪 | Event, workshop or outreach |
+| 🎥 | Webinar, presentation, video or media |
+| 👀 | Under review |
+| 🔄 | Revision or re-verification |
+| ✅ | Approved or verified |
+| ❌ | Rejected or ineligible |
+
+## 🌎 End-to-End Category Flow
+
+```mermaid
+flowchart TB
+A["🌎 Community Ambassador"] --> B["👑 Eligibility, Orientation & Marketing Training"]
+B --> C["🔗 Assigned QR Code / Referral Link"]
+C --> D["🎪 Community Event, Workshop, Booth, Webinar or Outreach"]
+D --> E["📣 Approved RIAH Materials & Local Promotion"]
+E --> F["👤 Qualified Prospect Engagement"]
+F --> G{"🎯 Verified Progress?"}
+G --> H["🔗 Qualified Referral +10"]
+G --> I["🎥 Webinar / Info Session +15"]
+G --> J["📝 Completed Application +25"]
+G --> K["🎓+ Verified Enrollment +100"]
+G --> L["🛒 Verified Product Purchase +25"]
+H --> M["📋 Verification & Activity Ledger"]
+I --> M
+J --> M
+K --> M
+L --> M
+M --> N["⭐ Approved Points"]
+N --> O{"🏆 Complete 100-Point Milestone?"}
+O -- No --> P["⭐ Carry Points Forward"]
+O -- Yes --> Q["🎓 +1% Tuition & 🛍️ +1% Products"]
+Q --> R{"👑 2,500 Points?"}
+R -- No --> D
+R -- Yes --> S["👑🏆 25% Tuition + 25% Products Maximum"]
+```
+
+## ⚙️ Flow Metadata
+
+```yaml
+track: "Community Ambassador"
+profile_category: "Community Ambassador"
+status: "in-progress"
+verification_required: true
+points_require_approval: true
+benefit_record_required: true
+review_state:
+  - pending
+  - under-review
+  - revision-if-required
+  - approved
+  - credited
+```
 
 Community Ambassadors provide approved outreach through community events, educational events, career fairs, workshops, webinars, booths, information tables, local outreach, community organizations, approved presentations, social campaigns, QR campaigns, referral links, prospective-student referrals, application conversions, student enrollment conversions, product conversions and approved organizational introductions.
 
