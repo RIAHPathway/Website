@@ -232,10 +232,10 @@ These percentages are not automatic student awards.
 ## RIAH Student Loan Configuration
 
 Where the active institutional financing record uses this structure: -
-Minimum: \$500 - Maximum: \$5,000 - Minimum stated credit score: 650 -
+Minimum: \$500 - Maximum: \$5,000 - Collateral-supported tier: up to 10% of qualifying collateral - Credit score required above the 10% collateral tier: 700+ -
 Interest: 5% per 30 days - Active loans allowed: 1 - Payment plan maximum:
 12 months - Standard loan due date: 3 months after graduation - Subject to credit
-approval - All RIAH pathways are eligible for loan consideration. The approved amount depends on the applicable credit review and collateral supporting the requested loan. Applicable pledged collateral secures the approved loan obligation and may be applied to recover an unpaid or defaulted RIAH loan according to the governing agreement
+approval - All RIAH pathways are eligible for loan consideration. Without the higher-loan credit tier, the approved amount cannot exceed 10% of qualifying collateral. A credit score of 700 or above is required for an amount above the 10% collateral-supported tier, subject to the remaining tuition deficit and \$5,000 maximum
 
 Financing remains debt/payment method and never reduces underlying
 tuition.
@@ -1458,10 +1458,10 @@ Ordinary RIAH payment-plan interest is 0%. Financing is a payment method
 and must never be treated as a tuition reduction.
 
 Where the active RIAH Pathway Student Loan record applies: \$500 minimum,
-\$5,000 maximum, minimum stated credit score 650, 5% interest per 30
+\$5,000 maximum, collateral-supported tier up to 10% of qualifying collateral, 700+ credit required above the 10% collateral tier, 5% interest per 30
 days, one active loan, a 12-month maximum payment plan, and a standard
 due date 3 months after graduation, subject to credit approval. Potential
-all RIAH pathways are eligible for loan consideration. The approved amount depends on the applicable credit review and collateral supporting the requested loan. Applicable pledged collateral secures the approved loan obligation and may be applied to recover an unpaid or defaulted RIAH loan according to the governing agreement.
+all RIAH pathways are eligible for loan consideration. Without the higher-loan credit tier, the approved amount cannot exceed 10% of qualifying collateral. A credit score of 700 or above is required for an amount above the 10% collateral-supported tier, subject to the remaining tuition deficit and \$5,000 maximum.
 
 Refund and earned-amount logic must remain separate from initial price
 calculation. Experiential weekly allocation equals applicable
@@ -2733,13 +2733,14 @@ Actual Title IV administration remains subject to applicable financial-aid requi
   ------------------------------------------- ---------------------------
   Minimum Requested Loan                                            \$500
   Maximum Requested Loan                                          \$5,000
-  Minimum Credit Score                                                650
+  Credit Score Required Above 10% Collateral Tier                    700+
   Maximum Active RIAH Private Student Loans                             1
   Interest                                                 5% per 30 days
   Estimated Due Date                            3 months after graduation
   Approved Payment Plan Maximum                           Up to 12 months
   Pathway Eligibility                         All RIAH pathways eligible
-  Approval Basis                         Credit review and collateral
+  Collateral-Supported Tier                   10% qualifying collateral
+  Approval Basis                      700+ credit above collateral tier
 
 
 The student selects the requested amount from:
@@ -2750,7 +2751,17 @@ The student selects the requested amount from:
 
 All RIAH pathways are eligible for RIAH Private Student Loan consideration.
 
-The student requests an amount from \$500 through \$5,000. Approval of a particular amount depends on the applicable credit review and collateral supporting the requested loan. Applicable pledged collateral secures only the approved loan obligation and may be applied to recover an unpaid or defaulted RIAH Private Student Loan according to the governing loan and collateral agreement.
+The student requests an amount from \$500 through \$5,000.
+
+**Collateral-Supported Maximum = Qualifying Collateral × 10%**
+
+**If Credit Score < 700: Approved Loan ≤ 10% of Qualifying Collateral**
+
+**If Credit Score ≥ 700: Approved Loan may exceed the 10% collateral-supported tier, but cannot exceed the remaining tuition deficit or \$5,000 maximum.**
+
+**Approved RIAH Loan = MIN(Requested Loan, Remaining Tuition Deficit, Applicable Supported Loan Amount, \$5,000)**
+
+Example: \$15,000 tuition − \$10,000 qualifying payment/collateral = \$5,000 tuition deficit. The 10% collateral-supported tier is \$1,000. Without the 700+ higher-loan credit tier, the maximum supported loan is \$1,000. With a 700+ credit score, the student may be considered for an amount above \$1,000 up to the \$5,000 remaining tuition deficit and \$5,000 loan maximum.
 
 
 ---
@@ -3129,9 +3140,10 @@ Education Deposit: **\$2,750**
   RIAH Education Deposit Fee                                     \$500 once
   RIAH Private Student Loan Minimum                                   \$500
   RIAH Private Student Loan Maximum                                 \$5,000
-  RIAH Private Student Loan Credit Score                                650
+  RIAH Private Student Loan 10% Collateral Tier        10% qualifying collateral
+  RIAH Private Student Loan Higher-Tier Credit Score                     700+
   RIAH Private Student Loan Pathways                    All pathways eligible
-  RIAH Private Student Loan Approval Basis            Credit and collateral
+  RIAH Private Student Loan Approval Basis      10% collateral; 700+ above tier
   RIAH Loan Interest                                         5% per 30 days
   Tuition Reimbursement                                          10% to 50%
   Semester Length                                                  6 months
