@@ -30,6 +30,8 @@ flow_status: "draft-review"
 
 ## 🤝 End-to-End Category Flow
 
+### 🔹 Mermaid Flow — Part 1
+
 ```mermaid
 flowchart TB
 A["🤝 Approved RIAH Pathway Partner"] --> B["📄 Applicable Written Partnership Terms"]
@@ -39,6 +41,13 @@ D --> E["✅ Partner Benefit Eligibility"]
 E --> F["🎓 15% Eligible Tuition"]
 E --> G["🛍️ 15% Eligible Products"]
 B --> H{"🤝 Separate Partner / Pillar Product Benefit Authorized?"}
+```
+
+### 🔹 Mermaid Flow — Part 2
+
+```mermaid
+flowchart TB
+H{"🤝 Separate Partner / Pillar Product Benefit Authorized?"}
 H -- Yes --> I["🛍️ Up to 25% Eligible Products Under Written Terms"]
 H -- No --> J["📄 Use Established Applicable Benefit"]
 D --> K["⭐ Approved Partner Activities"]
