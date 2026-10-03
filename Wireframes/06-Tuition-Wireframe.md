@@ -1,954 +1,1176 @@
-# 👑 RIAH PATHWAY --- 06.1 TUITION OVERVIEW
+# 👑 RIAH PATHWAY
 
-## WEBSITE WIREFRAME
+# VI — TUITION
 
-**Brand:** RIAH Pathway **Slogan:** **ONE DYNASTY. INFINITE LEGACIES.**  
+**Page Type:** Main Website Page  
+**Brand:** RIAH Pathway  
+**Institutional Slogan:** **ONE DYNASTY. INFINITE LEGACIES.**
+
 **Institutional Colors:** Black • Red • Gold • White • Silver  
-**Institutional Symbol:** Crown **Institutional Mascot:** Goat  
-**Navigation:** 06 --- Tuition **Subpage:** 06.1 --- Overview
+**Institutional Symbol:** Crown  
+**Institutional Mascot:** Goat
 
-# PAGE STRUCTURE
+**Page Experience:**  
+**HERO → TUITION OVERVIEW → PRICING STAGES → ACADEMIC PRICING → INTEGRATED PRICING → TUITION REDUCTIONS → CONTRIBUTOR BENEFITS → EXPERIENTIAL → CERTIFICATION AND REVIEW → FEES AND DEPOSITS → PAYMENT OPTIONS → TITLE IV → PRIVATE STUDENT LOAN → FUNDING → REIMBURSEMENT → PRICING CALCULATOR → COSTS AND REFUNDS → SUPPORTING RESOURCES → FAQ → FINAL CTA**
 
--   06.1 --- Overview  
--   06.2 --- Tuition and Pricing  
--   06.3 --- Fees and Payment Options  
--   06.4 --- Funding and Reimbursement  
--   06.5 --- Costs, Refunds and Policies
-
-# WIREFRAME STRUCTURE CONTROL
-
-**HERO → EXPLANATION → DETAILS → SUPPORTING RESOURCES → CTA**
-
-Preserve the approved Tuition Overview content while communicating  
-current accreditation and authorization stage, Beta benefits, curriculum  
-pathways, Experiential structure, pricing, fees, payment options,  
-funding, reimbursement, refunds, and policies.
+---
 
 # GLOBAL HEADER
 
-**[LOGO PLACEHOLDER --- RIAH PATHWAY]**
+[HEADER — GLOBAL]
 
-01 --- Home 02 --- About 03 --- Pathway 04 --- Curriculum 05 ---  
-Admissions 06 --- Tuition --- Active 07 --- Donations 08 --- Products 09  
---- Accreditation and Authorization 10 --- Join Us 11 --- Resources 12  
---- FAQ 13 --- Contact
+[LOGO PLACEHOLDER — RIAH PATHWAY]
 
-**[BUTTON --- APPLY NOW → EXTERNAL --- CLASSE365]** **[BUTTON --- GET  
-STARTED: REQUEST INFORMATION → 13 --- CONTACT → RIAH PATHWAY DROP  
-FORM]**
+**ONE DYNASTY. INFINITE LEGACIES.**
+
+## Utility Navigation
+
+Students • Educators • Employers • Partners • Community
+
+[ICON PLACEHOLDER — SEARCH]
+
+## Primary Navigation
+
+**1 — Home**  
+**2 — About**  
+**3 — Pathway**  
+**4 — Curriculum**  
+**5 — Admissions**  
+**6 — Tuition**  
+**7 — Donations**  
+**8 — Products**  
+**9 — Accreditation & Authorization**  
+**10 — Join Us**  
+**11 — Resources**  
+**12 — FAQ**  
+**13 — Contact**
+
+**Design:** Black primary-navigation bar with the active **Tuition** page identified in red.
+
+[BUTTON — APPLY NOW → EXTERNAL / CLASSE365]
+
+---
 
 # TUITION SUBPAGE NAVIGATION
 
-**[INTERNAL LINK --- 06.1 --- OVERVIEW --- ACTIVE]** **[INTERNAL LINK  
---- 06.2 --- TUITION AND PRICING]** **[INTERNAL LINK --- 06.3 --- FEES  
-AND PAYMENT OPTIONS]** **[INTERNAL LINK --- 06.4 --- FUNDING AND  
-REIMBURSEMENT]** **[INTERNAL LINK --- 06.5 --- COSTS, REFUNDS AND  
-POLICIES]**
+[SUBNAV — TUITION]
 
-# SECTION 01 --- HERO
+**6.1 — Overview**  
+**6.2 — Tuition**  
+**6.3 — Fees**  
+**6.4 — Payment Options**  
+**6.5 — Funding**  
+**6.6 — Reimbursement**  
+**6.7 — Costs**  
+**6.8 — Pricing Calculator Engine**
 
-# YOUR PROGRAM. YOUR PATHWAY. ONE TOTAL PROGRAM PRICE.
+---
 
-RIAH Pathway structures tuition around the complete applicable  
-educational pathway so students can understand the total tuition  
-associated with the program and curriculum they select.
+# SECTION 1 — HERO
 
-RIAH Pathway is presently operating within its pre-accreditation and  
-applicable state-authorization development stage. Accreditation,  
-authorization, approval, and degree-conferral status must always be  
-represented according to the institution's actual status at the time a  
-student enrolls and completes the applicable program.
+[SECTION BACKGROUND — BLACK / WHITE / RED / GOLD ACCENTS]
 
-Students can review tuition by program, curriculum, Experiential  
-pricing, Beta benefits, applicable fees and deposits, payment options,  
-funding opportunities, reimbursement, scholarships, grants, applicable  
-financial assistance, and refund information throughout the Tuition  
-section.
+**Layout:** Split-screen institutional tuition hero.
 
-## CORE PRICING PRINCIPLE
+Left:
+
+- Primary tuition message
+- Total-program pricing principle
+- Pricing-stage summary
+- CTA buttons
+
+Right:
+
+- Student and financial-planning visual
+- Tuition calculator preview
+- Primary tuition video
+
+## YOUR PROGRAM. YOUR PATHWAY. YOUR COST.
+
+# UNDERSTAND YOUR PATH. UNDERSTAND YOUR INVESTMENT.
+
+RIAH Pathway provides tuition, fee, payment, funding, Contributor Benefit, reimbursement, cost, and pricing information through one connected financial structure.
+
+Students can review the applicable cost of their educational pathway before selecting their payment method, funding sources, applicable benefits, financing, and other financial options.
+
+## Core Pricing Principle
 
 # ONE PROGRAM. ONE ESTABLISHED TOTAL TUITION.
 
-Acceleration may change academic progression, curriculum completion,  
-course completion, course unlocking, Experiential participation, payment  
-milestones, and program completion. The established total-program  
-tuition remains connected to the applicable educational pathway.
+Acceleration may change academic progression, course completion, course unlocking, payment timing, and completion timing.
 
-**[VIDEO PLACEHOLDER --- HERO VIDEO]**
+Acceleration does not automatically eliminate the established tuition associated with the applicable pathway.
 
-Purpose: Explain the total-program tuition model, Beta and  
-Pre-Accreditation pricing, curriculum connection, payment options, and  
-financial-resource structure.
+### Hero CTAs
 
-Visual Direction: Students and working professionals reviewing  
-curriculum, tuition information, educational pathways, laptops, academic  
-materials, and Experiential opportunities.
+[BUTTON — LEARN MORE: VIEW TUITION → 6.2 / TUITION]
 
-Controls: Play • Pause • Captions • Full Screen
+[BUTTON — EXPLORE PAYMENT OPTIONS → 6.4 / PAYMENT OPTIONS]
 
-**[IMAGE PLACEHOLDER --- TUITION HERO VIDEO POSTER]**
+[BUTTON — BUILD MY PRICE: PRICING CALCULATOR → 6.8 / PRICING CALCULATOR ENGINE]
 
-**[BUTTON --- LEARN MORE: TUITION AND PRICING → 06.2 --- TUITION AND  
-PRICING]** **[BUTTON --- LEARN MORE: CURRICULUM → 04 ---  
-CURRICULUM]** **[BUTTON --- LEARN MORE: ACCREDITATION AND  
-AUTHORIZATION → 09 --- ACCREDITATION AND AUTHORIZATION]** **[BUTTON  
---- LEARN MORE: FUNDING AND REIMBURSEMENT → 06.4 --- FUNDING AND  
-REIMBURSEMENT]** **[BUTTON --- APPLY NOW → EXTERNAL --- CLASSE365]**
+[BUTTON — APPLY NOW → EXTERNAL / CLASSE365]
 
-# SECTION 02 --- PRE-ACCREDITATION AND BETA STUDENT BENEFITS
+[BUTTON — GET STARTED: REQUEST INFORMATION → 13 / CONTACT]
 
-## START THE PATHWAY WHILE RIAH BUILDS TOWARD ACCREDITATION AND AUTHORIZATION.
+## Hero Visual
 
-RIAH Pathway's Beta and Pre-Accreditation structures are designed to  
-provide participating students with reduced tuition, additional  
-Experiential opportunities, curriculum access, and additional  
-educational benefits while RIAH pursues applicable institutional  
-accreditation, programmatic accreditation, state authorization, and  
-other required approvals.
+[IMAGE PLACEHOLDER — RIAH PATHWAY TUITION HERO]
 
-### BETA TUITION
+**Type:** Student / Financial Planning / Education
 
-# 25% OF STANDARD TUITION
+**Visual:** RIAH Pathway student reviewing tuition, pathway options, funding, and payment information with a digital pricing calculator.
 
-### PRE-ACCREDITATION TUITION
+**Purpose:** Communicate transparent pathway pricing and multiple financial options.
 
-# 50% OF STANDARD TUITION
+**Alt Text:** Student reviewing RIAH Pathway tuition, payment, funding, and pricing information.
 
-### SECOND ACADEMIC PROGRAM
+## Primary Tuition Video
 
-# 50% OF APPLICABLE TUITION
+[VIDEO PLACEHOLDER — TUITION OVERVIEW]
 
-Qualifying Beta students who elect an eligible second academic program  
-may receive the applicable second-program benefit according to governing  
-Beta terms.
+### Understanding RIAH Pathway Tuition
 
-### ADDITIONAL EXPERIENTIAL TIME
+**Purpose:**  
+Explain total-program tuition, pricing stages, fees, payment options, Contributor Benefits, funding, reimbursement, and the Pricing Calculator Engine.
 
-Qualifying Beta students may receive double the corresponding  
-Experiential participation period.
+**Content:**  
+Program → Pricing Stage → Benefits → Funding → Payment → Reimbursement → Student Responsibility
 
--   3-Month Experiential → Up to 6 Months  
--   6-Month Experiential → Up to 12 Months  
--   1-Year Experiential → Up to 2 Years
+**Controls:**  
+Play / Pause / Captions / Full Screen
 
-### TUITION REIMBURSEMENT
+**Poster Image:**  
+[IMAGE PLACEHOLDER — TUITION VIDEO POSTER]
 
-Qualifying Completion Reimbursement: \\# 10%
+---
 
-Maximum Established Reimbursement: \\# UP TO 50%
+# SECTION 2 — TUITION OVERVIEW
 
-Qualifying Beta participants retain applicable grandfathered benefits  
-according to governing Beta terms.
+[SECTION BACKGROUND — WHITE]
 
-**[INTERNAL LINK --- 06.2 --- TUITION AND PRICING → BETA AND  
-PRE-ACCREDITATION PRICING]** **[INTERNAL LINK --- 09 --- ACCREDITATION  
-AND AUTHORIZATION]**
+[ICON PLACEHOLDER — TUITION / DOLLAR SIGN]
 
-# SECTION 03 --- ACCREDITATION, AUTHORIZATION AND STUDENT PATHWAYS
+## ONE PATHWAY. CLEAR PRICING.
 
-RIAH Pathway students should clearly understand the accreditation,  
-authorization, approval, and degree-conferral status applicable to their  
-educational pathway.
+RIAH Pathway establishes tuition according to the applicable educational pathway and current pricing configuration.
 
-RIAH Pathway is building its academic programs through applicable  
-pre-accreditation and authorization stages and intends to pursue  
-applicable institutional and programmatic accreditation and required  
-state authorization according to relevant eligibility requirements.
+The Tuition section connects:
 
-Students receive applicable disclosures concerning current institutional  
-status, state authorization status, program status, curriculum,  
-Experiential opportunities, tuition stage, degree-conferral status,  
-grandfathered benefits, accreditation limitations, and authorization  
-limitations.
+[ICON CARD — TUITION]  
+**Tuition**  
+Review established program tuition.
 
-RIAH Pathway does not represent a program as accredited or authorized  
-before the applicable body has formally granted that status.
+[ICON CARD — FEES]  
+**Fees**  
+Review applicable institutional fees and deposits.
 
-## BUSINESS PROGRAM ACCREDITATION PATHWAY
+[ICON CARD — PAYMENT]  
+**Payment Options**  
+Compare applicable payment structures.
 
-RIAH Pathway intends to pursue applicable business-program accreditation  
-when eligibility requirements are satisfied.
+[ICON CARD — FUNDING]  
+**Funding**  
+Review applicable scholarships, grants, stipends, and external funding.
 
-## LAW AND ABA PATHWAY
+[ICON CARD — CONTRIBUTORS]  
+**Contributor Benefits**  
+Review verified Contributor, Ambassador, Partner, Graduate, and Team benefits.
 
-RIAH Pathway intends to pursue ABA provisional approval when eligible.  
-The current institutional planning target is to begin the applicable ABA  
-provisional-approval process in 2028, subject to satisfying then-current  
-eligibility requirements and standards.
+[ICON CARD — REIMBURSEMENT]  
+**Reimbursement**  
+Understand qualifying post-completion reimbursement.
 
-ABA approval is not guaranteed. RIAH Pathway's law pathway,  
-degree-conferral practices, enrollment structure, and student  
-progression must comply with ABA requirements applicable at the relevant  
-time.
+[ICON CARD — COSTS]  
+**Costs**  
+Review applicable student costs and external costs.
 
-**[INTERNAL LINK --- 04.6 --- CURRICULUM → LAW]** **[INTERNAL LINK  
---- 09 --- ACCREDITATION AND AUTHORIZATION]**
+[ICON CARD — CALCULATOR]  
+**Pricing Calculator Engine**  
+Build an individualized financial estimate from established pricing rules.
 
-## HIGH SCHOOL PATHWAY
+[BUTTON — LEARN MORE: TUITION AND PRICING → 6.2 / TUITION]
 
-High School students participating during the applicable  
-authorization-development stage may combine their educational pathway  
-with eligible Experiential opportunities. Eligible students may also  
-progress through approved concurrent or dual-enrollment college  
-coursework according to applicable requirements.
+---
 
-**High School Curriculum + Experiential Development + Eligible College  
-Coursework**
+# SECTION 3 — PRICING STAGES
 
-# SECTION 04 --- TUITION AT A GLANCE
+[SECTION BACKGROUND — BLACK]
 
-The amounts below represent total Standard tuition for the applicable  
-educational pathway based on its typical program duration, except where  
-expressly identified as annual.
+[ICON PLACEHOLDER — PRICING STAGES]
+
+## YOUR ENTRY STAGE MATTERS.
+
+RIAH Pathway uses established pricing stages connected to the institution's development stage and the applicable student's preserved pricing status.
+
+### Beta
+
+# 25% OF APPLICABLE STANDARD TUITION
+
+### Pre-Accreditation
+
+# 50% OF APPLICABLE STANDARD TUITION
+
+### Standard or Post-Credential
+
+# 100% OF APPLICABLE STANDARD TUITION
+
+### Grandfathered or Forever Tuition
+
+Use the student's applicable preserved written price where a valid grandfathered or Forever Tuition record applies.
+
+The calculator does not permit students to self-assign a pricing stage.
+
+[BUTTON — LEARN MORE: VIEW PRICING → 6.2 / TUITION]
+
+---
+
+# SECTION 4 — ACADEMIC TUITION
+
+[SECTION BACKGROUND — WHITE]
+
+[ICON PLACEHOLDER — GRADUATION CAP]
+
+## STANDARD PROGRAM TUITION
 
 ### GED AND HSE
 
-# \$1,500 TOTAL
-
-Curriculum Structure: 300 Credit Hours Student Loan: Not Available
+# $1,500
 
 ### HIGH SCHOOL DIPLOMA
 
-# \$5,000 TOTAL
-
-Student Loan: Not Available
+# $5,000
 
 ### MINOR
 
-# \$5,000 TOTAL
-
-A Minor does not independently qualify for the RIAH Pathway Student  
-Loan.
-
-### ASSOCIATE'S PATHWAY
-
-# \$10,000 TOTAL
-
-### BACHELOR'S PATHWAY
-
-# \$20,000 TOTAL
-
-### MASTER'S PATHWAY
-
-# \$15,000 TOTAL
-
-### MBA PATHWAY
-
-# \$15,000 TOTAL
-
-### J.D. PATHWAY
-
-# \$40,000 TOTAL
-
-Typical Duration: 4 Years
-
-The student pays \$40,000 total across the typical four-year J.D.  
-pathway before applicable pricing-stage adjustments, discounts, funding,  
-or qualifying benefits.
-
-### NON-J.D. BAR LICENSE PATHWAY
-
-# \$10,000 PER REQUIRED STATE-PATHWAY YEAR
-
-State requirements control actual required duration and eligibility.  
-Current pathway references include California, Maine, Vermont, West  
-Virginia, Virginia, and New York.
-
-**[BUTTON --- LEARN MORE: COMPLETE TUITION AND PRICING → 06.2 ---  
-TUITION AND PRICING]**
-
-# SECTION 05 --- THREE PRICING STAGES
-
-### BETA
-
-# 25%
-
-of applicable Standard Tuition
-
-### PRE-ACCREDITATION
-
-# 50%
-
-of applicable Standard Tuition
-
-### STANDARD AND POST-CREDENTIAL
-
-# 100%
-
-of applicable Standard Tuition
-
-# SECTION 06 --- ACADEMIC PRICING SNAPSHOT
-
-### GED AND HSE
-
-Beta --- \$375 Pre-Accreditation --- \$750 Standard --- \$1,500
-
-### HIGH SCHOOL
-
-Beta --- \$1,250 Pre-Accreditation --- \$2,500 Standard --- \$5,000
-
-### MINOR
-
-Beta --- \$1,250 Pre-Accreditation --- \$2,500 Standard --- \$5,000
+# $5,000
 
 ### ASSOCIATE'S
 
-Beta --- \$2,500 Pre-Accreditation --- \$5,000 Standard --- \$10,000
+# $10,000
 
 ### BACHELOR'S
 
-Beta --- \$5,000 Pre-Accreditation --- \$10,000 Standard --- \$20,000
+# $20,000
 
 ### MASTER'S
 
-Beta --- \$3,750 Pre-Accreditation --- \$7,500 Standard --- \$15,000
+# $15,000
 
 ### MBA
 
-Beta --- \$3,750 Pre-Accreditation --- \$7,500 Standard --- \$15,000
+# $15,000
 
 ### J.D.
 
-Beta --- \$10,000 Pre-Accreditation --- \$20,000 Standard --- \$40,000
+# $40,000
+
+### NON-J.D. BAR LICENSE
+
+# $10,000 PER REQUIRED PATHWAY YEAR
+
+1 Year — **$10,000**  
+2 Years — **$20,000**  
+3 Years — **$30,000**  
+4 Years — **$40,000**
+
+Where an applicable required value has not been configured:
+
+**PENDING CONFIGURATION**
+
+[BUTTON — EXPLORE ACADEMIC PATHWAYS → 3 / PATHWAY]
+
+[BUTTON — VIEW CURRICULUM → 4 / CURRICULUM]
+
+---
+
+# SECTION 5 — ACADEMIC PRICING BY STAGE
+
+[SECTION BACKGROUND — BLACK / RED ACCENTS]
+
+[ICON PLACEHOLDER — PERCENTAGE]
+
+## SEE THE DIFFERENCE BY PRICING STAGE.
+
+### GED AND HSE
+
+Beta — **$375**  
+Pre-Accreditation — **$750**  
+Standard — **$1,500**
+
+### HIGH SCHOOL
+
+Beta — **$1,250**  
+Pre-Accreditation — **$2,500**  
+Standard — **$5,000**
+
+### MINOR
+
+Beta — **$1,250**  
+Pre-Accreditation — **$2,500**  
+Standard — **$5,000**
+
+### ASSOCIATE'S
+
+Beta — **$2,500**  
+Pre-Accreditation — **$5,000**  
+Standard — **$10,000**
+
+### BACHELOR'S
+
+Beta — **$5,000**  
+Pre-Accreditation — **$10,000**  
+Standard — **$20,000**
+
+### MASTER'S
+
+Beta — **$3,750**  
+Pre-Accreditation — **$7,500**  
+Standard — **$15,000**
+
+### MBA
+
+Beta — **$3,750**  
+Pre-Accreditation — **$7,500**  
+Standard — **$15,000**
+
+### J.D.
+
+Beta — **$10,000**  
+Pre-Accreditation — **$20,000**  
+Standard — **$40,000**
 
 ### NON-J.D.
 
-Beta --- \$2,500 per year Pre-Accreditation --- \$5,000 per year  
-Standard --- \$10,000 per year
+Beta — **$2,500 per required year**  
+Pre-Accreditation — **$5,000 per required year**  
+Standard — **$10,000 per required year**
 
-# SECTION 07 --- PAYMENT OPTIONS
+[BUTTON — BUILD MY PRICE → 6.8 / PRICING CALCULATOR ENGINE]
 
-Upfront Tuition Reduction --- 15% Monthly --- approved monthly payments  
-Semester or Term --- approved milestone allocation where available  
-Course or Module --- approved allocation where applicable
+---
 
-# MONTHLY TUITION PAYMENT OPTION --- 5% INTEREST ON APPLICABLE OUTSTANDING PRINCIPAL
+# SECTION 6 — INTEGRATED EDUCATION AND EXPERIENTIAL PRICING
 
-# SECTION 08 --- PAYMENT ALLOCATION EXAMPLE
+[SECTION BACKGROUND — WHITE]
 
-## J.D. EXAMPLE
+[ICON PLACEHOLDER — CONNECTED PATHWAYS]
 
-Typical Program Duration: \\# 4 YEARS
+[IMAGE PLACEHOLDER — EDUCATION PLUS EXPERIENCE]
 
-Total Standard Tuition: \\# \$40,000
+## CONNECT EDUCATION WITH EXPERIENCE.
 
-48-Month Equivalent: \\# APPROXIMATELY \$833.33 PER MONTH
+Eligible Education and Experiential combinations use the current structural combination adjustment.
 
-8-Semester Equivalent: \\# \$5,000 PER SEMESTER
+# 5% INTEGRATED STRUCTURAL ADJUSTMENT
 
-Year-Level Allocation: \\# \$10,000 PER YEAR
+### Calculation
 
-Course Allocation Example: \\# \$1,000 PER STANDARD PAID COURSE
+Education Standard Tuition  
+**+** Experiential Standard Tuition  
+**=** Combined Standard
 
-All figures are allocation views of the same \$40,000 total J.D.  
-tuition.
+Combined Standard  
+**× 5%**  
+**=** Integrated Structural Adjustment
 
-# SECTION 09 --- CURRICULUM AND TUITION
+Combined Standard  
+**−** Integrated Structural Adjustment  
+**=** Integrated Standard
 
-**[INTERNAL LINK --- 04.1 --- CURRICULUM → OVERVIEW]** **[INTERNAL  
-LINK --- 04.2 --- CURRICULUM → ACADEMIC STRUCTURE]** **[INTERNAL LINK  
---- 04.3 --- CURRICULUM → BUSINESS]** **[INTERNAL LINK --- 04.4 ---  
-CURRICULUM → HOMELAND SECURITY]** **[INTERNAL LINK --- 04.5 ---  
-CURRICULUM → TECHNOLOGY]** **[INTERNAL LINK --- 04.6 --- CURRICULUM →  
-LAW]** **[INTERNAL LINK --- 04.7 --- CURRICULUM → DIPLOMA AND GED]**  
-**[INTERNAL LINK --- 04.8 --- CURRICULUM → EXPERIENTIAL]**  
-**[INTERNAL LINK --- 04.9 --- CURRICULUM → CERTIFICATION AND REVIEW]**  
-**[INTERNAL LINK --- 04.10 --- CURRICULUM → CURRICULUM ARCHITECTURE]**
+Applicable Pricing Stage is then applied.
 
-# SECTION 10 --- PROFESSIONAL EXPERIENTIAL PROGRAM
+The structural combination adjustment is not an ordinary tuition reduction.
 
-Three-Month Experiential --- \$2,500 --- 3 Months Intern --- \$5,000  
-Associate --- \$10,000 Senior Associate --- \$10,000 Manager ---  
-\$10,000 Executive --- \$10,000
+It does not consume the ordinary tuition-reduction ceiling.
 
-```mermaid
-flowchart LR
-    N1["Intern"] --> N2["Associate"]
-    N2["Associate"] --> N3["Senior Associate"]
-    N3["Senior Associate"] --> N4["Manager"]
-    N4["Manager"] --> N5["Executive"]
-```
+[BUTTON — EXPLORE EXPERIENTIAL → 3.5 / EXPERIENTIAL PATHWAY]
 
-Qualifying Beta students may receive applicable extended Experiential  
-participation under the Beta structure.
+[BUTTON — CALCULATE INTEGRATED TUITION → 6.8 / PRICING CALCULATOR ENGINE]
 
-**[IMAGE PLACEHOLDER --- PROFESSIONAL EXPERIENTIAL LEARNING]**  
-**[INTERNAL LINK --- 04.8 --- CURRICULUM → EXPERIENTIAL]**  
-**[INTERNAL LINK --- 06.2 --- TUITION AND PRICING → EXPERIENTIAL  
-PRICING]**
+---
 
-# SECTION 11 --- CERTIFICATION REVIEW PRICING
+# SECTION 7 — TUITION REDUCTIONS
 
-Basic --- \$500 Standard --- \$1,000 Premium --- \$1,500
+[SECTION BACKGROUND — BLACK]
 
-First Review --- 100% Second Review --- 50% Third Review --- 25%
+[ICON PLACEHOLDER — REDUCTION / PERCENTAGE]
 
-Three-Review Totals: Basic --- \$875 Standard --- \$1,750 Premium ---  
-\$2,625
+## VERIFIED BENEFITS CAN REDUCE ELIGIBLE TUITION.
 
-Qualifying Review Access Guarantee: \\# 3 ADDITIONAL MONTHS OF ACCESS
+# MAXIMUM ORDINARY TUITION REDUCTION — 25%
 
-# SECTION 12 --- FEES AND DEPOSITS
+Current reduction categories include applicable verified benefits such as:
 
-Application Fee --- \$50 Admissions Fee --- \$0 Enrollment Fee --- \$0
+SNAP — **5%**
 
-## EDUCATION DEPOSIT
+TANF — **5%**
 
-# \$1,550 TOTAL
+WIC — **5%**
 
-\$1,000 --- Student Resource Allocation \$550 --- RIAH Fee
+Qualifying Housing or Homelessness — **5%**
 
-Student Resource Allocation may support textbooks, books, review  
-courses, review packages, applicable student fees, graduation fees,  
-transcript-related costs, software subscriptions, technology resources,  
-laptop and computer resources, welcome package, academic materials,  
-major-specific resources, program-specific resources, and other  
-applicable educational resources.
+Secondary Degree — **5%**
 
-## EXPERIENTIAL DEPOSIT
+Primary Minor — **0%**
 
-# \$1,500
+Secondary Minor — **5%**
 
-## COMPLETE TRANSFER FEE
+Partner Employee — **15%**
 
-# \$500
+Community Contributor — **Up to 25%**
 
-Transfer Evaluation --- \$125 Alternative Credit Evaluation --- \$125  
-Prior Learning and Credit Review --- \$125 Processing and Administration  
---- \$125
+Substitute Teacher Ambassador — **Up to 25%**
 
-Transfer maximums: Minor --- Up to 6 credits Associate's --- Up to 30  
-credits Bachelor's --- Up to 60 credits MBA --- Up to 9 credits J.D. ---  
-Up to 60 credits
+Rideshare Ambassador — **Up to 25%**
 
-# SECTION 13 --- STUDENT LOAN
+Delivery Ambassador — **Up to 25%**
+
+Transfer Tuition Reduction — **$0**
+
+The Pricing Stage and Integrated Education and Experiential structural adjustment do not consume the 25% ordinary tuition-reduction ceiling.
+
+Scholarships, grants, stipends, and approved funding are handled separately.
+
+# TUITION FLOOR — $0
+
+[BUTTON — CHECK ELIGIBLE BENEFITS → 6.8 / PRICING CALCULATOR ENGINE]
+
+---
+
+# SECTION 8 — CONTRIBUTOR, AMBASSADOR, GRADUATE, PARTNER AND TEAM BENEFITS
+
+[SECTION BACKGROUND — WHITE / GOLD ACCENTS]
+
+[ICON PLACEHOLDER — PEOPLE / CROWN]
+
+[IMAGE PLACEHOLDER — RIAH CONTRIBUTORS AND AMBASSADORS]
+
+## CONTRIBUTE. EARN POINTS. BUILD YOUR LEGACY.
+
+RIAH Pathway uses verified points and applicable milestone requirements for eligible public Contributors, Ambassadors, Graduates, Partners, and Team Members.
+
+Benefits are applied only after the underlying activity, deliverable, eligibility requirement, or milestone is verified and approved.
+
+Pending, duplicate, fraudulent, rejected, fabricated, unauthorized, or unverifiable activity does not receive permanent points.
+
+## GitHub Contributors
+
+[ICON CARD — GITHUB CONTRIBUTOR]
+
+### Points
+
+**100 approved points = 1%**
+
+**2,500 approved points = maximum Contributor milestone**
+
+### Tuition Benefit
+
+# UP TO 25%
+
+### Product Benefit
+
+# UP TO 25%
+
+Benefits progress in complete **100-point milestones** from **1% through 25%**.
+
+[BUTTON — VIEW GITHUB CONTRIBUTOR BENEFITS → CONTRIBUTOR BENEFITS / GITHUB CONTRIBUTORS]
+
+## Community Ambassadors
+
+[ICON CARD — COMMUNITY]
+
+**100 approved points = 1%**
+
+**2,500 approved points = maximum milestone**
+
+Tuition Benefit — **Up to 25%**
+
+Product Benefit — **Up to 25%**
+
+[BUTTON — VIEW COMMUNITY AMBASSADOR BENEFITS → CONTRIBUTOR BENEFITS / AMBASSADORS]
+
+## Substitute Teacher Ambassadors
+
+[ICON CARD — SUBSTITUTE TEACHER]
+
+Verified outreach, events, referrals, conversions, and applicable approved activities may earn points.
+
+**100 approved points = 1%**
+
+Tuition Benefit — **Up to 25%**
+
+Product Benefit — **Up to 25%**
+
+[BUTTON — VIEW SUBSTITUTE TEACHER BENEFITS → CONTRIBUTOR BENEFITS / SUBSTITUTE TEACHERS]
+
+## Rideshare Ambassadors
+
+[ICON CARD — VEHICLE]
+
+Verified vehicle marketing, outreach, events, referrals, conversions, and applicable approved activities may earn points.
+
+**100 approved points = 1%**
+
+Tuition Benefit — **Up to 25%**
+
+Product Benefit — **Up to 25%**
+
+[BUTTON — VIEW RIDESHARE BENEFITS → CONTRIBUTOR BENEFITS / RIDESHARE]
+
+## Delivery Ambassadors
+
+[ICON CARD — DELIVERY]
+
+Verified vehicle marketing, outreach, events, referrals, conversions, and applicable approved activities may earn points.
+
+**100 approved points = 1%**
+
+Tuition Benefit — **Up to 25%**
+
+Product Benefit — **Up to 25%**
+
+[BUTTON — VIEW DELIVERY BENEFITS → CONTRIBUTOR BENEFITS / DELIVERY]
+
+## Education Graduates
+
+[ICON CARD — GRADUATION CAP]
+
+Complete an eligible pathway:
+
+# GUARANTEED 1,000 POINTS AND 10% TUITION BENEFIT
+
+Additional **100 approved Graduate Points = +1%**
+
+Maximum Product Milestone — **2,500 points**
+
+Maximum Tuition Milestone — **5,000 points**
+
+Tuition Benefit — **Guaranteed 10% at qualifying completion, up to 50%**
+
+Product Benefit — **Up to 25% based on applicable approved Graduate Points and eligibility**
+
+## Experiential Graduates
+
+[ICON CARD — BRIEFCASE]
+
+Complete an eligible pathway:
+
+# GUARANTEED 1,000 POINTS AND 10% TUITION BENEFIT
+
+Additional **100 approved points = +1%**
+
+Maximum Product Milestone — **2,500 points**
+
+Maximum Tuition Milestone — **5,000 points**
+
+Tuition Benefit — **Guaranteed 10% at qualifying completion, up to 50%**
+
+Product Benefit — **Up to 25%**
+
+[BUTTON — VIEW GRADUATE BENEFITS → CONTRIBUTOR BENEFITS / STUDENTS]
+
+## Partner Employees
+
+[ICON CARD — HANDSHAKE]
+
+Verified active Partner affiliation and applicable written partnership terms are required.
+
+Tuition Benefit:
+
+# 15%
+
+Product Benefit:
+
+# 15%
+
+A separate approved Partner or Pillar Product Benefit may provide a product benefit of:
+
+# UP TO 25%
+
+where specifically authorized.
+
+[BUTTON — VIEW PARTNER BENEFITS → CONTRIBUTOR BENEFITS / PARTNERS]
+
+## RIAH Team Members
+
+[ICON CARD — RIAH TEAM]
+
+Eligible Education Tuition:
+
+# $0
+
+Eligible Product Reduction:
+
+# 50%
+
+Team Member Tuition Reimbursement:
+
+# $0
+
+[BUTTON — EXPLORE TEAM OPPORTUNITIES → 10.4 / JOIN OUR TEAM]
+
+## Multiple Contributor and Ambassador Tracks
+
+Participation in multiple Contributor or Ambassador tracks does not increase the Contributor and Ambassador benefit beyond:
+
+# 25% TUITION
+
+# 25% PRODUCTS
+
+[BUTTON — VIEW CONTRIBUTOR BENEFITS → CONTRIBUTOR BENEFITS DOCUMENTATION]
+
+[BUTTON — CALCULATE MY BENEFIT → 6.8 / PRICING CALCULATOR ENGINE]
+
+---
+
+# SECTION 9 — EXPERIENTIAL PRICING
+
+[SECTION BACKGROUND — BLACK]
+
+[ICON PLACEHOLDER — BRIEFCASE]
+
+## EXPERIENCE HAS A PATHWAY TOO.
+
+### Apprentice
+
+**1 Month**
+
+# $2,500
+
+### Intern
+
+**3 Months**
+
+# $5,000
+
+### Associate
+
+**1 Year**
+
+# $10,000
+
+### Senior Associate
+
+**1 Year**
+
+# $10,000
+
+### Manager
+
+**1 Year**
+
+# $10,000
+
+### Executive
+
+**1 Year**
+
+# $10,000
+
+[BUTTON — EXPLORE EXPERIENTIAL PATHWAY → 3.5]
+
+[BUTTON — VIEW EXPERIENTIAL CURRICULUM → 4.8]
+
+---
+
+# SECTION 10 — CERTIFICATION AND REVIEW
+
+[SECTION BACKGROUND — WHITE]
+
+[ICON PLACEHOLDER — CERTIFICATE]
+
+## PREPARE FOR WHAT COMES NEXT.
+
+Certification Review and Bar Review connect applicable curriculum, review resources, examination preparation, products, and professional-development pathways.
+
+Included curriculum-based Certification Review:
+
+# $0 ADDITIONAL WHERE INCLUDED
+
+Purchased standalone Certification Review and Bar Review products follow current Products and Pricing Engine records.
+
+### Review Access Guarantee
+
+Qualifying completion:
+
+# 100%
+
+Additional qualifying access:
+
+# 3 MONTHS
+
+Purchased Certification Review and Bar Review products are nonrefundable after purchase under the applicable policy.
+
+[BUTTON — EXPLORE CERTIFICATION PATHWAY → 3.6]
+
+[BUTTON — EXPLORE CERTIFICATION AND REVIEW PRODUCTS → 8 / PRODUCTS]
+
+---
+
+# SECTION 11 — FEES AND DEPOSITS
+
+[SECTION BACKGROUND — BLACK / GOLD ACCENTS]
+
+[ICON PLACEHOLDER — RECEIPT]
+
+## KNOW THE CHARGES CONNECTED TO YOUR PATHWAY.
+
+Application Fee — **$50**
+
+Admissions Fee — **$0**
+
+Enrollment Fee — **$0**
+
+## Education Deposit
+
+# $1,550 TOTAL
+
+Student Resource Allocation — **$1,000**
+
+RIAH Fee — **$550**
+
+These are components of the single $1,550 Education Deposit.
+
+## Experiential Deposit
+
+# $1,500 WHEN APPLICABLE
+
+The applicable deposit trigger controls whether the Experiential Deposit is charged.
+
+## Complete Transfer Fee
+
+# $500 TOTAL
+
+Transfer Evaluation — **$125**
+
+Alternative Credit Evaluation — **$125**
+
+Prior Learning and Credit Review — **$125**
+
+Processing and Administration — **$125**
+
+The four $125 components comprise the single $500 Complete Transfer Fee.
+
+Transfer Tuition Reduction:
+
+# $0
+
+Approved transfer credit affects academic standing and remaining requirements rather than independently reducing established tuition.
+
+[BUTTON — VIEW FEES → 6.3 / FEES]
+
+---
+
+# SECTION 12 — WHAT YOUR EDUCATION DEPOSIT SUPPORTS
+
+[SECTION BACKGROUND — WHITE]
+
+[IMAGE PLACEHOLDER — STUDENT RESOURCE PACKAGE]
+
+[ICON PLACEHOLDER — LAPTOP / BOOKS]
+
+## RESOURCES TO SUPPORT THE PATHWAY.
+
+Applicable Student Resource Allocation may support:
+
+Textbooks and Books
+
+Review Courses and Applicable Review Packages
+
+Laptop and Computer Resources
+
+Software Subscriptions
+
+Technology Resources
+
+Academic Materials
+
+Major-Specific Resources
+
+Program-Specific Resources
+
+Welcome Materials
+
+Graduation-Related Resources
+
+Transcript-Related Resources
+
+Other Applicable Student Resources
+
+[BUTTON — VIEW FEES → 6.3]
+
+---
+
+# SECTION 13 — PAYMENT OPTIONS
+
+[SECTION BACKGROUND — BLACK]
+
+[ICON PLACEHOLDER — PAYMENT]
+
+## PAY FOR YOUR PATHWAY IN THE WAY THAT APPLIES TO YOU.
+
+RIAH Pathway supports multiple payment structures according to the applicable pathway, funding source, eligibility, and payment configuration.
+
+### Upfront Payment
+
+[ICON CARD — WALLET]
+
+Applicable Upfront Tuition Reduction:
+
+# 15%
+
+The upfront reduction is subject to the current Pricing Engine reduction rules and applicable ordinary reduction ceiling.
+
+[BUTTON — CALCULATE UPFRONT OPTION → 6.8]
+
+### Monthly Course Payment
+
+[ICON CARD — CALENDAR]
+
+Applicable course payments may be distributed across:
+
+# UP TO 6 MONTHS PER COURSE
+
+The applicable paid course must be completed and paid in full before the next applicable paid course unlocks.
+
+**Payment → Course Access → Course Completion → Course Paid in Full → Next Course Unlock**
+
+# NO COMPLETION AND FULL PAYMENT = NEXT PAID COURSE DOES NOT UNLOCK
+
+Where a paid-course count has not been configured:
+
+**PENDING CONFIGURATION**
+
+### Per-Course Payment
+
+[ICON CARD — OPEN BOOK]
+
+**Per-Course Tuition = Applicable Tuition ÷ Configured Paid-Course Count**
+
+Acceleration may allow a student to progress more quickly, but it does not eliminate required payment for an applicable paid course.
+
+### Semester Payment
+
+[ICON CARD — SEMESTER CALENDAR]
+
+Semester or term payment is available where configured.
+
+The semester allocation remains an allocation of established program tuition.
+
+[BUTTON — COMPARE PAYMENT OPTIONS → 6.4 / PAYMENT OPTIONS]
+
+---
+
+# SECTION 14 — TITLE IV PAYMENT PATH
+
+[SECTION BACKGROUND — WHITE]
+
+[IMAGE PLACEHOLDER — FINANCIAL AID SEMESTER TIMELINE]
+
+[ICON PLACEHOLDER — FINANCIAL AID]
+
+## SEMESTER-BASED FINANCIAL AID WHERE APPLICABLE.
+
+Where Title IV becomes applicable and the student qualifies, the applicable approved semester-based financial-aid structure is used.
+
+# TITLE IV = SEMESTER PAYMENT PATH
+
+Title IV students do not use an accelerated Upfront, Monthly, or Per-Course payment path for the same applicable Title IV-funded tuition.
+
+### J.D. Example
+
+Total Standard Tuition — **$40,000**
+
+Typical Duration — **4 Years**
+
+Academic Semesters — **8**
+
+Semester Allocation — **$5,000**
+
+Annual Allocation — **$10,000**
+
+Total Program Tuition — **$40,000**
+
+[BUTTON — TITLE IV INFORMATION → 6.4 / PAYMENT OPTIONS]
+
+[POLICY LINK — TITLE IV AND FINANCIAL AID INFORMATION → 6.7 / COSTS]
+
+---
+
+# SECTION 15 — RIAH PRIVATE STUDENT LOAN
+
+[SECTION BACKGROUND — BLACK]
+
+[IMAGE PLACEHOLDER — PRIVATE EDUCATION FINANCING]
+
+[ICON PLACEHOLDER — LOAN DOCUMENT]
+
+## AN ADDITIONAL FINANCING PATH WHERE ELIGIBLE.
 
 # SUBJECT TO CREDIT APPROVAL
 
-Maximum Available Amount: \\# UP TO \$5,000
+Loan Range:
 
-Minimum Stated Credit Score: \\# 600
+# $500 TO $5,000
 
-Interest: \\# 5%
-
-Repayment Period After Graduation: \\# 12 MONTHS
+Minimum Stated Credit Score:
 
-The student loan may be available for qualifying degree-level programs  
-beginning with an eligible Associate's pathway or higher.
-
-Not available for GED and HSE or High School Diploma.
-
-A Minor does not independently qualify and must be connected to an  
-eligible qualifying degree pathway.
-
-# SECTION 14 --- GED AND HSE PROGRAM CLARIFICATION
-
-Standard Tuition --- \$1,500 Beta Tuition --- \$375 Pre-Accreditation  
-Tuition --- \$750 Curriculum Structure --- 300 Credit Hours Student Loan  
---- Not Available
-
-# SECTION 15 --- HIGH SCHOOL PROGRAM CLARIFICATION
+# 650
 
-Standard Tuition --- \$5,000 Beta Tuition --- \$1,250 Pre-Accreditation  
-Tuition --- \$2,500 Student Loan --- Not Available
-
-Eligible High School students should be directed to applicable tuition  
-pricing, Beta benefits, discounts, funding, scholarships, grants,  
-payment arrangements, concurrent college coursework opportunities,  
-Experiential opportunities, and other applicable assistance.
-
-# SECTION 16 --- TUITION DISCOUNTS AND ACCESS
-
-Upfront Tuition Reduction --- 15% SNAP --- 5% TANF --- 5% WIC --- 5%  
-Qualifying Homeless Shelter or Housing Hardship --- 5% Qualifying  
-Community or Housing-Hardship Reduction --- 5% Applicable Education and  
-Experiential Combination --- 25% Additional Major --- 5% Reduction  
-Additional Minor --- 5% Reduction
-
-Maximum Combined Ordinary Qualifying Tuition Reduction: # 15%
-
-# SECTION 17 --- FUNDING AND REIMBURSEMENT
-
-Scholarship Pool --- 5% Stipend Pool --- 5% Grant Pool --- 5% Combined  
-Reinvestment Architecture --- 15%
-
-Qualifying Completion Reimbursement --- 10% Maximum Established  
-Reimbursement --- Up to 50%
-
-**[IMAGE PLACEHOLDER --- STUDENT FUNDING RESOURCES]** **[INTERNAL  
-LINK --- 06.4 --- TUITION → FUNDING AND REIMBURSEMENT]** **[INTERNAL  
-LINK --- 07 --- DONATIONS]**
-
-# SECTION 18 --- COSTS, REFUNDS AND POLICIES
-
-Week 1 --- 100% Week 2 --- 75% Week 3 --- 50% Week 4 and Applicable  
-Fourth-Week Point --- 0% Institutional Tuition Refund
-
-Any required federal, state, institutional, or other legally required  
-financial-aid or refund calculation is administered according to  
-controlling requirements.
-
-Certification Review and Bar Review Cash Refund --- 0% Qualifying Review  
-Access Guarantee --- 3 Additional Months
-
-Products are generally nonrefundable after purchase. Qualifying  
-shipping-damaged physical products may be replaced when applicable proof  
-requirements are satisfied.
-
-# SECTION 19 --- TUITION POLICIES
-
-Policy references include:
-
--   Master Pricing Principles  
--   Tuition and Pricing  
--   Beta Pricing and Benefits  
--   Pre-Accreditation Pricing  
--   Grandfathered Tuition  
--   Accreditation and Authorization Disclosures  
--   Degree-Conferral Requirements  
--   Education Deposit  
--   Experiential Deposit  
--   Student Resource Allocation  
--   Application Fees  
--   Transfer Credit  
--   Complete Transfer Fee  
--   Payment Plans  
--   Upfront Payment  
--   Student Loan  
--   Student Loan Eligibility  
--   Credit Approval  
--   Tuition Discounts  
--   Discount Stacking  
--   Scholarships  
--   Grants  
--   Stipends  
--   Tuition Reimbursement  
--   Funding  
--   Refunds  
--   Withdrawal  
--   Certification Review and Bar Review  
--   Product Refund and Replacement  
--   Title IV and Financial Aid when applicable  
--   Cost of Attendance and Student Costs where applicable
+Maximum Active RIAH Private Student Loans:
 
-**[EXTERNAL LINK --- MASTER PRICING PRINCIPLES --- TP-01 → SUITEDASH  
-PUBLIC PAGE PLACEHOLDER]** **[EXTERNAL LINK --- TUITION POLICIES →  
-SUITEDASH PUBLIC PAGE PLACEHOLDER]** **[EXTERNAL LINK --- STUDENT LOAN  
-POLICY → SUITEDASH PUBLIC PAGE PLACEHOLDER]** **[EXTERNAL LINK --- REFUND  
-AND WITHDRAWAL POLICY → SUITEDASH PUBLIC PAGE PLACEHOLDER]** **[EXTERNAL  
-LINK --- TUITION REIMBURSEMENT POLICY → SUITEDASH PUBLIC PAGE  
-PLACEHOLDER]**
+# 1
 
-# SECTION 20 --- RIAH TUITION CALCULATOR
+Interest:
 
-Step 1 --- Select Educational Pathway Step 2 --- Select Pricing Stage  
-Step 3 --- Select Experiential if Applicable Step 4 --- Applicable Fees  
-and Deposits Step 5 --- Applicable Discounts and Funding Step 6 ---  
-Student Loan Eligibility
+# 5% PER 30 DAYS
 
-Calculator output:
+Certification Review purchases are excluded from applicable RIAH Private Student Loan use.
 
--   Total Program Tuition  
--   Typical Program Duration  
--   Pricing Stage  
--   Experiential Tuition  
--   Beta Benefits where applicable  
--   Deposits  
--   Fees  
--   Eligible Tuition Reductions  
--   Scholarships  
--   Grants  
--   Stipends  
--   Reimbursement  
--   Student Loan eligibility where applicable  
--   Other Approved Funding  
--   Estimated Student Responsibility
+Applicable repayment may extend for up to:
 
-# SECTION 21 --- WHAT YOUR EDUCATION DEPOSIT SUPPORTS
+# 12 MONTHS
 
-Textbooks and Books Review Courses and Review Packages Laptop and  
-Computer Resources Software Subscriptions Graduation-Related Resources  
-Transcript-Related Costs Welcome Package Academic and Major-Specific  
-Materials Technology Resources
+Outstanding applicable RIAH Private Student Loan obligations are reconciled according to the applicable reimbursement and loan rules.
 
-Education Deposit: \\# \$1,550 TOTAL
+[BUTTON — PRIVATE STUDENT LOAN INFORMATION → 6.4 / PAYMENT OPTIONS]
 
-\$1,000 Student Resource Allocation + \$550 RIAH Fee
+[POLICY LINK — PRIVATE STUDENT LOAN POLICY → 11.8 / POLICIES]
 
-**[IMAGE PLACEHOLDER --- STUDENT RESOURCE PACKAGE]**
+---
 
-# SECTION 22 --- TUITION SECTION DIRECTORY
+# SECTION 16 — FUNDING
 
-**[INTERNAL LINK --- 06.2 --- TUITION AND PRICING]** **[INTERNAL LINK  
---- 06.3 --- TUITION → FEES AND PAYMENT OPTIONS]** **[INTERNAL LINK  
---- 06.4 --- TUITION → FUNDING AND REIMBURSEMENT]** **[INTERNAL LINK  
---- 06.5 --- TUITION → COSTS, REFUNDS AND POLICIES]**
+[SECTION BACKGROUND — WHITE]
 
-# SECTION 23 --- SUPPORTING RESOURCES
+[IMAGE PLACEHOLDER — STUDENT FUNDING RESOURCES]
 
-**[EXTERNAL LINK --- MASTER PRICING PRINCIPLES --- TP-01 → SUITEDASH  
-PUBLIC PAGE PLACEHOLDER]** **[INTERNAL LINK --- 04 --- CURRICULUM]**  
-**[INTERNAL LINK --- 09 --- ACCREDITATION AND AUTHORIZATION]**  
-**[INTERNAL LINK --- 06.2 --- TUITION AND PRICING]** **[INTERNAL LINK  
---- 06.3 --- TUITION → FEES AND PAYMENT OPTIONS]** **[INTERNAL LINK  
---- 06.4 --- TUITION → FUNDING AND REIMBURSEMENT]** **[INTERNAL LINK  
---- 06.5 --- TUITION → COSTS, REFUNDS AND POLICIES]**
+[ICON PLACEHOLDER — FUNDING]
 
-# SECTION 24 --- FAQ PREVIEW
+## FUNDING IS SEPARATE FROM TUITION REDUCTIONS.
 
-Includes tuition amount, total-program pricing, Pre-Accreditation  
-meaning, Beta benefits, GED and HSE credit-hour structure, Student Loan  
-eligibility, accelerated progression, transfer credit, payment plans,  
-tuition reimbursement, curriculum routing, and Accreditation and  
-Authorization routing.
+Institutional Scholarship Pool — **5%**
 
-**[INTERNAL LINK --- 12 --- FAQ]**
+Institutional Grant Pool — **5%**
 
-# SECTION 25 --- FINAL CTA
+Institutional Stipend Pool — **5%**
 
-# UNDERSTAND YOUR COST. UNDERSTAND YOUR CURRICULUM. CHOOSE YOUR PATHWAY.
+Combined Institutional Funding Architecture — **15%**
 
-Explore your program tuition, curriculum, Beta and Pre-Accreditation  
-opportunities, applicable Experiential benefits, fees, payment options,  
-funding, and accreditation-stage information before beginning your RIAH  
-Pathway.
+These percentages represent institutional funding pools.
 
-**[BUTTON --- LEARN MORE: TUITION AND PRICING → 06.2 --- TUITION AND  
-PRICING]** **[BUTTON --- LEARN MORE: CURRICULUM → 04 ---  
-CURRICULUM]** **[BUTTON --- LEARN MORE: ACCREDITATION AND  
-AUTHORIZATION → 09 --- ACCREDITATION AND AUTHORIZATION]** **[BUTTON  
---- APPLY NOW → EXTERNAL --- CLASSE365]** **[BUTTON --- GET STARTED:  
-REQUEST INFORMATION → 13 --- CONTACT → RIAH PATHWAY DROP FORM]**
+They do not constitute automatic individual awards.
 
-# SECTION 26 --- CURRENT PAYMENT OPTION ARCHITECTURE
+Automatic Individual Award:
 
-**[IMAGE PLACEHOLDER --- PAYMENT OPTION CARDS]**
+# $0 UNTIL APPROVED
 
-**[ICON --- PAYMENT]**
+Applicable funding may include:
 
-## UPFRONT PAYMENT
+Scholarships
 
-Applicable Upfront Tuition Reduction --- **15%**
+Grants
 
-The 15% upfront tuition reduction is mutually exclusive with the ordinary stackable tuition reductions.
+Stipends
 
-Example:
+Employer Funding
 
-Starting Tuition --- **\$22,500**
+Workforce Funding
 
-15% Upfront Reduction --- **\$3,375**
+Donor Funding
 
-Upfront Tuition --- **\$19,125**
+Community Funding
 
-**[BUTTON --- CALCULATE UPFRONT OPTION → TUITION CALCULATOR]**
+Other Approved External Funding
 
-## MONTHLY PAYMENT
+Pending or potential funding does not reduce confirmed student responsibility.
 
-Monthly tuition payment interest --- **5% on the applicable outstanding principal**
+[BUTTON — EXPLORE FUNDING → 6.5 / FUNDING]
 
-Example:
+---
 
-Starting Principal --- **\$22,500**
+# SECTION 17 — TUITION REIMBURSEMENT AND GRADUATE BENEFITS
 
-5% Interest --- **\$1,125**
+[SECTION BACKGROUND — BLACK / GOLD ACCENTS]
 
-Balance Before Applicable Payment --- **\$23,625**
+[IMAGE PLACEHOLDER — GRADUATE REIMBURSEMENT AND POINTS]
 
-After an applicable payment posts, the remaining applicable principal becomes the basis for the next applicable monthly calculation.
+[ICON PLACEHOLDER — GRADUATION CAP / DOLLAR SIGN]
 
-This monthly tuition payment option is separate from the RIAH Private Student Loan.
+## COMPLETE THE PATHWAY. CONTINUE BUILDING YOUR BENEFIT.
 
-**[BUTTON --- CALCULATE MONTHLY PAYMENT → TUITION CALCULATOR]**
+Qualifying Education and Experiential Graduates establish:
 
-## PER COURSE
+# 1,000 POINTS
 
-Applicable tuition may be allocated across applicable paid courses.
+and a guaranteed qualifying tuition benefit of:
 
-Each applicable paid course must be paid before the next applicable paid course unlocks.
+# 10%
 
-```mermaid
-flowchart LR
-    N1["Payment"] --> N2["Course Unlock"]
-    N2["Course Unlock"] --> N3["Course Completion"]
-    N3["Course Completion"] --> N4["Next Applicable Payment"]
-    N4["Next Applicable Payment"] --> N5["Next Course Unlock"]
-```
+Additional verified Graduate Points may increase the applicable tuition benefit.
 
-**NO PAYMENT \= NEXT PAID COURSE DOES NOT UNLOCK**
+**100 Additional Approved Points = +1%**
 
-Students may accelerate within an applicable semester by completing as many eligible courses as permitted, but acceleration does not remove the required payment for each applicable paid course.
+Maximum Tuition Milestone:
 
-**[BUTTON --- VIEW PER COURSE OPTION → 06.3 --- FEES AND PAYMENT OPTIONS]**
+# 5,000 POINTS = UP TO 50%
 
-## TITLE IV
+Maximum Product Milestone:
 
-Where Title IV becomes applicable and the student qualifies, the applicable approved Title IV structure is used.
+# 2,500 POINTS = UP TO 25%
 
-For a **\$22,500** four-year program-cost example:
+The product benefit is not automatically guaranteed solely by pathway completion.
 
-Year 1 Semester 1 --- **\$11,250**
+## Reimbursement Basis
 
-Year 1 Semester 2 --- **\$11,250**
+Applicable Tuition
 
-Year 1 Program Tuition Funded --- **\$22,500**
+**−** Applicable Tuition Reductions
 
-The original program tuition is front-loaded within the first applicable academic year rather than divided equally across all eight semesters.
+**−** Scholarship-Funded Tuition
 
-Continued Enrollment Amount --- **\$5 per configured continued-enrollment period**
+**−** Grant-Funded Tuition
 
-Exact continued-enrollment billing period --- **PENDING CONFIGURATION**
+**−** Stipend-Funded Tuition
 
-**[POLICY LINK --- TITLE IV INFORMATION → 06.5 --- COSTS, REFUNDS AND POLICIES]**
+**−** Other Non-Reimbursable Award Funding
 
-# SECTION 27 --- CURRENT INTEGRATED EDUCATION AND EXPERIENTIAL PRICING
+**= Eligible Reimbursement Basis**
 
-**[IMAGE PLACEHOLDER --- EDUCATION PLUS EXPERIENCE PATHWAY]**
+[BUTTON — EXPLORE REIMBURSEMENT → 6.6 / REIMBURSEMENT]
 
-**[ICON --- CONNECTED PATHWAYS]**
+[BUTTON — VIEW GRADUATE BENEFITS → CONTRIBUTOR BENEFITS / STUDENTS]
 
-Eligible integrated Education and Experiential combinations use an approved **10% structural adjustment**.
+---
 
-Education Standard Tuition  
-+ Experiential Standard Tuition  
-\= Combined Standard
+# SECTION 18 — REIMBURSEMENT ESCROW
 
-Combined Standard × 10%  
-\= Integrated Structural Adjustment
+[SECTION BACKGROUND — WHITE]
 
-Combined Standard − Integrated Structural Adjustment  
-\= Integrated Standard
+[IMAGE PLACEHOLDER — REIMBURSEMENT ESCROW DASHBOARD]
 
-The 10% integrated adjustment is structural pricing and does not consume the 15% ordinary tuition-reduction ceiling.
+[ICON PLACEHOLDER — LOCKED WALLET]
 
-Example:
+## SEE WHAT YOU HAVE EARNED.
 
-Bachelor's Standard --- **\$20,000**
+The applicable reimbursement and graduate-benefit dashboard may display:
 
-Intern Experiential --- **+\$5,000**
+Eligible Reimbursement Basis
 
-Combined Standard --- **\$25,000**
+Guaranteed Benefit
 
-10% Integrated Structural Adjustment --- **−\$2,500**
+Graduate Points
 
-Integrated Standard --- **\$22,500**
+Additional Approved Points
 
-**[BUTTON --- CALCULATE INTEGRATED TUITION → TUITION CALCULATOR]**
+Current Earned Percentage
 
-# SECTION 28 --- CURRENT ORDINARY TUITION REDUCTIONS
+Current Escrow Amount
 
-**[IMAGE PLACEHOLDER --- VERIFIED BENEFIT DOCUMENTATION]**
+Maximum Potential Benefit
 
-**[ICON --- PERCENTAGE BADGE]**
+Payment-Source Allocation
 
-SNAP --- **5%**
+Graduation Status
 
-TANF --- **5%**
+RIAH Private Student Loan Reconciliation
 
-WIC --- **5%**
+Release Status
 
-Qualifying Housing Hardship --- **5%**
+Before qualifying completion:
 
-Additional Major --- **5% where applicable**
+# $0 RELEASED
 
-Additional Minor --- **5% where applicable**
+Outstanding applicable RIAH Private Student Loan obligations are reconciled first where required.
 
-Maximum Ordinary Stack --- **15%**
+[BUTTON — VIEW REIMBURSEMENT → 6.6]
 
-One qualifying 5% reduction --- **5%**
+---
 
-Two qualifying 5% reductions --- **10%**
+# SECTION 19 — PRICING CALCULATOR ENGINE
 
-Three qualifying 5% reductions --- **15%**
+[SECTION BACKGROUND — BLACK]
 
-Four or more qualifying ordinary reductions --- **15% maximum**
+[IMAGE PLACEHOLDER — RIAH PRICING CALCULATOR ENGINE]
 
-**[BUTTON --- CHECK REDUCTION OPTIONS → TUITION CALCULATOR]**
+[ICON PLACEHOLDER — CALCULATOR]
 
-# SECTION 29 --- CURRENT RIAH PRIVATE STUDENT LOAN
+## BUILD YOUR RIAH PATHWAY. SEE WHAT IT COSTS.
 
-**[IMAGE PLACEHOLDER --- PRIVATE EDUCATION FINANCING]**
+The Pricing Calculator Engine is a deterministic:
 
-**[ICON --- LOAN DOCUMENT]**
+**Pathway Builder + Eligibility Engine + Conditional Rules Engine + Pricing Engine + Combination Engine + Transfer Engine + Experiential Engine + Non-J.D. Legal Engine + Certification Engine + Tuition Reduction Engine + Contributor Benefit Engine + Funding Engine + Deposit and Fee Engine + Product Engine + Payment Engine + Financing Engine + Refund Engine + Reimbursement Engine + Results Generator + Administrative Rule Trace**
 
-Maximum Principal --- **Up to \$5,000**
+### Calculator Flow
 
-Minimum Stated Credit Score --- **600**
+**1 — Build My Pathway**
 
-Credit Approval --- **Required**
+**2 — Determine My Pricing Status**
 
-Monthly Interest --- **5%**
+**3 — Customize My Pathway**
 
-Disbursement --- **Entire approved amount immediately**
+**4 — Transfer and Prior Learning**
 
-Capitalization --- **Monthly**
+**5 — Tuition Reduction Eligibility**
 
-Interest begins upon disbursement and continues until the outstanding balance reaches **\$0**.
+**6 — Contributor, Ambassador, Partner, Graduate and Team Benefits**
 
-Formula:
+**7 — Funding**
 
-Monthly Interest \= Beginning Monthly Balance × 5%
+**8 — Products and Support**
 
-Capitalized Balance \= Beginning Balance + Monthly Interest
+**9 — Payment**
 
-Ending Balance \= Capitalized Balance − Payment
+**10 — Calculate**
 
-Example with no payment:
+**11 — Results**
 
-Starting Principal --- **\$5,000**
+## Contributor Controls
 
-Month 1 Interest --- **+\$250**
+GitHub Contributor — **1% through 25%**
 
-Month 1 Balance --- **\$5,250**
+Community Ambassador — **1% through 25%**
 
-Month 2 Interest --- **+\$262.50**
+Substitute Teacher Ambassador — **1% through 25%**
 
-Month 2 Balance --- **\$5,512.50**
+Rideshare Ambassador — **1% through 25%**
 
-Month 3 Interest --- **+\$275.63**
+Delivery Ambassador — **1% through 25%**
 
-Month 3 Balance --- **\$5,788.13**
+Graduate Tuition Benefit — **10% guaranteed at qualifying completion through applicable milestones up to 50%**
 
-Graduate Repayment Deadline --- **Within 12 months after graduation**
+Graduate Product Benefit — **Up to 25%**
 
-Non-Graduate Repayment Deadline --- **Within 3 months after no longer enrolled**
+Partner Employee Tuition Benefit — **15%**
 
-Potential independent eligibility begins at an eligible Associate's-level pathway.
+Partner Employee Product Benefit — **15%**
 
-GED and HSE --- **Not independently eligible**
+Eligible Team Member Education Tuition — **$0**
 
-High School --- **Not independently eligible**
+Eligible Team Member Product Reduction — **50%**
 
-Standalone Minor --- **Not independently eligible**
+## Calculator Accounting Display
 
-**[BUTTON --- VIEW PRIVATE LOAN INFORMATION → 06.3 --- FEES AND PAYMENT OPTIONS]**
+Every result must show:
 
-# SECTION 30 --- CURRENT TUITION REIMBURSEMENT AND ESCROW
+Starting Amount
 
-**[IMAGE PLACEHOLDER --- STUDENT REIMBURSEMENT ESCROW DASHBOARD]**
+Each Addition
 
-**[ICON --- GRADUATION CAP WITH DOLLAR SIGN]**
+Each Subtraction
 
-Guaranteed Qualifying Graduation Reimbursement --- **10%**
+Applicable Percentage
 
-Maximum Potential Reimbursement --- **Up to 50%**
+Dollar Value Produced by Percentage
 
-Pre-Graduation Release --- **\$0**
+Subtotal After Each Calculation
 
-Qualifying Processing Period --- **Within 3 months after graduation**
+Final Amount
 
-Failure to Graduate --- **Reimbursement forfeited**
+Description
 
-Eligible Reimbursement Basis:
-
-Applicable Tuition  
-− Applicable Tuition Reductions  
-− Scholarships  
-− Grants  
-− Stipends  
-− Other Non-Reimbursable Award Funding  
-\= Eligible Reimbursement Basis
-
-Guaranteed Reimbursement \= Eligible Reimbursement Basis × 10%
-
-Maximum Potential Reimbursement \= Eligible Reimbursement Basis × 50%
-
-Reimbursement source routing follows the applicable reimbursable payment source. Scholarship, grant, and stipend funding is not reimbursed to the student.
-
-**[BUTTON --- EXPLORE REIMBURSEMENT → 06.4 --- FUNDING AND REIMBURSEMENT]**
-
-# SECTION 31 --- CURRENT EXAMPLE STUDENT WITH REDUCTIONS
-
-**[IMAGE PLACEHOLDER --- EXAMPLE STUDENT REAL NUMBERS]**
-
-**[ICON --- STUDENT PROFILE]**
-
-Bachelor's Standard --- **\$20,000**
-
-Intern Experiential --- **+\$5,000**
-
-Combined Standard --- **\$25,000**
-
-10% Integrated Structural Adjustment --- **−\$2,500**
-
-Integrated Standard --- **\$22,500**
-
-Pre-Accreditation Stage at 50% --- **\$11,250**
-
-Additional Major 5% --- **−\$562.50**
-
-Additional Minor 5% --- **−\$562.50**
-
-WIC 5% --- **−\$562.50**
-
-Total Ordinary Reduction --- **15% \= −\$1,687.50**
-
-Post-Reduction Tuition --- **\$9,562.50**
-
-Application Fee --- **+\$50**
-
-Education Deposit --- **+\$1,550**
-
-Current Student Responsibility --- **\$11,162.50**
-
-Guaranteed 10% Reimbursement Example --- **\$956.25**
-
-Maximum 50% Potential Reimbursement Example --- **\$4,781.25**
-
-**[BUTTON --- BUILD MY ESTIMATE → TUITION CALCULATOR]**
-
-# SECTION 32 --- CURRENT EXAMPLE STUDENT WITHOUT ORDINARY REDUCTIONS
-
-**[IMAGE PLACEHOLDER --- EXAMPLE MALE STUDENT REAL NUMBERS]**
-
-**[ICON --- STUDENT PROFILE]**
-
-Bachelor's Standard --- **\$20,000**
-
-Intern Experiential --- **+\$5,000**
-
-Combined Standard --- **\$25,000**
-
-10% Integrated Structural Adjustment --- **−\$2,500**
-
-Integrated Standard --- **\$22,500**
-
-Standard Pricing Stage --- **100%**
-
-Ordinary Tuition Reductions --- **\$0**
-
-Application Fee --- **+\$50**
-
-Education Deposit --- **+\$1,550**
-
-Standard Certification Review 1 --- **+\$1,000**
-
-Standard Certification Review 2 at 50% --- **+\$500**
-
-Current Responsibility --- **\$25,600**
-
-Private Student Loan --- **Up to \$5,000 subject to approval**
-
-Guaranteed Reimbursement on eligible \$22,500 tuition basis --- **\$2,250**
-
-**[BUTTON --- COMPARE PAYMENT OPTIONS → 06.3 --- FEES AND PAYMENT OPTIONS]**
-
-# SECTION 33 --- CURRENT CALCULATOR ACCOUNTING DISPLAY
-
-**[IMAGE PLACEHOLDER --- ITEMIZED FINANCIAL STATEMENT]**
-
-**[ICON --- LEDGER]**
-
-Every calculator result must show:
-
-1\. Starting Amount  
-2\. Each Addition  
-3\. Each Subtraction  
-4\. Applicable Percentage  
-5\. Dollar Value Produced by the Percentage  
-6\. Subtotal After Each Calculation  
-7\. Final Amount  
-8\. Description of Each Line  
-9\. Financial Category for Each Line
+Financial Category
 
 Use **+** for additions.
 
@@ -956,434 +1178,693 @@ Use **−** for reductions.
 
 Use **=** for subtotals and totals.
 
-Do not combine financial categories into unexplained numbers.
+Unknown required values return:
 
-Unknown required value --- **PENDING CONFIGURATION**
+# PENDING CONFIGURATION
 
-Unknown external cost --- **EXTERNAL — AMOUNT NOT INCLUDED**
+Unknown third-party costs return:
 
-**[BUTTON --- USE TUITION CALCULATOR → TUITION CALCULATOR]**
+# EXTERNAL — AMOUNT NOT INCLUDED
 
-# SECTION 34 --- CURRENT PRODUCTS FINANCIAL TREATMENT
-
-**[IMAGE PLACEHOLDER --- RIAH PHYSICAL PRODUCTS]**
-
-**[ICON --- SHOPPING BAG]**
-
-Products remain separate from Education tuition unless expressly included.
-
-Automatic Partner Product Reduction --- **0%**
-
-Automatic Team Product Reduction --- **0%**
-
-Automatic Founder Product Reduction --- **0% unless separately established**
-
-Education tuition reductions do not automatically apply to Products.
-
-Product Formula:
-
-Original Product Price  
-− Applicable Approved Product Promotion  
-\= Promotional Product Subtotal  
-+ Applicable Tax  
-+ Customer-Paid Standard Shipping  
-+ Applicable Product Fees  
-\= Final Product Responsibility
-
-Products are generally nonrefundable. Qualifying verified shipping damage uses the applicable replacement process.
-
-**[BUTTON --- EXPLORE PRODUCTS → 08 --- PRODUCTS]**
-
-# SECTION 35 --- COMPLETE CURRENT NUMBER INVENTORY
-
-## MASTER CURRENT NUMERIC SOURCE FOR TUITION WEBSITE AND PRICING CALCULATOR
-
-**[IMAGE PLACEHOLDER --- RIAH PRICING ENGINE DASHBOARD]**
-
-**[ICON --- CALCULATOR AND LEDGER]**
-
-This inventory consolidates the currently established numeric values used across the Tuition wireframe.
-
-Where a value has not been established, the system must use **PENDING CONFIGURATION** rather than inventing an amount.
-
-| Financial Category | Item | Current Amount, Percentage or Rule | Calculator Treatment |  
-| --- | --- | ---: | --- |  
-| Academic Tuition | GED and HSE Standard | **\$1,500** | Included |  
-| Academic Tuition | High School Standard | **\$5,000** | Included |  
-| Academic Tuition | Minor Standard | **\$5,000** | Included |  
-| Academic Tuition | Associate's Standard | **\$10,000** | Included |  
-| Academic Tuition | Bachelor's Standard | **\$20,000** | Included |  
-| Academic Tuition | Master's Standard | **\$15,000** | Included |  
-| Academic Tuition | MBA Standard | **\$15,000** | Included |  
-| Academic Tuition | J.D. Standard | **\$40,000** | Included |  
-| Academic Tuition | Non-J.D. | **\$10,000 per required pathway year** | Included |  
-| Pricing Stage | Beta | **25% of Standard** | Included |  
-| Pricing Stage | Pre-Accreditation | **50% of Standard** | Included |  
-| Pricing Stage | Standard and Post-Credential | **100% of Standard** | Included |  
-| Pricing Stage | Grandfathered or Forever Tuition | **Approved preserved written amount** | Override when valid |  
-| Integrated Pricing | Education plus Experiential Structural Adjustment | **10%** | Before ordinary reductions |  
-| Experiential | Apprentice | **\$2,500** | Included |  
-| Experiential | Apprentice Duration | **1 month** | Display |  
-| Experiential | Intern | **\$5,000** | Included |  
-| Experiential | Intern Duration | **3 months** | Display |  
-| Experiential | Associate | **\$10,000** | Included |  
-| Experiential | Senior Associate | **\$10,000** | Included |  
-| Experiential | Manager | **\$10,000** | Included |  
-| Experiential | Executive | **\$10,000** | Included |  
-| Certification Review | Basic | **\$500** | Included |  
-| Certification Review | Standard | **\$1,000** | Included |  
-| Certification Review | Premium | **\$1,500** | Included |  
-| Certification Review | First Eligible Standalone Review | **100%** | Included |  
-| Certification Review | Second Eligible Standalone Review | **50%** | Included |  
-| Certification Review | Third Eligible Standalone Review | **25%** | Included |  
-| Certification Review | Three Basic Reviews | **\$875** | Included |  
-| Certification Review | Three Standard Reviews | **\$1,750** | Included |  
-| Certification Review | Three Premium Reviews | **\$2,625** | Included |  
-| Certification Review | Included Review | **\$0 additional** | Included |  
-| Review Guarantee | Required RIAH Review Completion | **100%** | Eligibility |  
-| Review Guarantee | Additional Access | **3 months** | Display |  
-| Review Refund | Cash Refund After Purchase | **0%** | Display |  
-| Fee | Application Fee | **\$50** | Included |  
-| Fee | Admissions Fee | **\$0** | Included |  
-| Fee | Enrollment Fee | **\$0** | Included |  
-| Deposit | Education Deposit | **\$1,550** | Conditional |  
-| Deposit | Student Resource Allocation | **\$1,000 of \$1,550** | Component only |  
-| Deposit | RIAH Fee | **\$550 of \$1,550** | Component only |  
-| Deposit | Experiential Deposit | **\$1,500 when separately triggered** | Conditional |  
-| Transfer | Complete Transfer Fee | **\$500** | Conditional |  
-| Transfer | Transfer Evaluation | **\$125 of \$500** | Component only |  
-| Transfer | Alternative Credit Evaluation | **\$125 of \$500** | Component only |  
-| Transfer | Prior Learning and Credit Review | **\$125 of \$500** | Component only |  
-| Transfer | Processing and Administration | **\$125 of \$500** | Component only |  
-| Transfer | Transfer Tuition Reduction | **\$0** | No tuition reduction |  
-| Transfer Maximum | Minor | **6 credits** | Academic display |  
-| Transfer Maximum | Associate's | **30 credits** | Academic display |  
-| Transfer Maximum | Bachelor's | **60 credits** | Academic display |  
-| Transfer Maximum | MBA | **9 credits** | Academic display |  
-| Transfer Maximum | J.D. | **60 credits** | Academic display |  
-| Tuition Reduction | SNAP | **5%** | Verified |  
-| Tuition Reduction | TANF | **5%** | Verified |  
-| Tuition Reduction | WIC | **5%** | Verified |  
-| Tuition Reduction | Qualifying Housing Hardship | **5%** | Verified |  
-| Tuition Reduction | Additional Major | **5% where applicable** | Verified |  
-| Tuition Reduction | Additional Minor | **5% where applicable** | Verified |  
-| Tuition Reduction | Maximum Ordinary Stack | **15%** | Hard cap |  
-| Payment Option | Upfront Tuition Reduction | **15%** | Mutually exclusive with ordinary stack |  
-| Payment Option | Monthly Tuition Interest | **5% on applicable outstanding principal** | Calculate monthly |  
-| Payment Option | Course Unlock | **Payment required before next paid course unlocks** | Conditional |  
-| Title IV | First-Year Front-Loaded Tuition | **100% of applicable program tuition during Year 1** | Where applicable |  
-| Title IV Example | Semester 1 on \$22,500 | **\$11,250** | Example |  
-| Title IV Example | Semester 2 on \$22,500 | **\$11,250** | Example |  
-| Continued Enrollment | Amount | **\$5** | Configured period |  
-| Continued Enrollment | Exact Billing Period | **PENDING CONFIGURATION** | Do not invent |  
-| Partner Benefit | Eligible Education Reduction | **25%** | Verified status |  
-| Product Benefit | Automatic Partner Product Reduction | **0%** | Do not apply |  
-| Team Benefit | Eligible Education Tuition | **\$0** | Verified status |  
-| Product Benefit | Automatic Team Product Reduction | **0%** | Do not apply |  
-| Founder Benefit | Applicable Education Tuition | **\$0** | When applicable |  
-| Private Student Loan | Maximum Principal | **\$5,000** | Conditional |  
-| Private Student Loan | Minimum Stated Credit Score | **600** | Eligibility |  
-| Private Student Loan | Monthly Interest | **5%** | Loan projection |  
-| Private Student Loan | Disbursement | **Entire approved amount immediately** | Interest begins at disbursement |  
-| Private Student Loan | Capitalization | **Monthly** | Until paid |  
-| Private Student Loan | Graduate Repayment Deadline | **12 months after graduation** | Display |  
-| Private Student Loan | Non-Graduate Repayment Deadline | **3 months after no longer enrolled** | Display |  
-| Institutional Funding | Scholarship Pool | **5%** | Do not auto-award |  
-| Institutional Funding | Grant Pool | **5%** | Do not auto-award |  
-| Institutional Funding | Stipend Pool | **5%** | Do not auto-award |  
-| Institutional Funding | Combined Pool Architecture | **15%** | Institutional allocation |  
-| Institutional Funding | Automatic Individual Student Award | **\$0** | Until approved |  
-| Reimbursement | Guaranteed Qualifying Graduation Reimbursement | **10%** | Separate from current responsibility |  
-| Reimbursement | Maximum Potential Reimbursement | **50%** | Milestone dependent |  
-| Reimbursement | Pre-Graduation Release | **\$0** | Escrow only |  
-| Reimbursement | Processing Window | **Within 3 months after qualifying graduation** | Display |  
-| Refund | Week 1 | **100%** | Policy |  
-| Refund | Week 2 | **75%** | Policy |  
-| Refund | Week 3 | **50%** | Policy |  
-| Refund | Week 4 and Applicable Fourth-Week Point | **0% institutional tuition refund** | Policy |  
-| Products | General Cash Refund | **\$0** | Replacement rules separate |  
-| Example | Integrated Bachelor's plus Intern Standard | **\$22,500** | \$20,000 + \$5,000 − \$2,500 |  
-| Example | Pre-Accreditation Tuition on \$22,500 | **\$11,250** | 50% stage |  
-| Example | Three 5% Reductions | **\$1,687.50** | 15% total |  
-| Example | Post-Reduction Tuition | **\$9,562.50** | Example |  
-| Example | Current Student Responsibility | **\$11,162.50** | Example |  
-| Example | Guaranteed 10% Reimbursement on \$9,562.50 | **\$956.25** | Escrow |  
-| Example | Maximum 50% Reimbursement on \$9,562.50 | **\$4,781.25** | Escrow |  
-| Example | \$22,500 Upfront Reduction | **15% \= \$3,375** | Payment comparison |  
-| Example | \$22,500 Upfront Tuition | **\$19,125** | Payment comparison |  
-| Example | First 5% Monthly Interest on \$22,500 | **\$1,125** | Monthly option |  
-| Example | Balance Before Applicable First Monthly Payment | **\$23,625** | Monthly option |  
-| Example | \$5,000 Private Loan Month 1 Interest | **\$250** | Loan example |  
-| Example | \$5,000 Private Loan Month 1 Balance | **\$5,250** | Loan example |  
-| Example | \$5,000 Private Loan Month 2 Interest | **\$262.50** | Loan example |  
-| Example | \$5,000 Private Loan Month 2 Balance | **\$5,512.50** | Loan example |  
-| Example | \$5,000 Private Loan Month 3 Interest | **\$275.63** | Loan example |  
-| Example | \$5,000 Private Loan Month 3 Balance | **\$5,788.13** | Loan example |
-
-**[BUTTON --- USE THESE NUMBERS IN TUITION CALCULATOR → TUITION CALCULATOR]**
-
-**[DOWNLOAD --- TUITION AND PRICING GUIDE → FILE TO ATTACH]**
-
-**[POLICY LINK --- MASTER PRICING PRINCIPLES → 06.5 AND RESOURCES]**
-
-# CMS AND PRICING ENGINE CONTROL
-
-The current numeric inventory must be stored as structured values rather than hard-coded separately into multiple visual components.
-
-The Tuition page, Tuition Calculator, payment-option displays, student examples, reimbursement escrow, pricing engine, CMS, and financial-policy references must use the same approved current values.
-
-When a number changes in the approved pricing source, connected website displays should be updated from the same controlled value.
-
-**[ICON --- DATABASE]**
-
-**[BUTTON --- ADMIN PRICING CONTROL --- INTERNAL ADMIN ONLY]**
-
-# CURRENT BUTTON, LINK AND DOWNLOAD ROUTING TABLE
-
-| Section | Element Type | Label or Asset | Destination or Action | Status |  
-| --- | --- | --- | --- | --- |  
-| Global Header | Button | APPLY NOW | Classe365 Admissions | EXTERNAL ENDPOINT TO ATTACH |  
-| Global Header | Button | REQUEST INFORMATION | RIAH Pathway Drop Form | FORM ENDPOINT TO ATTACH |  
-| Hero | Button | USE TUITION CALCULATOR | Tuition Calculator | Same-page action |  
-| Hero | Button | VIEW TUITION AND PRICING | 06.2 Tuition and Pricing | Internal |  
-| Hero | Button | VIEW PAYMENT OPTIONS | 06.3 Fees and Payment Options | Internal |  
-| Hero | Button | EXPLORE FUNDING | 06.4 Funding and Reimbursement | Internal |  
-| Experiential | Button | EXPLORE EXPERIENTIAL PATHWAY | Pathway | Internal |  
-| Certification | Button | EXPLORE CERTIFICATIONS | Pathway | Internal |  
-| Payment | Button | CALCULATE UPFRONT OPTION | Tuition Calculator | Interactive |  
-| Payment | Button | CALCULATE MONTHLY PAYMENT | Tuition Calculator | Interactive |  
-| Payment | Button | VIEW PER COURSE OPTION | 06.3 Fees and Payment Options | Internal |  
-| Title IV | Policy Link | TITLE IV INFORMATION | 06.5 Costs, Refunds and Policies | Internal |  
-| Private Loan | Button | VIEW PRIVATE LOAN INFORMATION | 06.3 Fees and Payment Options | Internal |  
-| Funding | Button | EXPLORE FUNDING | 06.4 Funding and Reimbursement | Internal |  
-| Reimbursement | Button | EXPLORE REIMBURSEMENT | 06.4 Funding and Reimbursement | Internal |  
-| Calculator | Button | START CALCULATOR | Tuition Calculator | Interactive |  
-| Number Inventory | Download | TUITION AND PRICING GUIDE | Tuition Resources | FILE TO ATTACH |  
-| Number Inventory | Policy Link | MASTER PRICING PRINCIPLES | 06.5 and Resources | Internal |  
-| Final CTA | Button | APPLY NOW | Classe365 | EXTERNAL ENDPOINT TO ATTACH |  
-| Final CTA | Button | REQUEST INFORMATION | RIAH Pathway Drop Form | FORM ENDPOINT TO ATTACH |
-
-# GLOBAL FOOTER
-
-RIAH Pathway **ONE DYNASTY. INFINITE LEGACIES.**
-
-Explore: Home • About • Pathway • Curriculum • Admissions • Tuition •  
-Donations • Products • Accreditation and Authorization • Join Us •  
-Resources • FAQ • Contact
-
-Tuition: Overview • Tuition and Pricing • Fees and Payment Options •  
-Funding and Reimbursement • Costs, Refunds and Policies
-
-Curriculum: Overview • Academic Structure • Business • Homeland Security  
-• Technology • Law • Diploma and GED • Experiential • Certification and  
-Review • Curriculum Architecture
-
-Students: Apply Now • Request Information • Pathway • Curriculum •  
-Accreditation and Authorization • Resources
-
-Resources: Master Pricing Principles • Tuition Policies • Applicable  
-Financial Disclosures
-
-Connect: Instagram • YouTube • X • Facebook • LinkedIn • Threads •  
-TikTok • Contact
-
-Legal: Privacy • Terms • Accessibility • Applicable Disclosures
-
-Contact: RIAHDynasty.com contact@riahdynasty.com 1-877-XXX-RIAH  
-@RIAHDynasty
-
-# ACCESSIBILITY AND RESPONSIVE REQUIREMENTS
-
-Desktop • Tablet • Mobile • Keyboard navigation • Visible focus states •  
-Video captions • Video controls • Image alt text • Descriptive link  
-labels • Accessible button labels • Accessible pricing displays • Proper  
-heading hierarchy • Sufficient institutional color contrast • Calculator  
-keyboard accessibility • Accordion keyboard accessibility •  
-Screen-reader-compatible form and calculator labels • Essential  
-information maintained as web text
-
-# BUTTON, LINK AND DOWNLOAD ROUTING CHART
-
-This routing chart is intentionally presented as stacked entries rather  
-than a table.
-
-**Apply Now** Type: Button Destination: Classe365 Destination Type:  
-External Placement: Header, Hero, Final CTA, Footer
-
-**Request Information** Type: Button Destination: 13 --- Contact → RIAH  
-Pathway Drop Form Destination Type: Internal and Form Placement: Header,  
-Final CTA, Footer
-
-**Tuition and Pricing** Type: Internal Link Destination: 06.2 ---  
-Tuition and Pricing Placement: Tuition Navigation, Hero, Tuition  
-Sections, Final CTA
-
-**Fees and Payment Options** Type: Internal Link Destination: 06.3 ---  
-Fees and Payment Options Placement: Tuition Navigation and Tuition  
-Sections
-
-**Funding and Reimbursement** Type: Internal Link Destination: 06.4 ---  
-Funding and Reimbursement Placement: Tuition Navigation, Hero and  
-Tuition Sections
-
-**Costs, Refunds and Policies** Type: Internal Link Destination: 06.5  
---- Costs, Refunds and Policies Placement: Tuition Navigation and  
-Tuition Sections
-
-**Curriculum** Type: Internal Link Destination: 04 --- Curriculum and  
-04.1 through 04.10 applicable subpages Placement: Hero, Curriculum  
-Connection, Footer, Final CTA
-
-**Accreditation and Authorization** Type: Internal Link Destination: 09  
---- Accreditation and Authorization Placement: Hero, Accreditation  
-Section, Supporting Resources, Footer, Final CTA
-
-**Master Pricing Principles --- TP-01** Type: External Link Destination:  
-SuiteDash Public Page Placeholder Placement: Tuition Policies, Supporting  
-Resources, Footer
-
-**Tuition Policies** Type: External Link Destination: SuiteDash Public Page  
-Placeholder Placement: Tuition Policies and Footer
-
-**Student Loan Policy** Type: External Link Destination: SuiteDash Public  
-Page Placeholder Placement: Tuition Policies
-
-**Refund and Withdrawal Policy** Type: External Link Destination: SuiteDash  
-Public Page Placeholder Placement: Tuition Policies
-
-**Tuition Reimbursement Policy** Type: External Link Destination: SuiteDash  
-Public Page Placeholder Placement: Tuition Policies
-
-**FAQ** Type: Internal Link Destination: 12 --- FAQ Placement: FAQ  
-Preview
-
-**Social Media** Type: External Links Destination: Approved RIAH Dynasty  
-public social profiles Placement: Footer
-
-**Privacy** Type: External Link Destination: SuiteDash Public Page  
-Placeholder Placement: Footer
-
-**Terms** Type: External Link Destination: SuiteDash Public Page  
-Placeholder Placement: Footer
-
-**Accessibility** Type: External Link Destination: SuiteDash Public Page  
-Placeholder Placement: Footer
-
-**Applicable Disclosures** Type: External Link Destination: SuiteDash  
-Public Page Placeholder Placement: Footer
-
-# MEDIA AND ICON ASSET CHART
-
-This asset chart is intentionally presented as stacked entries rather  
-than a table.
-
-Hero Video --- Primary Tuition Overview story --- Hero Tuition Hero  
-Video Poster --- Primary video poster --- Hero Graduation Cap Icon ---  
-Tuition identity --- Hero Percentage Icon --- Beta and Pre-Accreditation  
-benefits --- Section 02 Shield Check Icon --- Accreditation and  
-authorization --- Section 03 Dollar Sign Icon --- Program tuition ---  
-Section 04 Pricing Stage Icon --- Three-stage pricing --- Section 05  
-Academic Pricing Icon --- Academic pricing snapshot --- Section 06  
-Credit Card Icon --- Payment options --- Section 07 Calculator Icon ---  
-Payment allocation --- Section 08 Open Book Icon --- Curriculum ---  
-Section 09 Professional Experiential Image --- Applied professional  
-participation --- Section 10 Briefcase Icon --- Experiential program ---  
-Section 10 Certificate Icon --- Certification Review --- Section 11  
-Receipt Icon --- Fees and deposits --- Section 12 Student Loan Icon ---  
-Student loan information --- Section 13 GED Icon --- GED clarification  
---- Section 14 School Icon --- High School clarification --- Section 15  
-Discount Icon --- Tuition reductions --- Section 16 Student Funding  
-Image --- Funding and reimbursement --- Section 17 Policy Icon ---  
-Refund and policy information --- Section 18 File Text Icon --- Tuition  
-policy directory --- Section 19 Calculator Icon --- Tuition Calculator  
---- Section 20 Student Resource Package Image --- Deposit-supported  
-resources --- Section 21 Directory Icon --- Tuition navigation ---  
-Section 22 Folder Open Icon --- Supporting resources --- Section 23  
-Question Icon --- FAQ preview --- Section 24 Education to Career Image  
---- Final pathway visual --- Final CTA
-
-# CTA AUDIT
-
-Apply Now --- Yes Learn More --- Yes Get Started --- Yes Log In --- No  
-Shop Now --- No
-
-**Total CTA Families Used: 3 of 5**
-
-# DOWNLOAD AUDIT
-
-**Total Downloads: 0**
-
-Policies, procedures, disclosures, Master Pricing Principles, Tuition  
-policies, Student Loan policies, Refund and Withdrawal policies, and  
-Tuition Reimbursement policies route to approved public SuiteDash  
-destinations rather than unnecessary standalone downloads.
-
-------------------------------------------------------------------------
-
-<!-- RIAH IMPACT TRANSPARENCY DISTRIBUTION 2026-10-01 -->
-
-# 👑 TUITION PRIVACY & SCHOLARSHIP CONNECTION
-
-RIAH's public blockchain transparency model applies to **donations and applicable public funds—not individual student tuition accounts**.
-
-| Private Student Financial Information | Public Ledger |
-|---|---|
-| Student tuition accounts | ❌ No |
-| Student names or IDs | ❌ No |
-| Individual payment histories | ❌ No |
-| Tuition reimbursement claims | ❌ No |
-| 10% reimbursement-guarantee activity | ❌ No |
-| Individual reimbursement amounts | ❌ No |
-| Student balances | ❌ No |
-| Financial-aid information | ❌ No |
-| Banking information | ❌ No |
-
-| Public Funding Connection | Treatment |
-|---|---|
-| 🎓 **Scholarship Funds** | Public aggregate fund transparency through Donations |
-| 💸 **Scholarship Disbursements** | Aggregate public reporting without exposing individual student finances |
-| 💰 **Accreditation Donations** | Public donation and fund transparency through the Donations ledger |
-| 🔒 **Student Accounts** | Remain within private RIAH financial and student-account systems |
-
-```mermaid
-flowchart LR
-    N1["STUDENT FINANCES = PRIVATE 🔒"] --> N2["DONATION TRANSPARENCY = PUBLIC ⛓️"]
-```
-
-## COMMUNITY CAPSTONE + PEER REVIEW POINTS AND DISCOUNTS
-
-Community members may sign up to review applicable student capstones, participate in applicable peer review, and provide structured feedback on student work. Qualifying completed reviews earn points that accumulate according to the number of capstone and peer-review activities completed.
-
-```mermaid
-flowchart LR
-    N1["COMMUNITY REVIEW"] --> N2["STRUCTURED FEEDBACK"]
-    N2["STRUCTURED FEEDBACK"] --> N3["QUALIFYING COMPLETION"]
-    N3["QUALIFYING COMPLETION"] --> N4["POINTS EARNED"]
-    N4["POINTS EARNED"] --> N5["POINTS ACCUMULATED"]
-    N5["POINTS ACCUMULATED"] --> N6["DISCOUNT LEVEL UNLOCKED"]
-```
-
-| Community Participation | RIAH Structure |
-|---|---|
-| Capstone Review | Review applicable student capstones and provide structured feedback |
-| Peer Review | Participate in applicable peer-review activities |
-| Points | Earn points for qualifying completed capstone and peer reviews |
-| Accumulation | Points accumulate based on qualifying review participation |
-| Product Discounts | Accumulated points may unlock applicable discounts on qualifying RIAH products |
-| Certification Review | Applicable discounts may be used toward qualifying Certification Review products |
-| Bar Review | Applicable discounts may be used toward qualifying Bar Review products |
-| Educational Pathways | Applicable discounts may be used toward qualifying RIAH educational pathways, including the JD pathway and other applicable education pathways |
-
-```mermaid
-flowchart LR
-    N1["REVIEW MORE"] --> N2["ACCUMULATE MORE POINTS"]
-    N2["ACCUMULATE MORE POINTS"] --> N3["UNLOCK GREATER APPLICABLE DISCOUNTS"]
-```
-
-RIAH faculty and applicable academic personnel retain academic oversight and final evaluation requirements. Community and peer feedback supplements the formal academic review process.
+[BUTTON — START PRICING CALCULATOR → 6.8 / PRICING CALCULATOR ENGINE]
 
 ---
 
-# REAL-WORK EXPERIENCE CLARIFICATION
+# SECTION 20 — COSTS AND REFUNDS
 
-Applicable pathways may connect students to supervised real-work experiences generated through the RIAH ecosystem and participating external professionals, including legal, accounting, Foundation, donation, blockchain, audit, compliance, technology, cybersecurity, and reporting work. Public legal-case submission and attorney representation are separate from tuition and do not guarantee case acceptance or representation.
+[SECTION BACKGROUND — WHITE]
+
+[ICON PLACEHOLDER — REFUND / POLICY]
+
+## UNDERSTAND THE FINANCIAL RULES BEFORE YOU BEGIN.
+
+### Institutional Tuition Refund Structure
+
+Week 1 — **100%**
+
+Week 2 — **75%**
+
+Week 3 — **50%**
+
+After the applicable fourth-week point — **0% institutional tuition refund**
+
+Any controlling federal, state, institutional, or other legally required calculation is administered according to applicable requirements.
+
+### Certification and Bar Review
+
+Cash Refund After Purchase — **0%**
+
+Qualifying Additional Access — **3 Months**
+
+### Products
+
+General Cash Refund — **$0**
+
+Verified Shipping Damage — **Replacement according to applicable policy**
+
+[BUTTON — COSTS, REFUNDS AND POLICIES → 6.7 / COSTS]
+
+---
+
+# SECTION 21 — EXTERNAL COSTS
+
+[SECTION BACKGROUND — BLACK]
+
+[ICON PLACEHOLDER — EXTERNAL COST]
+
+Third-party costs may include applicable:
+
+State Fees
+
+Court Fees
+
+Bar Fees
+
+Licensing Fees
+
+Government Fees
+
+External Examination Fees
+
+Registration Fees
+
+Other Third-Party Costs
+
+Where the exact amount is not established:
+
+# EXTERNAL — AMOUNT NOT INCLUDED
+
+The Pricing Calculator Engine must not invent an external amount.
+
+[BUTTON — VIEW COST INFORMATION → 6.7 / COSTS]
+
+---
+
+# SECTION 22 — TUITION POLICIES AND DOCUMENTATION
+
+[SECTION BACKGROUND — WHITE]
+
+[ICON PLACEHOLDER — DOCUMENT LIBRARY]
+
+## REVIEW THE RULES BEHIND THE NUMBERS.
+
+Supporting documentation includes:
+
+Master Pricing Principles
+
+Master Pricing Data Sheet
+
+Pricing Engine
+
+Tuition and Pricing
+
+Beta Pricing and Benefits
+
+Pre-Accreditation Pricing
+
+Grandfathered and Forever Tuition
+
+Integrated Education and Experiential Pricing
+
+Tuition Reductions
+
+Contributor Benefits
+
+GitHub Contributor Benefits
+
+Community Ambassador Benefits
+
+Substitute Teacher Ambassador Benefits
+
+Rideshare Ambassador Benefits
+
+Delivery Ambassador Benefits
+
+Student and Graduate Benefits
+
+Partner Benefits
+
+Team Member Benefits
+
+Fees
+
+Education Deposit
+
+Experiential Deposit
+
+Transfer
+
+Payment Options
+
+Title IV Information
+
+Private Student Loan
+
+Funding
+
+Scholarships
+
+Grants
+
+Stipends
+
+Reimbursement
+
+Refunds
+
+Products
+
+External Costs
+
+[DOWNLOAD — TUITION AND PRICING GUIDE]
+
+[DOWNLOAD — FEES AND PAYMENT OPTIONS GUIDE]
+
+[DOWNLOAD — FUNDING AND REIMBURSEMENT GUIDE]
+
+[DOWNLOAD — COSTS, REFUNDS AND POLICIES GUIDE]
+
+[POLICY LINK — MASTER PRICING PRINCIPLES → 11.8 / POLICIES]
+
+[BUTTON — EXPLORE RESOURCES → 11 / RESOURCES]
+
+---
+
+# SECTION 23 — TUITION DIRECTORY
+
+[SECTION BACKGROUND — BLACK]
+
+[ICON PLACEHOLDER — DIRECTORY]
+
+## EXPLORE TUITION
+
+[ICON CARD — TUITION]
+
+### 6.2 — TUITION
+
+Program tuition and pricing stages.
+
+[BUTTON — EXPLORE → 6.2]
+
+[ICON CARD — FEES]
+
+### 6.3 — FEES
+
+Deposits, fees, transfer charges, and applicable costs.
+
+[BUTTON — EXPLORE → 6.3]
+
+[ICON CARD — PAYMENT]
+
+### 6.4 — PAYMENT OPTIONS
+
+Upfront, course-based, semester, Title IV where applicable, and financing options.
+
+[BUTTON — EXPLORE → 6.4]
+
+[ICON CARD — FUNDING]
+
+### 6.5 — FUNDING
+
+Scholarships, grants, stipends, employer funding, and other approved sources.
+
+[BUTTON — EXPLORE → 6.5]
+
+[ICON CARD — REIMBURSEMENT]
+
+### 6.6 — REIMBURSEMENT
+
+Graduate points, reimbursement, milestones, escrow, and source routing.
+
+[BUTTON — EXPLORE → 6.6]
+
+[ICON CARD — COSTS]
+
+### 6.7 — COSTS
+
+Refunds, policies, external costs, and student financial information.
+
+[BUTTON — EXPLORE → 6.7]
+
+[ICON CARD — CALCULATOR]
+
+### 6.8 — PRICING CALCULATOR ENGINE
+
+Build an individualized estimate using current approved pricing data and deterministic rules.
+
+[BUTTON — START CALCULATOR → 6.8]
+
+---
+
+# SECTION 24 — FAQ PREVIEW
+
+[SECTION BACKGROUND — WHITE]
+
+[ICON PLACEHOLDER — QUESTION]
+
+## TUITION QUESTIONS
+
+FAQ topics include:
+
+Total-Program Tuition
+
+Pricing Stages
+
+Beta Pricing
+
+Pre-Accreditation Pricing
+
+Standard Pricing
+
+Grandfathered Tuition
+
+Integrated Education and Experiential Pricing
+
+Tuition Reductions
+
+25% Ordinary Reduction Maximum
+
+Contributor Points
+
+Contributor Benefits
+
+Ambassador Benefits
+
+Graduate Points
+
+Graduate Benefits
+
+Partner Benefits
+
+Team Benefits
+
+Fees
+
+Deposits
+
+Transfer
+
+Upfront Payment
+
+Monthly Course Payment
+
+Per-Course Payment
+
+Semester Payment
+
+Title IV
+
+Private Student Loans
+
+Funding
+
+Scholarships
+
+Grants
+
+Stipends
+
+Reimbursement
+
+Escrow
+
+Refunds
+
+External Costs
+
+Pricing Calculator Engine
+
+[BUTTON — VIEW TUITION FAQ → 12.5 / TUITION, FEES AND PAYMENTS]
+
+---
+
+# SECTION 25 — FINAL CTA
+
+[SECTION BACKGROUND — BLACK / RED / GOLD]
+
+[IMAGE PLACEHOLDER — EDUCATION TO EXPERIENCE TO CERTIFICATION TO CAREER TO LEGACY]
+
+[ICON PLACEHOLDER — CROWN]
+
+# UNDERSTAND YOUR COST. BUILD YOUR PATH. CREATE YOUR LEGACY.
+
+Explore your tuition, applicable benefits, payment options, Contributor opportunities, funding, and reimbursement before beginning your RIAH Pathway.
+
+**EDUCATION • EXPERIENCE • CERTIFICATIONS • CAREER • LEGACY**
+
+[BUTTON — BUILD MY PRICE → 6.8 / PRICING CALCULATOR ENGINE]
+
+[BUTTON — EXPLORE TUITION → 6.2]
+
+[BUTTON — EXPLORE FUNDING → 6.5]
+
+[BUTTON — VIEW CONTRIBUTOR BENEFITS → CONTRIBUTOR BENEFITS DOCUMENTATION]
+
+[BUTTON — APPLY NOW → EXTERNAL / CLASSE365]
+
+[BUTTON — GET STARTED: REQUEST INFORMATION → 13 / CONTACT]
+
+---
+
+# GLOBAL FOOTER
+
+[FOOTER — GLOBAL]
+
+[LOGO PLACEHOLDER — RIAH PATHWAY]
+
+## RIAH PATHWAY
+
+**ONE DYNASTY. INFINITE LEGACIES.**
+
+### Explore
+
+Home • About • Pathway • Curriculum • Admissions • Tuition • Donations • Products • Accreditation & Authorization • Join Us • Resources • FAQ • Contact
+
+### Tuition
+
+Overview • Tuition • Fees • Payment Options • Funding • Reimbursement • Costs • Pricing Calculator Engine
+
+### Students and Contributors
+
+Apply Now • Request Information • Pathway • Curriculum • Contributor Benefits • Resources
+
+### Connect
+
+Instagram • YouTube • X • Facebook • LinkedIn • Threads • TikTok
+
+**Socials:** @RIAHPathway
+
+### Contact
+
+**4807 Rockside Rd, Suite 400**  
+**Independence, OH 44131**
+
+**Phone:** (877) 245-RIAH
+
+**Website:** RIAHPathway.com
+
+**Email:** contact@riahpathway.com
+
+### Legal
+
+Privacy • Terms • Accessibility • Applicable Disclosures
+
+[CROWN ICON]
+
+**EDUCATION • EXPERIENCE • CERTIFICATIONS • CAREER • LEGACY**
+
+---
+
+# VI — TUITION — BUTTON AND CTA INVENTORY
+
+| Section | Element Type | Label | Destination | Implementation |
+|---|---|---|---|---|
+| Global Header | Button | Apply Now | Classe365 | External |
+| Hero | Button | View Tuition | 6.2 Tuition | Internal |
+| Hero | Button | Explore Payment Options | 6.4 Payment Options | Internal |
+| Hero | Button | Build My Price | 6.8 Pricing Calculator Engine | Internal |
+| Hero | Button | Apply Now | Classe365 | External |
+| Hero | Button | Request Information | 13 Contact | Internal |
+| Tuition Overview | Button | Tuition and Pricing | 6.2 Tuition | Internal |
+| Pricing Stages | Button | View Pricing | 6.2 Tuition | Internal |
+| Academic Tuition | Button | Explore Academic Pathways | 3 Pathway | Internal |
+| Academic Tuition | Button | View Curriculum | 4 Curriculum | Internal |
+| Pricing Stage | Button | Build My Price | 6.8 Pricing Calculator Engine | Internal |
+| Integrated Pricing | Button | Explore Experiential | 3.5 Experiential Pathway | Internal |
+| Integrated Pricing | Button | Calculate Integrated Tuition | 6.8 Pricing Calculator Engine | Internal |
+| Reductions | Button | Check Eligible Benefits | 6.8 Pricing Calculator Engine | Internal |
+| Contributors | Button | GitHub Contributor Benefits | Contributor Benefits GitHub Contributors | Internal Resource |
+| Contributors | Button | Community Ambassador Benefits | Contributor Benefits Ambassadors | Internal Resource |
+| Contributors | Button | Substitute Teacher Benefits | Contributor Benefits Substitute Teachers | Internal Resource |
+| Contributors | Button | Rideshare Benefits | Contributor Benefits Rideshare | Internal Resource |
+| Contributors | Button | Delivery Benefits | Contributor Benefits Delivery | Internal Resource |
+| Contributors | Button | Graduate Benefits | Contributor Benefits Students | Internal Resource |
+| Contributors | Button | Partner Benefits | Contributor Benefits Partners | Internal Resource |
+| Contributors | Button | Team Opportunities | 10.4 Join Our Team | Internal |
+| Contributors | Button | Contributor Benefits | Contributor Benefits Documentation | Internal Resource |
+| Contributors | Button | Calculate My Benefit | 6.8 Pricing Calculator Engine | Internal |
+| Experiential | Button | Experiential Pathway | 3.5 | Internal |
+| Experiential | Button | Experiential Curriculum | 4.8 | Internal |
+| Certification | Button | Certification Pathway | 3.6 | Internal |
+| Certification | Button | Certification and Review Products | 8 Products | Internal |
+| Fees | Button | View Fees | 6.3 | Internal |
+| Deposit | Button | View Fees | 6.3 | Internal |
+| Payment | Button | Calculate Upfront Option | 6.8 | Internal |
+| Payment | Button | Compare Payment Options | 6.4 | Internal |
+| Title IV | Button | Title IV Information | 6.4 | Internal |
+| Title IV | Policy Link | Title IV and Financial Aid Information | 6.7 | Internal |
+| Private Loan | Button | Private Student Loan Information | 6.4 | Internal |
+| Private Loan | Policy Link | Private Student Loan Policy | 11.8 Policies | Internal |
+| Funding | Button | Explore Funding | 6.5 | Internal |
+| Reimbursement | Button | Explore Reimbursement | 6.6 | Internal |
+| Reimbursement | Button | Graduate Benefits | Contributor Benefits Students | Internal Resource |
+| Calculator | Button | Start Pricing Calculator | 6.8 | Interactive |
+| Costs | Button | Costs, Refunds and Policies | 6.7 | Internal |
+| External Costs | Button | View Cost Information | 6.7 | Internal |
+| Documentation | Button | Explore Resources | 11 Resources | Internal |
+| Directory | Button | Explore Tuition | 6.2 | Internal |
+| Directory | Button | Explore Fees | 6.3 | Internal |
+| Directory | Button | Explore Payment Options | 6.4 | Internal |
+| Directory | Button | Explore Funding | 6.5 | Internal |
+| Directory | Button | Explore Reimbursement | 6.6 | Internal |
+| Directory | Button | Explore Costs | 6.7 | Internal |
+| Directory | Button | Start Calculator | 6.8 | Interactive |
+| FAQ | Button | View Tuition FAQ | 12.5 | Internal |
+| Final CTA | Button | Build My Price | 6.8 | Interactive |
+| Final CTA | Button | Explore Tuition | 6.2 | Internal |
+| Final CTA | Button | Explore Funding | 6.5 | Internal |
+| Final CTA | Button | Contributor Benefits | Contributor Benefits Documentation | Internal Resource |
+| Final CTA | Button | Apply Now | Classe365 | External |
+| Final CTA | Button | Request Information | 13 Contact | Internal |
+
+---
+
+# VI — TUITION — DOWNLOAD INVENTORY
+
+| Section | Download | File Type | Destination Status |
+|---|---|---|---|
+| Documentation | Tuition and Pricing Guide | PDF | File to attach |
+| Documentation | Fees and Payment Options Guide | PDF | File to attach |
+| Documentation | Funding and Reimbursement Guide | PDF | File to attach |
+| Documentation | Costs, Refunds and Policies Guide | PDF | File to attach |
+| Documentation | Master Pricing Data Sheet | Markdown and applicable public export | Existing pricing resource |
+| Documentation | Pricing Engine | Markdown and applicable public export | Existing pricing resource |
+| Contributors | Contributor Benefits Documentation | Markdown | Existing GitHub resource |
+| Contributors | GitHub Contributors | Markdown | Existing GitHub resource |
+| Contributors | Ambassadors | Markdown | Existing GitHub resource |
+| Contributors | Substitute Teachers | Markdown | Existing GitHub resource |
+| Contributors | Rideshare | Markdown | Existing GitHub resource |
+| Contributors | Delivery | Markdown | Existing GitHub resource |
+| Contributors | Students and Graduates | Markdown | Existing GitHub resource |
+| Contributors | Partners | Markdown | Existing GitHub resource |
+
+---
+
+# VI — TUITION — IMAGE AND MEDIA INVENTORY
+
+| Section | Asset | Type | Purpose |
+|---|---|---|---|
+| Hero | Tuition Hero | Image | Introduce tuition and financial planning |
+| Hero | Tuition Overview | Video | Explain the complete tuition structure |
+| Hero | Tuition Video Poster | Image | Video preview |
+| Integrated Pricing | Education Plus Experience | Image | Explain integrated pathway pricing |
+| Contributor Benefits | Contributors and Ambassadors | Image | Represent contribution-based benefits |
+| Experiential | Professional Experiential Learning | Image | Represent experiential pathways |
+| Deposit | Student Resource Package | Image | Explain Education Deposit resources |
+| Title IV | Semester Financial Aid Timeline | Image | Explain applicable semester allocation |
+| Private Loan | Private Education Financing | Image | Explain RIAH financing |
+| Funding | Student Funding Resources | Image | Explain funding sources |
+| Reimbursement | Graduate Reimbursement and Points | Image | Explain graduate milestones |
+| Escrow | Reimbursement Dashboard | Image | Explain earned benefit tracking |
+| Calculator | Pricing Calculator Engine | Image | Show interactive calculator |
+| Final CTA | Education to Legacy | Image | Close with the full RIAH pathway |
+
+---
+
+# VI — TUITION — INTERNAL LINK INVENTORY
+
+| Link Group | Destination |
+|---|---|
+| Tuition Overview | 6.1 |
+| Tuition | 6.2 |
+| Fees | 6.3 |
+| Payment Options | 6.4 |
+| Funding | 6.5 |
+| Reimbursement | 6.6 |
+| Costs | 6.7 |
+| Pricing Calculator Engine | 6.8 |
+| Pathway | 3 |
+| Experiential Pathway | 3.5 |
+| Certification Pathway | 3.6 |
+| Curriculum | 4 |
+| Experiential Curriculum | 4.8 |
+| Admissions | 5 |
+| Products | 8 |
+| Join Our Team | 10.4 |
+| Resources | 11 |
+| Policies | 11.8 |
+| Tuition FAQ | 12.5 |
+| Contact | 13 |
+
+---
+
+# VI — TUITION — EXTERNAL LINK AND SYSTEM INVENTORY
+
+| System | Purpose | Routing Status |
+|---|---|---|
+| Classe365 | Application and Admissions | External endpoint |
+| LearnWorlds | Education and LMS | Portal and authenticated routing |
+| SuiteDash | Onboarding | Portal and authenticated routing |
+| RIAHPathway.com | Canonical Public Website | Public |
+| RIAHPathway.edu | Education Entry | Public routing |
+| portal.RIAHPathway.com | Central Portal | Public system entry |
+| GitHub Contributor Benefits | Public Contributor Documentation | Public resource |
+| GitHub Pricing Engine | Public Pricing Logic | Public resource |
+| GitHub Master Pricing Data Sheet | Public Pricing Data | Public resource |
+
+---
+
+# VI — TUITION — FORM INVENTORY
+
+| Form | Purpose | Destination |
+|---|---|---|
+| Apply Now | Student Application | Classe365 |
+| Request Information | Prospective Student Inquiry | 13 Contact |
+| Pricing Calculator | Tuition Estimate | 6.8 Pricing Calculator Engine |
+| Contributor Benefit Input | Verified Benefit Selection | Pricing Calculator Engine |
+| Funding Input | Approved Funding Selection | Pricing Calculator Engine |
+
+---
+
+# VI — TUITION — CTA AUDIT
+
+| Audit Item | Requirement | Status |
+|---|---|---|
+| Global Apply CTA | Present | Required |
+| Hero Primary CTA | Present | Required |
+| Hero Secondary CTA | Present | Required |
+| Hero Request Information CTA | Present | Required |
+| Section-Level CTA | Present throughout page | Required |
+| Tuition Subpage Routing | 6.1 through 6.8 represented | Required |
+| Contributor Routing | Contributor categories represented | Required |
+| Pricing Calculator Routing | Present in pricing-related sections | Required |
+| Funding Routing | Present | Required |
+| Reimbursement Routing | Present | Required |
+| Policy Routing | Present | Required |
+| Download Routing | Present | Required |
+| Final CTA | Present | Required |
+| Footer Navigation | Present | Required |
+| External Endpoints | Clearly identified | Required |
+| Pending Files | Marked for attachment | Required |
+| Interactive Elements | Clearly identified | Required |
+
+---
+
+# VI — TUITION — CONTENT AND IMPLEMENTATION AUDIT
+
+| Audit Category | Requirement |
+|---|---|
+| Header | Global header follows approved website structure |
+| Active Navigation | Tuition identified as active page |
+| Subnavigation | 6.1 through 6.8 included |
+| Hero | Headline, copy, image, video and CTA structure included |
+| Sections | Every major section includes a purposeful visual, icon, button, link, download, calculator or other action |
+| Pricing | Pricing Engine and Master Pricing Data Sheet control current numbers |
+| Contributor Benefits | GitHub Contributor Benefits documentation controls points and percentages |
+| Superseded Numbers | Do not carry forward superseded pricing |
+| Unknown Numbers | Return PENDING CONFIGURATION |
+| External Costs | Return EXTERNAL — AMOUNT NOT INCLUDED when unknown |
+| Calculator | Deterministic calculations only |
+| Buttons | All buttons included in Button and CTA Inventory |
+| Downloads | All downloads included in Download Inventory |
+| Images | All planned images included in Image and Media Inventory |
+| Links | Internal and external destinations inventoried |
+| Forms | Forms inventoried |
+| Policies | Applicable policy links identified |
+| Accessibility | Images require alt text and interactive controls require accessible labels |
+| Video | Captions and player controls required |
+| Mobile | Responsive implementation required |
+| Footer | Global footer and contact information included |
+| QA | Buttons, links, downloads, forms and calculator must be tested before release |
+
+---
+
+# VI — TUITION — GITHUB IMPLEMENTATION CONTROL
+
+When this Tuition wireframe is approved for GitHub implementation, the **VI — TUITION** website-control record must include and remain synchronized with:
+
+**Tuition Wireframe**
+
+**Button and CTA Inventory**
+
+**Download Inventory**
+
+**Image and Media Inventory**
+
+**Internal Link Inventory**
+
+**External Link and System Inventory**
+
+**Form Inventory**
+
+**CTA Audit**
+
+**Content and Implementation Audit**
+
+**Pricing Engine**
+
+**Master Pricing Data Sheet**
+
+**Contributor Benefits Documentation**
+
+Any approved financial change that affects Tuition must be reconciled against the Pricing Engine and Master Pricing Data Sheet before the public Tuition wireframe is treated as current.
+
+Any approved Contributor, Ambassador, Graduate, Partner, or Team benefit change must be reconciled against the applicable Contributor Benefits Markdown before the public Tuition wireframe is treated as current.
+
+The Tuition wireframe and **VI — TUITION** implementation-control record must therefore remain aligned rather than maintaining conflicting button, download, link, CTA, pricing, or benefit information.
+
+---
+
+# VI — TUITION — FINAL IMPLEMENTATION ORDER
+
+**1 — Validate Current Pricing Data**
+
+**2 — Validate Contributor Benefit Data**
+
+**3 — Validate Tuition Wireframe**
+
+**4 — Validate Buttons and CTAs**
+
+**5 — Validate Internal Links**
+
+**6 — Validate External Links**
+
+**7 — Validate Downloads**
+
+**8 — Validate Images and Video**
+
+**9 — Validate Forms**
+
+**10 — Validate Pricing Calculator Routing**
+
+**11 — Validate Policies**
+
+**12 — Validate Accessibility**
+
+**13 — Validate Responsive Design**
+
+**14 — Validate Header**
+
+**15 — Validate Footer**
+
+**16 — Run Link and CTA Audit**
+
+**17 — Run Pricing and Benefit Consistency Audit**
+
+**18 — Final QA**
+
+**19 — Publish**
+
+**20 — Maintain Through the Shared Pricing, Contributor and Website Sources of Truth**
+
+👑
