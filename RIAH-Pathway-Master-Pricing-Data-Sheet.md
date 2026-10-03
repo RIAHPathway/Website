@@ -420,13 +420,19 @@ The Technology and Cybersecurity Certification Review catalog includes the exist
 
 | Certification Area | Review Course Coverage | Basic | Standard | Premium |
 |:---|:---|---:|---:|---:|
-| Cybersecurity — Red Team | OSCP — Offensive Security Certified Professional | $500 | $1,000 | $1,500 |
-| Cybersecurity — Ethical Hacking | CEH — Certified Ethical Hacker | $500 | $1,000 | $1,500 |
-| Cybersecurity — Governance and Security | CISSP, CISA, CISM, CRISC and other existing configured RIAH cybersecurity review courses | $500 | $1,000 | $1,500 |
-| CompTIA | All CompTIA certifications for which RIAH offers a Certification Review course | $500 | $1,000 | $1,500 |
-| Microsoft and Azure | All Microsoft and Microsoft Azure certifications for which RIAH offers a Certification Review course, including Azure Fundamentals and Azure Solutions Architect Expert where configured | $500 | $1,000 | $1,500 |
-| Google | All Google and Google Cloud certifications for which RIAH offers a Certification Review course | $500 | $1,000 | $1,500 |
-| Amazon Web Services | All AWS certifications for which RIAH offers a Certification Review course | $500 | $1,000 | $1,500 |
+| School of Business — Accounting | CFE — Certified Fraud Examiner; CPA — Certified Public Accountant; CIA — Certified Internal Auditor; CMA — Certified Management Accountant; EA — Enrolled Agent | $500 | $1,000 | $1,500 |
+| School of Business — Finance | CFA — Chartered Financial Analyst; CFP — Certified Financial Planner | $500 | $1,000 | $1,500 |
+| School of Technology — Cybersecurity Red Team | OSCP — Offensive Security Certified Professional | $500 | $1,000 | $1,500 |
+| School of Technology — Cybersecurity Ethical Hacking | CEH — Certified Ethical Hacker | $500 | $1,000 | $1,500 |
+| School of Technology — Cybersecurity and Information Systems | CISSP — Certified Information Systems Security Professional; CISA — Certified Information Systems Auditor; CISM — Certified Information Security Manager; CRISC — Certified in Risk and Information Systems Control | $500 | $1,000 | $1,500 |
+| School of Technology — CompTIA | All CompTIA certifications for which RIAH offers a Certification Review course | $500 | $1,000 | $1,500 |
+| School of Technology — Project and Program Management | PMP — Project Management Professional; PgMP — Program Management Professional | $500 | $1,000 | $1,500 |
+| School of Technology — Microsoft and Azure | Azure Administrator Associate; Azure AI Engineer Associate; Azure AI Fundamentals; Azure Data Engineer Associate; Azure Data Fundamentals; Azure Data Scientist Associate; Azure Developer Associate; Azure Fundamentals; Azure Network Engineer Associate; Azure Security Engineer Associate; Azure Solutions Architect Expert; DevOps Engineer Expert; Fabric Data Engineer Associate; Power BI Data Analyst Associate | $500 | $1,000 | $1,500 |
+| School of Technology — Google | All Google and Google Cloud certifications for which RIAH offers a Certification Review course | $500 | $1,000 | $1,500 |
+| School of Technology — Amazon Web Services | All AWS certifications for which RIAH offers a Certification Review course | $500 | $1,000 | $1,500 |
+| School of Technology — Hack The Box | CAPE; CDSA; CJCA; COAE; CPTS; CWEE; CWES; CWPE | $500 | $1,000 | $1,500 |
+| School of Homeland Security | CLEA — Certified Law Enforcement Analyst; PCI — Professional Certified Investigator; PSP — Physical Security Professional | $500 | $1,000 | $1,500 |
+| School of Law — Bar Review | Full RIAH Bar Review — All 50 States + Washington, D.C.; California Baby Bar Review | $500 | $1,000 | $1,500 |
 
 This expansion adds eligible certification coverage only. It does **not** change Certification Review pricing, multiple-review rules, included-review treatment, discount logic, refund rules, or any other Pricing Engine calculation rule.
 
@@ -719,6 +725,21 @@ Loan eligibility does not guarantee approval of a particular amount. The student
 **If Credit Score ≥ 700: Approved Loan may exceed the 10% collateral-supported tier, but cannot exceed the remaining tuition deficit or \$5,000 maximum.**
 
 **Approved RIAH Loan = MIN(Requested Loan, Remaining Tuition Deficit, Applicable Supported Loan Amount, \$5,000)**
+
+### Private Student Loan Calculation Logic
+
+```mermaid
+flowchart TD
+    A["Requested Loan: $500–$5,000"] --> B["Remaining Tuition Deficit"]
+    C["Qualifying Collateral"] --> D["Collateral-Supported Maximum = Collateral × 10%"]
+    D --> E{"Credit Score 700+"}
+    E -- "No" --> F["Supported Amount ≤ 10% of Qualifying Collateral"]
+    E -- "Yes" --> G["Supported Amount May Exceed 10% Collateral Tier"]
+    B --> H["Approved Loan = MIN(Requested Loan, Tuition Deficit, Supported Amount, $5,000)"]
+    F --> H
+    G --> H
+```
+
 
 ### Private Student Loan Flow — Part I: Collateral Tier
 
