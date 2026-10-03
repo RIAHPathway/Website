@@ -1,6 +1,73 @@
+---
+document_type: contributor-benefit-framework
+track: "GitHub Contributor"
+status: "In Progress — Review and Finalization Required"
+benefit_system: "RIAH Pathway"
+flow_status: "draft-review"
+---
+
 # 💻 GitHub Contributors
 
 **Status: In Progress — Review and Finalization Required**
+
+## 💻 Category Key
+
+| Emoji | Meaning |
+|---|---|
+| 💻 | GitHub Contributor |
+| 👑 | Approved eligibility or contribution |
+| ⭐ | Approved points |
+| 🏆 | Completed milestone |
+| 🎓 | Tuition benefit |
+| 🛍️ | Product benefit |
+| 🔗 | QR, referral, routing or attribution |
+| 🎪 | Event, workshop or outreach |
+| 🎥 | Webinar, presentation, video or media |
+| 👀 | Under review |
+| 🔄 | Revision or re-verification |
+| ✅ | Approved or verified |
+| ❌ | Rejected or ineligible |
+
+## 💻 End-to-End Category Flow
+
+```mermaid
+flowchart TB
+A["💻 GitHub Contributor"] --> B["👑 Confirm Eligibility & Approved Public Scope"]
+B --> C["🧭 Select Issue, Project, Proposal or Authorized Work"]
+C --> D["🛠️ Build Contribution"]
+D --> E["🧪 Self-Review: Accuracy, Testing, Accessibility, Responsive Behavior"]
+E --> F["📤 Submit Issue, PR, Review, Media, Research or Deliverable"]
+F --> G["👀 Maintainer Review"]
+G --> H{"🔄 Revision Required?"}
+H -- Yes --> I["🔄 Revise & Resubmit"]
+I --> G
+H -- No --> J["✅ Accepted, Merged or Formally Verified"]
+J --> K["⭐ Assign 5–250 Points Based on Accepted Value"]
+K --> L["📋 Add to Contributor Ledger"]
+L --> M{"🏆 Complete 100-Point Milestone?"}
+M -- No --> N["⭐ Carry Remaining Points Forward"]
+M -- Yes --> O["🎓 +1% Tuition & 🛍️ +1% Products"]
+O --> P{"👑 2,500 Points Reached?"}
+P -- No --> C
+P -- Yes --> Q["👑🏆 25% Tuition + 25% Products Maximum"]
+```
+
+## ⚙️ Flow Metadata
+
+```yaml
+track: "GitHub Contributor"
+profile_category: "Contributor"
+status: "in-progress"
+verification_required: true
+points_require_approval: true
+benefit_record_required: true
+review_state:
+  - pending
+  - under-review
+  - revision-if-required
+  - approved
+  - credited
+```
 
 ## 📑 Index
 
