@@ -92,19 +92,14 @@ E --> F["👑🏆 Up to 25% Tuition + 25% Products Maximum"]
 ```
 
 ## III. ⚙️ Flow Metadata
-```yaml
-track: "Rideshare Ambassador"
-profile_category: "Rideshare Ambassador"
-status: "in-progress"
-verification_required: true
-points_require_approval: true
-benefit_record_required: true
-review_state:
-  - pending
-  - under-review
-  - revision-if-required
-  - approved
-  - credited
+**Flow Configuration:** Track — Rideshare Ambassador; Profile Category — Rideshare Ambassador; Status — in-progress; Verification Required — true; Points Require Approval — true; Benefit Record Required — true.
+
+```mermaid
+flowchart LR
+    A["Pending"] --> B["Under Review"]
+    B --> C["Revision if Required"]
+    C --> D["Approved"]
+    D --> E["Credited"]
 ```
 
 Eligible Rideshare contributions may include approved RIAH vehicle vinyl, vehicle branding, branded seat covers, back-seat tablets or digital displays presenting approved RIAH content and the RIAH Pathway website, passenger-accessible QR codes, brochures, flyers, business or information cards, Education Pathway information, Experiential information, certification information, product information, webinar information, unique referral links, community events, booths, approved campaigns, qualified referrals, student conversions and product conversions.
