@@ -462,11 +462,9 @@ Criminal Justice • Applicable Legal and Professional Areas
 
 ### Experiential Levels
 
-- **3 Months:** Apprentice
-- **6 Months:** Internship
-- **1 Year:** Associate • Senior Associate • Manager
-- **2 Years:** Associate • Senior Associate • Manager
-- **Progressive:** Progression Through Applicable Stages
+- **one month:** Apprentice
+- **three months:** Intern
+- **1 Year:** Associate • Senior Associate • Manager • Executive
 
 ### Professional Team
 

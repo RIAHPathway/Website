@@ -212,8 +212,8 @@ Experiential Pricing establishes the standard amount and duration for each level
 
 | Experiential Selection | Duration | Standard Amount |
 |:---|:---:|---:|
-| Apprentice | 1 Month | \$2,500 |
-| Intern | 3 Months | \$5,000 |
+| Apprentice | one month | \$2,500 |
+| Intern | three months | \$5,000 |
 | Associate | 1 Year | \$10,000 |
 | Senior Associate | 1 Year | \$10,000 |
 | Manager | 1 Year | \$10,000 |
@@ -625,7 +625,7 @@ Multiple standalone reviews use the established pricing sequence below. Included
 |:---|---:|
 | First Review | 100% |
 | Second Review | 50% |
-| Third Review | 100% |
+| Third Review | 25% |
 
 Included Certification Review: **\$0 Additional**
 
@@ -807,7 +807,7 @@ Payment Options allow applicable tuition responsibility to be paid upfront, mont
 | Payment Option | Pricing Value or Rule |
 |:---|:---|
 | Upfront | 15% eligible tuition reduction |
-| Monthly | Applicable tuition responsibility divided by applicable program months |
+| Monthly | Individual-course payments; course-price basis, duration, credit-hour/course-count relationship, installment count, and timing are PENDING CONFIGURATION |
 | Semester | Applicable tuition responsibility divided by applicable semester count |
 | Per Course | Applicable tuition responsibility divided by configured course count |
 | Financing | Separate financing obligation |
@@ -1159,7 +1159,7 @@ The Master Active Number Table consolidates the active numerical records used th
 | Premium Certification or Bar Review | \$1,500 |
 | First Standalone Review | 100% |
 | Second Standalone Review | 50% |
-| Third Standalone Review | 100% |
+| Third Standalone Review | 25% |
 | Included Review | \$0 |
 | Need Based Scholarship Level 1 | \$500 |
 | Need Based Scholarship Level 2 | \$2,500 |

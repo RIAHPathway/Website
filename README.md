@@ -145,7 +145,7 @@ Contributor benefits in this documentation apply to **eligible tuition and eligi
 | 💰 [RIAH Pathway Master Pricing Data Sheet](./RIAH-Pathway-Master-Pricing-Data-Sheet.md) | Review current pathway tuition, program pricing, product pricing and other applicable pricing data. |
 | 🧮 [RIAH Pathway Pricing Engine](./RIAH-Pathway-Pricing-Engine.md) | Review the pricing rules and calculation framework used to connect applicable pricing, eligibility, discounts and benefits. |
 
-> **Pricing Calculator Development:** The interactive RIAH Pathway pricing calculator is still being developed. The intended calculator experience will allow eligible participants to apply their verified points and applicable benefit percentage to eligible tuition and product pricing so they can estimate what they may pay. Until that calculator is finalized, use the Master Pricing Data Sheet and Pricing Engine together with the applicable benefit rules in this documentation.
+> **Pricing Calculator Development:** The interactive RIAH Pathway pricing calculator is still being developed. The intended calculator experience will allow eligible participants to apply their verified points and applicable benefit percentage to eligible tuition and product pricing so they can estimate what they may pay. Until that calculator is finalized, use the Master Pricing Data Sheet as the numerical source of truth and the Pricing Engine for consistent calculation and eligibility logic. Ordinary tuition reductions are capped at 25%; eligible upfront payment is 15%; the integrated education and experiential adjustment is 5% before pricing stage. Monthly payments apply to individual courses, with the course-price basis and installment schedule pending configuration. Multiple eligible standalone reviews use 100% for the first, 50% for the second, and 25% for the third.
 
 ```mermaid
 flowchart TB
@@ -441,7 +441,7 @@ RIAH Pathway connects education with supervised professional application and rea
 
 ```mermaid
 flowchart LR
-    A[Apprentice<br>1 Month] --> B[Intern<br>3 Months]
+    A[Apprentice<br>one month] --> B[Intern<br>three months]
     B --> C[Associate<br>1 Year]
     C --> D[Senior Associate<br>1 Year]
     D --> E[Manager<br>1 Year]

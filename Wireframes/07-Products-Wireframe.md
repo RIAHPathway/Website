@@ -859,8 +859,8 @@ Applicable multidisciplinary and integrated Business, Technology, Homeland Secur
 
 RIAH Experiential Education uses internal collections aligned with applicable experiential progression.
 
-### Apprentice Collection
-### Intern Collection
+### Apprentice Collection — one month
+### Intern Collection — three months
 ### Associate Collection
 ### Senior Associate Collection
 ### Manager Collection
@@ -1260,6 +1260,10 @@ Applicable Certification Reviews are organized by **School of Business, School o
 - **Basic — $500**
 - **Standard — $1,000**
 - **Premium — $1,500**
+
+### How are multiple standalone reviews priced?
+
+For multiple eligible standalone Certification Reviews or Bar Reviews, the first review is charged at 100%, the second at 50%, and the third at 25% of its applicable Basic, Standard, or Premium tier price. Reviews expressly included in an applicable pathway are $0 additional and are not charged again as standalone purchases. Pricing for fourth and later reviews remains pending configuration.
 
 ### What is included in Premium?
 

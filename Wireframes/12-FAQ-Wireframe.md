@@ -473,13 +473,13 @@ The Experiential Pathway provides structured professional experience across appl
 
 Program duration structures include:
 
-**3 Month • 6 Month • 1 Year • 2 Year • Progressive**
+**Apprentice — one month • Intern — three months • Associate, Senior Associate, Manager, and Executive — one year each**
 
 ### What experience levels are available?
 
 Applicable experience types include:
 
-**Apprentice • Intern • Associate • Senior Associate • Manager**
+**Apprentice • Intern • Associate • Senior Associate • Manager • Executive**
 
 ### Is experiential participation guaranteed?
 
@@ -523,7 +523,7 @@ Certification categories are organized across:
 
 RIAH's current structure organizes certification programs into:
 
-**Standard • Premium • Platinum**
+**Basic — $500 • Standard — $1,000 • Premium — $1,500**
 
 ### What practice resources are available?
 

@@ -107,8 +107,8 @@ unless an active rule explicitly authorizes it.
 
 ## Experiential Current Price Records
 
--   Three-Month Experiential: \$2,500
--   Intern: \$5,000
+-   Apprentice — one month: \$2,500
+-   Intern — three months: \$5,000
 -   Associate: \$10,000
 -   Senior Associate: \$10,000
 -   Manager: \$10,000
@@ -125,9 +125,9 @@ Requirements Satisfied where applicable.
 -   Premium: \$1,500
 
 Multiple eligible standalone reviews: - First: 100% - Second: 50% -
-Third: 100%
+Third: 25%
 
-Three-review totals follow the active first-review 100%, second-review 50%, and third-review 100% sequence.
+Three-review totals follow the active first-review 100%, second-review 50%, and third-review 25% sequence.
 
 Included Certification Review = \$0 additional. Included Bar Review =
 \$0 additional.
@@ -694,7 +694,7 @@ reimbursement information, and external costs separately.
 10. Determine Included versus Separately Priced Components.
 11. Calculate Pricing-Stage Amount.
 12. Determine Eligible Tuition Reductions.
-13. Apply 50% Tuition-Reduction Ceiling.
+13. Apply 25% Ordinary Tuition-Reduction Ceiling.
 14. Determine Scholarship Eligibility.
 15. Determine Grant Eligibility.
 16. Determine Stipend Eligibility.
@@ -844,8 +844,7 @@ Evaluation - Approved - Not Approved - Not Applicable
 
 Self-report never equals approved reduction.
 
-Only Approved incoming credit can trigger the applicable active transfer
-reduction.
+Approved incoming credit may accelerate applicable academic progress. The configured Transfer Tuition Reduction is $0; accepted credits do not independently reduce established tuition.
 
 Determine applicable transfer tier before calculation.
 
@@ -875,7 +874,7 @@ reductions governed by ceiling), 0.25 )
 
 If fixed-amount reductions are permitted by an active rule, normalize
 their application against the applicable basis without allowing the
-combined governed reduction to exceed 50% of that basis.
+combined governed reduction to exceed 25% of that basis.
 
 Transfer treatment must follow its controlling transfer rule and
 calculation order.
@@ -998,7 +997,7 @@ preview does not convert the full product to a digital SKU.
 
 - IF Certification Review, Full RIAH Bar Review, or California Baby Bar Review: load Basic $500, Standard $1,000, or Premium $1,500 and the corresponding package inclusions.
 - Basic loads the core review course, applicable sections or modules, core course materials, core questions, practice tests, simulations, and exams.
-- Standard loads all Basic inclusions plus the textbook and expanded learning-material and practice package.
+- Standard loads all Basic inclusions plus the workbook, study guide, review guide, solution guide, flashcards, planner, and journal. The textbook is included in Premium.
 - Premium loads all Basic and Standard inclusions plus the complete expanded practice package and all applicable standalone professional-support services, including academic and review advisement, study support, mentorship, live review, coaching, and applicable professional supervision.
 
 IF Full RIAH Bar Review:
@@ -1023,11 +1022,9 @@ Products remain separately governed and are not automatically \$0.
 # 22. PAYMENT ENGINE
 
 Upfront: - apply active eligible upfront tuition reduction - subject to
-verification, stacking, and 50% ceiling
+verification, stacking, and 25% ordinary tuition-reduction ceiling
 
-Monthly: - divides applicable obligation - does not create a new tuition
-price - standard RIAH payment-plan interest = 0% unless active policy
-changes it
+Monthly payment applies to individual courses. The course-price calculation basis, typical course duration, credit-hour/course-count relationship, installment count, and installment timing remain PENDING CONFIGURATION. Do not divide total tuition by program months to finalize a monthly payment or adopt a four-payment or six-month schedule until the controlling course-payment rule is approved. Ordinary RIAH payment-plan interest remains 0%.
 
 Semester or Term: - derive allocation from total obligation only when
 configured
@@ -1147,11 +1144,12 @@ Combination Adjustments - Included or Duplicate Components
 
 STAGE_TUITION = STANDARD_CONFIGURATION × Applicable Pricing Multiplier
 
-TRANSFER_ADJUSTED_TUITION = STAGE_TUITION - Applicable Approved Transfer
-Reduction
+TRANSFER_ADJUSTED_TUITION = STAGE_TUITION
+
+Configured Transfer Tuition Reduction = $0. Accepted transfer credits do not independently reduce established tuition.
 
 APPLIED_QUALIFYING_TUITION_REDUCTIONS = confirmed reductions after
-enforcing governing stacking rules and 50% ceiling
+enforcing governing stacking rules and 25% ordinary tuition-reduction ceiling
 
 REDUCED_TUITION = MAX( TRANSFER_ADJUSTED_TUITION -
 APPLIED_QUALIFYING_TUITION_REDUCTIONS, 0 )
@@ -1555,7 +1553,7 @@ A["Student Status"] --> B["Pathway Eligibility"] --> C["Pricing Stage / Grandfat
 
 ```mermaid
 flowchart LR
-A["Stage Tuition"] --> B["Tuition Reductions"] --> C["50% Ceiling"] --> D["Scholarship"] --> E["Grant"] --> F["Stipend"] --> G["Employer / Workforce / External Funding"] --> H["Remaining Tuition"]
+A["Stage Tuition"] --> B["Tuition Reductions"] --> C["25% Ordinary Tuition-Reduction Ceiling"] --> D["Scholarship"] --> E["Grant"] --> F["Stipend"] --> G["Employer / Workforce / External Funding"] --> H["Remaining Tuition"]
 ```
 
 ### Governing Calculation Order — Part III: Responsibility and Final Breakdown
@@ -1583,7 +1581,7 @@ Minor \$5,000; Associate's \$10,000; Bachelor's \$20,000; Master's
 \$15,000; MBA \$15,000; JD \$40,000; Non-JD \$10,000 per configured
 required pathway year.
 
-Current Experiential records: Three-Month Experiential \$2,500; Intern
+Current Experiential records: Apprentice — one month \$2,500; Intern — three months
 \$5,000; Associate \$10,000; Senior Associate \$10,000; Manager
 \$10,000; Executive \$10,000. Experiential eligibility is not placement.
 Preserve these as separate states:
@@ -1604,17 +1602,16 @@ standard concentration/specialization are included. Included
 Certification Review and included Bar Review are \$0 additional. Never
 charge an included component again as standalone.
 
-Transfer self-report does not create an approved reduction. Only
-approved incoming credit may trigger an active transfer rule. One
+Transfer self-report does not create an approved reduction. Approved incoming credit follows the active credit-acceptance rule. The configured Transfer Tuition Reduction is $0. One
 complete Transfer/Alternative Credit/Prior-Learning determination
 triggers one \$500 Complete Transfer Fee when applicable, not one fee
 per transcript or institution.
 
 - Evaluate tuition-reduction eligibility conditionally.
-- Potential rules include eligible upfront payment 25%; SNAP 5%; TANF 5%; WIC 5%; qualifying homelessness/housing hardship 5%; applicable additional-major/minor rules; and other active approved rules.
+- Potential rules include eligible upfront payment 15%; SNAP 5%; TANF 5%; WIC 5%; qualifying homelessness/housing hardship 5%; applicable additional-major/minor rules; and other active approved rules.
 - Distinguish self-reported, verified, approved, and not eligible.
 - Only confirmed reductions enter the confirmed calculation.
-- Enforce the 50% ceiling for reductions governed by that ceiling.
+- Enforce the 25% ceiling for ordinary tuition reductions governed by that ceiling.
 - Prevent same-benefit duplication.
 
 - Scholarships, grants, stipends, employer funding, workforce funding, donor/community funding, external funding, and other approved funding are funding, not automatically tuition discounts.
@@ -1739,7 +1736,7 @@ A["STUDENT"] --> B["BUILD PATHWAY"] --> C["DETERMINE APPLICABILITY"] --> D["CHEC
 
 ```mermaid
 flowchart LR
-A["REMOVE INCLUDED AND DUPLICATE COMPONENTS"] --> B["APPLY STRUCTURAL COMBINATION RULES"] --> C["APPLY PRICING STAGE"] --> D["PROCESS APPROVED TRANSFER"] --> E["PROCESS VERIFIED TUITION REDUCTIONS"] --> F["ENFORCE 50% ELIGIBILITY-REDUCTION CEILING"] --> G["PROCESS ONLY APPROVED FUNDING"] --> H["CALCULATE REMAINING TUITION"]
+A["REMOVE INCLUDED AND DUPLICATE COMPONENTS"] --> B["APPLY STRUCTURAL COMBINATION RULES"] --> C["APPLY PRICING STAGE"] --> D["PROCESS APPROVED TRANSFER"] --> E["PROCESS VERIFIED TUITION REDUCTIONS"] --> F["ENFORCE 25% ORDINARY TUITION-REDUCTION CEILING"] --> G["PROCESS ONLY APPROVED FUNDING"] --> H["CALCULATE REMAINING TUITION"]
 ```
 
 ### Final Software Flow — Part III: Charges and Student Responsibility
@@ -1987,8 +1984,8 @@ Experiential participation is optional.
 
   Experiential Selection       Base Amount
   -------------------------- -------------
-  Three-Month Experiential         \$2,500
-  Intern                           \$5,000
+  Apprentice — one month         \$2,500
+  Intern — three months            \$5,000
   Associate                       \$10,000
   Senior Associate                \$10,000
   Manager                         \$10,000
@@ -2208,7 +2205,7 @@ Transfer Tuition Reduction:
   --------------- ------------------
   First Review                  100%
   Second Review                  50%
-  Third Review                  100%
+  Third Review                  25%
 
 Included Certification Review or Bar Review:
 
@@ -2524,40 +2521,7 @@ Courses remain sequential. The student begins with Course 1. After successfully 
 
 > **23. MONTHLY PAYMENT**
 
-```mermaid
-flowchart LR
-    A[Current Course] --> B{Completed?}
-    B -- No --> A
-    B -- Yes --> C{Paid in Full?}
-    C -- No --> D[Next Course Locked]
-    C -- Yes --> E[Next Course Unlocks]
-```
-
-Monthly payment is available for **Non-Title-IV students** and operates at the individual-course level.
-
-Using the **$40,000 JD** example:
-
-**One JD Course Cost = $40,000 ÷ Total Configured JD Courses**
-
-The JD course count is not yet configured in the Pricing Engine, so the calculator must not invent a JD per-course dollar amount.
-
-For a JD course costing **$X**:
-
-**Maximum payment period = 6 months**
-
-**Monthly Payment = $X ÷ 6**
-
-The student receives access to one course. The student may take up to six months to complete that course while making the required monthly payments.
-
-**Current Course Completed + Current Course Paid in Full = Next Course Unlocks**
-
-If the course is paid but not completed, the next course remains locked.
-
-If the course is completed but not paid in full, the next course remains locked.
-
-If the student does not complete the course within the applicable enrollment period, the student may return to the same course, satisfy the applicable remaining payment or re-enrollment requirements, complete the course, and then proceed to the next course.
-
-A student cannot skip an unpaid or incomplete course.
+Monthly payment applies to individual courses. The course-price calculation basis, typical course duration, credit-hour/course-count relationship, installment count, and installment timing remain PENDING CONFIGURATION. Do not divide total tuition by program months to finalize a monthly payment or adopt a four-payment or six-month schedule until the controlling course-payment rule is approved. Ordinary RIAH payment-plan interest remains 0%.
 
 ---
 

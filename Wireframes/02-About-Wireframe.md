@@ -174,6 +174,8 @@ Benefits may include:
 - Community contribution recognition
 - Other approved ecosystem benefits
 
+Combined ordinary tuition reductions are capped at 25%. Eligible upfront payment carries a 15% reduction within that cap. The 5% integrated education and experiential adjustment applies before pricing stage and remains outside the ordinary cap. Product reductions follow separate product rules.
+
 Detailed qualification, point values, limits, and eligibility remain on the applicable Tuition, Products, Admissions, Join Us, and policy pages.
 
 [BUTTON — Explore Tuition → 06 Tuition]
@@ -413,8 +415,8 @@ High School Diploma and GED or HSE preparation.
 
 | Level | Duration |
 |---|---:|
-| Apprentice | 1 Month |
-| Intern | 3 Months |
+| Apprentice | one month |
+| Intern | three months |
 | Associate | 1 Year |
 | Senior Associate | 1 Year |
 | Manager | 1 Year |

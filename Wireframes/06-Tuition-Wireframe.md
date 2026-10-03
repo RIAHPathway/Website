@@ -634,13 +634,13 @@ Participation in multiple Contributor or Ambassador tracks does not increase the
 
 ### Apprentice
 
-**1 Month**
+**one month**
 
 # $2,500
 
 ### Intern
 
-**3 Months**
+**three months**
 
 # $5,000
 
@@ -688,7 +688,9 @@ Included curriculum-based Certification Review:
 
 # $0 ADDITIONAL WHERE INCLUDED
 
-Purchased standalone Certification Review and Bar Review products follow current Products and Pricing Engine records.
+Purchased standalone Certification Review and Bar Review products use Basic $500, Standard $1,000, and Premium $1,500 pricing.
+
+For multiple eligible standalone reviews, the first review is charged at 100%, the second at 50%, and the third at 25% of its applicable tier price. Included reviews remain $0 additional.
 
 ### Review Access Guarantee
 
@@ -724,13 +726,11 @@ Enrollment Fee — **$0**
 
 ## Education Deposit
 
-# $1,550 TOTAL
+# ONE $500 RIAH FEE + APPLICABLE RESOURCE ALLOCATIONS
 
-Student Resource Allocation — **$1,000**
+The $500 RIAH Education Deposit Fee is charged once per applicable Education Deposit. Add the resource allocations for applicable selected education pathways: Minor $250; Associate’s $500; Bachelor’s, Master’s, and MBA $1,000 each.
 
-RIAH Fee — **$550**
-
-These are components of the single $1,550 Education Deposit.
+A single Bachelor’s, Master’s, or MBA selection therefore has a $1,500 Education Deposit. The deposit is separate from tuition.
 
 ## Experiential Deposit
 
@@ -828,9 +828,11 @@ The upfront reduction is subject to the current Pricing Engine reduction rules a
 
 [ICON CARD — CALENDAR]
 
-Applicable course payments may be distributed across:
+Monthly payments apply to individual courses. The course-price basis, typical course duration, credit-hour/course-count relationship, installment count, and timing remain:
 
-# UP TO 6 MONTHS PER COURSE
+# PENDING CONFIGURATION
+
+Do not finalize a four-payment or six-month schedule. Ordinary RIAH payment-plan interest remains 0%.
 
 The applicable paid course must be completed and paid in full before the next applicable paid course unlocks.
 
@@ -914,9 +916,11 @@ Loan Range:
 
 # $500 TO $5,000
 
-Minimum Stated Credit Score:
+Credit Score Required Above the 10% Collateral-Supported Tier:
 
-# 650
+# 700+
+
+The collateral-supported loan amount is limited to 10% of qualifying collateral. A score of 700 or above permits consideration above that tier, subject to approval, the remaining tuition deficit, and the $5,000 maximum.
 
 Maximum Active RIAH Private Student Loans:
 
@@ -926,13 +930,13 @@ Interest:
 
 # 5% PER 30 DAYS
 
-Certification Review purchases are excluded from applicable RIAH Private Student Loan use.
+All RIAH pathways, including Certification Review and Bar Review, are eligible for loan consideration. Eligibility does not guarantee approval; the approved amount follows the configured supported amount and remaining tuition-deficit rules.
 
 Applicable repayment may extend for up to:
 
 # 12 MONTHS
 
-Outstanding applicable RIAH Private Student Loan obligations are reconciled according to the applicable reimbursement and loan rules.
+The configured standard loan due date is three months after graduation. Applicable reimbursement first recovers an outstanding RIAH Private Student Loan balance, with the remainder following applicable payment-routing rules.
 
 [BUTTON — PRIVATE STUDENT LOAN INFORMATION → 6.4 / PAYMENT OPTIONS]
 

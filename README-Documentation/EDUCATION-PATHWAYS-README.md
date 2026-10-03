@@ -135,8 +135,8 @@ Established progression:
 
 | # | Item |
 |---:|---|
-| 1 | Apprentice — 1 Month |
-| 2 | Intern — 3 Months |
+| 1 | Apprentice — one month |
+| 2 | Intern — three months |
 | 3 | Associate — 1 Year |
 | 4 | Senior Associate — 1 Year |
 | 5 | Manager — 1 Year |
