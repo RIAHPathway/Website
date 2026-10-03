@@ -10,7 +10,68 @@ From representing myself pro se to building the institution where I will earn my
 
 Use this page as the working pleading and evidence framework if a future Replica Bot Tier 1, Tier 2, or Tier 3 review flag identifies a materially corresponding third-party implementation. A Replica Bot flag is an investigative lead only; each proposed count must be supported by its own facts, elements, jurisdiction, standing, limitations period, filing prerequisites, and admissible evidence before inclusion in any complaint.
 
-## 00.1 — CASE INTAKE / DEFENDANT IDENTIFICATION
+## I. KEY AND INDEX
+
+### I.A — Structure Key
+
+| Structure | Meaning |
+|---|---|
+| **I, II, III...** | Major filing-template division |
+| **V.A, V.B, V.C...** | Claim and count subcategory within the Claim and Count Review division |
+| **III.A, IX.A, XII.A...** | Subcategory within the applicable Roman-numeral division |
+| **Mermaid** | High-level process architecture only |
+| **Table** | Structured comparison, evidence, authority, or readiness information |
+| **Numbered list** | Ordered elements, proof requirements, filters, or review steps |
+| **Checklist** | Filing-readiness control |
+| **⚖️** | Human and legal review required before filing or allegation |
+| **🤖** | Legacy Replica Bot evidence-monitoring connection |
+
+### I.B — Index
+
+| Roman Numeral | Division |
+|---|---|
+| **I** | Key and Index |
+| **II** | Case Intake and Defendant Identification |
+| **III** | Jurisdiction and Venue Worksheet |
+| **IV** | RIAH Evidence Preservation File |
+| **V** | Claim and Count Review |
+| **VI** | Copyright Claim Filter |
+| **VII** | Replica Bot to Pleading Evidence Matrix |
+| **VIII** | Damages and Remedies Worksheet |
+| **IX** | Precedent and Statutory Authority Checklist |
+| **X** | Current Authoritative Links to Recheck at Filing |
+| **XI** | Filing Readiness Checklist |
+| **XII** | Complaint Caption and Party Placeholders |
+| **XIII** | Control Rule |
+| **XIV** | Legacy — RIAH Pathway Replica Bot Log |
+
+### I.C — High-Level Filing Architecture
+
+**MERMAID I — EVIDENCE TO CLAIM REVIEW**
+
+```mermaid
+flowchart LR
+    A["Replica Bot Investigative Lead"] --> B["Case Intake"]
+    B --> C["Jurisdiction and Venue"]
+    C --> D["Evidence Preservation"]
+    D --> E["Claim and Count Review"]
+```
+
+**MERMAID II — CLAIM REVIEW TO FILING READINESS**
+
+```mermaid
+flowchart LR
+    A["Claim and Count Review"] --> B["Claim Filters and Evidence Matrix"]
+    B --> C["Damages and Remedies"]
+    C --> D["Authority Recheck"]
+    D --> E["Filing Readiness"]
+    E --> F["Complaint Framework"]
+    F --> G["Human and Legal Review"]
+```
+
+---
+
+## II. CASE INTAKE AND DEFENDANT IDENTIFICATION
 
 * **Plaintiff / rights holder:** \(RIAH entity / individual owner to confirm\)
 * **Defendant legal name:** \(\)
@@ -30,9 +91,9 @@ Use this page as the working pleading and evidence framework if a future Replica
 * **Tier review flag:** \(Tier 1 / Tier 2 / Tier 3\)
 * **RIAH component(s) allegedly implicated:** \(Curriculum / software / app / website / pathway / ecosystem / source code / graphics / text / confidential architecture / trade dress / other\)
 
-## 00.2 — JURISDICTION / VENUE WORKSHEET
+## III. JURISDICTION AND VENUE WORKSHEET
 
-### Federal subject-matter jurisdiction
+### III.A — Federal Subject-Matter Jurisdiction
 
 * **Federal question:** 28 U.S.C. § 1331 where a viable federal claim is pleaded.
 * **Copyright / patent / federal trademark jurisdiction:** 28 U.S.C. § 1338.
@@ -40,7 +101,7 @@ Use this page as the working pleading and evidence framework if a future Replica
 * **Supplemental jurisdiction:** 28 U.S.C. § 1367 for qualifying related state-law claims forming part of the same case or controversy.
 * **Diversity jurisdiction, if independently available:** 28 U.S.C. § 1332 — verify complete diversity and amount-in-controversy requirements.
 
-### Federal venue
+### III.B — Federal Venue
 
 * **General federal venue:** 28 U.S.C. § 1391, unless a claim-specific venue statute controls.
 * **Copyright venue:** 28 U.S.C. § 1400(a) — verify where defendant or agent resides or may be found under controlling precedent.
@@ -48,13 +109,13 @@ Use this page as the working pleading and evidence framework if a future Replica
 * **Proposed federal district:** \(\)
 * **Personal jurisdiction basis:** \(Defendant residence / incorporation / principal place of business / purposeful contacts / conduct directed to forum / other\)
 
-### Ohio state jurisdiction
+### III.C — Ohio State Jurisdiction
 
 * **Potential trial court:** Ohio Court of Common Pleas for applicable Ohio civil claims, subject to subject-matter jurisdiction, personal jurisdiction, venue, standing, and amount rules.
 * **Ohio venue:** verify under the Ohio Rules of Civil Procedure and any claim-specific statutes based on defendant, conduct, injury, property, contract, or transaction location.
 * **Ohio county:** \(\)
 
-### Other-state placeholder
+### III.D — Other-State Placeholder
 
 * **Defendant state:** \(\)
 * **State trial court:** \(\)
@@ -65,7 +126,7 @@ Use this page as the working pleading and evidence framework if a future Replica
 * **Personal-jurisdiction facts:** \(\)
 * **Venue facts:** \(\)
 
-## 00.3 — RIAH EVIDENCE PRESERVATION FILE
+## IV. RIAH EVIDENCE PRESERVATION FILE
 
 * ChatGPT conversation exports, screenshots, message timestamps, branch histories, and prior versions establishing creation chronology.
 * Notion page history, timestamps, revisions, current pages, archived/superseded pages, audit records, and Replica Audit Log entries.
@@ -82,7 +143,31 @@ Use this page as the working pleading and evidence framework if a future Replica
 * Damages evidence: lost revenue, licensing value, development costs, saved costs, unjust enrichment, defendant profits where legally recoverable, market harm, corrective-advertising costs where recognized, and other provable loss.
 * Chain-of-custody notes for screenshots, downloads, archived pages, source files, hashes, capture date/time, and capture method.
 
-## 00.4 — COUNT I — FEDERAL TRADE-SECRET MISAPPROPRIATION
+## V. CLAIM AND COUNT REVIEW
+
+### V.0 — High-Level Claim Review Architecture
+
+**MERMAID I — RIGHTS AND ACCESS REVIEW**
+
+```mermaid
+flowchart LR
+    A["Preserved Evidence"] --> B["Trade Secret Review"]
+    A --> C["Copyright and DMCA Review"]
+    A --> D["Trademark and Trade Dress Review"]
+    A --> E["Patent and Computer Access Review"]
+```
+
+**MERMAID II — CONTRACT, BUSINESS TORT, AND STATE-LAW REVIEW**
+
+```mermaid
+flowchart LR
+    A["Preserved Evidence"] --> B["Contract and NDA Review"]
+    A --> C["Interference and Fiduciary Review"]
+    A --> D["Unjust Enrichment, Conspiracy, and Conversion Review"]
+    A --> E["Ohio and Other-State Review"]
+```
+
+### V.A — COUNT I — FEDERAL TRADE-SECRET MISAPPROPRIATION
 
 **Statutory basis:** Defend Trade Secrets Act, 18 U.S.C. §§ 1836(b), 1839.
 
@@ -114,7 +199,7 @@ Use this page as the working pleading and evidence framework if a future Replica
 
 **Key authority:** Defend Trade Secrets Act of 2016, Pub. L. 114-153; 18 U.S.C. §§ 1836, 1839.
 
-## 00.5 — COUNT II — CONTRIBUTORY COPYRIGHT INFRINGEMENT
+### V.B — COUNT II — CONTRIBUTORY COPYRIGHT INFRINGEMENT
 
 **Federal basis:** 17 U.S.C. §§ 106, 501–505; federal secondary-liability doctrine.
 
@@ -133,7 +218,7 @@ Use this page as the working pleading and evidence framework if a future Replica
 
 **Precedent:** *MGM Studios Inc. v. Grokster, Ltd.*, 545 U.S. 913 (2005); Sixth Circuit secondary-liability precedent including *Bridgeport Music* decisions as applicable to the specific facts.
 
-## 00.6 — COUNT III — VICARIOUS COPYRIGHT INFRINGEMENT
+### V.C — COUNT III — VICARIOUS COPYRIGHT INFRINGEMENT
 
 **Federal basis:** federal copyright secondary-liability doctrine.
 
@@ -145,7 +230,7 @@ Use this page as the working pleading and evidence framework if a future Replica
 
 **Evidence:** corporate/control records; administrative permissions; publishing authority; removal/edit authority; employment/contract relationships; approvals; direct financial benefit; revenue linked to accused offering; direct-infringer evidence; copyright registrations and deposit copies.
 
-## 00.7 — COUNT IV — DIRECT COPYRIGHT INFRINGEMENT
+### V.D — COUNT IV — DIRECT COPYRIGHT INFRINGEMENT
 
 **Federal basis:** 17 U.S.C. §§ 102, 106, 501–505.
 
@@ -163,7 +248,7 @@ Use this page as the working pleading and evidence framework if a future Replica
 
 **Precedent:** *Feist Publications, Inc. v. Rural Telephone Service Co.*, 499 U.S. 340 (1991); *Fourth Estate*, 586 U.S. 296 (2019).
 
-## 00.8 — COUNT V — DMCA CIRCUMVENTION
+### V.E — COUNT V — DMCA CIRCUMVENTION
 
 **Federal basis:** 17 U.S.C. §§ 1201, 1203.
 
@@ -173,7 +258,7 @@ Use this page as the working pleading and evidence framework if a future Replica
 
 **Do not plead based only on public similarity or publicly accessible copying.**
 
-## 00.9 — COUNT VI — DMCA COPYRIGHT-MANAGEMENT INFORMATION
+### V.F — COUNT VI — DMCA COPYRIGHT-MANAGEMENT INFORMATION
 
 **Federal basis:** 17 U.S.C. §§ 1202–1203.
 
@@ -181,7 +266,7 @@ Use this page as the working pleading and evidence framework if a future Replica
 
 **Evidence:** original CMI; accused version; metadata; attribution/owner/title information; before/after file versions; knowledge evidence; distribution/use evidence.
 
-## 00.10 — COUNT VII — OHIO TRADE-SECRET MISAPPROPRIATION
+### V.G — COUNT VII — OHIO TRADE-SECRET MISAPPROPRIATION
 
 **Ohio basis:** Ohio Rev. Code §§ 1333.61–1333.69.
 
@@ -197,7 +282,7 @@ Use this page as the working pleading and evidence framework if a future Replica
 
 **Precedent:** *Fred Siegel Co., L.P.A. v. Arter & Hadden*, 85 Ohio St.3d 171 (1999), as relevant to Ohio trade-secret / business-tort issues.
 
-## 00.11 — COUNT VIII — REGISTERED TRADEMARK INFRINGEMENT
+### V.H — COUNT VIII — REGISTERED TRADEMARK INFRINGEMENT
 
 **Federal basis:** Lanham Act § 32, 15 U.S.C. § 1114.
 
@@ -205,7 +290,7 @@ Use this page as the working pleading and evidence framework if a future Replica
 
 **Evidence:** registration; ownership; first use; defendant use in commerce; similarity of marks; related goods/services; actual confusion if any; marketing channels; consumer care; defendant intent where relevant; damages/profits.
 
-## 00.12 — COUNT IX — FALSE DESIGNATION OF ORIGIN / UNREGISTERED MARK
+### V.I — COUNT IX — FALSE DESIGNATION OF ORIGIN / UNREGISTERED MARK
 
 **Federal basis:** Lanham Act § 43(a), 15 U.S.C. § 1125(a).
 
@@ -215,7 +300,7 @@ Use this page as the working pleading and evidence framework if a future Replica
 
 **Precedent / limitation:** *Dastar Corp. v. Twentieth Century Fox Film Corp.*, 539 U.S. 23 (2003) limits use of § 1125(a) as a substitute copyright claim concerning authorship of expressive content.
 
-## 00.13 — COUNT X — TRADE-DRESS INFRINGEMENT
+### V.J — COUNT X — TRADE-DRESS INFRINGEMENT
 
 **Federal basis:** 15 U.S.C. § 1125(a).
 
@@ -234,7 +319,7 @@ Use this page as the working pleading and evidence framework if a future Replica
 
 **Precedent:** *Two Pesos, Inc. v. Taco Cabana, Inc.*, 505 U.S. 763 (1992); *Abercrombie & Fitch Stores, Inc. v. American Eagle Outfitters, Inc.*, 280 F.3d 619 (6th Cir. 2002).
 
-## 00.14 — COUNT XI — FEDERAL TRADEMARK DILUTION
+### V.K — COUNT XI — FEDERAL TRADEMARK DILUTION
 
 **Federal basis:** 15 U.S.C. § 1125(c).
 
@@ -242,7 +327,7 @@ Use this page as the working pleading and evidence framework if a future Replica
 
 **Evidence:** nationwide fame factors; duration/extent of use; advertising; geographic reach; recognition; registrations; defendant use after fame arose; blurring/tarnishment evidence.
 
-## 00.15 — COUNT XII — OHIO DECEPTIVE TRADE PRACTICES ACT
+### V.L — COUNT XII — OHIO DECEPTIVE TRADE PRACTICES ACT
 
 **Ohio basis:** Ohio Rev. Code §§ 4165.02–4165.03.
 
@@ -252,7 +337,7 @@ Use this page as the working pleading and evidence framework if a future Replica
 
 **Relief:** § 4165.03 provides for injunctive relief and, for an injured person, actual damages; attorney-fee rules depend on statutory findings.
 
-## 00.16 — COUNT XIII — PATENT INFRINGEMENT
+### V.M — COUNT XIII — PATENT INFRINGEMENT
 
 **Federal basis:** 35 U.S.C. § 271.
 
@@ -264,7 +349,7 @@ Use this page as the working pleading and evidence framework if a future Replica
 
 **Precedent on enhanced damages:** *Halo Electronics, Inc. v. Pulse Electronics, Inc.*, 579 U.S. 93 (2016).
 
-## 00.17 — COUNT XIV — COMPUTER FRAUD AND ABUSE ACT — CIVIL
+### V.N — COUNT XIV — COMPUTER FRAUD AND ABUSE ACT — CIVIL
 
 **Federal basis:** 18 U.S.C. § 1030(g), only where the required statutory authorization and loss/damage conditions are independently satisfied.
 
@@ -274,7 +359,7 @@ Use this page as the working pleading and evidence framework if a future Replica
 
 **Do not plead merely because public work resembles RIAH material.**
 
-## 00.18 — COUNT XV — BREACH OF CONTRACT
+### V.O — COUNT XV — BREACH OF CONTRACT
 
 **Ohio / governing-law basis:** applicable contract law.
 
@@ -284,13 +369,13 @@ Use this page as the working pleading and evidence framework if a future Replica
 
 **Other-state placeholder:** \(State: / governing law: \).
 
-## 00.19 — COUNT XVI — BREACH OF NDA / CONFIDENTIALITY AGREEMENT
+### V.P — COUNT XVI — BREACH OF NDA / CONFIDENTIALITY AGREEMENT
 
 **Basis:** contract law under controlling governing-law provision.
 
 **Proof:** valid confidentiality obligation; covered information; disclosure/access; prohibited use/disclosure; breach; causation; damages; injunctive-relief standard if requested.
 
-## 00.20 — COUNT XVII — TORTIOUS INTERFERENCE WITH CONTRACT
+### V.Q — COUNT XVII — TORTIOUS INTERFERENCE WITH CONTRACT
 
 **Ohio basis:** Ohio common law.
 
@@ -300,7 +385,7 @@ Use this page as the working pleading and evidence framework if a future Replica
 
 **Other-state placeholder:** \(\).
 
-## 00.21 — COUNT XVIII — TORTIOUS INTERFERENCE WITH BUSINESS / PROSPECTIVE RELATIONSHIP
+### V.R — COUNT XVIII — TORTIOUS INTERFERENCE WITH BUSINESS / PROSPECTIVE RELATIONSHIP
 
 **Ohio basis:** Ohio common law.
 
@@ -308,7 +393,7 @@ Use this page as the working pleading and evidence framework if a future Replica
 
 **Precedent:** *Fred Siegel Co., L.P.A. v. Arter & Hadden*, 85 Ohio St.3d 171 (1999).
 
-## 00.22 — COUNT XIX — BREACH OF FIDUCIARY DUTY
+### V.S — COUNT XIX — BREACH OF FIDUCIARY DUTY
 
 **Ohio basis:** Ohio common law, only where defendant actually owed a fiduciary duty.
 
@@ -316,7 +401,7 @@ Use this page as the working pleading and evidence framework if a future Replica
 
 **Precedent:** *Strock v. Pressnell*, 38 Ohio St.3d 207 (1988), as applicable to fiduciary-duty analysis.
 
-## 00.23 — COUNT XX — UNJUST ENRICHMENT
+### V.T — COUNT XX — UNJUST ENRICHMENT
 
 **Ohio basis:** Ohio common law.
 
@@ -328,7 +413,7 @@ Use this page as the working pleading and evidence framework if a future Replica
 
 **Critical displacement issue:** Ohio Rev. Code § 1333.67 may displace a state-law unjust-enrichment theory if it merely repackages trade-secret misappropriation. Preserve only independently supported factual theories or pursue unjust enrichment through the Ohio trade-secret damages provision where appropriate.
 
-## 00.24 — COUNT XXI — CIVIL CONSPIRACY
+### V.U — COUNT XXI — CIVIL CONSPIRACY
 
 **Ohio basis:** Ohio common law.
 
@@ -338,7 +423,7 @@ Use this page as the working pleading and evidence framework if a future Replica
 
 **Other-state placeholder:** \(\).
 
-## 00.25 — COUNT XXII — CONVERSION
+### V.V — COUNT XXII — CONVERSION
 
 **Ohio basis:** Ohio common law, only where the subject matter and facts support conversion of legally cognizable property.
 
@@ -346,7 +431,7 @@ Use this page as the working pleading and evidence framework if a future Replica
 
 **Preemption/displacement check:** confirm copyright preemption and Ohio trade-secret displacement before pleading where the theory concerns copied information rather than independently cognizable property.
 
-## 00.26 — COUNT XXIII — OHIO COMMON-LAW TRADEMARK / UNFAIR COMPETITION / PASSING OFF
+### V.W — COUNT XXIII — OHIO COMMON-LAW TRADEMARK / UNFAIR COMPETITION / PASSING OFF
 
 **Basis:** Ohio common law and/or independent Ohio theories not displaced by controlling federal law.
 
@@ -354,7 +439,7 @@ Use this page as the working pleading and evidence framework if a future Replica
 
 **Cross-reference:** Ohio Rev. Code Chapter 4165 where statutory deceptive-trade-practice elements are met.
 
-## 00.27 — COUNT XXIV — OTHER-STATE TRADE-SECRET MISAPPROPRIATION
+### V.X — COUNT XXIV — OTHER-STATE TRADE-SECRET MISAPPROPRIATION
 
 **State:** \(\)
 
@@ -369,7 +454,7 @@ Use this page as the working pleading and evidence framework if a future Replica
 * Limitations period: \(\)
 * Preemption/displacement rule: \(\)
 
-## 00.28 — COUNT XXV — OTHER-STATE DECEPTIVE TRADE / UNFAIR COMPETITION
+### V.Y — COUNT XXV — OTHER-STATE DECEPTIVE TRADE / UNFAIR COMPETITION
 
 **State:** \(\)
 
@@ -383,7 +468,7 @@ Use this page as the working pleading and evidence framework if a future Replica
 * Fees/punitive or enhanced remedies: \(\)
 * Limitations period: \(\)
 
-## 00.29 — COUNT XXVI — OTHER-STATE CONTRACT / BUSINESS TORTS
+### V.Z — COUNT XXVI — OTHER-STATE CONTRACT / BUSINESS TORTS
 
 **State:** \(\)
 
@@ -397,7 +482,7 @@ Use this page as the working pleading and evidence framework if a future Replica
 * Applicable preemption/displacement: \(\)
 * Limitations periods: \(\)
 
-## 00.30 — COPYRIGHT CLAIM FILTER — RIAH CURRICULUM / WEBSITE / SOFTWARE / MATERIALS
+## VI. COPYRIGHT CLAIM FILTER — RIAH CURRICULUM / WEBSITE / SOFTWARE / MATERIALS
 
 Before pleading copyright infringement, separate the claimed material into:
 
@@ -407,7 +492,7 @@ Before pleading copyright infringement, separate the claimed material into:
 4. **Trademark/trade-dress lane:** source-identifying marks or qualifying nonfunctional source-identifying presentation.
 5. **Contract lane:** information/use restricted by actual agreements even when copyright/trade-secret theories differ.
 
-## 00.31 — REPLICA BOT TO PLEADING EVIDENCE MATRIX
+## VII. REPLICA BOT TO PLEADING EVIDENCE MATRIX
 
 | Replica finding                               | What must be added before pleading                                                                                                                                                                                              |
 | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -417,7 +502,7 @@ Before pleading copyright infringement, separate the claimed material into:
 | Renamed/reordered curriculum match            | Functional comparison may support investigation, but copyright count still requires copying of protectable expression; trade-secret count requires secrecy + misappropriation; contract count requires actual contractual duty. |
 | Similar app/website appearance                | Identify original protected artwork/code/expression or qualifying trade dress; exclude functional/common UI conventions.                                                                                                        |
 
-## 00.32 — DAMAGES / REMEDIES WORKSHEET
+## VIII. DAMAGES AND REMEDIES WORKSHEET
 
 * **Copyright:** \(actual damages / attributable profits / statutory damages if eligible / injunction / costs / fees if eligible\).
 * **DTSA:** \(actual loss / unjust enrichment / royalty / injunction / exemplary damages if statutory conditions met / fees if authorized\).
@@ -428,9 +513,9 @@ Before pleading copyright infringement, separate the claimed material into:
 * **Other:** \(\).
 * **No double recovery:** identify overlapping damages theories and avoid duplicative recovery for the same injury.
 
-## 00.33 — PRECEDENT / STATUTORY AUTHORITY CHECKLIST
+## IX. PRECEDENT AND STATUTORY AUTHORITY CHECKLIST
 
-### Federal
+### IX.A — Federal
 
 * 17 U.S.C. §§ 102, 106, 501–505, 411–412, 1201–1203.
 * 18 U.S.C. §§ 1836, 1839.
@@ -447,7 +532,7 @@ Before pleading copyright infringement, separate the claimed material into:
 * *Halo Electronics, Inc. v. Pulse Electronics, Inc.*, 579 U.S. 93 (2016).
 * Sixth Circuit trade-dress authority including *Abercrombie & Fitch Stores, Inc. v. American Eagle Outfitters, Inc.*, 280 F.3d 619 (6th Cir. 2002).
 
-### Ohio
+### IX.B — Ohio
 
 * Ohio Rev. Code §§ 1333.61–1333.69 — Uniform Trade Secrets Act.
 * Ohio Rev. Code §§ 4165.01–4165.04 — Deceptive Trade Practices.
@@ -455,7 +540,7 @@ Before pleading copyright infringement, separate the claimed material into:
 * *Hambleton v. R.G. Barry Corp.*, 12 Ohio St.3d 179 (1984).
 * *Strock v. Pressnell*, 38 Ohio St.3d 207 (1988).
 
-## 00.34 — CURRENT AUTHORITATIVE LINKS TO RECHECK AT FILING
+## X. CURRENT AUTHORITATIVE LINKS TO RECHECK AT FILING
 
 * **17 U.S.C. § 102:** [https://uscode.house.gov/view.xhtml?req=(title:17%20section:102%20edition:prelim)](https://uscode.house.gov/view.xhtml?req=%28title:17%20section:102%20edition:prelim%29)
 * **DTSA / Pub. L. 114-153:** [https://uscode.house.gov/statutes/pl/114/153.pdf](https://uscode.house.gov/statutes/pl/114/153.pdf)
@@ -465,7 +550,7 @@ Before pleading copyright infringement, separate the claimed material into:
 * **Ohio DTPA remedies — ORC 4165.03:** [https://codes.ohio.gov/ohio-revised-code/section-4165.03](https://codes.ohio.gov/ohio-revised-code/section-4165.03)
 * **Supreme Court docket / Fourth Estate:** [https://www.supremecourt.gov/docket/docketfiles/html/public/17-571.html](https://www.supremecourt.gov/docket/docketfiles/html/public/17-571.html)
 
-## 00.35 — FILING READINESS CHECKLIST
+## XI. FILING READINESS CHECKLIST
 
 * [ ] Correct plaintiff / rights holder identified for every right asserted.
 * [ ] Correct defendant legal entities identified and service information verified.
@@ -486,7 +571,7 @@ Before pleading copyright infringement, separate the claimed material into:
 * [ ] Remedies requested are authorized by each governing statute.
 * [ ] Federal and state rules of civil procedure, local rules, formatting, summons, civil cover sheet, filing fee, service, and disclosure obligations checked immediately before filing.
 
-## 00.36 — COMPLAINT CAPTION / PARTY PLACEHOLDERS
+## XII. COMPLAINT CAPTION AND PARTY PLACEHOLDERS
 
 **UNITED STATES DISTRICT COURT**
 
@@ -508,37 +593,37 @@ Judge \(\)
 
 **COMPLAINT FOR \(INSERT ONLY FACTUALLY SUPPORTED COUNTS\)**
 
-### Parties
+### XII.A — Parties
 
 \(\)
 
-### Jurisdiction and Venue
+### XII.B — Jurisdiction and Venue
 
 \(Insert only verified federal/state jurisdictional allegations.\)
 
-### General Factual Allegations
+### XII.C — General Factual Allegations
 
 \(Chronological facts with dated exhibits and source references.\)
 
-### Counts
+### XII.D — Counts
 
 \(Insert only claims whose elements are supported by evidence.\)
 
-### Prayer for Relief
+### XII.E — Prayer for Relief
 
 \(Insert claim-specific remedies supported by statute and evidence.\)
 
-### Jury Demand
+### XII.F — Jury Demand
 
 \(Include only if legally available and strategically selected.\)
 
-## 00.37 — CONTROL RULE
+## XIII. CONTROL RULE
 
 **This page is a litigation-preparation template, not a conclusion that any person or entity infringed RIAH rights. A Tier 1/2/3 Replica Bot finding must be converted into claim-specific evidence before a count is asserted. Every statute, precedent, court rule, limitations period, jurisdictional basis, venue basis, registration prerequisite, and remedy must be rechecked against current law and the actual defendant/facts before filing.**
 
 ---
 
-## 🤖 LEGACY — RIAH PATHWAY REPLICA BOT LOG
+## XIV. LEGACY — RIAH PATHWAY REPLICA BOT LOG
 
 The **Legacy RIAH Pathway Replica Bot** is the evidence-monitoring layer supporting this Same-Day Filing Template. Legacy performs recurring hourly public-source scans and daily evidence audits using the fixed RIAH Tier 1, Tier 2, and Tier 3 fingerprint.
 
