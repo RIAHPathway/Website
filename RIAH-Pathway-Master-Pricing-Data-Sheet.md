@@ -49,7 +49,7 @@ independently recreating or inventing financial values.
 **XXXIII. 📆 SEMESTER CONFIGURATION**  
 **XXXIV. 📚 BACHELOR’S PER COURSE CONFIGURATION**  
 **XXXV. 🏦 RIAH PRIVATE STUDENT LOAN**  
-**XXXVI. 🛡️ RIAH PRIVATE STUDENT LOAN ELIGIBILITY EXCLUSIONS**  
+**XXXVI. 🛡️ RIAH PRIVATE STUDENT LOAN PATHWAY ELIGIBILITY AND COLLATERAL**  
 **XXXVII. ➗ RIAH PRIVATE STUDENT LOAN INTEREST**  
 **XXXVIII. 💵 LOAN RECOVERY THROUGH REIMBURSEMENT**  
 **XXXIX. ✅ INCLUDED ZERO DOLLAR COMPONENTS**  
@@ -660,7 +660,7 @@ total program tuition.
 
 # XXXV. 🏦 RIAH Private Student Loan
 
-The RIAH Private Student Loan is separate financing rather than a tuition reduction. Eligible students select a requested amount within the configured \$500 minimum and \$5,000 maximum, subject to the established eligibility and repayment configuration.
+The RIAH Private Student Loan is separate financing rather than a tuition reduction. All RIAH pathways are eligible for loan consideration. Students select a requested amount within the configured \$500 minimum and \$5,000 maximum. The amount approved depends on the applicable credit review and collateral supporting the requested loan.
 
 | Financing Configuration | Value |
 |:---|---:|
@@ -671,32 +671,37 @@ The RIAH Private Student Loan is separate financing rather than a tuition reduct
 | Active Loans Allowed | 1 |
 | Payment Plan Maximum | 12 Months |
 | Standard Loan Due Date | 3 Months After Graduation |
+| Pathway Eligibility | All RIAH Pathways Eligible for Consideration |
+| Approval Basis | Applicable Credit Review and Collateral |
+| Collateral Recovery | Applicable pledged collateral secures the approved loan amount and may be applied to recover an unpaid or defaulted RIAH loan according to the governing agreement |
 
 Loan request amount is selected by the student within applicable
 eligibility limits. The calculator does not automatically assign the
 maximum loan amount. Financing is not a tuition reduction.
 
-# XXXVI. 🛡️ RIAH Private Student Loan Eligibility Exclusions
+# XXXVI. 🛡️ RIAH Private Student Loan Pathway Eligibility and Collateral
 
-Private Student Loan eligibility depends on the selected education component. Degree pathways may be potentially eligible while GED and HSE, High School, standalone Minor, standalone Certification Review, standalone Bar Review, and Products are excluded.
+All RIAH pathways are eligible for RIAH Private Student Loan consideration. Pathway type does not independently exclude a student from consideration. The approved loan amount remains subject to the \$500 minimum and \$5,000 maximum and is determined through the applicable credit and collateral review.
 
 | Component | Loan Eligible |
 |:---|:---|
-| Associate’s | Potentially Eligible |
-| Bachelor’s | Potentially Eligible |
-| Master’s | Potentially Eligible |
-| MBA | Potentially Eligible |
-| JD | Potentially Eligible |
-| Applicable Non JD | Subject to Applicable Configuration |
-| GED and HSE | No |
-| High School | No |
-| Standalone Minor | No |
-| Standalone Certification Review | No |
-| Standalone Bar Review | No |
-| Products | No |
+| GED and HSE | Eligible for Consideration |
+| High School | Eligible for Consideration |
+| Minor | Eligible for Consideration |
+| Associate’s | Eligible for Consideration |
+| Bachelor’s | Eligible for Consideration |
+| Master’s | Eligible for Consideration |
+| MBA | Eligible for Consideration |
+| JD | Eligible for Consideration |
+| Applicable Non JD | Eligible for Consideration |
+| Experiential | Eligible for Consideration |
+| Certification Review | Eligible for Consideration |
+| Bar Review | Eligible for Consideration |
+| Products and Other Applicable Pathway Components | Eligible for Consideration |
 
-If eligible tuition available for financing is below the \$500 loan
-minimum, the RIAH Private Student Loan is unavailable.
+Loan eligibility does not guarantee approval of a particular amount. The student requests an amount from \$500 through \$5,000, and the approved amount depends on the applicable credit review and collateral supporting the loan. Applicable pledged collateral secures only the approved loan obligation and may be applied to recover an unpaid or defaulted RIAH Private Student Loan according to the governing loan and collateral agreement.
+
+Where an applicable reimbursement is payable and an outstanding RIAH Private Student Loan exists, the existing Loan Recovery Through Reimbursement rule applies first. Reimbursement generated from qualifying eligible payment sources, including qualifying direct debit or credit payments and qualifying student-loan payments, follows the reimbursement rules and applicable loan-servicer or student payment routing.
 
 # XXXVII. ➗ RIAH Private Student Loan Interest
 
@@ -945,6 +950,9 @@ The Master Active Number Table consolidates the active numerical records used th
 | RIAH Private Student Loan Interest | 5% per 30 Days |
 | RIAH Private Student Loan Due Date | 3 Months After Graduation |
 | RIAH Private Student Loan Payment Plan Maximum | 12 Months |
+| RIAH Private Student Loan Pathway Eligibility | All RIAH Pathways Eligible for Consideration |
+| RIAH Private Student Loan Approval Basis | Applicable Credit Review and Collateral |
+| RIAH Private Student Loan Collateral Recovery | Applicable pledged collateral may secure and recover an unpaid or defaulted approved loan according to the governing agreement |
 | Semester Length | 6 Months |
 | Four Year Semester Count | 8 |
 | Bachelor’s Credits | 120 |
