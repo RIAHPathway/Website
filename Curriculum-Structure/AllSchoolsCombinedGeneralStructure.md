@@ -113,6 +113,8 @@
 | --- | --- | --- | --- |
 | Every RIAH Pathway High School Diploma course | includes an Objective Assessment (OA) | includes a Performance Assessment (PA) | Both assessments are proctored for every high-school course. |
 
+| Academic Architecture Component | Governing Structure |
+| --- | --- |
 | Certification Architecture | Certification review may be embedded into an academic pathway or designated certification track. External certification examinations remain separate unless expressly required by an applicable external authority. |
 | Experiential Architecture | Experiential participation follows the applicable pathway, eligibility, selection, placement, capacity, supervision, and timing requirements. |
 | Secondary Education | RIAH Pathway Secondary School contains the Four-Year High School Diploma pathway and GED/HSE Preparation pathway. |
