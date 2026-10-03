@@ -157,13 +157,67 @@ This expansion adds eligible certification coverage only. It does **not** change
 
 ### Basic, Standard, and Premium Review Package Inclusions
 
-| Package | Price | Included Structure |
-|:---|---:|:---|
-| Basic | $500 | RIAH Certification Review or applicable Bar Review Course; applicable sections, parts, modules, or jurisdiction module; applicable course textbook or course material; core questions and MCQs; core practice tests; core simulations; 2 Mini Practice Exams; 2 Mini Simulated Exams; 1 Full Simulated Exam |
-| Standard | $1,000 | Everything in Basic plus Workbook; Study Guide; Review Guide; Solution Guide; Flashcards; Planner; Journal; Expanded 250-Question Practice Bank; additional Practice Exams; additional Simulation Practice; Timed Testing; Grading and Scoring; Performance Review |
-| Premium | $1,500 | Everything in Basic and Standard plus Complete Printed Product Set; 500 Additional Questions per applicable module; 5 Additional Practice Tests per applicable module; 5 Additional Simulations per applicable module; Academic and Review Advisement; Mentorship; 5 Study Sessions; 5 Live Review Sessions; 5 Coaching Sessions |
+| Package Feature | Basic — $500 | Standard — $1,000 | Premium — $1,500 |
+|:---|:---:|:---:|:---:|
+| RIAH Certification Review or Applicable Bar Review Course | Included | Included | Included |
+| Applicable Certification Sections, Parts, or Modules | Included | Included | Included |
+| Applicable Bar Jurisdiction Module | Included Where Applicable | Included Where Applicable | Included Where Applicable |
+| Applicable Course Textbook or Course Material | Included | Included | Included |
+| Core Questions and MCQs | Included | Included | Included |
+| Core Practice Tests | Included | Included | Included |
+| Core Simulations | Included | Included | Included |
+| Mini Practice Exams | 2 | 2 + Additional Practice Exams | 2 + Additional Practice Exams + 5 Additional Practice Tests Per Applicable Module |
+| Mini Simulated Exams | 2 | 2 + Additional Simulation Practice | 2 + Additional Simulation Practice + 5 Additional Simulations Per Applicable Module |
+| Full Simulated Exam | 1 | 1 | 1 |
+| Workbook | — | Included | Printed Workbook Included |
+| Study Guide | — | Included | Printed Study Guide Included |
+| Review Guide | — | Included | Printed Review Guide Included |
+| Solution Guide | — | Included | Printed Solution Guide Included |
+| Flashcards | — | Included | Printed Flashcards Included |
+| Planner | — | Included | Printed Planner Included |
+| Journal | — | Included | Printed Journal Included |
+| Expanded 250-Question Practice Bank | — | Included | Included |
+| Timed Testing | — | Included | Included |
+| Grading and Scoring | — | Included | Included |
+| Performance Review | — | Included | Included |
+| Complete Printed Product Set | — | — | Included |
+| Printed Textbook | — | — | Included |
+| 500 Additional Questions Per Applicable Module | — | — | Included |
+| Academic and Review Advisement | — | — | Included |
+| Mentorship | — | — | Included |
+| Study Sessions | — | — | 5 |
+| Live Review Sessions | — | — | 5 |
+| Coaching Sessions | — | — | 5 |
 
 Full RIAH Bar Review uses one core Bar Review with the first applicable jurisdiction module included where applicable. Each additional jurisdiction module is **$250**. California Baby Bar Review uses the same **Basic $500, Standard $1,000, Premium $1,500** package architecture.
+
+
+
+### Internal Student Collection Architecture
+
+RIAH Student Collections are internal curriculum resources. They are included or allocated according to the applicable student pathway and are not standalone external retail collections.
+
+| Collection Category | Collection Structure | External Retail Treatment |
+|:---|:---|:---|
+| General Education Collection | Representative General Education course collection: Textbook, Workbook, Journal, Study Guide, Review Guide, Flashcards, Planner, LMS | Internal Student Collection |
+| School Core Collections | School of Business — Business Core; School of Technology — Technology Core; School of Law — Law Core; School of Homeland Security — Homeland Security Core | Internal Student Collection |
+| Year 3 Major Collections | Each individual major receives its own applicable Year 3 Major Collection organized by school and major | Internal Student Collection |
+| Certification Review Collection | Certification Textbook or Textbooks, Workbook, Journal, Study Guide, Review Guide, Flashcards, Planner, LMS Certification Review | Internal where included; standalone review governed by review pricing |
+| Bachelor’s and Year 4 Collection | Advanced and application curriculum collection aligned to Year 4 progression | Internal Student Collection |
+| Bachelor’s Capstone Collection | Level-specific Year 4 Bachelor’s capstone collection | Internal Student Collection |
+| Minor Collection | Applicable Minor curriculum collection | Internal Student Collection |
+| Minor Capstone Collection | Applicable Minor Applied Learning and Capstone Collection | Internal Student Collection |
+| Master’s Collection | Graduate-level Master’s curriculum collection | Internal Student Collection |
+| Master’s Capstone Collection | Level-specific Master’s capstone collection | Internal Student Collection |
+| MBA Collection | MBA curriculum and management application collection | Internal Student Collection |
+| MBA Capstone Collection | Level-specific MBA capstone collection | Internal Student Collection |
+| Experiential Collections | Apprentice, Intern, Associate, Senior Associate, Manager, and Executive collections; standard Experiential collection may include Experiential Textbook, Workbook, Journal, Planner, LMS Learning Courses, Weekly Assignments, and Real-World Work Experience | Internal Student Collection |
+| High School Diploma Collection | Physical and digital learning products aligned to the High School Diploma pathway | Internal Student Collection |
+| GED and HiSET Collection | Preparation products and digital learning environment aligned to GED and HiSET preparation | Internal Student Collection |
+
+Applicable collections may include Textbooks, Workbooks, Journals, Planners, Review Guides, Study Guides, Flashcards, Practice Resources, and Applicable Digital Resources. The standard Experiential Collection does not include a Study Guide or Review Guide.
+
+The Year 4, Master’s, and MBA levels each retain their own level-specific capstone collection.
 
 
 ### Product and Professional Support Price Records
