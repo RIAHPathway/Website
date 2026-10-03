@@ -1,40 +1,104 @@
 # 🎓 Students — Education & Experiential Pathway Graduates
 
+**Status: In Progress — Review and Finalization Required**
+
+## 📑 Index
+
+I. 🎓 Graduate Benefit  
+II. 👑 Eligibility  
+III. 🏆 Guaranteed 10% Completion Milestone  
+IV. 🧮 Graduate Point Formula  
+V. 🏆 10%–50% Milestones  
+VI. ⭐ Graduate Point Activities  
+VII. 🎓 Graduate Benefit Levels  
+VIII. 🛡️ Verification  
+IX. 📋 Graduate Record  
+X. 🏆 Examples
+
+## I. 🎓 Graduate Benefit
+
 Students who successfully complete an eligible RIAH Pathway Education Pathway or Experiential Pathway receive a separate Graduate Tuition Benefit.
 
-## Guaranteed Completion Benefit
+**Complete the entire eligible pathway = guaranteed 10% eligible tuition reduction.**
 
-**Successful completion of the entire eligible pathway = 1,000 Graduate Points = guaranteed 10% eligible tuition reduction.**
+The Graduate Benefit may increase to **50% maximum eligible tuition**. **Products are not discounted through the Graduate Benefit.**
 
-The Graduate Benefit applies to eligible future RIAH Pathway tuition only. **Products are not discounted through the Graduate Benefit.**
+## II. 👑 Eligibility
 
-## Eligibility
+1. Successfully complete the entire applicable pathway.
+2. Satisfy academic or Experiential completion requirements.
+3. Complete required courses, modules, assessments, projects, placements or Experiential requirements.
+4. Complete applicable capstone requirements.
+5. Complete required documentation.
+6. Satisfy applicable administrative requirements.
+7. Receive RIAH Pathway verification.
+8. Be in good standing at completion.
+9. Connect the benefit to the verified graduate record.
+10. Verify additional milestone activities above 10%.
+11. Graduate points cannot be purchased.
+12. Graduate points cannot be transferred.
+13. Products receive no Graduate Benefit.
+14. Maximum Graduate Tuition Benefit is 50%.
 
-Students must successfully complete the entire applicable pathway; satisfy required courses, modules, assessments, projects, placements, experiential requirements, capstones, documentation, and applicable administrative requirements; be in good standing at completion; and have completion verified by RIAH Pathway.
+Qualifying pathways may include High School, GED, Associate's, Bachelor's, MBA, JD when applicable, Non-JD, designated approved Certification pathways, Experiential pathways and other designated qualifying RIAH educational pathways.
 
-Graduate points cannot be purchased or transferred.
+## III. 🏆 Guaranteed 10% Completion Milestone
 
-## Graduate Formula
+| Achievement | Points | Tuition | Products |
+|---|---:|---:|---:|
+| Complete Entire Eligible Pathway | **1,000** | **10% GUARANTEED** | None |
 
-After the guaranteed 10% milestone:
+## IV. 🧮 Graduate Point Formula
 
-**Each additional 100 approved Graduate Points = +1% eligible tuition.**
+After the guaranteed 10%, **each additional 100 approved Graduate Points = +1% eligible tuition**. Maximum: **5,000 total Graduate Points = 50% tuition**. This consists of 1,000 guaranteed completion points plus up to 4,000 additional approved Graduate Points.
 
-Progression runs from **10% to 50%**, with **5,000 total Graduate Points = 50% maximum tuition benefit**.
-
-## Milestones
+## V. 🏆 Graduate 10%–50% Milestones
 
 | Points | Tuition | Products |
 |---:|---:|---:|
-| 1,000 | **10% GUARANTEED** | None |
-| 2,000 | 20% | None |
-| 3,000 | 30% | None |
-| 4,000 | 40% | None |
-| 5,000 | **50% MAX** | None |
+| 1000 | 10% GUARANTEED | None |
+| 1100 | 11% | None |
+| 1200 | 12% | None |
+| 1300 | 13% | None |
+| 1400 | 14% | None |
+| 1500 | 15% | None |
+| 1600 | 16% | None |
+| 1700 | 17% | None |
+| 1800 | 18% | None |
+| 1900 | 19% | None |
+| 2000 | 20% | None |
+| 2100 | 21% | None |
+| 2200 | 22% | None |
+| 2300 | 23% | None |
+| 2400 | 24% | None |
+| 2500 | 25% | None |
+| 2600 | 26% | None |
+| 2700 | 27% | None |
+| 2800 | 28% | None |
+| 2900 | 29% | None |
+| 3000 | 30% | None |
+| 3100 | 31% | None |
+| 3200 | 32% | None |
+| 3300 | 33% | None |
+| 3400 | 34% | None |
+| 3500 | 35% | None |
+| 3600 | 36% | None |
+| 3700 | 37% | None |
+| 3800 | 38% | None |
+| 3900 | 39% | None |
+| 4000 | 40% | None |
+| 4100 | 41% | None |
+| 4200 | 42% | None |
+| 4300 | 43% | None |
+| 4400 | 44% | None |
+| 4500 | 45% | None |
+| 4600 | 46% | None |
+| 4700 | 47% | None |
+| 4800 | 48% | None |
+| 4900 | 49% | None |
+| 5000 | 50% MAX | None |
 
-Every complete 100 points between these major checkpoints increases the eligible tuition benefit by 1%.
-
-## Graduate Point Activities
+## VI. ⭐ Graduate Point Activities
 
 | Activity | Points |
 |---|---:|
@@ -59,3 +123,31 @@ Every complete 100 points between these major checkpoints increases the eligible
 | Complete major approved graduate initiative | 150–250 |
 
 All additional Graduate Points require verification.
+
+## VII. 🎓 Graduate Benefit Levels
+
+| Level | Points | Tuition |
+|---|---:|---:|
+| 🎓 Graduate | 1,000–1,900 | 10%–19% |
+| 🎓🥉 Graduate Contributor | 2,000–2,900 | 20%–29% |
+| 🎓🥈 Advanced Graduate Contributor | 3,000–3,900 | 30%–39% |
+| 🎓🥇 Distinguished Graduate Contributor | 4,000–4,900 | 40%–49% |
+| 👑🎓 Legacy Graduate Contributor | 5,000+ | 50% MAX |
+
+## VIII. 🛡️ Verification
+
+Completion and every additional point-bearing activity must be verified. Fabricated, duplicate, rejected, unauthorized or unverifiable activity receives no points. Pending activities do not change the benefit.
+
+**Pending → Under Review → Revision or Verification if Required → Approved → Credited**
+
+## IX. 📋 Graduate Record
+
+Record Participant, Participant ID, Pathway, Completion Verification, Activity ID, Activity, Date, Base Completion Points, Added Points, Total Graduate Points, Milestone, Tuition Benefit, Product Benefit as N/A, Approved By, Next Milestone, Points Remaining and Status.
+
+## X. 🏆 Examples
+
+Education Graduate: 1,000 completion + 50 peer mentoring + 25 orientation support + 50 workshop + 50 educational resource + 100 approved initiative = **1,275 points = 12% tuition + 75 toward 13%; no product discount**.
+
+Experiential Graduate: 1,000 completion + 50 Experiential support + 50 mentorship + 50 education booth + 50 research + 200 major initiative = **1,400 points = 14% tuition; no product discount**.
+
+Maximum Graduate: **5,000 points = 50% tuition maximum; no Graduate Product Benefit**.
