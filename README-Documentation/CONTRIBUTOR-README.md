@@ -7,20 +7,15 @@ RIAH's public GitHub contribution environment is not limited to software develop
 >
 > Contribution qualification and benefit determination remain subject to RIAH review and established contributor requirements. A contribution or Pull Request does not automatically create a 25% tuition reduction.
 
-```text
-TECHNOLOGY ARCHITECTURE AND DEVELOPMENT — 4
+### Technology Architecture and Development — 4
 
-Backend Automation & Technology Systems Architect — 1
-                         ↓
-Backend Technology Systems Builder — 1
-                         ↓
-Frontend Technology Systems Builder — 1
-                         ↓
-Full-Stack Technology Systems Builder — 1
+```mermaid
+flowchart TD
+A["Backend Automation & Technology Systems Architect — 1"] --> B["Backend Technology Systems Builder — 1"] --> C["Frontend Technology Systems Builder — 1"] --> D["Full-Stack Technology Systems Builder — 1"]
+```
 
 CTO + 4 FUNCTIONAL TECHNOLOGY ROLES
 CTO = Executive Leader · Not Primary Builder
-```
 > AI-assisted work may be proposed where applicable. Contributors remain responsible for cleaning, reviewing, correcting, testing, and ensuring that submitted images, videos, documents, code, designs, scripts, and other materials meet applicable RIAH quality, contribution, ownership, security, and approval requirements.
 
 ### 🌐 CONTRIBUTE ACROSS THE ENTIRE WEBSITE
@@ -83,24 +78,51 @@ The purpose of this contribution model is to allow contributors to help make the
 
 ### 🧭 CONTRIBUTOR WORKFLOW
 
-```yaml
-contribution_flow:
-  step_01: "Read README, contribution rules, guidelines, security requirements, and applicable project specifications"
-  step_02: "Select Website 01–13 page, folder, issue, project, document, media asset, calculator task, or other approved contribution"
-  step_03: "Review the applicable wireframe and required deliverables"
-  step_04: "Open or select the applicable GitHub Issue"
-  step_05: "Join or reference the applicable GitHub Project"
-  step_06: "Use GitHub Discussions when clarification, proposal discussion, or community input is appropriate"
-  step_07: "Create or use the applicable branch or fork"
-  step_08: "Create the contribution"
-  step_09: "Clean and review AI-assisted material when AI is used"
-  step_10: "Test the contribution"
-  step_11: "Submit the Pull Request"
-  step_12: "Respond to review or changes requested"
-  step_13: "RIAH review and approval"
-  step_14: "Merge"
-  step_15: "Release"
-  step_16: "Applicable contributor-benefit review"
+### Contributor Workflow — Part I: Prepare and Select
+
+```mermaid
+flowchart LR
+A1["Read README, contribution rules, guidelines, security requirements, and applicable project specifications"]
+A2["Select Website 01–13 page, folder, issue, project, document, media asset, calculator task, or other approved contribution"]
+A3["Review the applicable wireframe and required deliverables"]
+A4["Open or select the applicable GitHub Issue"]
+A5["Join or reference the applicable GitHub Project"]
+A6["Use GitHub Discussions when clarification, proposal discussion, or community input is appropriate"]
+A1 --> A2
+A2 --> A3
+A3 --> A4
+A4 --> A5
+A5 --> A6
+```
+
+### Contributor Workflow — Part II: Build and Submit
+
+```mermaid
+flowchart LR
+B1["Create or use the applicable branch or fork"]
+B2["Create the contribution"]
+B3["Clean and review AI-assisted material when AI is used"]
+B4["Test the contribution"]
+B5["Submit the Pull Request"]
+B1 --> B2
+B2 --> B3
+B3 --> B4
+B4 --> B5
+```
+
+### Contributor Workflow — Part III: Review and Release
+
+```mermaid
+flowchart LR
+C1["Respond to review or changes requested"]
+C2["RIAH review and approval"]
+C3["Merge"]
+C4["Release"]
+C5["Applicable contributor-benefit review"]
+C1 --> C2
+C2 --> C3
+C3 --> C4
+C4 --> C5
 ```
 
 ### 📌 CONTRIBUTOR RULES AND GUIDELINES
@@ -267,32 +289,16 @@ and:
 
 ## 23. 👑 COMPLETE DEVELOPMENT MODEL
 
-```text
-RIAH Private Company and IP
-              │
-              ↓
-Approved Public Specifications
-              │
-              ↓
-GitHub Repository
-              │
-      ┌───────┼────────┐
-      ↓       ↓        ↓
-    Issues  Projects  Discussions
-      │       │        │
-      └───────┼────────┘
-              ↓
-       Public Contributors
-              ↓
-     Branches and Pull Requests
-              ↓
-        RIAH Review
-              ↓
-      Testing and Approval
-              ↓
-       Public Website
-              ↓
-      RIAH Ecosystem V1+
+```mermaid
+flowchart TD
+A["RIAH Private Company and IP"] --> B["Approved Public Specifications"] --> C["GitHub Repository"]
+C --> D["Issues"]
+C --> E["Projects"]
+C --> F["Discussions"]
+D --> G["Branches and Pull Requests"]
+E --> G
+F --> G
+G --> H["RIAH Review"] --> I["Testing and Approval"] --> J["Public Website"] --> K["RIAH Ecosystem V1+"]
 ```
 
 ---
@@ -360,17 +366,21 @@ This provides an additional pathway for qualifying early contributors who later 
 
 Contributor to Team Member Benefit:
 
-```yaml
-flow:
-  step_1: "Qualifying Website or Ecosystem Contributor"
-  step_2: "Up to 25% Tuition Reduction"
-  step_3: "25% Off Eligible RIAH Products"
+```mermaid
+flowchart LR
+N1["Qualifying Website or Ecosystem Contributor"]
+N2["Up to 25% Tuition Reduction"]
+N3["25% Off Eligible RIAH Products"]
+N1 --> N2
+N2 --> N3
 ```
-```yaml
-flow:
-  step_1: "Eligible Contributor Who Joins the RIAH Team"
-  step_2: "$0 RIAH Education Tuition"
-  step_3: "50% Off Eligible RIAH Products"
+```mermaid
+flowchart LR
+N1["Eligible Contributor Who Joins the RIAH Team"]
+N2["$0 RIAH Education Tuition"]
+N3["50% Off Eligible RIAH Products"]
+N1 --> N2
+N2 --> N3
 ```
 The $0 Team Member tuition benefit applies to eligible RIAH education under applicable Team Member benefit requirements.
 
@@ -424,18 +434,27 @@ RIAH determines whether a proposed change is feasible and whether it should be i
 
 ## XLVIII. 🔀 PULL REQUEST WORKFLOW
 
-```yaml
-flow:
-  step_1: "Issue"
-  step_2: "Assignment"
-  step_3: "Branch or Fork"
-  step_4: "Development"
-  step_5: "Pull Request"
-  step_6: "Review"
-  step_7: "Testing"
-  step_8: "Changes if Required"
-  step_9: "Approval"
-  step_10: "Merge"
+```mermaid
+flowchart LR
+N1["Issue"]
+N2["Assignment"]
+N3["Branch or Fork"]
+N4["Development"]
+N5["Pull Request"]
+N6["Review"]
+N7["Testing"]
+N8["Changes if Required"]
+N9["Approval"]
+N10["Merge"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+N4 --> N5
+N5 --> N6
+N6 --> N7
+N7 --> N8
+N8 --> N9
+N9 --> N10
 ```
 
 Pull requests should identify what was changed, why it was changed, applicable issue, testing performed, screenshots where relevant, responsive behavior where relevant, accessibility considerations where relevant, and affected website page or ecosystem component.
