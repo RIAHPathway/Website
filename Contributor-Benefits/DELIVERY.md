@@ -70,41 +70,26 @@ XIV. 📋 Participant Ledger
 | ❌ | Rejected or ineligible |
 
 ## II. 📦 End-to-End Category Flow
-### 🔹 Mermaid Flow — Part 1
+### 📦 High-Level Flow — Participation
 
 ```mermaid
 flowchart TB
 A["📦 Delivery Ambassador"] --> B["👑 Eligibility, Orientation & Marketing Training"]
-B --> C["🚘 Approved Vehicle Vinyl / QR Display"]
-C --> D["📄 Approved Brochures, Information Cards & Marketing Kit"]
-D --> E["🎪 Community Event, Booth, Webinar or Outreach"]
-E --> F["🔗 Assigned QR Code / Referral Link"]
-F --> G["👤 Voluntary Prospect Engagement"]
-G --> H{"🎯 Verified Outcome?"}
-H --> I["🔗 Qualified Referral +10"]
-H --> J["🎥 Webinar Attendance +15"]
-H --> K["📝 Application +25"]
-H --> L["🎓+ Enrollment +100"]
-H --> M["🛒 Product Purchase +25"]
+B --> C["🚘 Approved Vehicle / Marketing Materials"]
+C --> D["🎪 Community Event, Booth, Webinar or Outreach"]
+D --> E["🔗 Assigned QR Code / Referral Link"]
+E --> F["👤 Voluntary Prospect Engagement"]
 ```
 
-### 🔹 Mermaid Flow — Part 2
+### ⭐ High-Level Flow — Verification & Benefits
 
 ```mermaid
 flowchart TB
-M["🛒 Product Purchase +25"]
-I --> N["📋 Verification & Activity Ledger"]
-J --> N
-K --> N
-L --> N
-M --> N
-N --> O["⭐ Approved Points"]
-O --> P{"🏆 Complete 100-Point Milestone?"}
-P -- No --> Q["⭐ Carry Points Forward"]
-P -- Yes --> R["🎓 +1% Tuition & 🛍️ +1% Products"]
-R --> S{"👑 2,500 Points?"}
-S -- No --> C
-S -- Yes --> T["👑🏆 25% Tuition + 25% Products Maximum"]
+A["🎯 Verified Outcome"] --> B["📋 Verification & Activity Ledger"]
+B --> C["⭐ Approved Points"]
+C --> D["🏆 Complete 100-Point Milestone"]
+D --> E["🎓 +1% Tuition & 🛍️ +1% Products"]
+E --> F["👑🏆 Up to 25% Tuition + 25% Products Maximum"]
 ```
 
 ## III. ⚙️ Flow Metadata
