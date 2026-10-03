@@ -16,17 +16,18 @@ Detailed course tables remain in the controlling degree curriculum.
 
 ## ❤️ General Education — Edmentum Software Coverage
 
-RIAH Course | Course Name | Edmentum
-ENG 1010 | College English | ✓
-MAT 1010 | College Algebra | ✓
-COM 1010 | Oral Communications | ✓
-LAN 1010 | Foreign Language | ✓
-HIS 1010 | History | ✓
-PHI 1010 | Philosophy | X — RIAH Additional Curriculum
-PSY 1010 | Psychology | ✓
-SOC 1010 | Sociology | ✓
-ART 1010 | Art | ✓
-SCI 1010 | Science | ✓
+| RIAH Course | Course Name | Edmentum |
+| --- | --- | --- |
+| ENG 1010 | College English | ✓ |
+| MAT 1010 | College Algebra | ✓ |
+| COM 1010 | Oral Communications | ✓ |
+| LAN 1010 | Foreign Language | ✓ |
+| HIS 1010 | History | ✓ |
+| PHI 1010 | Philosophy | X — RIAH Additional Curriculum |
+| PSY 1010 | Psychology | ✓ |
+| SOC 1010 | Sociology | ✓ |
+| ART 1010 | Art | ✓ |
+| SCI 1010 | Science | ✓ |
 
 Philosophy Note — PHI 1010 remains part of the RIAH General Education curriculum. RIAH will provide and/or integrate additional Philosophy curriculum because Edmentum does not provide the mapped Philosophy coverage used for this structure.
 
@@ -70,7 +71,7 @@ Students are admitted into the Project Management major after completing Year 1 
 
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SE 6101 | Technology | MBA | Venture Definition & Management Strategy — Prepare data | 3 | SE 6100 — Admission to MBA Program | Microsoft Azure · GitHub · Microsoft Planner · Microsoft Power BI · Microsoft 365 · Microsoft SQL Server · C# · Python · Visual Studio · Jupyter · .NET · Linux · C · REST APIs · GitHub Actions · Docker · PowerShell · Git · UML · ASP.NET Core · .NET Testing · Postman · Jupyter Notebook · Pandas · Azure SQL Database · Azure Data Factory · SQL Server Management Studio · Azure Storage · Azure Data Lake Storage | ❌ | Microsoft Data Analyst Review | Introduced — In Progress | Prepare data | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | SE 6102 | Technology | MBA | Requirements, Scope & Stakeholder Management — Profile, clean & transform data | 3 | SE 6101 | Same stack throughout | ❌ | Microsoft Data Analyst Review | In Progress — Carry Forward | Profile, clean & transform data | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | SE 6103 | Technology | MBA | Resource & Architecture Management — Model data | 3 | SE 6102 | Same stack throughout | ❌ | Microsoft Data Analyst Review | In Progress — Carry Forward | Model data | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
@@ -95,7 +96,7 @@ Students are admitted into the Project Management major after completing Year 1 
 
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SE 6101 | Technology | MBA | Venture Definition & Management Strategy — Ingest data with Microsoft Fabric | 3 | SE 6100 — Admission to MBA Program | Microsoft Azure · GitHub · Microsoft Planner · Microsoft Power BI · Microsoft 365 · Microsoft SQL Server · C# · Python · Visual Studio · Jupyter · .NET · Linux · C · REST APIs · GitHub Actions · Docker · PowerShell · Git · UML · ASP.NET Core · .NET Testing · Postman · Jupyter Notebook · Pandas · Azure SQL Database · Azure Data Factory · SQL Server Management Studio · Azure Storage · Azure Data Lake Storage | ❌ | Microsoft Data Engineer Review | Introduced — In Progress | Ingest data with Microsoft Fabric | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | SE 6102 | Technology | MBA | Requirements, Scope & Stakeholder Management — Transform data with Microsoft Fabric | 3 | SE 6101 | Same stack throughout | ❌ | Microsoft Data Engineer Review | In Progress — Carry Forward | Transform data with Microsoft Fabric | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | SE 6103 | Technology | MBA | Resource & Architecture Management — Lakehouse implementation | 3 | SE 6102 | Same stack throughout | ❌ | Microsoft Data Engineer Review | In Progress — Carry Forward | Lakehouse implementation | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
@@ -120,7 +121,7 @@ Students are admitted into the Project Management major after completing Year 1 
 
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PM 2101 | Technology | Minor | Principles of Project Management | 3 | Admission to Project Management Minor | Microsoft Planner | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | PM 3101 | Technology | Minor | Project Requirements and Scope | 3 | PM 2101 — Principles of Project Management | Microsoft Planner | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | PM 3102 | Technology | Minor | Project Scheduling and Estimation | 3 | PM 3101 — Project Requirements and Scope | Microsoft Planner | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
@@ -136,7 +137,7 @@ Students are admitted into the Project Management major after completing Year 1 
 
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PM 3101 | Technology | Bachelor’s | Project Requirements and Scope | 3 | PM 3100 — Admission to Major Year 3 | Microsoft Planner | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | PM 3102 | Technology | Bachelor’s | Project Scheduling and Estimation | 3 | PM 3101 | Microsoft Planner | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | PM 3103 | Technology | Bachelor’s | Project Cost Estimation and Budgeting | 3 | PM 3102 | Microsoft Planner | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
@@ -156,7 +157,7 @@ Students are admitted into the Project Management major after completing Year 1 
 **General Bachelor’s Year 4 Software Stack:** Microsoft Azure · GitHub · Microsoft Planner · Microsoft Power BI · Microsoft 365 · Microsoft SQL Server · Microsoft Excel · Planner · Azure · Integrated Stack
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PM 4101 | Technology | Bachelor’s | Project Venture Selection & Strategic Initiation | 3 | PM 4100 — Admission to Major Year 4 | Microsoft Azure · GitHub · Microsoft Planner · Microsoft Power BI · Microsoft 365 · Microsoft SQL Server · Microsoft Excel · Planner · Azure · Integrated Stack | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | PM 4102 | Technology | Bachelor’s | Project Venture Requirements, Scope & Stakeholder Planning | 3 | PM 4101 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | PM 4103 | Technology | Bachelor’s | Project Venture Planning, Schedule, Cost & Risk | 3 | PM 4102 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
@@ -181,7 +182,7 @@ Students are admitted into the Project Management major after completing Year 1 
 **PMP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PM 4101 | Technology | Bachelor’s | Project Venture Selection & Strategic Initiation — People domain: team & stakeholder leadership | 3 | PM 4100 — Admission to Major Year 4 | Microsoft Azure · GitHub · Microsoft Planner · Microsoft Power BI · Microsoft 365 · Microsoft SQL Server · Microsoft Excel · Planner · Azure · Integrated Stack | ❌ | PMP Review | Introduced — In Progress | People domain: team & stakeholder leadership | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | PM 4102 | Technology | Bachelor’s | Project Venture Requirements, Scope & Stakeholder Planning — People domain: conflict, collaboration & performance | 3 | PM 4101 | Same stack throughout | ❌ | PMP Review | In Progress — Carry Forward | People domain: conflict, collaboration & performance | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | PM 4103 | Technology | Bachelor’s | Project Venture Planning, Schedule, Cost & Risk — Process domain: scope, schedule & planning | 3 | PM 4102 | Same stack throughout | ❌ | PMP Review | In Progress — Carry Forward | Process domain: scope, schedule & planning | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
@@ -201,7 +202,7 @@ Students are admitted into the Project Management major after completing Year 1 
 **General Master’s Software Stack:** Microsoft Azure · GitHub · Microsoft Planner · Microsoft Power BI · Microsoft 365 · Microsoft SQL Server · Microsoft Excel · Planner · Azure · Integrated Stack
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PM 5101 | Technology | Master’s | Project Strategy, Initiation & Technical Venture Definition | 3 | PM 5100 — Admission to Master’s Program | Microsoft Azure · GitHub · Microsoft Planner · Microsoft Power BI · Microsoft 365 · Microsoft SQL Server · Microsoft Excel · Planner · Azure · Integrated Stack | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | PM 5102 | Technology | Master’s | Project Requirements, Scope & Technical Systems Analysis | 3 | PM 5101 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | PM 5103 | Technology | Master’s | Project Planning, Scheduling & Resource Engineering | 3 | PM 5102 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
@@ -226,7 +227,7 @@ Students are admitted into the Project Management major after completing Year 1 
 **PMP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PM 5101 | Technology | Master’s | Project Strategy, Initiation & Technical Venture Definition — People domain: team & stakeholder leadership | 3 | PM 5100 — Admission to Master’s Program | Microsoft Azure · GitHub · Microsoft Planner · Microsoft Power BI · Microsoft 365 · Microsoft SQL Server · Microsoft Excel · Planner · Azure · Integrated Stack | ❌ | PMP Review | Introduced — In Progress | People domain: team & stakeholder leadership | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | PM 5102 | Technology | Master’s | Project Requirements, Scope & Technical Systems Analysis — People domain: conflict, collaboration & performance | 3 | PM 5101 | Same stack throughout | ❌ | PMP Review | In Progress — Carry Forward | People domain: conflict, collaboration & performance | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | PM 5103 | Technology | Master’s | Project Planning, Scheduling & Resource Engineering — Process domain: scope, schedule & planning | 3 | PM 5102 | Same stack throughout | ❌ | PMP Review | In Progress — Carry Forward | Process domain: scope, schedule & planning | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
@@ -246,7 +247,7 @@ Students are admitted into the Project Management major after completing Year 1 
 **General MBA Software Stack:** Microsoft Azure · GitHub · Microsoft Planner · Microsoft Power BI · Microsoft 365 · Microsoft SQL Server · Microsoft Excel · Planner · Azure · Integrated Stack
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PM 6101 | Technology | MBA | Project Venture Definition & Management Strategy | 3 | PM 6100 — Admission to MBA Program | Microsoft Azure · GitHub · Microsoft Planner · Microsoft Power BI · Microsoft 365 · Microsoft SQL Server · Microsoft Excel · Planner · Azure · Integrated Stack | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | PM 6102 | Technology | MBA | Project Requirements, Scope & Stakeholder Management | 3 | PM 6101 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | PM 6103 | Technology | MBA | Project Financial, Resource & Schedule Management | 3 | PM 6102 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
@@ -271,7 +272,7 @@ Students are admitted into the Project Management major after completing Year 1 
 **PMP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PM 6101 | Technology | MBA | Project Venture Definition & Management Strategy — People domain: team & stakeholder leadership | 3 | PM 6100 — Admission to MBA Program | Microsoft Azure · GitHub · Microsoft Planner · Microsoft Power BI · Microsoft 365 · Microsoft SQL Server · Microsoft Excel · Planner · Azure · Integrated Stack | ❌ | PMP Review | Introduced — In Progress | People domain: team & stakeholder leadership | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | PM 6102 | Technology | MBA | Project Requirements, Scope & Stakeholder Management — People domain: conflict, collaboration & performance | 3 | PM 6101 | Same stack throughout | ❌ | PMP Review | In Progress — Carry Forward | People domain: conflict, collaboration & performance | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | PM 6103 | Technology | MBA | Project Financial, Resource & Schedule Management — Process domain: scope, schedule & planning | 3 | PM 6102 | Same stack throughout | ❌ | PMP Review | In Progress — Carry Forward | Process domain: scope, schedule & planning | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
