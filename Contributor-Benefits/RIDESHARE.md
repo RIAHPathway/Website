@@ -1,6 +1,79 @@
+---
+document_type: contributor-benefit-framework
+track: "Rideshare Ambassador"
+status: "In Progress — Review and Finalization Required"
+benefit_system: "RIAH Pathway"
+flow_status: "draft-review"
+---
+
 # 🚗 Rideshare Ambassadors
 
 **Status: In Progress — Review and Finalization Required**
+
+## 🚗 Category Key
+
+| Emoji | Meaning |
+|---|---|
+| 🚗 | Rideshare Ambassador |
+| 👑 | Approved eligibility or contribution |
+| ⭐ | Approved points |
+| 🏆 | Completed milestone |
+| 🎓 | Tuition benefit |
+| 🛍️ | Product benefit |
+| 🔗 | QR, referral, routing or attribution |
+| 🎪 | Event, workshop or outreach |
+| 🎥 | Webinar, presentation, video or media |
+| 👀 | Under review |
+| 🔄 | Revision or re-verification |
+| ✅ | Approved or verified |
+| ❌ | Rejected or ineligible |
+
+## 🚗 End-to-End Category Flow
+
+```mermaid
+flowchart TB
+A["🚗 Rideshare Ambassador"] --> B["👑 Eligibility, Orientation & Marketing Training"]
+B --> C["🚘 Approved Vehicle Branding"]
+C --> D["🪑 Seat Covers + 📱 Back-Seat Display + 🔗 QR Code"]
+D --> E["📄 Brochures, Flyers, Business / Information Cards"]
+E --> F["👤 Passenger Chooses to Engage"]
+F --> G["🔗 Website, Webinar, Program, Application or Product Destination"]
+G --> H{"🎯 Verified Outcome?"}
+H --> I["🔗 Qualified Referral +10"]
+H --> J["🎥 Webinar Attendance +15"]
+H --> K["📝 Application +25"]
+H --> L["🎓+ Enrollment +100"]
+H --> M["🛒 Product Purchase +25"]
+I --> N["📋 Verification & Activity Ledger"]
+J --> N
+K --> N
+L --> N
+M --> N
+N --> O["⭐ Approved Points"]
+O --> P{"🏆 Complete 100-Point Milestone?"}
+P -- No --> Q["⭐ Carry Points Forward"]
+P -- Yes --> R["🎓 +1% Tuition & 🛍️ +1% Products"]
+R --> S{"👑 2,500 Points?"}
+S -- No --> C
+S -- Yes --> T["👑🏆 25% Tuition + 25% Products Maximum"]
+```
+
+## ⚙️ Flow Metadata
+
+```yaml
+track: "Rideshare Ambassador"
+profile_category: "Rideshare Ambassador"
+status: "in-progress"
+verification_required: true
+points_require_approval: true
+benefit_record_required: true
+review_state:
+  - pending
+  - under-review
+  - revision-if-required
+  - approved
+  - credited
+```
 
 Eligible Rideshare contributions may include approved RIAH vehicle vinyl, vehicle branding, branded seat covers, back-seat tablets or digital displays presenting approved RIAH content and the RIAH Pathway website, passenger-accessible QR codes, brochures, flyers, business or information cards, Education Pathway information, Experiential information, certification information, product information, webinar information, unique referral links, community events, booths, approved campaigns, qualified referrals, student conversions and product conversions.
 
