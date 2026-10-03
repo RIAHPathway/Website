@@ -187,13 +187,13 @@ This expansion adds eligible certification coverage only. It does **not** change
 | 500 Additional Questions Per Applicable Module | — | — | Included |
 | Academic and Review Advisement | — | — | Included |
 | Study Support | — | — | Included |
-| Mentorship | — | — | Included |
+| Mentorship | — | — | 5 |
 | Study Sessions | — | — | 5 |
-| Live Review | — | — | Included |
-| Live Review Sessions | — | — | 5 |
-| Coaching | — | — | Included |
-| Coaching Sessions | — | — | 5 |
-| Applicable Professional Supervision | — | — | Included Where Applicable |
+| Live Review | — | — | 5 |
+| Live Review | — | — | 5 |
+| Coaching | — | — | 5 |
+| Coaching | — | — | 5 |
+| Applicable Professional Supervision | — | — | 2 |
 
 Full RIAH Bar Review uses one core Bar Review with the first applicable jurisdiction module included where applicable. Each additional jurisdiction module is **$250**. California Baby Bar Review uses the same **Basic $500, Standard $1,000, Premium $1,500** package architecture.
 
