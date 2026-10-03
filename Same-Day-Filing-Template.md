@@ -145,7 +145,7 @@ flowchart LR
 
 ## V. CLAIM AND COUNT REVIEW
 
-### V.0 — High-Level Claim Review Architecture
+### V — High-Level Claim Review Architecture
 
 **MERMAID I — RIGHTS AND ACCESS REVIEW**
 
