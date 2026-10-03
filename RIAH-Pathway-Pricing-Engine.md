@@ -76,7 +76,7 @@ Store these as data records, not hard-coded UI formulas.
 
 ## Academic Standard Prices
 
--   GED and HSE: \$1,500
+-   GED and HSE: \$1,500 total program, including 12 concurrent college General Education credits across College English, College Math, History, and Science. Applicable completed coursework converts into General Education college credit while GED and HSE preparation is completed concurrently.
 -   High School Diploma: \$5,000
 -   Minor: \$5,000
 -   Associate's: \$10,000
@@ -125,10 +125,9 @@ Requirements Satisfied where applicable.
 -   Premium: \$1,500
 
 Multiple eligible standalone reviews: - First: 100% - Second: 50% -
-Third: 25%
+Third: 100%
 
-Three-review totals: - Basic: \$875 - Standard: \$1,750 - Premium:
-\$2,625
+Three-review totals follow the active first-review 100%, second-review 50%, and third-review 100% sequence.
 
 Included Certification Review = \$0 additional. Included Bar Review =
 \$0 additional.
@@ -192,20 +191,19 @@ Self-reported credits do not create an approved reduction.
 
 ## Tuition Reductions
 
-Potential rules include: - Eligible upfront payment: 25% - SNAP: 5% -
+Potential rules include: - Eligible upfront payment: 15% - SNAP: 5% -
 TANF: 5% - WIC: 5% - Qualifying homelessness or housing hardship: 5% -
-Qualifying community or housing-hardship reduction: 5% - Additional
-major: 25% reduction where academically eligible - Additional minor: 25%
-reduction where academically eligible - Other approved reduction: active
-rule value
+Secondary degree: 5% - Secondary minor: 5% - Partner employee: 15% -
+Community Contributor: 1%-25% - Substitute Teacher Ambassador: 1%-25% -
+Rideshare and Delivery Ambassador: 1%-25%.
 
-The Education + Experiential 25% combination adjustment is a
+The Education + Experiential 5% combination adjustment is a
 **structural adjustment**, not an eligibility discount, and occurs
-before pricing stage. It is not automatically counted inside the 50%
-eligibility-reduction ceiling.
+before pricing stage. It does not count toward the ordinary tuition
+reduction maximum.
 
-Maximum combined qualifying tuition reductions governed by the ceiling =
-50%.
+Maximum combined ordinary tuition reductions governed by the ceiling =
+25%.
 
 ## Funding Pools
 
@@ -605,15 +603,15 @@ ELSE IF Experiential only: structural_basis = Experiential Standard
 
 ELSE IF Education + Experiential are eligible and selected:
 combined_standard = Education Standard + Experiential Standard
-structural_combination_adjustment = combined_standard \* 0.25
+structural_combination_adjustment = combined_standard \* 0.05
 integrated_standard = combined_standard -
 structural_combination_adjustment
 
 Then apply the pricing-stage multiplier to the integrated standard.
 
-The 25% combination adjustment: - occurs before pricing stage - is
+The 5% combination adjustment: - occurs before pricing stage - is
 structural - is not an eligibility-based tuition discount - is not
-automatically part of the 50% reduction ceiling - cannot be applied
+automatically part of the 25% reduction ceiling - cannot be applied
 twice
 
 ------------------------------------------------------------------------
@@ -715,7 +713,7 @@ Potential or self-reported benefits display separately and equal \$0
 confirmed deduction until verified/approved when required.
 
 QUALIFYING_REDUCTION_PERCENT = MIN( SUM(all confirmed percentage
-reductions governed by ceiling), 0.50 )
+reductions governed by ceiling), 0.25 )
 
 If fixed-amount reductions are permitted by an active rule, normalize
 their application against the applicable basis without allowing the
@@ -742,7 +740,7 @@ confirmed_applied = 0 display pending/potential separately ELSE:
 confirmed_applied = approved amount permitted for the eligible expense
 
 Funding is not automatically a tuition discount. Funding does not
-automatically count toward the 50% tuition-reduction ceiling. General
+automatically count toward the 25% tuition-reduction ceiling. General
 funding does not automatically pay deposits or transfer fees. External
 funder terms control their own caps, eligible expenses, disbursement,
 refunds, and excess funds.
@@ -960,6 +958,33 @@ tuition.
 
 ------------------------------------------------------------------------
 
+## Active Calculator Configuration Code
+
+```javascript
+const GED_HSE_CONFIGURATION = {
+    tuition: 1500,
+    concurrentCollegeCredits: 12,
+    generalEducationAreas: ["College English", "College Math", "History", "Science"],
+    concurrentPreparation: true,
+    convertsToGeneralEducationCredit: true,
+    preparationAndCollegeCourseworkConcurrent: true
+};
+
+const FUNDING_LEVELS = {
+    needBasedScholarship: { level1: 500, level2: 2500, level3: 5000, level4: 10000, level5: 15000, level6: 50000 },
+    meritBasedScholarship: { level1: 500, level2: 2500, level3: 5000, level4: 10000, level5: 15000, level6: 50000 },
+    needBasedGrant: { level1: 500, level2: 2500, level3: 5000, level4: 10000, level5: 15000, level6: 50000 },
+    meritBasedGrant: { level1: 500, level2: 2500, level3: 5000, level4: 10000, level5: 15000, level6: 50000 },
+    studentSupportStipend: { level1: 100, level2: 200, level3: 300, level4: 400, level5: 500 }
+};
+
+function resolveCalculatorValue(record, applicable) {
+    if (!applicable) return { status: "NOT_APPLICABLE", amount: 0 };
+    if (record.included === true) return { status: "INCLUDED", amount: 0 };
+    return { status: "APPLICABLE", amount: record.value };
+}
+```
+
 # 27. ENGINE PSEUDOCODE
 
 function calculatePricing(session):
@@ -1001,7 +1026,7 @@ function calculatePricing(session):
     standardConfiguration = calculateStandardConfiguration(components)
 
     if eligibleEducationExperientialCombination(session, components):
-        structuralAdjustment = standardConfiguration * 0.25
+        structuralAdjustment = standardConfiguration * 0.05
         standardConfiguration -= structuralAdjustment
     else:
         structuralAdjustment = 0
@@ -1022,7 +1047,7 @@ function calculatePricing(session):
     )
 
     confirmedReductions = onlyVerifiedApprovedNonDuplicate(reductions)
-    appliedReduction = enforce50PercentCeiling(
+    appliedReduction = enforce25PercentCeiling(
         confirmedReductions,
         transferAdjustedTuition
     )
@@ -1208,8 +1233,8 @@ Create hypothetical test students without creating real student records.
 
 Test: - every academic program - Beta - Pre-Accreditation - Standard -
 Grandfathered pricing - Education only - Experiential only - Education +
-Experiential - transfer potential vs approved - 0%, under-50%,
-exactly-50%, and over-50% discount stacks - pending vs approved
+Experiential - transfer potential vs approved - 0%, under-25%,
+exactly-25%, and over-25% discount stacks - pending vs approved
 scholarship - pending vs approved grant - pending vs approved stipend -
 employer/workforce/external funding - deposit combinations - same-school
 minor - cross-school additional program - later Experiential
@@ -1245,7 +1270,7 @@ The application must block or prevent:
 -   automatic legal or Non-JD eligibility
 -   unverified discounts as confirmed
 -   pending funding as confirmed
--   qualifying reduction above 50%
+-   qualifying reduction above 25%
 -   external costs classified as RIAH tuition
 -   financing classified as a discount
 -   wages subtracted from tuition
