@@ -1,3 +1,21 @@
+**Contributor; Mariah Dominique Rucker**
+
+There is currently no team. I am building everything myself until I have hired the beta team. I am starting the hiring process this month, **October 2026**, for the CTO, CISO, experiential professionals, PhD-qualified faculty, and adjunct faculty for each school and major, with hiring continuing across the entire ecosystem as it scales.
+
+Beta team members will be hired with **equity participation and compensation during the beta cohort**, which launches in **Spring 2027**.
+
+The website will launch in **October 2026** as I continue to build, develop, revise, and finalize aspects of the RIAH Pathway ecosystem.
+
+Learn more about me on GitHub and LinkedIn, or connect with me through social media and Linktree.
+
+- **GitHub:** https://github.com/mariahdominiquerucker
+- **LinkedIn:** https://linkedin.com/in/mariahrucker
+- **Facebook:** https://facebook.com/heymariahrucker
+- **Instagram:** https://instagram.com/heymariahrucker
+- **Linktree:** https://linktr.ee/mariahrucker
+
+---
+
 | Time (EDT) | Repository | Change | Contributor | Source |
 |---|---|---|---|---|
 | 2026-09-30 16:08:23 | RIAHPathway/Website | Create repository | Unknown | [Repository](https://github.com/RIAHPathway/Website) |
@@ -488,3 +506,5 @@
 | 2026-10-03 15:19:44 | RIAHPathway/Website | Delete Tuition,-Pricing-and-Fees/RIAH-Pathway-Pricing-Engine.md | mariahdominiquerucker | [ac136fa](https://github.com/RIAHPathway/Website/commit/ac136fafa5f7ef50f8cc743407e24ea33579fdeb) |
 | 2026-10-03 16:13:34 | RIAHPathway/Website | Update all 26 Curriculum-Structure Markdown documents: contributor notice with full profile URLs, October 2026 beta hiring and Spring 2027 cohort compensation; add approved student pacing, acceleration, payment and proctored-assessment section | Codex, at Mariah Dominique Rucker’s direction | User-approved ChatGPT instructions; [Curriculum-Structure](https://github.com/RIAHPathway/Website/tree/main/Curriculum-Structure) |
 | 2026-10-03 16:17:07 | RIAHPathway/Website | Update contributor notices in all 26 curriculum Markdown files: include PhD-qualified and adjunct faculty for every school and major, hiring across the ecosystem as it scales, and October 2026 website launch during continued development | Codex, at Mariah Dominique Rucker’s direction | User-approved ChatGPT instructions; [Curriculum-Structure](https://github.com/RIAHPathway/Website/tree/main/Curriculum-Structure) |
+| 2026-10-03 16:23:29 | RIAHPathway/.github | Add contributor and Learn more header with Mariah Dominique Rucker’s hiring details, launch dates and full profile URLs to profile/README.md | Codex, at Mariah Dominique Rucker’s direction | [Commit](https://github.com/RIAHPathway/.github/commit/0b4f6c4eb75fa5e112c912f919837c8efae265db) |
+| 2026-10-03 16:23:29 | RIAHPathway/Website | Add contributor and Learn more header to remaining 43 Markdown files; all 69 repository Markdown files now include it, with the 26 existing curriculum headers preserved | Codex, at Mariah Dominique Rucker’s direction | User-approved ChatGPT instructions; [Website repository](https://github.com/RIAHPathway/Website) |
