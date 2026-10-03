@@ -192,6 +192,8 @@ RIAH Pathway is a connected ecosystem integrating education, experiential, certi
 [![Contributor Product Benefit](https://img.shields.io/badge/CONTRIBUTORS-UP%20TO%2025%25%20OFF%20PRODUCTS-red?style=for-the-badge)](#contributor-benefits)
 [![Beta Team Tuition](https://img.shields.io/badge/BETA%20TEAM-%240%20TUITION-red?style=for-the-badge)](#beta-team-member-benefits)
 
+<img width="562" height="317" alt="image" src="https://github.com/user-attachments/assets/081d5d06-0a7d-4db7-8294-219f917c573b" />
+
 This public repository is more than a website development repository. It is an opportunity for developers, designers, students, educators, professionals, community members, and other contributors to help build the RIAH Pathway ecosystem while becoming eligible for contributor benefits based on applicable participation requirements.
 
 ## 👑 Contributor, Ambassador, Graduate & Partner Milestones
