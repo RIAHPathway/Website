@@ -466,7 +466,10 @@ eligibility - Conditions satisfied - Pending amount
 
 ## Step 1 --- Build My Pathway
 
-Select School → Program → Credential → Major → Pathway.
+```mermaid
+flowchart LR
+A["Select School"] --> B["Program"] --> C["Credential"] --> D["Major"] --> E["Pathway"]
+```
 
 Only active and applicable options appear.
 
@@ -1301,15 +1304,28 @@ determination. Supported statuses are Included, Required, Optional,
 Eligible, Approved, Pending, Conditional, Waived, External, Not
 Eligible, and Not Applicable.
 
-Use the governing calculation order exactly: Student Status → Pathway
-Eligibility → Pricing Stage/Grandfathered Price → 100% Standard Price →
-Program Combination → Structural Combination Rules → Transfer →
-Non-JD/Legal → Experiential → Included/Separate Components → Stage
-Tuition → Tuition Reductions → 50% Ceiling → Scholarship → Grant →
-Stipend → Employer/Workforce/External Funding → Remaining Tuition → Fees
-→ Deposits → Products/Support → Payment → Financing → Current Student
-Responsibility → Earned/Refundable Amounts → Reimbursement → External
-Costs → Final Breakdown.
+Use the governing calculation order exactly:
+
+### Governing Calculation Order — Part I: Status and Structure
+
+```mermaid
+flowchart LR
+A["Student Status"] --> B["Pathway Eligibility"] --> C["Pricing Stage / Grandfathered Price"] --> D["100% Standard Price"] --> E["Program Combination"] --> F["Structural Combination Rules"] --> G["Transfer"] --> H["Non-JD / Legal"] --> I["Experiential"] --> J["Included / Separate Components"]
+```
+
+### Governing Calculation Order — Part II: Tuition and Funding
+
+```mermaid
+flowchart LR
+A["Stage Tuition"] --> B["Tuition Reductions"] --> C["50% Ceiling"] --> D["Scholarship"] --> E["Grant"] --> F["Stipend"] --> G["Employer / Workforce / External Funding"] --> H["Remaining Tuition"]
+```
+
+### Governing Calculation Order — Part III: Responsibility and Final Breakdown
+
+```mermaid
+flowchart LR
+A["Fees"] --> B["Deposits"] --> C["Products / Support"] --> D["Payment"] --> E["Financing"] --> F["Current Student Responsibility"] --> G["Earned / Refundable Amounts"] --> H["Reimbursement"] --> I["External Costs"] --> J["Final Breakdown"]
+```
 
 Use one master calculation engine for all website pages. Website pages
 may preselect School, Program, Credential, Major, or Pathway but must
@@ -1486,20 +1502,33 @@ every requirement Softr could not implement automatically.
 
 # 33. FINAL SOFTWARE FLOW
 
-STUDENT ↓ BUILD PATHWAY ↓ DETERMINE APPLICABILITY ↓ CHECK ELIGIBILITY ↓
-RESOLVE PRICING VERSION AND GRANDFATHER STATUS ↓ LOAD ACTIVE 100%
-STANDARD PRICES ↓ PROCESS EDUCATION, EXPERIENTIAL, NON-JD AND ADD-ONS ↓
-REMOVE INCLUDED AND DUPLICATE COMPONENTS ↓ APPLY STRUCTURAL COMBINATION
-RULES ↓ APPLY PRICING STAGE ↓ PROCESS APPROVED TRANSFER ↓ PROCESS
-VERIFIED TUITION REDUCTIONS ↓ ENFORCE 50% ELIGIBILITY-REDUCTION CEILING
-↓ PROCESS ONLY APPROVED FUNDING ↓ CALCULATE REMAINING TUITION ↓ ADD
-APPLICABLE FEES ↓ ADD APPLICABLE DEPOSIT TRIGGERS ↓ ADD STANDALONE
-REVIEWS, PRODUCTS AND SUPPORT ↓ CALCULATE CONFIRMED CURRENT STUDENT
-RESPONSIBILITY ↓ PROCESS PAYMENT ROUTE ↓ PROCESS FINANCING SEPARATELY ↓
-CALCULATE EARNED AND REFUNDABLE AMOUNTS ↓ CALCULATE REIMBURSEMENT
-INFORMATION ↓ SEPARATE EXTERNAL COSTS ↓ GENERATE PERSONALIZED ESTIMATE ↓
-SAVE PRICING VERSION + EFFECTIVE DATE + RULE TRACE ↓ OPTIONAL
-ADMISSIONS/CRM/AUTOMATION HANDOFF
+### Final Software Flow — Part I: Pathway and Pricing Setup
+
+```mermaid
+flowchart LR
+A["STUDENT"] --> B["BUILD PATHWAY"] --> C["DETERMINE APPLICABILITY"] --> D["CHECK ELIGIBILITY"] --> E["RESOLVE PRICING VERSION AND GRANDFATHER STATUS"] --> F["LOAD ACTIVE 100% STANDARD PRICES"] --> G["PROCESS EDUCATION, EXPERIENTIAL, NON-JD AND ADD-ONS"]
+```
+
+### Final Software Flow — Part II: Rules, Reductions and Funding
+
+```mermaid
+flowchart LR
+A["REMOVE INCLUDED AND DUPLICATE COMPONENTS"] --> B["APPLY STRUCTURAL COMBINATION RULES"] --> C["APPLY PRICING STAGE"] --> D["PROCESS APPROVED TRANSFER"] --> E["PROCESS VERIFIED TUITION REDUCTIONS"] --> F["ENFORCE 50% ELIGIBILITY-REDUCTION CEILING"] --> G["PROCESS ONLY APPROVED FUNDING"] --> H["CALCULATE REMAINING TUITION"]
+```
+
+### Final Software Flow — Part III: Charges and Student Responsibility
+
+```mermaid
+flowchart LR
+A["ADD APPLICABLE FEES"] --> B["ADD APPLICABLE DEPOSIT TRIGGERS"] --> C["ADD STANDALONE REVIEWS, PRODUCTS AND SUPPORT"] --> D["CALCULATE CONFIRMED CURRENT STUDENT RESPONSIBILITY"] --> E["PROCESS PAYMENT ROUTE"] --> F["PROCESS FINANCING SEPARATELY"]
+```
+
+### Final Software Flow — Part IV: Finalization and Handoff
+
+```mermaid
+flowchart LR
+A["CALCULATE EARNED AND REFUNDABLE AMOUNTS"] --> B["CALCULATE REIMBURSEMENT INFORMATION"] --> C["SEPARATE EXTERNAL COSTS"] --> D["GENERATE PERSONALIZED ESTIMATE"] --> E["SAVE PRICING VERSION + EFFECTIVE DATE + RULE TRACE"] --> F["OPTIONAL ADMISSIONS / CRM / AUTOMATION HANDOFF"]
+```
 
 ------------------------------------------------------------------------
 
@@ -1507,10 +1536,10 @@ ADMISSIONS/CRM/AUTOMATION HANDOFF
 
 Authoritative operational hierarchy:
 
-**Human-readable policy and approved pricing source → Structured Pricing
-and Rules Database → Master Conditional Rules Engine → Student Pricing
-GUI → Administrative Testing and Rule Trace → Website Entry Points →
-Saved Result → Admissions/CRM/Automation.**
+```mermaid
+flowchart LR
+A["Human-readable policy and approved pricing source"] --> B["Structured Pricing and Rules Database"] --> C["Master Conditional Rules Engine"] --> D["Student Pricing GUI"] --> E["Administrative Testing and Rule Trace"] --> F["Website Entry Points"] --> G["Saved Result"] --> H["Admissions / CRM / Automation"]
+```
 
 Do not use public website prose as the authoritative calculation source.
 
