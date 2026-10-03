@@ -70,6 +70,8 @@ XIV. 📋 Participant Ledger
 | ❌ | Rejected or ineligible |
 
 ## II. 🚗 End-to-End Category Flow
+### 🔹 Mermaid Flow — Part 1
+
 ```mermaid
 flowchart TB
 A["🚗 Rideshare Ambassador"] --> B["👑 Eligibility, Orientation & Marketing Training"]
@@ -84,6 +86,13 @@ H --> J["🎥 Webinar Attendance +15"]
 H --> K["📝 Application +25"]
 H --> L["🎓+ Enrollment +100"]
 H --> M["🛒 Product Purchase +25"]
+```
+
+### 🔹 Mermaid Flow — Part 2
+
+```mermaid
+flowchart TB
+M["🛒 Product Purchase +25"]
 I --> N["📋 Verification & Activity Ledger"]
 J --> N
 K --> N
