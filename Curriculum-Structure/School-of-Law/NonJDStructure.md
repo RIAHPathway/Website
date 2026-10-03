@@ -4,7 +4,7 @@
 
 #### State Pathway Key
 | Emoji | State Pathway | Length | Type | Entry  and  Pathway Requirement | Experiential Status | Experiential — 1 Month Internal |
-|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
 | 🍜 | **I. Maine** | **1 Year** | Non-JD | Must have completed at least **two-thirds of the requirements for graduation at a provisionally or fully ABA-accredited law school** before completing the Maine state pathway. | **Eligible — capacity-based; first come, first served or automated selection.** | **✅ Guaranteed during the first year** |
 | 🍥 | **II. California** | **4 Years** | Non-JD | California Law Office Study pathway requirements apply. | **Eligible beginning 1L; capacity-based; first come, first served or automated selection.** | **✅ Guaranteed during 4L** |
 | 🍲 | **III. Washington** | **4 Years** | Non-JD | Qualifying paid Washington law-clerk employment and tutor supervision required. | **Ineligible — qualifying law-clerk work experience is integrated into the pathway.** | **Ineligible** |
@@ -15,7 +15,7 @@
 
 #### Capstone Placement by State
 | State | Pathway Length | Final Capstone Course | Capstone | RIAH Pathway Bar Review |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | 🍜 Maine | **1 Year** | LAW 4107 | ✅ | **RIAH Pathway Maine Bar Review** |
 | 🍥 California | **4 Years** | LAW 4107 | ✅ | **RIAH Pathway California Bar Review** |
 | 🍲 Washington | **4 Years** | LAW 4107 | ✅ | **RIAH Pathway Washington Bar Review** |
@@ -27,7 +27,7 @@
 ### 🍜 I. Maine — One-Year State Pathway
 
 | Requirement | Maine |
-|---|---|
+| --- | --- |
 | **Pathway Duration** | **1 Year** |
 | **Type** | **Non-JD** |
 | **Admissions Requirements** | Successful completion of at least **two-thirds of the requirements for graduation from an ABA-accredited law school** prior to the one-year Maine pathway. |
@@ -46,7 +46,7 @@
 ##### 🍜 Maine Year One — 21 Credit Hours
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Certification Review | Certification Progression  and  Learning | Exam Modules | OA | PA | Experiential | Experiential — 1 Month Internal | Capstone | Supervision | Supervision Hours |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LAW 4101 | Law | Non-JD | Appellate Advocacy & Law Practice Management I | 3 | Completion of 2 and 3 of ABA-accredited law-school graduation requirements | Westlaw · Lexis+ · Case Management · Document Management | RIAH Pathway Final-Year Review — Appellate Advocacy I | Appellate Advocacy & Practice Management — In Progress | Appellate Procedure · Brief Writing · Oral Advocacy | ✅ | ✅ | Eligible — Capacity-Based | ✅ Guaranteed — First Year | ❌ | ✅ | State-required supervised hours |
 | LAW 4102 | Law | Non-JD | Appellate Advocacy & Law Practice Management II | 3 | LAW 4101 | Same stack throughout | RIAH Pathway Final-Year Review — Appellate Advocacy II | Appellate Advocacy & Practice Management — Completed | Matter Management · Legal Technology · Practice Operations | ✅ | ✅ | Eligible — Capacity-Based | ✅ Guaranteed — First Year | ❌ | ✅ | State-required supervised hours |
 | LAW 4103 | Law | Non-JD | Client Counseling & Litigation Practice I | 3 | LAW 4102 | Same stack throughout | RIAH Pathway Final-Year Review — Client Counseling I | Client Counseling & Litigation — In Progress | Intake · Interviewing · Counseling · Case Assessment | ✅ | ✅ | Eligible — Capacity-Based | ✅ Guaranteed — First Year | ❌ | ✅ | State-required supervised hours |
@@ -56,13 +56,13 @@
 | LAW 4107 | Law | Non-JD | **RIAH Pathway Maine Bar Review** | 3 | LAW 4106 | Full Law Practice Stack | **RIAH Pathway Maine Bar Review** | **Maine State Pathway — Completed  and  Bar Review** | Maine Bar Review · Comprehensive Legal Analysis · Professional Responsibility · Examination Preparation | ✅ | ✅ | Eligible — Capacity-Based | ✅ Guaranteed — First Year | **✅** | ✅ | State-required supervised hours |
 
 | Total | Maine |
-|---|---|
+| --- | --- |
 | **Curriculum Total** | **21 Credit Hours** |
 
 ### 🍥 II. California — Four-Year State Pathway
 
 | Requirement | California |
-|---|---|
+| --- | --- |
 | **Pathway Duration** | **4 Years** |
 | **Type** | **Non-JD** |
 | **Admissions Requirements** | Minimum **60 college credit hours  and  two years of qualifying college study or an Associate’s degree** prior to entry into the four-year California pathway. |
@@ -82,7 +82,7 @@
 ##### 🍥 California 1L — 27 Credit Hours
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Certification Review | Certification Progression  and  Learning | Exam Modules | OA | PA | Experiential | Experiential — 1 Month Internal | Capstone | Supervision | Supervision Hours |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LAW 1101 | Law | Non-JD | Contracts I | 3 | Admission | Westlaw · Lexis+ | California FYLSX Review — Contracts I | Contracts — In Progress | Formation · Offer · Acceptance · Consideration | ✅ | ✅ | Eligible to Apply — Capacity-Based | ❌ | ❌ | ✅ | 20 hrs and month · 120 hrs and 6 months |
 | LAW 1102 | Law | Non-JD | Contracts II | 3 | LAW 1101 | Same stack throughout | California FYLSX Review — Contracts II | Contracts — Completed | Terms · Performance · Breach · Remedies | ✅ | ✅ | Eligible to Apply — Capacity-Based | ❌ | ❌ | ✅ | 20 hrs and month · 120 hrs and 6 months |
 | LAW 1103 | Law | Non-JD | Criminal Law I | 3 | LAW 1102 | Same stack throughout | California FYLSX Review — Criminal Law I | Criminal Law — In Progress | Principles · Homicide · Crimes | ✅ | ✅ | Eligible to Apply — Capacity-Based | ❌ | ❌ | ✅ | 20 hrs and month · 120 hrs and 6 months |
@@ -96,7 +96,7 @@
 ##### 🍥 California 2L — 24 Credit Hours
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Certification Review | Certification Progression  and  Learning | Exam Modules | OA | PA | Experiential | Experiential — 1 Month Internal | Capstone | Supervision | Supervision Hours |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LAW 2101 | Law | Non-JD | Constitutional Law & Evidence I | 3 | Completion 1L | Westlaw · Lexis+ | RIAH Pathway 2L Review — Constitutional Law & Evidence I | Constitutional Law & Evidence — In Progress | Judicial Review · Federalism · Evidence | ✅ | ✅ | Capacity-Based Experiential | ❌ | ❌ | ✅ | 20 hrs and month · 120 hrs and 6 months |
 | LAW 2102 | Law | Non-JD | Constitutional Law & Evidence II | 3 | LAW 2101 | Same stack throughout | RIAH Pathway 2L Review — Constitutional Law & Evidence II | Constitutional Law & Evidence — Completed | Rights · Hearsay · Authentication | ✅ | ✅ | Capacity-Based Experiential | ❌ | ❌ | ✅ | 20 hrs and month · 120 hrs and 6 months |
 | LAW 2103 | Law | Non-JD | Criminal Procedure & Professional Responsibility I | 3 | LAW 2102 | Same stack throughout | RIAH Pathway 2L Review — Criminal Procedure & Professional Responsibility I | Criminal Procedure & Professional Responsibility — In Progress | Search · Seizure · Interrogation | ✅ | ✅ | Capacity-Based Experiential | ❌ | ❌ | ✅ | 20 hrs and month · 120 hrs and 6 months |
@@ -109,7 +109,7 @@
 ##### 🍥 California 3L — 21 Credit Hours
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Certification Review | Certification Progression  and  Learning | Exam Modules | OA | PA | Experiential | Experiential — 1 Month Internal | Capstone | Supervision | Supervision Hours |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LAW 3101 | Law | Non-JD | Family Law & Advanced Legal Research and Writing I | 3 | Completion 2L | Westlaw · Lexis+ | RIAH Pathway 3L Review — Family Law & Advanced Legal Research and Writing I | Family Law & Advanced LRW — In Progress | Family Law · Advanced Research | ✅ | ✅ | Capacity-Based Experiential | ❌ | ❌ | ✅ | 20 hrs and month · 120 hrs and 6 months |
 | LAW 3102 | Law | Non-JD | Family Law & Advanced Legal Research and Writing II | 3 | LAW 3101 | Same stack throughout | RIAH Pathway 3L Review — Family Law & Advanced Legal Research and Writing II | Family Law & Advanced LRW — Completed | Analysis · Advocacy · Citation | ✅ | ✅ | Capacity-Based Experiential | ❌ | ❌ | ✅ | 20 hrs and month · 120 hrs and 6 months |
 | LAW 3103 | Law | Non-JD | Trial Advocacy & Alternative Dispute Resolution I | 3 | LAW 3102 | Same stack throughout | RIAH Pathway 3L Review — Trial Advocacy & Alternative Dispute Resolution I | Trial Advocacy & ADR — In Progress | Trial Preparation · Examination | ✅ | ✅ | Capacity-Based Experiential | ❌ | ❌ | ✅ | 20 hrs and month · 120 hrs and 6 months |
@@ -121,7 +121,7 @@
 ##### 🍥 California 4L — 21 Credit Hours
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Certification Review | Certification Progression  and  Learning | Exam Modules | OA | PA | Experiential | Experiential — 1 Month Internal | Capstone | Supervision | Supervision Hours |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LAW 4101 | Law | Non-JD | Appellate Advocacy & Law Practice Management I | 3 | Completion 3L | Westlaw · Lexis+ · Case Management | RIAH Pathway 4L Review — Appellate Advocacy & Law Practice Management I | Appellate Advocacy & Practice Management — In Progress | Appellate Procedure · Brief Writing | ✅ | ✅ | Capacity-Based Experiential | ✅ Guaranteed — Final Year | ❌ | ✅ | 20 hrs and month · 120 hrs and 6 months |
 | LAW 4102 | Law | Non-JD | Appellate Advocacy & Law Practice Management II | 3 | LAW 4101 | Same stack throughout | RIAH Pathway 4L Review — Appellate Advocacy & Law Practice Management II | Appellate Advocacy & Practice Management — Completed | Matter Management · Practice Operations | ✅ | ✅ | Capacity-Based Experiential | ✅ Guaranteed — Final Year | ❌ | ✅ | 20 hrs and month · 120 hrs and 6 months |
 | LAW 4103 | Law | Non-JD | Client Counseling & Litigation Practice I | 3 | LAW 4102 | Same stack throughout | RIAH Pathway 4L Review — Client Counseling & Litigation Practice I | Client Counseling & Litigation — In Progress | Intake · Interviewing · Counseling | ✅ | ✅ | Capacity-Based Experiential | ✅ Guaranteed — Final Year | ❌ | ✅ | 20 hrs and month · 120 hrs and 6 months |
@@ -131,13 +131,13 @@
 | LAW 4107 | Law | Non-JD | **RIAH Pathway California Bar Review** | 3 | LAW 4106 | Full Law Practice Stack | **RIAH Pathway California Bar Review** | **4L — Completed  and  California Bar Review** | Comprehensive Bar Review · Legal Analysis · Professional Responsibility · Examination Preparation | ✅ | ✅ | Capacity-Based Experiential | ✅ Guaranteed — Final Year | **✅** | ✅ | 20 hrs and month · 120 hrs and 6 months |
 
 | Total | California |
-|---|---|
+| --- | --- |
 | **Four-Year Curriculum** | **93 Credit Hours** |
 
 ### 🍲 III. Washington — Four-Year Law Clerk Pathway
 
 | Requirement | Washington |
-|---|---|
+| --- | --- |
 | **Pathway Duration** | **4 Years** |
 | **Type** | **Non-JD** |
 | **Admissions Requirements** | **Accredited bachelor’s degree + qualifying paid, full-time Washington law-clerk employment under an eligible tutor and supervisor** prior to participation in the four-year APR 6 pathway. |
@@ -155,7 +155,7 @@
 ##### 🍲 Washington 1L — Law Clerk Intern — 27 Credit Hours
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Certification Review | Certification Progression  and  Law Clerk Duties | Exam Modules | OA | PA | Experiential | Experiential — 1 Month Internal | Capstone | Supervision | Supervision Hours |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LAW 1101 | Law | Non-JD | Contracts I | 3 | Admission + Law-Clerk Employment | Westlaw · Lexis+ · Microsoft 365 | RIAH Pathway 1L Review — Contracts I | Intern — case briefing, contract issue identification and introductory legal research | Formation · Offer · Acceptance · Consideration | ✅ | ✅ | Integrated Law Clerk — Intern | Ineligible | ❌ | ✅ Tutor | 3 hrs and week · 78 hrs and 6 months |
 | LAW 1102 | Law | Non-JD | Contracts II | 3 | LAW 1101 | Same stack throughout | RIAH Pathway 1L Review — Contracts II | Intern — contract-file review, authority research and document organization | Terms · Performance · Breach · Remedies | ✅ | ✅ | Integrated Law Clerk — Intern | Ineligible | ❌ | ✅ Tutor | 3 hrs and week · 78 hrs and 6 months |
 | LAW 1103 | Law | Non-JD | Criminal Law I | 3 | LAW 1102 | Same stack throughout | RIAH Pathway 1L Review — Criminal Law I | Intern — criminal-case research, case summaries and record organization | Principles · Homicide · Crimes | ✅ | ✅ | Integrated Law Clerk — Intern | Ineligible | ❌ | ✅ Tutor | 3 hrs and week · 78 hrs and 6 months |
@@ -169,7 +169,7 @@
 ##### 🍲 Washington 2L — Law Clerk Associate — 24 Credit Hours
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Certification Review | Certification Progression  and  Law Clerk Duties | Exam Modules | OA | PA | Experiential | Experiential — 1 Month Internal | Capstone | Supervision | Supervision Hours |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LAW 2101 | Law | Non-JD | Constitutional Law & Evidence I | 3 | Completion 1L | Westlaw · Lexis+ · Case Management | RIAH Pathway 2L Review — Constitutional Law & Evidence I | Associate — constitutional research, evidence review and legal analysis | Judicial Review · Federalism · Evidence | ✅ | ✅ | Integrated Law Clerk — Associate | Ineligible | ❌ | ✅ Tutor | 3 hrs and week · 78 hrs and 6 months |
 | LAW 2102 | Law | Non-JD | Constitutional Law & Evidence II | 3 | LAW 2101 | Same stack throughout | RIAH Pathway 2L Review — Constitutional Law & Evidence II | Associate — evidence organization and admissibility research | Rights · Hearsay · Authentication | ✅ | ✅ | Integrated Law Clerk — Associate | Ineligible | ❌ | ✅ Tutor | 3 hrs and week · 78 hrs and 6 months |
 | LAW 2103 | Law | Non-JD | Criminal Procedure & Professional Responsibility I | 3 | LAW 2102 | Same stack throughout | RIAH Pathway 2L Review — Criminal Procedure & Professional Responsibility I | Associate — procedural research and supervised case preparation | Search · Seizure · Interrogation | ✅ | ✅ | Integrated Law Clerk — Associate | Ineligible | ❌ | ✅ Tutor | 3 hrs and week · 78 hrs and 6 months |
@@ -182,7 +182,7 @@
 ##### 🍲 Washington 3L — Law Clerk Senior Associate — 21 Credit Hours
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Certification Review | Certification Progression  and  Law Clerk Duties | Exam Modules | OA | PA | Experiential | Experiential — 1 Month Internal | Capstone | Supervision | Supervision Hours |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LAW 3101 | Law | Non-JD | Family Law & Advanced Legal Research and Writing I | 3 | Completion 2L | Westlaw · Lexis+ · Case Management | RIAH Pathway 3L Review — Family Law & Advanced Legal Research and Writing I | Senior Associate — advanced family-law research and complex memorandum development | Family Law · Advanced Research | ✅ | ✅ | Integrated Law Clerk — Senior Associate | Ineligible | ❌ | ✅ Tutor | 3 hrs and week · 78 hrs and 6 months |
 | LAW 3102 | Law | Non-JD | Family Law & Advanced Legal Research and Writing II | 3 | LAW 3101 | Same stack throughout | RIAH Pathway 3L Review — Family Law & Advanced Legal Research and Writing II | Senior Associate — advanced written work product and drafting responsibility | Analysis · Advocacy · Citation | ✅ | ✅ | Integrated Law Clerk — Senior Associate | Ineligible | ❌ | ✅ Tutor | 3 hrs and week · 78 hrs and 6 months |
 | LAW 3103 | Law | Non-JD | Trial Advocacy & Alternative Dispute Resolution I | 3 | LAW 3102 | Same stack throughout | RIAH Pathway 3L Review — Trial Advocacy & Alternative Dispute Resolution I | Senior Associate — trial-file preparation and litigation research | Trial Preparation · Examination | ✅ | ✅ | Integrated Law Clerk — Senior Associate | Ineligible | ❌ | ✅ Tutor | 3 hrs and week · 78 hrs and 6 months |
@@ -194,7 +194,7 @@
 ##### 🍲 Washington 4L — Law Clerk Manager — 21 Credit Hours
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Certification Review | Certification Progression  and  Law Clerk Duties | Exam Modules | OA | PA | Experiential | Experiential — 1 Month Internal | Capstone | Supervision | Supervision Hours |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LAW 4101 | Law | Non-JD | Appellate Advocacy & Law Practice Management I | 3 | Completion 3L | Westlaw · Lexis+ · Case Management · Document Management | RIAH Pathway 4L Review — Appellate Advocacy & Law Practice Management I | Manager — appellate-record coordination, advanced brief research and workflow management | Appellate Procedure · Brief Writing | ✅ | ✅ | Integrated Law Clerk — Manager | Ineligible | ❌ | ✅ Tutor | 3 hrs and week · 78 hrs and 6 months |
 | LAW 4102 | Law | Non-JD | Appellate Advocacy & Law Practice Management II | 3 | LAW 4101 | Same stack throughout | RIAH Pathway 4L Review — Appellate Advocacy & Law Practice Management II | Manager — matter tracking, document workflow and legal-technology coordination | Matter Management · Practice Operations | ✅ | ✅ | Integrated Law Clerk — Manager | Ineligible | ❌ | ✅ Tutor | 3 hrs and week · 78 hrs and 6 months |
 | LAW 4103 | Law | Non-JD | Client Counseling & Litigation Practice I | 3 | LAW 4102 | Same stack throughout | RIAH Pathway 4L Review — Client Counseling & Litigation Practice I | Manager — intake workflow and litigation-file coordination | Intake · Interviewing · Counseling | ✅ | ✅ | Integrated Law Clerk — Manager | Ineligible | ❌ | ✅ Tutor | 3 hrs and week · 78 hrs and 6 months |
@@ -204,13 +204,13 @@
 | LAW 4107 | Law | Non-JD | **RIAH Pathway Washington Bar Review** | 3 | LAW 4106 | Full Law-Clerk Practice Stack | **RIAH Pathway Washington Bar Review** | Manager — Completed  and  Washington Bar Review | Comprehensive Bar Review · Legal Analysis · Professional Responsibility · Examination Preparation | ✅ | ✅ | Integrated Law Clerk — Manager | Ineligible | **✅** | ✅ Tutor | 3 hrs and week · 78 hrs and 6 months |
 
 | Total | Washington |
-|---|---|
+| --- | --- |
 | **Four-Year Curriculum** | **93 Credit Hours** |
 
 ### 🥢 IV. Vermont — Four-Year State Pathway
 
 | Requirement | Vermont |
-|---|---|
+| --- | --- |
 | **Pathway Duration** | **4 Years** |
 | **Type** | **Non-JD** |
 | **Admissions Requirements** | **Bachelor’s degree prior to enrollment + qualifying Vermont Law Office Study placement and supervision.** |
@@ -227,7 +227,7 @@
 ##### 🥢 Vermont 1L — 27 Credit Hours
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Certification Review | Certification Progression  and  Learning | Exam Modules | OA | PA | Experiential | Experiential — 1 Month Internal | Capstone | Supervision | Supervision Hours |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LAW 1101 | Law | Non-JD | Contracts I | 3 | Admission | Westlaw · Lexis+ | RIAH Pathway 1L Review — Contracts I | Contracts — In Progress | Formation · Offer · Acceptance · Consideration | ✅ | ✅ | Eligible to Apply — Capacity-Based | ❌ | ❌ | ✅ | State-required hours  and  study period |
 | LAW 1102 | Law | Non-JD | Contracts II | 3 | LAW 1101 | Same stack throughout | RIAH Pathway 1L Review — Contracts II | Contracts — Completed | Terms · Performance · Breach · Remedies | ✅ | ✅ | Eligible to Apply — Capacity-Based | ❌ | ❌ | ✅ | State-required hours  and  study period |
 | LAW 1103 | Law | Non-JD | Criminal Law I | 3 | LAW 1102 | Same stack throughout | RIAH Pathway 1L Review — Criminal Law I | Criminal Law — In Progress | Principles · Homicide · Crimes | ✅ | ✅ | Eligible to Apply — Capacity-Based | ❌ | ❌ | ✅ | State-required hours  and  study period |
@@ -241,7 +241,7 @@
 ##### 🥢 Vermont 2L — 24 Credit Hours
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Certification Review | Certification Progression  and  Learning | Exam Modules | OA | PA | Experiential | Experiential — 1 Month Internal | Capstone | Supervision | Supervision Hours |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LAW 2101 | Law | Non-JD | Constitutional Law & Evidence I | 3 | Completion 1L | Westlaw · Lexis+ | RIAH Pathway 2L Review — Constitutional Law & Evidence I | Constitutional Law & Evidence — In Progress | Judicial Review · Federalism · Evidence | ✅ | ✅ | Capacity-Based Experiential | ❌ | ❌ | ✅ | State-required hours  and  study period |
 | LAW 2102 | Law | Non-JD | Constitutional Law & Evidence II | 3 | LAW 2101 | Same stack throughout | RIAH Pathway 2L Review — Constitutional Law & Evidence II | Constitutional Law & Evidence — Completed | Rights · Hearsay · Authentication | ✅ | ✅ | Capacity-Based Experiential | ❌ | ❌ | ✅ | State-required hours  and  study period |
 | LAW 2103 | Law | Non-JD | Criminal Procedure & Professional Responsibility I | 3 | LAW 2102 | Same stack throughout | RIAH Pathway 2L Review — Criminal Procedure & Professional Responsibility I | Criminal Procedure & Professional Responsibility — In Progress | Search · Seizure · Interrogation | ✅ | ✅ | Capacity-Based Experiential | ❌ | ❌ | ✅ | State-required hours  and  study period |
@@ -254,7 +254,7 @@
 ##### 🥢 Vermont 3L — 21 Credit Hours
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Certification Review | Certification Progression  and  Learning | Exam Modules | OA | PA | Experiential | Experiential — 1 Month Internal | Capstone | Supervision | Supervision Hours |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LAW 3101 | Law | Non-JD | Family Law & Advanced Legal Research and Writing I | 3 | Completion 2L | Westlaw · Lexis+ | RIAH Pathway 3L Review — Family Law & Advanced Legal Research and Writing I | Family Law & Advanced LRW — In Progress | Family Law · Advanced Research | ✅ | ✅ | Capacity-Based Experiential | ❌ | ❌ | ✅ | State-required hours  and  study period |
 | LAW 3102 | Law | Non-JD | Family Law & Advanced Legal Research and Writing II | 3 | LAW 3101 | Same stack throughout | RIAH Pathway 3L Review — Family Law & Advanced Legal Research and Writing II | Family Law & Advanced LRW — Completed | Analysis · Advocacy · Citation | ✅ | ✅ | Capacity-Based Experiential | ❌ | ❌ | ✅ | State-required hours  and  study period |
 | LAW 3103 | Law | Non-JD | Trial Advocacy & Alternative Dispute Resolution I | 3 | LAW 3102 | Same stack throughout | RIAH Pathway 3L Review — Trial Advocacy & Alternative Dispute Resolution I | Trial Advocacy & ADR — In Progress | Trial Preparation · Examination | ✅ | ✅ | Capacity-Based Experiential | ❌ | ❌ | ✅ | State-required hours  and  study period |
@@ -266,7 +266,7 @@
 ##### 🥢 Vermont 4L — 21 Credit Hours
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Certification Review | Certification Progression  and  Learning | Exam Modules | OA | PA | Experiential | Experiential — 1 Month Internal | Capstone | Supervision | Supervision Hours |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LAW 4101 | Law | Non-JD | Appellate Advocacy & Law Practice Management I | 3 | Completion 3L | Westlaw · Lexis+ · Case Management | RIAH Pathway 4L Review — Appellate Advocacy & Law Practice Management I | Appellate Advocacy & Practice Management — In Progress | Appellate Procedure · Brief Writing | ✅ | ✅ | Capacity-Based Experiential | ✅ Guaranteed — Final Year | ❌ | ✅ | State-required hours  and  study period |
 | LAW 4102 | Law | Non-JD | Appellate Advocacy & Law Practice Management II | 3 | LAW 4101 | Same stack throughout | RIAH Pathway 4L Review — Appellate Advocacy & Law Practice Management II | Appellate Advocacy & Practice Management — Completed | Matter Management · Practice Operations | ✅ | ✅ | Capacity-Based Experiential | ✅ Guaranteed — Final Year | ❌ | ✅ | State-required hours  and  study period |
 | LAW 4103 | Law | Non-JD | Client Counseling & Litigation Practice I | 3 | LAW 4102 | Same stack throughout | RIAH Pathway 4L Review — Client Counseling & Litigation Practice I | Client Counseling & Litigation — In Progress | Intake · Interviewing · Counseling | ✅ | ✅ | Capacity-Based Experiential | ✅ Guaranteed — Final Year | ❌ | ✅ | State-required hours  and  study period |
@@ -276,13 +276,13 @@
 | LAW 4107 | Law | Non-JD | **RIAH Pathway Vermont Bar Review** | 3 | LAW 4106 | Full Law Practice Stack | **RIAH Pathway Vermont Bar Review** | **4L — Completed  and  Vermont Bar Review** | Comprehensive Bar Review · Legal Analysis · Professional Responsibility · Examination Preparation | ✅ | ✅ | Capacity-Based Experiential | ✅ Guaranteed — Final Year | **✅** | ✅ | State-required hours  and  study period |
 
 | Total | Vermont |
-|---|---|
+| --- | --- |
 | **Four-Year Curriculum** | **93 Credit Hours** |
 
 ### 🥡 V. New York — Three-Year State Pathway
 
 | Requirement | New York |
-|---|---|
+| --- | --- |
 | **Pathway Duration** | **3 Years** |
 | **Type** | **Non-JD** |
 | **Admissions Requirements** | Completion of the qualifying **first year at an ABA-approved law school with at least 28 credits** before beginning qualifying New York law-office study. |
@@ -299,7 +299,7 @@
 ##### 🥡 New York Year 1 — 24 Credit Hours
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Certification Review | Certification Progression  and  Learning | Exam Modules | OA | PA | Experiential | Experiential — 1 Month Internal | Capstone | Supervision | Supervision Hours |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LAW 2101 | Law | Non-JD | Constitutional Law & Evidence I | 3 | Qualifying Prior Law Study | Westlaw · Lexis+ | RIAH Pathway 2L Review — Constitutional Law & Evidence I | Constitutional Law & Evidence — In Progress | Judicial Review · Federalism · Evidence | ✅ | ✅ | Eligible to Apply — Capacity-Based | ❌ | ❌ | ✅ | State-required supervised hours |
 | LAW 2102 | Law | Non-JD | Constitutional Law & Evidence II | 3 | LAW 2101 | Same stack throughout | RIAH Pathway 2L Review — Constitutional Law & Evidence II | Constitutional Law & Evidence — Completed | Rights · Hearsay · Authentication | ✅ | ✅ | Eligible to Apply — Capacity-Based | ❌ | ❌ | ✅ | State-required supervised hours |
 | LAW 2103 | Law | Non-JD | Criminal Procedure & Professional Responsibility I | 3 | LAW 2102 | Same stack throughout | RIAH Pathway 2L Review — Criminal Procedure & Professional Responsibility I | Criminal Procedure & Professional Responsibility — In Progress | Search · Seizure · Interrogation | ✅ | ✅ | Eligible to Apply — Capacity-Based | ❌ | ❌ | ✅ | State-required supervised hours |
@@ -312,7 +312,7 @@
 ##### 🥡 New York Year 2 — 21 Credit Hours
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Certification Review | Certification Progression  and  Learning | Exam Modules | OA | PA | Experiential | Experiential — 1 Month Internal | Capstone | Supervision | Supervision Hours |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LAW 3101 | Law | Non-JD | Family Law & Advanced Legal Research and Writing I | 3 | Completion Year 1 | Westlaw · Lexis+ | RIAH Pathway 3L Review — Family Law & Advanced Legal Research and Writing I | Family Law & Advanced LRW — In Progress | Family Law · Advanced Research | ✅ | ✅ | Capacity-Based Experiential | ❌ | ❌ | ✅ | State-required supervised hours |
 | LAW 3102 | Law | Non-JD | Family Law & Advanced Legal Research and Writing II | 3 | LAW 3101 | Same stack throughout | RIAH Pathway 3L Review — Family Law & Advanced Legal Research and Writing II | Family Law & Advanced LRW — Completed | Analysis · Advocacy · Citation | ✅ | ✅ | Capacity-Based Experiential | ❌ | ❌ | ✅ | State-required supervised hours |
 | LAW 3103 | Law | Non-JD | Trial Advocacy & Alternative Dispute Resolution I | 3 | LAW 3102 | Same stack throughout | RIAH Pathway 3L Review — Trial Advocacy & Alternative Dispute Resolution I | Trial Advocacy & ADR — In Progress | Trial Preparation · Examination | ✅ | ✅ | Capacity-Based Experiential | ❌ | ❌ | ✅ | State-required supervised hours |
@@ -324,7 +324,7 @@
 ##### 🥡 New York Year 3 — 21 Credit Hours
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Certification Review | Certification Progression  and  Learning | Exam Modules | OA | PA | Experiential | Experiential — 1 Month Internal | Capstone | Supervision | Supervision Hours |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LAW 4101 | Law | Non-JD | Appellate Advocacy & Law Practice Management I | 3 | Completion Year 2 | Westlaw · Lexis+ · Case Management | RIAH Pathway Final-Year Review — Appellate Advocacy & Law Practice Management I | Appellate Advocacy & Practice Management — In Progress | Appellate Procedure · Brief Writing | ✅ | ✅ | Capacity-Based Experiential | ✅ Guaranteed — Final Year | ❌ | ✅ | State-required supervised hours |
 | LAW 4102 | Law | Non-JD | Appellate Advocacy & Law Practice Management II | 3 | LAW 4101 | Same stack throughout | RIAH Pathway Final-Year Review — Appellate Advocacy & Law Practice Management II | Appellate Advocacy & Practice Management — Completed | Matter Management · Practice Operations | ✅ | ✅ | Capacity-Based Experiential | ✅ Guaranteed — Final Year | ❌ | ✅ | State-required supervised hours |
 | LAW 4103 | Law | Non-JD | Client Counseling & Litigation Practice I | 3 | LAW 4102 | Same stack throughout | RIAH Pathway Final-Year Review — Client Counseling & Litigation Practice I | Client Counseling & Litigation — In Progress | Intake · Interviewing · Counseling | ✅ | ✅ | Capacity-Based Experiential | ✅ Guaranteed — Final Year | ❌ | ✅ | State-required supervised hours |
@@ -334,13 +334,13 @@
 | LAW 4107 | Law | Non-JD | **RIAH Pathway New York Bar Review** | 3 | LAW 4106 | Full Law Practice Stack | **RIAH Pathway New York Bar Review** | **Year 3 — Completed  and  New York Bar Review** | Comprehensive Bar Review · Legal Analysis · Professional Responsibility · Examination Preparation | ✅ | ✅ | Capacity-Based Experiential | ✅ Guaranteed — Final Year | **✅** | ✅ | State-required supervised hours |
 
 | Total | New York |
-|---|---|
+| --- | --- |
 | **Three-Year Curriculum** | **66 Credit Hours** |
 
 ### 🥟 VI. Virginia — Three-Year State Pathway
 
 | Requirement | Virginia |
-|---|---|
+| --- | --- |
 | **Pathway Duration** | **3 Years** |
 | **Type** | **Non-JD** |
 | **Admissions Requirements** | **Eligibility for and admission into the Virginia Law Reader Program with qualifying supervision; three-year supervised pathway requirements apply.** |
@@ -359,7 +359,7 @@
 ##### 🥟 Virginia Year 1 — 30 Credit Hours
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Certification Review | Certification Progression  and  Learning | Exam Modules | OA | PA | Experiential | Experiential — 1 Month Internal | Capstone | Supervision | Supervision Hours |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LAW 1101 | Law | Non-JD | Contracts I | 3 | Admission | Westlaw · Lexis+ | RIAH Pathway Year 1 Review — Contracts I | In Progress | Contracts I | ✅ | ✅ | Eligible to Apply — Capacity-Based | ❌ | ❌ | ✅ | 25 hrs and week · 650 hrs and 6 months |
 | LAW 1102 | Law | Non-JD | Contracts II | 3 | LAW 1101 | Same stack throughout | RIAH Pathway Year 1 Review — Contracts II | Completed | Contracts II | ✅ | ✅ | Eligible to Apply — Capacity-Based | ❌ | ❌ | ✅ | 25 hrs and week · 650 hrs and 6 months |
 | LAW 1103 | Law | Non-JD | Criminal Law I | 3 | LAW 1102 | Same stack throughout | RIAH Pathway Year 1 Review — Criminal Law I | In Progress | Criminal Law I | ✅ | ✅ | Eligible to Apply — Capacity-Based | ❌ | ❌ | ✅ | 25 hrs and week · 650 hrs and 6 months |
@@ -374,7 +374,7 @@
 ##### 🥟 Virginia Year 2 — 30 Credit Hours
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Certification Review | Certification Progression  and  Learning | Exam Modules | OA | PA | Experiential | Experiential — 1 Month Internal | Capstone | Supervision | Supervision Hours |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LAW 2101 | Law | Non-JD | Criminal Procedure & Professional Responsibility I | 3 | Completion Year 1 | Westlaw · Lexis+ | RIAH Pathway Year 2 Review — Criminal Procedure & Professional Responsibility I | In Progress | Criminal Procedure · Professional Responsibility I | ✅ | ✅ | Capacity-Based Experiential | ❌ | ❌ | ✅ | 25 hrs and week · 650 hrs and 6 months |
 | LAW 2102 | Law | Non-JD | Criminal Procedure & Professional Responsibility II | 3 | LAW 2101 | Same stack throughout | RIAH Pathway Year 2 Review — Criminal Procedure & Professional Responsibility II | Completed | Criminal Procedure · Professional Responsibility II | ✅ | ✅ | Capacity-Based Experiential | ❌ | ❌ | ✅ | 25 hrs and week · 650 hrs and 6 months |
 | LAW 2103 | Law | Non-JD | Business Associations & Civil Procedure I | 3 | LAW 2102 | Same stack throughout | RIAH Pathway Year 2 Review — Business Associations & Civil Procedure I | In Progress | Business Associations · Civil Procedure I | ✅ | ✅ | Capacity-Based Experiential | ❌ | ❌ | ✅ | 25 hrs and week · 650 hrs and 6 months |
@@ -389,7 +389,7 @@
 ##### 🥟 Virginia Year 3 — 33 Credit Hours
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Certification Review | Certification Progression  and  Learning | Exam Modules | OA | PA | Experiential | Experiential — 1 Month Internal | Capstone | Supervision | Supervision Hours |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LAW 3101 | Law | Non-JD | Administrative Law & Remedies I | 3 | Completion Year 2 | Westlaw · Lexis+ | RIAH Pathway Year 3 Review — Administrative Law & Remedies I | In Progress | Administrative Law · Remedies I | ✅ | ✅ | Capacity-Based Experiential | ✅ Guaranteed — Final Year | ❌ | ✅ | 25 hrs and week · 650 hrs and 6 months |
 | LAW 3102 | Law | Non-JD | Administrative Law & Remedies II | 3 | LAW 3101 | Same stack throughout | RIAH Pathway Year 3 Review — Administrative Law & Remedies II | Completed | Administrative Law · Remedies II | ✅ | ✅ | Capacity-Based Experiential | ✅ Guaranteed — Final Year | ❌ | ✅ | 25 hrs and week · 650 hrs and 6 months |
 | LAW 3103 | Law | Non-JD | Legal Drafting & Appellate Advocacy I | 3 | LAW 3102 | Same stack throughout | RIAH Pathway Year 3 Review — Legal Drafting & Appellate Advocacy I | In Progress | Legal Drafting · Appellate Advocacy I | ✅ | ✅ | Capacity-Based Experiential | ✅ Guaranteed — Final Year | ❌ | ✅ | 25 hrs and week · 650 hrs and 6 months |
@@ -403,14 +403,14 @@
 | LAW 3111 | Law | Non-JD | **RIAH Pathway Virginia Bar Review** | 3 | LAW 3110 | Full Law Practice Stack | **RIAH Pathway Virginia Bar Review** | **Year 3 — Completed  and  Virginia Bar Review** | Comprehensive Virginia Bar Review · Legal Analysis · Professional Responsibility · Examination Preparation | ✅ | ✅ | Capacity-Based Experiential | ✅ Guaranteed — Final Year | **✅** | ✅ | 25 hrs and week · 650 hrs and 6 months |
 
 | Total | Virginia |
-|---|---|
+| --- | --- |
 | **Three-Year Curriculum** | **93 Credit Hours** |
 | **RIAH Scheduled Study Model** | **3,900 scheduled study hours across three years** |
 
 ### 🍱 VII. West Virginia — Three-Year Paralegal  and  Legal Assistant Supervision Pathway
 
 | Requirement | West Virginia |
-|---|---|
+| --- | --- |
 | **Pathway Duration** | **3 Years** |
 | **Type** | **Non-JD** |
 | **Admissions Requirements** | Applicable **West Virginia equivalency-route requirements, including the qualifying law-school education requirement and three years of qualifying law-office study and work as a paralegal or legal assistant under attorney supervision.** |
@@ -427,7 +427,7 @@
 ##### 🍱 West Virginia Year 1 — Paralegal  and  Legal Assistant Foundations — 30 Credit Hours
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Certification Review | Certification Progression  and  Learning | Exam Modules | OA | PA | Experiential | Experiential — 1 Month Internal | Capstone | Supervision | Paralegal Supervision | Supervision Hours |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LAW 1101 | Law | Non-JD | Paralegal & Legal Assistant Foundations I | 3 | Admission | Westlaw · Lexis+ · Microsoft 365 · Case Management · Document Management | RIAH Pathway Paralegal Review — Foundations I | Paralegal & Legal Assistant Foundations — In Progress | Legal Systems · Law-Office Structure · Paralegal Functions · Attorney Support | ✅ | ✅ | Integrated Paralegal  and  Legal Assistant Experience | Ineligible | ❌ | ✅ | ✅ | Documented qualifying WV hours |
 | LAW 1102 | Law | Non-JD | Paralegal & Legal Assistant Foundations II | 3 | LAW 1101 | Same stack throughout | RIAH Pathway Paralegal Review — Foundations II | Paralegal & Legal Assistant Foundations — Completed | Legal Terminology · Court Systems · Matter Organization · Legal Procedures | ✅ | ✅ | Integrated Paralegal  and  Legal Assistant Experience | Ineligible | ❌ | ✅ | ✅ | Documented qualifying WV hours |
 | LAW 1103 | Law | Non-JD | Legal Research & Authority I | 3 | LAW 1102 | Westlaw · Lexis+ · Microsoft 365 | RIAH Pathway Paralegal Review — Legal Research I | Legal Research & Authority — In Progress | Primary Authority · Secondary Authority · Case Research · Statutory Research | ✅ | ✅ | Integrated Paralegal  and  Legal Assistant Experience | Ineligible | ❌ | ✅ | ✅ | Documented qualifying WV hours |
@@ -442,7 +442,7 @@
 ##### 🍱 West Virginia Year 2 — Litigation & Transactional Paralegal Practice — 30 Credit Hours
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Certification Review | Certification Progression  and  Learning | Exam Modules | OA | PA | Experiential | Experiential — 1 Month Internal | Capstone | Supervision | Paralegal Supervision | Supervision Hours |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LAW 2101 | Law | Non-JD | Civil Litigation Support I | 3 | Completion Year 1 | Westlaw · Lexis+ · Microsoft 365 · Case Management · Document Management | RIAH Pathway Paralegal Review — Civil Litigation I | Civil Litigation — In Progress | Civil Case Lifecycle · Pleadings · Service · Calendaring | ✅ | ✅ | Integrated Paralegal  and  Legal Assistant Experience | Ineligible | ❌ | ✅ | ✅ | Documented qualifying WV hours |
 | LAW 2102 | Law | Non-JD | Civil Litigation Support II | 3 | LAW 2101 | Same stack throughout | RIAH Pathway Paralegal Review — Civil Litigation II | Civil Litigation — Completed | Motions · Case Scheduling · Litigation Files · Court Documents | ✅ | ✅ | Integrated Paralegal  and  Legal Assistant Experience | Ineligible | ❌ | ✅ | ✅ | Documented qualifying WV hours |
 | LAW 2103 | Law | Non-JD | Criminal Practice Support I | 3 | LAW 2102 | Westlaw · Lexis+ · Case Management · Document Management | RIAH Pathway Paralegal Review — Criminal Practice I | Criminal Practice — In Progress | Criminal Case Files · Charges · Court Records · Case Chronologies | ✅ | ✅ | Integrated Paralegal  and  Legal Assistant Experience | Ineligible | ❌ | ✅ | ✅ | Documented qualifying WV hours |
@@ -457,7 +457,7 @@
 ##### 🍱 West Virginia Year 3 — Advanced Paralegal Practice & Supervised Integration — 33 Credit Hours
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Certification Review | Certification Progression  and  Learning | Exam Modules | OA | PA | Experiential | Experiential — 1 Month Internal | Capstone | Supervision | Paralegal Supervision | Supervision Hours |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LAW 3101 | Law | Non-JD | Advanced Legal Research I | 3 | Completion Year 2 | Westlaw · Lexis+ · Microsoft 365 · Case Management | RIAH Pathway Paralegal Review — Advanced Research I | Advanced Research — In Progress | Complex Research · Multi-Issue Research · Statutory Analysis · Case Analysis | ✅ | ✅ | Integrated Paralegal  and  Legal Assistant Experience | Ineligible | ❌ | ✅ | ✅ | Documented qualifying WV hours |
 | LAW 3102 | Law | Non-JD | Advanced Legal Research II | 3 | LAW 3101 | Same stack throughout | RIAH Pathway Paralegal Review — Advanced Research II | Advanced Research — Completed | Research Strategy · Authority Validation · Research Reporting · Attorney Support | ✅ | ✅ | Integrated Paralegal  and  Legal Assistant Experience | Ineligible | ❌ | ✅ | ✅ | Documented qualifying WV hours |
 | LAW 3103 | Law | Non-JD | Advanced Legal Drafting Support I | 3 | LAW 3102 | Westlaw · Lexis+ · Microsoft Word · Document Management | RIAH Pathway Paralegal Review — Advanced Drafting I | Advanced Drafting — In Progress | Pleading Support · Motion Support · Legal Correspondence · Document Preparation | ✅ | ✅ | Integrated Paralegal  and  Legal Assistant Experience | Ineligible | ❌ | ✅ | ✅ | Documented qualifying WV hours |
@@ -471,5 +471,5 @@
 | LAW 3111 | Law | Non-JD | **RIAH Pathway West Virginia Bar Review** | 3 | LAW 3110 | Full Paralegal  and  Legal Assistant Practice Stack | **RIAH Pathway West Virginia Bar Review** | **Paralegal  and  Legal Assistant Supervised Practice — Completed  and  West Virginia Bar Review** | Comprehensive Bar Review · Legal Research · Legal Analysis · Professional Responsibility · Paralegal Practice Integration · Examination Preparation | ✅ | ✅ | Integrated Paralegal  and  Legal Assistant Experience | Ineligible | **✅** | ✅ | ✅ | Final documented qualifying WV hours |
 
 | Total | West Virginia |
-|---|---|
+| --- | --- |
 | **Three-Year Curriculum** | **93 Credit Hours** |
