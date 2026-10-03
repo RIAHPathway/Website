@@ -393,13 +393,13 @@ Applicable Microsoft technical, cloud, data, AI, software, infrastructure, and c
 | 500 Additional Questions Per Applicable Module | — | — | Included |
 | Academic and Review Advisement | — | — | Included |
 | Study Support | — | — | Included |
-| Mentorship | — | — | Included |
+| Mentorship | — | — | 5 |
 | Study Sessions | — | — | 5 |
-| Live Review | — | — | Included |
-| Live Review Sessions | — | — | 5 |
-| Coaching | — | — | Included |
-| Coaching Sessions | — | — | 5 |
-| Applicable Professional Supervision | — | — | Included Where Applicable |
+| Live Review | — | — | 5 |
+| Live Review | — | — | 5 |
+| Coaching | — | — | 5 |
+| Coaching | — | — | 5 |
+| Applicable Professional Supervision | — | — | 2 |
 
 ## BASIC — $500
 
@@ -543,13 +543,13 @@ It is one RIAH Bar Review with applicable jurisdiction-specific modules.
 | 500 Additional Questions Per Applicable Module | — | — | Included |
 | Academic and Review Advisement | — | — | Included |
 | Study Support | — | — | Included |
-| Mentorship | — | — | Included |
+| Mentorship | — | — | 5 |
 | Study Sessions | — | — | 5 |
-| Live Review | — | — | Included |
-| Live Review Sessions | — | — | 5 |
-| Coaching | — | — | Included |
-| Coaching Sessions | — | — | 5 |
-| Applicable Professional Supervision | — | — | Included Where Applicable |
+| Live Review | — | — | 5 |
+| Live Review | — | — | 5 |
+| Coaching | — | — | 5 |
+| Coaching | — | — | 5 |
+| Applicable Professional Supervision | — | — | 2 |
 
 ## BASIC BAR REVIEW — $500
 
