@@ -1,14 +1,6 @@
----
-document_type: contributor-benefit-framework
-track: "Partner"
-status: "In Progress — Review and Finalization Required"
-benefit_system: "RIAH Pathway"
-flow_status: "draft-review"
----
-
 # 🤝 Partners
 
-**Status: In Progress — Review and Finalization Required**
+<img width="562" height="317" alt="image" src="https://github.com/user-attachments/assets/35207cd9-0a51-4451-bcc0-d93fdc067431" />
 
 ## 🤝 Category Key
 
