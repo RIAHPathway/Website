@@ -41,7 +41,20 @@
 
 Community members may sign up to review applicable student capstones, participate in applicable peer review, and provide structured feedback on student work. Qualifying completed reviews earn points that accumulate according to the number of capstone and peer-review activities completed.
 
-**COMMUNITY REVIEW → STRUCTURED FEEDBACK → QUALIFYING COMPLETION → POINTS EARNED → POINTS ACCUMULATED → DISCOUNT LEVEL UNLOCKED**
+```mermaid
+flowchart LR
+N1["COMMUNITY REVIEW"]
+N2["STRUCTURED FEEDBACK"]
+N3["QUALIFYING COMPLETION"]
+N4["POINTS EARNED"]
+N5["POINTS ACCUMULATED"]
+N6["DISCOUNT LEVEL UNLOCKED"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+N4 --> N5
+N5 --> N6
+```
 
 | Community Participation | RIAH Structure |
 |---|---|
@@ -54,7 +67,14 @@ Community members may sign up to review applicable student capstones, participat
 | Bar Review | Applicable discounts may be used toward qualifying Bar Review products |
 | Educational Pathways | Applicable discounts may be used toward qualifying RIAH educational pathways, including the JD pathway and other applicable education pathways |
 
-**REVIEW MORE → ACCUMULATE MORE POINTS → UNLOCK GREATER APPLICABLE DISCOUNTS**
+```mermaid
+flowchart LR
+N1["REVIEW MORE"]
+N2["ACCUMULATE MORE POINTS"]
+N3["UNLOCK GREATER APPLICABLE DISCOUNTS"]
+N1 --> N2
+N2 --> N3
+```
 
 RIAH faculty and applicable academic personnel retain academic oversight and final evaluation requirements. Community and peer feedback supplements the formal academic review process.
 
@@ -62,7 +82,22 @@ RIAH faculty and applicable academic personnel retain academic oversight and fin
 
 The public FAQ page follows:
 
-# HERO → SEARCH → FAQ CATEGORIES → SUPPORTING RESOURCES → RELATED NAVIGATION → FINAL CTA
+# FAQ PAGE FLOW
+
+```mermaid
+flowchart LR
+N1["HERO"]
+N2["SEARCH"]
+N3["FAQ CATEGORIES"]
+N4["SUPPORTING RESOURCES"]
+N5["RELATED NAVIGATION"]
+N6["FINAL CTA"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+N4 --> N5
+N5 --> N6
+```
 
 The FAQ should use searchable and expandable accordion sections so visitors can find answers without creating an excessively long visual page.
 
@@ -180,11 +215,35 @@ Find answers about RIAH Pathway, academic pathways, experiential education, cert
 
 **Content:**
 
-**EDUCATION → EXPERIENCE → CERTIFICATION → CAREER**
+```mermaid
+flowchart LR
+N1["EDUCATION"]
+N2["EXPERIENCE"]
+N3["CERTIFICATION"]
+N4["CAREER"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+```
 
 Video should introduce the primary FAQ areas:
 
-**Pathways → Admissions → Tuition → Products → Accreditation → Student and Career Resources → Contact**
+```mermaid
+flowchart LR
+N1["Pathways"]
+N2["Admissions"]
+N3["Tuition"]
+N4["Products"]
+N5["Accreditation"]
+N6["Student and Career Resources"]
+N7["Contact"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+N4 --> N5
+N5 --> N6
+N6 --> N7
+```
 
 **Controls:** Play • Pause • Captions • Full Screen
 
@@ -369,7 +428,18 @@ Programs span Business, Accounting, Entrepreneurship, Finance, Management, Cyber
 
 The curriculum structure varies by degree level and may include:
 
-**General Education → Core → Major or Concentration → Upper Division → Capstone and Exit Requirements**
+```mermaid
+flowchart LR
+N1["General Education"]
+N2["Core"]
+N3["Major or Concentration"]
+N4["Upper Division"]
+N5["Capstone and Exit Requirements"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+N4 --> N5
+```
 
 **[BUTTON — LEARN MORE: CURRICULUM → 04 — CURRICULUM]**
 
@@ -591,7 +661,20 @@ Pre Admissions may include eligibility review, prerequisites, pathway eligibilit
 
 ### What is the application process?
 
-**Select Pathway → Submit Application → Submit Documents → Application Review → Pathway Specific Review → Decision**
+```mermaid
+flowchart LR
+N1["Select Pathway"]
+N2["Submit Application"]
+N3["Submit Documents"]
+N4["Application Review"]
+N5["Pathway Specific Review"]
+N6["Decision"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+N4 --> N5
+N5 --> N6
+```
 
 ### Where do I submit my application?
 
