@@ -1169,13 +1169,35 @@ These remain on their owning website page or approved living public resource.
 | 📊 **Transparency & Reports** | Public ledger, financial statements, scholarship reports, and impact reporting |
 | 🔐 **Privacy** | Questions concerning public/private information boundaries |
 
-**QUESTION → CORRECT RIAH DESTINATION → HUMAN SUPPORT → NEXT ACTION**
+```mermaid
+flowchart LR
+N1["QUESTION"]
+N2["CORRECT RIAH DESTINATION"]
+N3["HUMAN SUPPORT"]
+N4["NEXT ACTION"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+```
 
 ## COMMUNITY CAPSTONE + PEER REVIEW POINTS AND DISCOUNTS
 
 Community members may sign up to review applicable student capstones, participate in applicable peer review, and provide structured feedback on student work. Qualifying completed reviews earn points that accumulate according to the number of capstone and peer-review activities completed.
 
-**COMMUNITY REVIEW → STRUCTURED FEEDBACK → QUALIFYING COMPLETION → POINTS EARNED → POINTS ACCUMULATED → DISCOUNT LEVEL UNLOCKED**
+```mermaid
+flowchart LR
+N1["COMMUNITY REVIEW"]
+N2["STRUCTURED FEEDBACK"]
+N3["QUALIFYING COMPLETION"]
+N4["POINTS EARNED"]
+N5["POINTS ACCUMULATED"]
+N6["DISCOUNT LEVEL UNLOCKED"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+N4 --> N5
+N5 --> N6
+```
 
 | Community Participation | RIAH Structure |
 |---|---|
@@ -1188,7 +1210,14 @@ Community members may sign up to review applicable student capstones, participat
 | Bar Review | Applicable discounts may be used toward qualifying Bar Review products |
 | Educational Pathways | Applicable discounts may be used toward qualifying RIAH educational pathways, including the JD pathway and other applicable education pathways |
 
-**REVIEW MORE → ACCUMULATE MORE POINTS → UNLOCK GREATER APPLICABLE DISCOUNTS**
+```mermaid
+flowchart LR
+N1["REVIEW MORE"]
+N2["ACCUMULATE MORE POINTS"]
+N3["UNLOCK GREATER APPLICABLE DISCOUNTS"]
+N1 --> N2
+N2 --> N3
+```
 
 RIAH faculty and applicable academic personnel retain academic oversight and final evaluation requirements. Community and peer feedback supplements the formal academic review process.
 
@@ -1198,6 +1227,17 @@ RIAH faculty and applicable academic personnel retain academic oversight and fin
 
 Contact routes members of the public with legal matters to the applicable School of Law case-submission intake process. Matters may include record sealing and expungement, civil disputes, criminal matters, property law, intellectual property, business law, contracts, corporate matters, mergers and acquisitions, and other applicable legal issues.
 
-**LEGAL MATTER → CASE SUBMISSION → INTAKE AND ROUTING → APPROPRIATE ATTORNEY REVIEW → POSSIBLE ACCEPTANCE**
+```mermaid
+flowchart LR
+N1["LEGAL MATTER"]
+N2["CASE SUBMISSION"]
+N3["INTAKE AND ROUTING"]
+N4["APPROPRIATE ATTORNEY REVIEW"]
+N5["POSSIBLE ACCEPTANCE"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+N4 --> N5
+```
 
 Submission does not guarantee representation or attorney acceptance. Legal representation is provided only by an appropriately licensed or otherwise legally authorized professional. Applicable supervised student participation occurs only where permitted by law, court requirements, professional rules, and the supervising attorney.
