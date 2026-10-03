@@ -49,7 +49,22 @@ Detailed guides remain on their owning page or within **10 Resources**.
 
 The Join Us page must remain part of the same RIAH Pathway institutional website architecture used across the approved Home, Tuition, Admissions, Products, and other Website Final wireframes.
 
-**RIAH Pathway Identity → Consistent Header → Consistent Navigation → Five-CTA System → Consistent Section Logic → Institutional Colors → Consistent Footer**
+```mermaid
+flowchart LR
+N1["RIAH Pathway Identity"]
+N2["Consistent Header"]
+N3["Consistent Navigation"]
+N4["Five-CTA System"]
+N5["Consistent Section Logic"]
+N6["Institutional Colors"]
+N7["Consistent Footer"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+N4 --> N5
+N5 --> N6
+N6 --> N7
+```
 
 ---
 
@@ -105,7 +120,26 @@ RIAH Pathway brings together the people who **learn, lead, teach, mentor, superv
 Introduce RIAH Pathway as a connected community for students, alumni, educators, faculty, professionals, employers, partners, ambassadors, and future team members.
 
 **Visual Direction:**  
-Students → Faculty → Experiential Professionals → Employers → Career Events → Ambassadors → Partners → Leadership → Community
+```mermaid
+flowchart LR
+N1["Students"]
+N2["Faculty"]
+N3["Experiential Professionals"]
+N4["Employers"]
+N5["Career Events"]
+N6["Ambassadors"]
+N7["Partners"]
+N8["Leadership"]
+N9["Community"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+N4 --> N5
+N5 --> N6
+N6 --> N7
+N7 --> N8
+N8 --> N9
+```
 
 **Content:**  
 Student life • Career development • Faculty • Experiential learning • Partnerships • Ambassadors • Team opportunities
@@ -604,7 +638,18 @@ Participate across multiple ambassador functions where appropriate.
 
 ### Ambassador Structure
 
-**Ambassador → Individual Referral Link → RIAH Pathway Connection → Student or Product or Applicable Conversion → Applicable Ambassador Benefit**
+```mermaid
+flowchart LR
+N1["Ambassador"]
+N2["Individual Referral Link"]
+N3["RIAH Pathway Connection"]
+N4["Student or Product or Applicable Conversion"]
+N5["Applicable Ambassador Benefit"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+N4 --> N5
+```
 
 **IMAGE PLACEHOLDER — AMBASSADOR NETWORK — RIDESHARE + DELIVERY + STUDENT + COMMUNITY**
 
@@ -766,7 +811,20 @@ Student involvement, leadership, professional development, career development, c
 
 **SECTION LAYOUT — HORIZONTAL FIVE-STAGE ICON FLOW**
 
-## EDUCATION → EXPERIENCE → CERTIFICATION → OPPORTUNITY → CAREER
+## THE RIAH PATHWAY
+
+```mermaid
+flowchart LR
+N1["EDUCATION"]
+N2["EXPERIENCE"]
+N3["CERTIFICATION"]
+N4["OPPORTUNITY"]
+N5["CAREER"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+N4 --> N5
+```
 
 ### Education
 Academic pathways and learning.
@@ -910,7 +968,20 @@ Internal + External Employment • Alumni Career Support • Professional Advanc
 
 Community members may sign up to review applicable student capstones, participate in applicable peer review, and provide structured feedback on student work. Qualifying completed reviews earn points that accumulate according to the number of capstone and peer-review activities completed.
 
-**COMMUNITY REVIEW → STRUCTURED FEEDBACK → QUALIFYING COMPLETION → POINTS EARNED → POINTS ACCUMULATED → DISCOUNT LEVEL UNLOCKED**
+```mermaid
+flowchart LR
+N1["COMMUNITY REVIEW"]
+N2["STRUCTURED FEEDBACK"]
+N3["QUALIFYING COMPLETION"]
+N4["POINTS EARNED"]
+N5["POINTS ACCUMULATED"]
+N6["DISCOUNT LEVEL UNLOCKED"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+N4 --> N5
+N5 --> N6
+```
 
 | Community Participation | RIAH Structure |
 |---|---|
@@ -923,7 +994,14 @@ Community members may sign up to review applicable student capstones, participat
 | Bar Review | Applicable discounts may be used toward qualifying Bar Review products |
 | Educational Pathways | Applicable discounts may be used toward qualifying RIAH educational pathways, including the JD pathway and other applicable education pathways |
 
-**REVIEW MORE → ACCUMULATE MORE POINTS → UNLOCK GREATER APPLICABLE DISCOUNTS**
+```mermaid
+flowchart LR
+N1["REVIEW MORE"]
+N2["ACCUMULATE MORE POINTS"]
+N3["UNLOCK GREATER APPLICABLE DISCOUNTS"]
+N1 --> N2
+N2 --> N3
+```
 
 RIAH faculty and applicable academic personnel retain academic oversight and final evaluation requirements. Community and peer feedback supplements the formal academic review process.
 
@@ -1482,7 +1560,18 @@ RIAH faculty and applicable academic personnel retain academic oversight and fin
 | 💰 **Donors** | Support accreditation, scholarships, and applicable designated funds |
 | 🤝 **Partners** | Support education, experiential learning, employment, public service, and community impact |
 
-**PARTICIPATE → CONTRIBUTE → REVIEW OR SUPPORT → VERIFIED IMPACT → COMMUNITY OUTCOME**
+```mermaid
+flowchart LR
+N1["PARTICIPATE"]
+N2["CONTRIBUTE"]
+N3["REVIEW OR SUPPORT"]
+N4["VERIFIED IMPACT"]
+N5["COMMUNITY OUTCOME"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+N4 --> N5
+```
 
 ---
 
