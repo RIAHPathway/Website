@@ -383,12 +383,13 @@ Applicable Microsoft technical, cloud, data, AI, software, infrastructure, and c
 | Flashcards | — | Included | Printed Flashcards Included |
 | Planner | — | Included | Printed Planner Included |
 | Journal | — | Included | Printed Journal Included |
-| Expanded 250-Question Practice Bank | — | Included | Included |
-| Timed Testing | — | Included | Included |
-| Grading and Scoring | — | Included | Included |
-| Performance Review | — | Included | Included |
+| Expanded 250-Question Practice Bank | — | — | Included |
+| Timed Testing | Included | Included | Included |
+| Grading Review | Included | Included | Included |
+| Grading and Scoring | Included | Included | Included |
+| Performance Review | Included | Included | Included |
 | Complete Printed Product Set | — | — | Included |
-| Printed Textbook | — | Included | Included |
+| Printed Textbook | — | — | Included |
 | 500 Additional Questions Per Applicable Module | — | — | Included |
 | Academic and Review Advisement | — | — | Included |
 | Study Support | — | — | Included |
@@ -415,6 +416,10 @@ Includes:
 - 2 Mini Practice Exams
 - 2 Mini Simulated Exams
 - 1 Full Simulated Exam
+- Timed Testing
+- Grading Review
+- Grading and Scoring
+- Performance Review
 
 Applicable course materials follow the RIAH product-format structure. Complete products are primarily physical and print-based unless the applicable product is specifically designated for complete digital delivery. Applicable digital previews and select digital resources may accompany the course.
 
@@ -432,12 +437,8 @@ Includes everything in Basic plus:
 - Flashcards
 - Planner
 - Journal
-- Expanded 250-Question Practice Bank
 - Additional Practice Exams
 - Additional Simulation Practice
-- Timed Testing
-- Grading and Scoring
-- Performance Review
 
 Applicable physical products are primarily printed and shipped. Select applicable resources may be provided digitally, and applicable print products may include a limited digital preview.
 
@@ -449,6 +450,7 @@ Includes everything in Basic and Standard plus:
 
 ### COMPLETE PRINTED PRODUCT SET
 
+- Printed Textbook
 - Printed Workbook
 - Printed Study Guide
 - Printed Review Guide
@@ -459,6 +461,7 @@ Includes everything in Basic and Standard plus:
 
 ### EXPANDED PRACTICE
 
+- Expanded 250-Question Practice Bank
 - 500 Additional Questions Per Applicable Module
 - 5 Additional Practice Tests Per Applicable Module
 - 5 Additional Simulations Per Applicable Module
@@ -533,11 +536,13 @@ It is one RIAH Bar Review with applicable jurisdiction-specific modules.
 | Flashcards | — | Included | Included in Complete Printed Product Set |
 | Planner | — | Included | Included in Complete Printed Product Set |
 | Journal | — | Included | Included in Complete Printed Product Set |
-| Expanded 250-Question Practice Bank | — | Included | Included |
-| Timed Testing | — | Included | Included |
-| Grading and Scoring | — | Included | Included |
-| Performance Review | — | Included | Included |
+| Expanded 250-Question Practice Bank | — | — | Included |
+| Timed Testing | Included | Included | Included |
+| Grading Review | Included | Included | Included |
+| Grading and Scoring | Included | Included | Included |
+| Performance Review | Included | Included | Included |
 | Complete Printed Product Set | — | — | Included |
+| Printed Textbook | — | — | Included |
 | 500 Additional Questions Per Applicable Module | — | — | Included |
 | Academic and Review Advisement | — | — | Included |
 | Study Support | — | — | Included |
@@ -562,6 +567,10 @@ Includes:
 - 2 Mini Practice Exams
 - 2 Mini Simulated Exams
 - 1 Full Simulated Exam
+- Timed Testing
+- Grading Review
+- Grading and Scoring
+- Performance Review
 
 ## STANDARD BAR REVIEW — $1,000
 
@@ -575,18 +584,16 @@ Includes everything in Basic plus:
 - Flashcards
 - Planner
 - Journal
-- Expanded 250-Question Practice Bank
 - Additional Practice Exams
 - Additional Simulation Practice
-- Timed Testing
-- Grading and Scoring
-- Performance Review
 
 ## PREMIUM BAR REVIEW — $1,500
 
 Includes everything in Basic and Standard plus:
 
 - Complete Printed Product Set
+- Printed Textbook
+- Expanded 250-Question Practice Bank
 - 500 Additional Questions Per Applicable Module
 - 5 Additional Practice Tests Per Applicable Module
 - 5 Additional Simulations Per Applicable Module
