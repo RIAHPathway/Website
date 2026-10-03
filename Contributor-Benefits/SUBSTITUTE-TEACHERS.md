@@ -1,14 +1,6 @@
----
-document_type: contributor-benefit-framework
-track: "Substitute Teacher Ambassador"
-status: "In Progress — Review and Finalization Required"
-benefit_system: "RIAH Pathway"
-flow_status: "draft-review"
----
-
 # 🍎 Substitute Teacher Ambassadors
 
-**Status: In Progress — Review and Finalization Required**
+<img width="562" height="317" alt="image" src="https://github.com/user-attachments/assets/c5105ae3-7f14-4eaa-b03f-9417301682aa" />
 
 ## 💰 Tuition, Products & Pricing Resources
 
