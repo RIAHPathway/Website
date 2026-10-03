@@ -1,14 +1,6 @@
----
-document_type: contributor-benefit-framework
-track: "Delivery Ambassador"
-status: "In Progress — Review and Finalization Required"
-benefit_system: "RIAH Pathway"
-flow_status: "draft-review"
----
-
 # 📦 Delivery Ambassadors
 
-**Status: In Progress — Review and Finalization Required**
+<img width="562" height="317" alt="image" src="https://github.com/user-attachments/assets/17475c93-c244-4902-a97f-0a80439f92ed" />
 
 ## 💰 Tuition, Products & Pricing Resources
 
