@@ -1,29 +1,16 @@
 # 👑 LEGACY — RIAH Pathway Replica Bot
 
-> **Purpose:** Legacy is the RIAH Pathway replica-monitoring and evidence-preservation bot. Legacy performs recurring public-source review for materially corresponding implementations of the controlling RIAH fingerprint and maintains evidence-ready logs for human review.
+## I. KEY AND INDEX
 
-> **Important:** A match, similarity, or Tier flag is an investigative lead. Legacy does not determine copying, access, infringement, misconduct, liability, accreditation, or chronology without supporting evidence.
+### I.A — Structure Key
 
----
-
-## 📚 INDEX
-
-1. Purpose
-2. Monitoring Cadence
-3. Replica Tiers
-4. Evidence Surfaces
-5. Hourly Workflow
-6. Daily Audit
-7. Same-Day Filing Readiness
-8. Evidence Log
-9. Review Key
-
----
-
-## 🔑 REVIEW KEY
-
-| Symbol | Meaning |
+| Structure or Symbol | Meaning |
 |---|---|
+| **I, II, III...** | Major Legacy division |
+| **III.A, III.B...** | Subcategory within the applicable Roman-numeral division |
+| **Mermaid** | High-level monitoring, verification, preservation, or escalation flow |
+| **Table** | Structured cadence, evidence, readiness, or log information |
+| **Numbered list** | Ordered monitoring or review sequence |
 | 🟢 | Monitor or no material escalation |
 | 🟡 | Material correspondence requiring continued review |
 | 🔴 | High-priority evidence review requiring prompt human and legal assessment |
@@ -33,24 +20,73 @@
 | ⚖️ | Legal review required before any filing or allegation |
 | 🍜 | Legacy checkpoint complete and evidence organized |
 
+### I.B — Index
+
+| Roman Numeral | Division |
+|---|---|
+| **I** | Key and Index |
+| **II** | Legacy Purpose |
+| **III** | RIAH Fingerprint Actually Tested |
+| **IV** | Monitoring Cadence |
+| **V** | Evidence Surfaces Monitored |
+| **VI** | Hourly Legacy Flow |
+| **VII** | Daily Audit Flow |
+| **VIII** | Same-Day Filing Readiness |
+| **IX** | Rights and Claim Review |
+| **X** | Legacy Replica Bot Log |
+| **XI** | Legacy Purpose and Checkpoint |
+
+### I.C — High-Level Legacy Architecture
+
+**MERMAID I — MONITOR AND VERIFY**
+
+```mermaid
+flowchart LR
+    A["Public Sources"] --> B["Legacy Monitoring"]
+    B --> C["RIAH Fingerprint Test"]
+    C --> D["Verification"]
+    D --> E["Evidence Preservation"]
+```
+
+**MERMAID II — PRESERVE AND ESCALATE**
+
+```mermaid
+flowchart LR
+    A["Evidence Preservation"] --> B["Evidence Log"]
+    B --> C["Daily Audit"]
+    C --> D["Review Status"]
+    D --> E["Human and Legal Review"]
+    E --> F["Same-Day Filing Readiness"]
+```
+
 ---
 
-## 🧬 RIAH FINGERPRINT ACTUALLY TESTED
+## II. LEGACY PURPOSE
 
-### Tier 1 — Integrated Component Replication
+> **Purpose:** Legacy is the RIAH Pathway replica-monitoring and evidence-preservation bot. Legacy performs recurring public-source review for materially corresponding implementations of the controlling RIAH fingerprint and maintains evidence-ready logs for human review.
+
+> **Important:** A match, similarity, or Tier flag is an investigative lead. Legacy does not determine copying, access, infringement, misconduct, liability, accreditation, or chronology without supporting evidence.
+
+---
+
+## III. RIAH FINGERPRINT ACTUALLY TESTED
+
+### III.A — Tier 1 — Integrated Component Replication
 One RIAH component implemented with enough surrounding RIAH-specific workflow, staffing, supervision, review, funding, credentialing, technology, student lifecycle, employer, operator, governance, or pathway architecture to materially function like that component inside RIAH.
 
-### Tier 2 — Substantial Integrated System or Pathway Replication
+### III.B — Tier 2 — Substantial Integrated System or Pathway Replication
 Multiple RIAH components connected into a coherent pathway, school, subsystem, workflow, or operating model that materially corresponds to a substantial RIAH ecosystem tier.
 
-### Tier 3 — Whole Ecosystem Replication
+### III.C — Tier 3 — Whole Ecosystem Replication
 The entire or substantially complete coordinated RIAH ecosystem reproduced across multiple major layers.
+
+### III.D — Suppression Rule
 
 **Suppression rule:** Ordinary online education, internships, work-integrated learning, capstones, LMS platforms, communities, payment plans, digital credentials, certification preparation, portfolios, employer projects, career services, dashboards, and other isolated generic similarities are suppressed unless the surrounding implementation clears Tier 1.
 
 ---
 
-## ⏰ MONITORING CADENCE
+## IV. MONITORING CADENCE
 
 | Cadence | Legacy Action |
 |---|---|
@@ -61,9 +97,20 @@ The entire or substantially complete coordinated RIAH ecosystem reproduced acros
 
 ---
 
-## 🔎 EVIDENCE SURFACES MONITORED
+## V. EVIDENCE SURFACES MONITORED
 
 Legacy reviews publicly available and lawfully accessible evidence, including:
+
+### V.A — High-Level Evidence Review Sequence
+
+1. Identify publicly available and lawfully accessible evidence.
+2. Preserve the public source and observation timestamp.
+3. Compare the evidence with the controlling RIAH fingerprint.
+4. Verify applicable chronology, accreditation, authorization, and material differences.
+5. Record the supported review status and evidence log entry.
+
+### V.B — Evidence Surfaces
+
 
 - Official websites and indexed pages
 - Search-engine results and SEO-visible changes
@@ -87,7 +134,9 @@ Legacy does not treat an entity's self-description as independent accreditation,
 
 ---
 
-## 🤖 HOURLY LEGACY FLOW
+## VI. HOURLY LEGACY FLOW
+
+**MERMAID I — HOURLY MONITORING AND ESCALATION**
 
 ```mermaid
 flowchart LR
@@ -107,7 +156,9 @@ flowchart LR
 
 ---
 
-## 📅 DAILY AUDIT FLOW
+## VII. DAILY AUDIT FLOW
+
+**MERMAID I — DAILY EVIDENCE AUDIT**
 
 ```mermaid
 flowchart TD
@@ -123,7 +174,7 @@ flowchart TD
 
 ---
 
-## ⚖️ SAME-DAY FILING READINESS
+## VIII. SAME-DAY FILING READINESS
 
 Legacy maintains an evidence-oriented record so a qualified human reviewer or attorney can rapidly evaluate a potential matter. The record may include:
 
@@ -145,7 +196,7 @@ Legacy maintains an evidence-oriented record so a qualified human reviewer or at
 
 ---
 
-## 🛡️ RIGHTS AND CLAIM REVIEW
+## IX. RIGHTS AND CLAIM REVIEW
 
 When evidence warrants escalation, Legacy organizes facts relevant to potential **copyright, trademark, patent, trade-secret, contract, unfair-competition, direct-duplication, source-code, design, content, or other intellectual-property review**.
 
@@ -155,7 +206,7 @@ Any cease-and-desist letter, takedown, demand, complaint, filing, or accusation 
 
 ---
 
-## 🧾 LEGACY REPLICA BOT LOG
+## X. LEGACY REPLICA BOT LOG
 
 | Field | Log Requirement |
 |---|---|
@@ -173,7 +224,7 @@ Any cease-and-desist letter, takedown, demand, complaint, filing, or accusation 
 
 ---
 
-## 👑 LEGACY PURPOSE
+## XI. LEGACY PURPOSE AND CHECKPOINT
 
 **MONITOR. VERIFY. PRESERVE. COMPARE. LOG. ESCALATE EVIDENCE — NOT ASSUMPTIONS.**
 
