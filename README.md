@@ -81,7 +81,7 @@ flowchart LR
     D --> D2["Grant Thornton"]
 ```
 
-### 🚀 Areas of Experience
+### 👑 Areas of Experience
 
 | Area of Experience |
 | --- |
@@ -100,23 +100,39 @@ flowchart LR
 | 🎓 **Higher Education** |
 | 💻 **Entrepreneurship** |
 
+#### Accounting, Audit & Finance
+
 ```mermaid
-flowchart TD
-    A["🚀 Areas of Experience"]
-    A --> B["🧮 Accounting"]
-    A --> C["🔐 Cybersecurity"]
-    A --> D["💻 Technology"]
-    A --> E["🔍 Audit"]
-    A --> F["📈 Analytics"]
-    A --> G["💼 Consulting"]
-    A --> H["🤖 Automation"]
-    A --> I["💻 Development"]
-    A --> J["⚙️ Implementation"]
-    A --> K["👥 Management"]
-    A --> L["💳 Financial Services"]
-    A --> M["🧮 Public Accounting"]
-    A --> N["🎓 Higher Education"]
-    A --> O["💻 Entrepreneurship"]
+mindmap
+  root["👑 Accounting, Audit & Finance"]
+    Accounting["🧮 Accounting"]
+    Audit["🔍 Audit"]
+    Analytics["📈 Analytics"]
+    FinancialServices["💳 Financial Services"]
+    PublicAccounting["🧮 Public Accounting"]
+```
+
+#### Technology & Cybersecurity
+
+```mermaid
+mindmap
+  root["👑 Technology & Cybersecurity"]
+    Cybersecurity["🔐 Cybersecurity"]
+    Technology["💻 Technology"]
+    Automation["🤖 Automation"]
+    Development["💻 Development"]
+    Implementation["⚙️ Implementation"]
+```
+
+#### Consulting, Management & Professional Environments
+
+```mermaid
+mindmap
+  root["👑 Consulting, Management & Professional Environments"]
+    Consulting["💼 Consulting"]
+    Management["👥 Management"]
+    HigherEducation["🎓 Higher Education"]
+    Entrepreneurship["💻 Entrepreneurship"]
 ```
 
 ### 👑 RIAH Pathway
