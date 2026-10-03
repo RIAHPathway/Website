@@ -1,14 +1,6 @@
----
-document_type: contributor-benefit-framework
-track: "Rideshare Ambassador"
-status: "In Progress — Review and Finalization Required"
-benefit_system: "RIAH Pathway"
-flow_status: "draft-review"
----
-
 # 🚗 Rideshare Ambassadors
 
-**Status: In Progress — Review and Finalization Required**
+<img width="562" height="317" alt="image" src="https://github.com/user-attachments/assets/03a84575-a018-4f8f-b060-b43fa38d0cef" />
 
 ## 💰 Tuition, Products & Pricing Resources
 
