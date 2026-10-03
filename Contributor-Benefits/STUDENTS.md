@@ -48,7 +48,7 @@ L -- Yes --> N["🎓 +1% Eligible Tuition"]
 N --> O{"👑 5,000 Total Points?"}
 O -- No --> H
 O -- Yes --> P["👑🎓 50% Tuition Maximum"]
-P --> Q["🛍️ Graduate Product Benefit = None"]
+P --> Q["🛍️ Education Product Benefit = None; Experiential Product Benefit = Up to 25%"]
 ```
 
 ## ⚙️ Flow Metadata
@@ -87,7 +87,7 @@ Students who successfully complete an eligible RIAH Pathway Education Pathway or
 
 **Complete the entire eligible pathway = guaranteed 10% eligible tuition reduction.**
 
-The Graduate Benefit may increase to **50% maximum eligible tuition**. **Products are not discounted through the Graduate Benefit.**
+The Graduate Tuition Benefit may increase to **50% maximum eligible tuition**. **Education Graduates receive no Graduate Product Benefit. Experiential Graduates receive a product benefit from 10% at 1,000 points up to 25% at 2,500 approved Graduate Points.**
 
 ## II. 👑 Eligibility
 
@@ -103,7 +103,7 @@ The Graduate Benefit may increase to **50% maximum eligible tuition**. **Product
 10. Verify additional milestone activities above 10%.
 11. Graduate points cannot be purchased.
 12. Graduate points cannot be transferred.
-13. Products receive no Graduate Benefit.
+13. Education Graduates receive no Graduate Product Benefit. Experiential Graduates receive 10% eligible products at 1,000 points, plus 1% for each additional 100 approved Graduate Points, up to 25% at 2,500 points.
 14. Maximum Graduate Tuition Benefit is 50%.
 
 Qualifying pathways may include High School, GED, Associate's, Bachelor's, MBA, JD when applicable, Non-JD, designated approved Certification pathways, Experiential pathways and other designated qualifying RIAH educational pathways.
@@ -116,7 +116,7 @@ Qualifying pathways may include High School, GED, Associate's, Bachelor's, MBA, 
 
 ## IV. 🧮 Graduate Point Formula
 
-After the guaranteed 10%, **each additional 100 approved Graduate Points = +1% eligible tuition**. Maximum: **5,000 total Graduate Points = 50% tuition**. This consists of 1,000 guaranteed completion points plus up to 4,000 additional approved Graduate Points.
+After the guaranteed 10%, **each additional 100 approved Graduate Points = +1% eligible tuition**. Maximum: **5,000 total Graduate Points = 50% tuition**. This consists of 1,000 guaranteed completion points plus up to 4,000 additional approved Graduate Points. For Experiential Graduates only, the same approved-point progression provides **10% eligible products at 1,000 points, +1% per additional 100 points, up to 25% at 2,500 points**.
 
 ## V. 🏆 Graduate 10%–50% Milestones
 
@@ -208,12 +208,14 @@ Completion and every additional point-bearing activity must be verified. Fabrica
 
 ## IX. 📋 Graduate Record
 
-Record Participant, Participant ID, Pathway, Completion Verification, Activity ID, Activity, Date, Base Completion Points, Added Points, Total Graduate Points, Milestone, Tuition Benefit, Product Benefit as N/A, Approved By, Next Milestone, Points Remaining and Status.
+Record Participant, Participant ID, Pathway, Completion Verification, Activity ID, Activity, Date, Base Completion Points, Added Points, Total Graduate Points, Milestone, Tuition Benefit, Product Benefit, Approved By, Next Milestone, Points Remaining and Status. Education Graduate Product Benefit remains N/A; Experiential Graduate Product Benefit follows the approved 10%–25% product points progression.
 
 ## X. 🏆 Examples
 
 Education Graduate: 1,000 completion + 50 peer mentoring + 25 orientation support + 50 workshop + 50 educational resource + 100 approved initiative = **1,275 points = 12% tuition + 75 toward 13%; no product discount**.
 
-Experiential Graduate: 1,000 completion + 50 Experiential support + 50 mentorship + 50 education booth + 50 research + 200 major initiative = **1,400 points = 14% tuition; no product discount**.
+Experiential Graduate: 1,000 completion + 50 Experiential support + 50 mentorship + 50 education booth + 50 research + 200 major initiative = **1,400 points = 14% tuition + 14% eligible products**.
 
-Maximum Graduate: **5,000 points = 50% tuition maximum; no Graduate Product Benefit**.
+Maximum Education Graduate: **5,000 points = 50% tuition maximum; no Graduate Product Benefit**.
+
+Maximum Experiential Graduate: **2,500 points = 25% eligible products maximum; tuition may continue through 5,000 points = 50% tuition maximum**.
