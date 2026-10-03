@@ -115,7 +115,7 @@ A separate approved Partner or Pillar Product Benefit may reach **up to 25% elig
 
 Partner points document verified engagement. They support additional benefits only where applicable written partnership terms authorize those benefits and do not automatically increase every Partner Employee beyond the established Partner Employee benefit.
 
-## 🤝 Partner Contribution Categories
+### 🤝 Partner Contribution Categories
 
 | Category | Eligible Partner Contribution | Typical Points |
 |---|---|---:|
@@ -130,15 +130,15 @@ Partner points document verified engagement. They support additional benefits on
 | 🎪 Event Coordination | Coordinate approved partner event | 75 |
 | 👑 Major Initiative | Complete major approved joint initiative | 100–250 |
 
-## 🎯 Partner Point Scoring Standards
+### 🎯 Partner Point Scoring Standards
 
 Partner activity points are based on verified scope, completion, meaningful participation, approved deliverables, event responsibility, documentation, implementation value and the applicable written partnership terms. A larger number of activities does not automatically create a larger benefit if the activities are duplicate, unverifiable, outside the partnership scope or already counted as one underlying initiative.
 
-## 🔄 Partner Workflow
+### 🔄 Partner Workflow
 
 **🤝 Approved Partnership → 📄 Written Terms → 👑 Verify Affiliation → 👤 Verify Participant Eligibility → 🎓🛍️ Apply Established Benefit → ⭐ Record Approved Partner Activity → 👀 Verify Activity → 📋 Update Partner Record → 🔄 Re-verify When Terms or Affiliation Change**
 
-## ❌ Ineligible Partner Claims
+### ❌ Ineligible Partner Claims
 
 | Ineligible Activity | Result |
 |---|---|
@@ -151,7 +151,7 @@ Partner activity points are based on verified scope, completion, meaningful part
 | ❌ Unauthorized use of RIAH branding | No points and subject to review |
 | ❌ Attempt to exceed applicable benefit cap | Benefit remains at applicable cap |
 
-## 🏆 Partner Examples
+### 🏆 Partner Examples
 
 | Example | Result |
 |---|---|
