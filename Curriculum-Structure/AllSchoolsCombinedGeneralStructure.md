@@ -5,44 +5,40 @@
 
 | Symbol | Meaning |
 | --- | --- |
-| 👑 RIAH Pathway / institutional structure | — |
-| 🏫 RIAH Pathway Secondary School | — |
-| 🎓 Degree / academic pathway | — |
-| 📚 General Education / academic curriculum | — |
-| 🧭 Curriculum progression / academic pathway structure | — |
-| 🔁 Transfer, placement, test-out & alternative credit | — |
-| 📈 Academic progression / acceleration | — |
-| 🪜 Developmental sequence / placement bands | — |
-| 🏛️ School structure / school-level architecture | — |
-| 💼 Major | — |
-| 🌱 Minor | — |
-| ⭐ School Core | — |
-| ❤️ Software / technology stack | — |
-| 🧠 Objective Assessment | OA |
-| 🎯 Performance Assessment | PA |
-| 🛠️ Project / Applied Build | — |
-| 🏅 Certification Review / Certification Track | — |
-| 🎓 Experiential / Capstone / Supervision | — |
-| 🔗 Multidisciplinary / integrated curriculum | — |
-| 📐 Curriculum architecture | — |
-| 📋 Policy / standard / approved rule | — |
-| 🚪 Admission / progression / completion gateway | — |
-| ✅ Required / included | — |
-| ❌ Not applicable / not included | — |
-| 🎒 Bachelor’s | — |
-| 🔬 Master’s | — |
-| 📊 MBA | — |
-| ⚖️ JD / Law | — |
-| 🏛️⚖️ Non-JD Law Pathway | — |
-| 📜 Certificate / credential-related curriculum | — |
-| 📘 GED/HSE Preparation | — |
-| 🏅 High School Diploma | — |
-| 🌐 Virtual delivery | — |
-| 🧩 State-specific curriculum component | — |
+| 👑 | RIAH Pathway / institutional structure |
+| 🏫 | RIAH Pathway Secondary School |
+| 🎓 | Degree / academic pathway |
+| 📚 | General Education / academic curriculum |
+| 🧭 | Curriculum progression / academic pathway structure |
+| 🔁 | Transfer, placement, test-out & alternative credit |
+| 📈 | Academic progression / acceleration |
+| 🪜 | Developmental sequence / placement bands |
+| 🏛️ | School structure / school-level architecture |
+| 💼 | Major |
+| 🌱 | Minor |
+| ⭐ | School Core |
+| ❤️ | Software / technology stack |
+| 🛠️ | Project / Applied Build |
+| 🏅 | Certification Review / Certification Track |
+| 🎓 | Experiential / Capstone / Supervision |
+| 🔗 | Multidisciplinary / integrated curriculum |
+| 📐 | Curriculum architecture |
+| 📋 | Policy / standard / approved rule |
+| 🚪 | Admission / progression / completion gateway |
+| ✅ | Required / included |
+| ❌ | Not applicable / not included |
+| 🎒 | Bachelor’s |
+| 🔬 | Master’s |
+| 📊 | MBA |
+| ⚖️ | JD / Law |
+| 🏛️⚖️ | Non-JD Law Pathway |
+| 📜 | Certificate / credential-related curriculum |
+| 📘 | GED/HSE Preparation |
+| 🏅 | High School Diploma |
+| 🌐 | Virtual delivery |
+| 🧩 | State-specific curriculum component |
 
-| Item | Details |
-| --- | --- |
-| Display Rule | Detailed course-by-course curriculum remains in the applicable curriculum document. This General document establishes the controlling institutional structure, academic architecture, assessment model, progression rules, transfer/placement framework, secondary-school structure, and curriculum-wide standards. |
+Display Rule — Detailed course-by-course curriculum remains in the applicable curriculum document. This General document establishes the controlling institutional structure, academic architecture, assessment model, progression rules, transfer/placement framework, secondary-school structure, and curriculum-wide standards.
 
 
 # 📋 1. CURRICULUM PURPOSE AND EDUCATIONAL MODEL
@@ -72,13 +68,13 @@
 # 🧭 2. RIAH PATHWAY ACADEMIC STRUCTURE
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | RIAH PATHWAY |
-| 2 | → ACADEMIC ECOSYSTEM |
-| 3 | → SECONDARY SCHOOL: High School Diploma; GED/HSE Preparation |
-| 4 | → POSTSECONDARY PATHWAYS: General Education; School Core; Minor; Bachelor’s Major; Master’s; MBA; JD; Non-JD Law Pathways |
-
+```mermaid
+flowchart TD
+    N0["RIAH PATHWAY"] --> N1
+    N1["ACADEMIC ECOSYSTEM"] --> N2
+    N2["SECONDARY SCHOOL: High School Diploma; GED/HSE Preparation"] --> N3
+    N3["POSTSECONDARY PATHWAYS: General Education; School Core; Minor; Bachelor’s Major; Master’s; MBA; JD; Non-JD Law Pathways"]
+```
 
 # 🏛️ 3. SCHOOL STRUCTURE
 
@@ -124,10 +120,7 @@
 | TEC 2111 | Principles of Software Development | ✓ |
 | TEC 2112 | Principles of Software Engineering | ✓ |
 | TEC 2113 | Statistics | ✓ |
-| Step | Progression |
-| ---: | --- |
-| 1 | Applicable Technology programs may contain established professional certification-review tracks in addition to the general academic pathway. |
-
+Applicable Technology programs may contain established professional certification-review tracks in addition to the general academic pathway.
 
 # 🛡️ 5. SCHOOL OF HOMELAND SECURITY STRUCTURE
 
@@ -157,10 +150,7 @@
 | HS 2108 | Critical Infrastructure Protection | ✓ |
 | HS 2109 ★ | Security Operations and Incident Management | X |
 | HS 2110 | Homeland Security Strategy and Coordination | ✓ |
-| Step | Progression |
-| ---: | --- |
-| 1 | Applicable Homeland Security programs may contain established professional certification-review tracks in addition to the general academic pathway. |
-
+Applicable Homeland Security programs may contain established professional certification-review tracks in addition to the general academic pathway.
 
 # ⚖️ 6. SCHOOL OF LAW STRUCTURE
 
@@ -213,9 +203,7 @@
 | JD Experiential Structure | Apprentice → Intern → Associate → Senior Associate. The one-month internal RIAH experiential opportunity is guaranteed during 4L under the established JD structure. Timing remains based on applicable RIAH ecosystem needs. |
 
 
-| Item | Details |
-| --- | --- |
-| Non-JD Law Pathways: | — |
+Non-JD Law Pathways:
 | Maine | 1 Year |
 | California | 4 Years |
 | Washington | 4 Years |
@@ -225,10 +213,7 @@
 | West Virginia | 3 Years |
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | Each Non-JD pathway remains governed by its applicable state pathway requirements, prerequisite conditions, supervision requirements, experiential structure, curriculum sequence, and external legal/licensing requirements. |
-
+Each Non-JD pathway remains governed by its applicable state pathway requirements, prerequisite conditions, supervision requirements, experiential structure, curriculum sequence, and external legal/licensing requirements.
 
 # 💼 7. SCHOOL OF BUSINESS STRUCTURE
 
@@ -258,33 +243,21 @@
 | BUS 2108 | Operations Management | ✓ |
 | BUS 2109 | Principles of Entrepreneurship | ✓ |
 | BUS 2110 | Principles of Finance | ✓ |
-| Step | Progression |
-| ---: | --- |
-| 1 | Applicable Business programs may contain established professional certification-review tracks in addition to the general academic pathway. |
-
+Applicable Business programs may contain established professional certification-review tracks in addition to the general academic pathway.
 
 # 📚 8. GENERAL EDUCATION — 30 CREDITS
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | General Education provides the academic foundation for applicable RIAH Pathway degree pathways. |
-
+General Education provides the academic foundation for applicable RIAH Pathway degree pathways.
 
 | Item | Details |
 | --- | --- |
 | General Education Total | 30 Credit Hours. |
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | General Education includes College English, College Algebra, Oral Communications, Foreign Language, History, Philosophy, Psychology, Sociology, Art, and Science. |
+General Education includes College English, College Algebra, Oral Communications, Foreign Language, History, Philosophy, Psychology, Sociology, Art, and Science.
 
-
-| Step | Progression |
-| ---: | --- |
-| 1 | Detailed course tables remain in the controlling degree curriculum. |
-
+Detailed course tables remain in the controlling degree curriculum.
 
 
 
@@ -305,18 +278,13 @@
 | SCI 1010 | Science | ✓ |
 
 
-| Item | Details |
-| --- | --- |
-| Philosophy Note | PHI 1010 remains part of the RIAH General Education curriculum. RIAH will provide and/or integrate additional Philosophy curriculum because Edmentum does not provide the mapped Philosophy coverage used for this structure. |
+Philosophy Note — PHI 1010 remains part of the RIAH General Education curriculum. RIAH will provide and/or integrate additional Philosophy curriculum because Edmentum does not provide the mapped Philosophy coverage used for this structure.
 
 
 # 🔁 9. GENERAL EDUCATION PLACEMENT / TEST-OUT STANDARD
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | Students may satisfy applicable General Education requirements through accepted transfer or alternative credit, or an applicable RIAH Placement/Test-Out Assessment. |
-
+Students may satisfy applicable General Education requirements through accepted transfer or alternative credit, or an applicable RIAH Placement/Test-Out Assessment.
 
 | Item | Details |
 | --- | --- |
@@ -337,10 +305,7 @@
 # 🪜 10. COLLEGE ENGLISH & COLLEGE ALGEBRA DEVELOPMENTAL PLACEMENT
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | College English and College Algebra function as foundational gateway courses. Where the applicable requirement is not already satisfied through accepted credit, placement determines whether the student satisfies the college-level requirement or enters developmental coursework. |
-
+College English and College Algebra function as foundational gateway courses. Where the applicable requirement is not already satisfied through accepted credit, placement determines whether the student satisfies the college-level requirement or enters developmental coursework.
 
 | Item | Details |
 | --- | --- |
@@ -360,29 +325,15 @@
 # 🔁 11. TRANSFER & ALTERNATIVE CREDIT STRUCTURE
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | Applicable accepted sources may include RIAH Placement/Test-Out Assessment, ACT, SAT, AP, IB, CLEP, Sophia Learning, StraighterLine, accredited college transfer, and other applicable approved sources. |
+Applicable accepted sources may include RIAH Placement/Test-Out Assessment, ACT, SAT, AP, IB, CLEP, Sophia Learning, StraighterLine, accredited college transfer, and other applicable approved sources.
 
+RIAH curriculum itself is not an external alternative-credit source. Sophia Learning and similar providers remain external alternative-credit sources rather than embedded RIAH curriculum.
 
-| Step | Progression |
-| ---: | --- |
-| 1 | RIAH curriculum itself is not an external alternative-credit source. Sophia Learning and similar providers remain external alternative-credit sources rather than embedded RIAH curriculum. |
+Applicable outside credit must be submitted within the established pre-admission/admission transfer-evaluation window. Once the applicable enrollment cutoff has passed, additional outside transfer/alternative credit is not added unless a controlling pathway expressly provides otherwise.
 
+Transfer evaluation remains subject to applicable equivalency review, applicable transfer maximum, applicable admissions transfer-credit evaluation process, applicable prerequisite requirements, and applicable program-specific restrictions.
 
-| Step | Progression |
-| ---: | --- |
-| 1 | Applicable outside credit must be submitted within the established pre-admission/admission transfer-evaluation window. Once the applicable enrollment cutoff has passed, additional outside transfer/alternative credit is not added unless a controlling pathway expressly provides otherwise. |
-
-
-| Step | Progression |
-| ---: | --- |
-| 1 | Transfer evaluation remains subject to applicable equivalency review, applicable transfer maximum, applicable admissions transfer-credit evaluation process, applicable prerequisite requirements, and applicable program-specific restrictions. |
-
-
-| Item | Details |
-| --- | --- |
-| Transfer Maximums: | — |
+Transfer Maximums:
 | Associate’s | 30 Credits. |
 | Bachelor’s | 60 Credits. |
 | Minor | 6 Credits under the established minor transfer architecture. |
@@ -395,23 +346,17 @@
 # 🚪 12. ACADEMIC PROGRESSION GATEWAYS
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | General Education → Applicable School Core → Year 3 Major Admission → Year 3 Major → Year 4 Major → Program Capstone → Program Completion. |
+```mermaid
+flowchart TD
+    N0["General Education → Applicable School Core → Year 3 Major Admission → Year 3 Major → Year 4 Major → Program Capstone → Program Completion."]
+```
 
-
-| Step | Progression |
-| ---: | --- |
-| 1 | Students do not progress into applicable Year 3 major coursework until the foundational requirements established for that major have been satisfied. Applicable School Core courses retain their established prerequisites. |
-
+Students do not progress into applicable Year 3 major coursework until the foundational requirements established for that major have been satisfied. Applicable School Core courses retain their established prerequisites.
 
 # 🌱 13. MINOR ARCHITECTURE
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | Minors are predetermined academic sequences attached to the applicable discipline. |
-
+Minors are predetermined academic sequences attached to the applicable discipline.
 
 | Item | Details |
 | --- | --- |
@@ -434,18 +379,12 @@
 | Minor flow | Minor Entry → Foundational Minor Course → Sequential Discipline Coursework → Applied Learning → Applied Learning Capstone → Minor Complete. |
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | The controlling course-level minor curriculum determines the exact prerequisite chain, software, certification review, project, capstone, applied-build, experiential, and supervision requirements. |
-
+The controlling course-level minor curriculum determines the exact prerequisite chain, software, certification review, project, capstone, applied-build, experiential, and supervision requirements.
 
 # 🎒 14. BACHELOR’S ARCHITECTURE
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | The Bachelor’s pathway progresses through the applicable foundational curriculum into Year 3 and Year 4 major study. |
-
+The Bachelor’s pathway progresses through the applicable foundational curriculum into Year 3 and Year 4 major study.
 
 | Item | Details |
 | --- | --- |
@@ -460,10 +399,7 @@
 # 🧠 15. YEAR 3 MAJOR ARCHITECTURE
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | Year 3 establishes the student's disciplinary major foundation. |
-
+Year 3 establishes the student's disciplinary major foundation.
 
 | Item | Details |
 | --- | --- |
@@ -491,10 +427,7 @@
 # 🛠️ 16. YEAR 4 MAJOR ARCHITECTURE
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | Year 4 moves the student from disciplinary preparation into a sequential applied professional life cycle. |
-
+Year 4 moves the student from disciplinary preparation into a sequential applied professional life cycle.
 
 | Item | Details |
 | --- | --- |
@@ -512,30 +445,20 @@
 | Supervision | Final culminating course where established. |
 
 
-| Item | Details |
-| --- | --- |
-| Year 4 Project Life Cycle: | — |
+Year 4 Project Life Cycle:
 | Problem / Venture Definition → Requirements → Analysis → Architecture / Design → Development / Implementation → Integration → Testing / Validation → Deployment / Operations → Optimization → Life-Cycle Integration → 4110 Capstone. | — |
 
 
-| Item | Details |
-| --- | --- |
-| Year 4 Assessment Structure: | — |
+Year 4 Assessment Structure:
 | Each Year 4 Course → OA + PA + Project Phase → Next Life-Cycle Phase → Continuing Project → Final 4110 Course → Capstone + Applied Build + Supervision → Year 4 Complete. | — |
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | Professional certification-review tracks may overlay certification learning, milestones, exam modules, and final review deadlines across the same academic life cycle without replacing the underlying academic major. |
-
+Professional certification-review tracks may overlay certification learning, milestones, exam modules, and final review deadlines across the same academic life cycle without replacing the underlying academic major.
 
 # 🏅 17. CERTIFICATION-REVIEW ARCHITECTURE
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | RIAH distinguishes academic program completion from external professional certification. |
-
+RIAH distinguishes academic program completion from external professional certification.
 
 | Item | Details |
 | --- | --- |
@@ -550,18 +473,12 @@
 | Track Pathway | Adds the established certification-review layer to the academic pathway. |
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | Examples of established review families appearing in the current combined curriculum include applicable Microsoft, cybersecurity, audit, risk, accounting, finance, fraud, tax, project-management, and program-management review tracks. |
-
+Examples of established review families appearing in the current combined curriculum include applicable Microsoft, cybersecurity, audit, risk, accounting, finance, fraud, tax, project-management, and program-management review tracks.
 
 # 🔬 18. MASTER’S ARCHITECTURE
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | The current graduate major structure uses a sequential 30-credit Master’s curriculum. |
-
+The current graduate major structure uses a sequential 30-credit Master’s curriculum.
 
 | Item | Details |
 | --- | --- |
@@ -579,24 +496,16 @@
 | Supervision | Final culminating course where established. |
 
 
-| Item | Details |
-| --- | --- |
-| Master’s Life Cycle: | — |
+Master’s Life Cycle:
 | Master’s Admission → 5101 → Graduate Analysis → Advanced Requirements → Architecture / Design → Advanced Implementation → Integration → Testing / Validation → Deployment / Operations → Monitoring / Evaluation → Optimization → 5110 Graduate Capstone. | — |
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | The project continues through the graduate life cycle where established. Professional certification-review tracks may reuse and advance the applicable certification-review framework at the graduate level. |
-
+The project continues through the graduate life cycle where established. Professional certification-review tracks may reuse and advance the applicable certification-review framework at the graduate level.
 
 # 📊 19. MBA ARCHITECTURE
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | The current MBA-in-major structure uses a sequential 30-credit management curriculum. |
-
+The current MBA-in-major structure uses a sequential 30-credit management curriculum.
 
 | Item | Details |
 | --- | --- |
@@ -614,16 +523,11 @@
 | Supervision | Final culminating course where established. |
 
 
-| Item | Details |
-| --- | --- |
-| MBA Management Life Cycle: | — |
+MBA Management Life Cycle:
 | MBA Admission → Management Venture / Strategic Definition → Organizational Requirements → Governance & Design → Program / Resource Management → Operations & Integration → Risk & Performance → Leadership & Execution → Analytics & Control → Strategic Optimization → 6110 Management Capstone. | — |
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | The MBA maintains the student's disciplinary context while moving the work to the management and leadership level. |
-
+The MBA maintains the student's disciplinary context while moving the work to the management and leadership level.
 
 # 📊 20. GENERAL MBA
 
@@ -636,10 +540,7 @@
 # 🎓 21. EXPERIENTIAL STRUCTURE
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | Experiential education is an integrated but separately governed component of applicable RIAH pathways. |
-
+Experiential education is an integrated but separately governed component of applicable RIAH pathways.
 
 | Item | Details |
 | --- | --- |
@@ -659,9 +560,7 @@
 # 🏫 22. RIAH PATHWAY SECONDARY SCHOOL
 
 
-| Item | Details |
-| --- | --- |
-| RIAH Pathway Secondary School contains two distinct secondary pathways: | — |
+RIAH Pathway Secondary School contains two distinct secondary pathways:
 | 1. Four-Year High School Diploma. | — |
 | 2. GED/HSE Preparation. | — |
 
@@ -675,10 +574,7 @@
 # 🏅 23. FOUR-YEAR HIGH SCHOOL DIPLOMA ARCHITECTURE
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | The RIAH Pathway High School Diploma is a fixed four-year Grades 9–12 secondary curriculum. |
-
+The RIAH Pathway High School Diploma is a fixed four-year Grades 9–12 secondary curriculum.
 
 | Item | Details |
 | --- | --- |
@@ -710,19 +606,15 @@
 ## High School Assessment Architecture
 
 
-| Item | Details |
-| --- | --- |
-| Every course within the RIAH Pathway Four-Year High School Diploma curriculum follows the same core assessment architecture: | — |
+Every course within the RIAH Pathway Four-Year High School Diploma curriculum follows the same core assessment architecture:
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | High School Course → Course Curriculum → Objective Assessment (OA) + Performance Assessment (PA) → Both Proctored → Course Requirements Complete → Credit Earned → Next Course / Semester. |
+```mermaid
+flowchart TD
+    N0["High School Course → Course Curriculum → Objective Assessment (OA) + Performance Assessment (PA) → Both Proctored → Course Requirements Complete → Credit Earned → Next Course / Semester."]
+```
 
-
-| Item | Details |
-| --- | --- |
-| High School Assessment Rules: | — |
+High School Assessment Rules:
 | OA Required | Yes, every course. |
 | PA Required | Yes, every course. |
 | OA Proctored | Yes, every course. |
@@ -736,9 +628,7 @@
 | Diploma | Awarded after completion of the established High School Diploma curriculum and applicable graduation requirements. |
 
 
-| Item | Details |
-| --- | --- |
-| High School Progression: | — |
+High School Progression:
 | Grade 9 | 30 credits — OA + PA proctored |
 | → Grade 10 | 30 credits — OA + PA proctored |
 | → Grade 11 | 30 credits — OA + PA proctored |
@@ -751,25 +641,16 @@
 | → RIAH Pathway High School Diploma. | — |
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | High School Subject Architecture includes English Language Arts, Mathematics, Science, History, Geography, Government/Civics, Economics, Sociology, Psychology, Ethnic Studies, Financial Literacy, Personal Finance, World Language, Digital Literacy, Computer Science, Health, Physical Education, Fine Arts, and Oral Communication. |
+High School Subject Architecture includes English Language Arts, Mathematics, Science, History, Geography, Government/Civics, Economics, Sociology, Psychology, Ethnic Studies, Financial Literacy, Personal Finance, World Language, Digital Literacy, Computer Science, Health, Physical Education, Fine Arts, and Oral Communication.
 
-
-| Step | Progression |
-| ---: | --- |
-| 1 | Detailed course tables and state-component mappings remain in the controlling High School Diploma Curriculum. |
-
+Detailed course tables and state-component mappings remain in the controlling High School Diploma Curriculum.
 
 
 
 ## ❤️ High School Instructional Software / Curriculum Content Layer
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | RIAH Pathway retains and controls its own High School Diploma curriculum. Edmentum is the primary instructional software and curriculum-content ecosystem mapped to the applicable RIAH high-school courses. RIAH may supplement, expand, reorganize, or add curriculum content, assignments, OA, PA, state components, and other course requirements. |
-
+RIAH Pathway retains and controls its own High School Diploma curriculum. Edmentum is the primary instructional software and curriculum-content ecosystem mapped to the applicable RIAH high-school courses. RIAH may supplement, expand, reorganize, or add curriculum content, assignments, OA, PA, state components, and other course requirements.
 
 | Software | RIAH Course | Course Name | Coverage |
 | --- | --- | --- | --- |
@@ -815,51 +696,30 @@
 | Edmentum | COM 4101 | Oral Communication | ✓ |
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | ✓ = Edmentum provides applicable instructional content/courseware mapped into the RIAH course. RIAH curriculum remains controlling for every course. |
-
+✓ = Edmentum provides applicable instructional content/courseware mapped into the RIAH course. RIAH curriculum remains controlling for every course.
 
 # 🧩 24. HIGH SCHOOL STATE-COMPONENT STRUCTURE
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | State-specific curriculum components are integrated into established RIAH courses rather than automatically creating separate courses. |
+State-specific curriculum components are integrated into established RIAH courses rather than automatically creating separate courses.
 
+Applicable components currently mapped within the controlling High School Diploma Curriculum include state-specific content involving Health, Physical Education, Government/Civics, Fine Arts, Financial Literacy, Personal Finance, State History, Computer Science, Holocaust/Genocide Studies, Ethnic Studies, and Health/Safety.
 
-| Step | Progression |
-| ---: | --- |
-| 1 | Applicable components currently mapped within the controlling High School Diploma Curriculum include state-specific content involving Health, Physical Education, Government/Civics, Fine Arts, Financial Literacy, Personal Finance, State History, Computer Science, Holocaust/Genocide Studies, Ethnic Studies, and Health/Safety. |
+State-specific non-course graduation controls remain separate from the academic course structure and are handled through the applicable graduation audit.
 
-
-| Step | Progression |
-| ---: | --- |
-| 1 | State-specific non-course graduation controls remain separate from the academic course structure and are handled through the applicable graduation audit. |
-
-
-| Step | Progression |
-| ---: | --- |
-| 1 | State-specific components do not alter the general high-school assessment architecture. Each applicable high-school course continues to require Objective Assessment + Performance Assessment + Proctoring. |
-
+State-specific components do not alter the general high-school assessment architecture. Each applicable high-school course continues to require Objective Assessment + Performance Assessment + Proctoring.
 
 # 📘 25. GED/HSE PREPARATION ARCHITECTURE
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | RIAH Pathway Secondary School provides GED/HSE preparation. |
+RIAH Pathway Secondary School provides GED/HSE preparation.
 
+```mermaid
+flowchart TD
+    N0["RIAH separates Preparation → Official Credentialing."]
+```
 
-| Step | Progression |
-| ---: | --- |
-| 1 | RIAH separates Preparation → Official Credentialing. |
-
-
-| Step | Progression |
-| ---: | --- |
-| 1 | RIAH controls its preparation curriculum, instruction, learning package, internal assessments, and academic requirements. Official GED/HiSET examination and credential issuance remain governed by the applicable official examination provider and jurisdiction. |
-
+RIAH controls its preparation curriculum, instruction, learning package, internal assessments, and academic requirements. Official GED/HiSET examination and credential issuance remain governed by the applicable official examination provider and jurisdiction.
 
 | Item | Details |
 | --- | --- |
@@ -883,45 +743,31 @@
 | GED 104 | Social Studies Preparation | ✓ |
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | ✓ = Edmentum provides applicable instructional content/courseware that RIAH maps into its GED/HSE preparation curriculum. RIAH curriculum remains controlling. |
+✓ = Edmentum provides applicable instructional content/courseware that RIAH maps into its GED/HSE preparation curriculum. RIAH curriculum remains controlling.
 
-
-| Item | Details |
-| --- | --- |
-| Corresponding Concurrent General Education Opportunity: | — |
+Corresponding Concurrent General Education Opportunity:
 | GED 101 → MAT 1010 | College Algebra. |
 | GED 102 → ENG 1010 | College English. |
 | GED 103 → SCI 1010 | Science. |
 | GED 104 → HIS 1010 | History. |
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | Eligible GED/HSE students may pursue up to 12 corresponding General Education credits concurrently. GED Preparation credits and General Education credits remain academically separate. |
-
+Eligible GED/HSE students may pursue up to 12 corresponding General Education credits concurrently. GED Preparation credits and General Education credits remain academically separate.
 
 # ❤️ 26. GED/HSE LEARNING ENVIRONMENT
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | GED/HSE students receive an integrated RIAH learning environment that may include RIAH Textbook, RIAH Workbook, RIAH Journal / Module Notebook, RIAH Planner / Curriculum Planner, RIAH Study Guide, RIAH Review Guide, RIAH LMS, RIAH Curriculum, RIAH Assignments, RIAH Assessments, Edmentum GED/HSE preparation content and courseware, official HiSET preparation materials where applicable, and applicable state add-on curriculum and resources. |
+GED/HSE students receive an integrated RIAH learning environment that may include RIAH Textbook, RIAH Workbook, RIAH Journal / Module Notebook, RIAH Planner / Curriculum Planner, RIAH Study Guide, RIAH Review Guide, RIAH LMS, RIAH Curriculum, RIAH Assignments, RIAH Assessments, Edmentum GED/HSE preparation content and courseware, official HiSET preparation materials where applicable, and applicable state add-on curriculum and resources.
 
-
-| Step | Progression |
-| ---: | --- |
-| 1 | Edmentum does not replace the RIAH curriculum. RIAH develops and controls its own academic curriculum and integrates applicable Edmentum and other approved educational resources into that curriculum. |
-
+Edmentum does not replace the RIAH curriculum. RIAH develops and controls its own academic curriculum and integrates applicable Edmentum and other approved educational resources into that curriculum.
 
 # 📘 27. GED/HSE ACADEMIC FLOW
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | RIAH Pathway Secondary School → GED/HSE Preparation → GED 101–104 → RIAH Curriculum + RIAH Learning Package + Edmentum + HiSET Materials Where Applicable → RIAH Proctored Assessments → 80% Mastery → Preparation Complete → Separate Credentialing → Official GED/HSE Process → Official HSE Credential under applicable jurisdiction requirements. |
-
+```mermaid
+flowchart TD
+    N0["RIAH Pathway Secondary School → GED/HSE Preparation → GED 101–104 → RIAH Curriculum + RIAH Learning Package + Edmentum + HiSET Materials Where Applicable → RIAH Proctored Assessments → 80% Mastery → Preparation Complete → Separate Credentialing → Official GED/HSE Process → Official HSE Credential under applicable jurisdiction requirements."]
+```
 
 # 🧠 28. GED/HSE, HIGH SCHOOL & REGULAR COURSE ASSESSMENT STANDARD
 
@@ -938,30 +784,22 @@
 | OA | Applicable course policy — applicable RIAH standard — Proctored. |
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | The three-attempt limitation applies to placement/test-out assessments, not regular course checkpoints and finals. |
+The three-attempt limitation applies to placement/test-out assessments, not regular course checkpoints and finals.
 
-
-| Step | Progression |
-| ---: | --- |
-| 1 | For the High School Diploma pathway, every course requires both an Objective Assessment and Performance Assessment, and both assessments are proctored. |
-
+For the High School Diploma pathway, every course requires both an Objective Assessment and Performance Assessment, and both assessments are proctored.
 
 # 📈 29. GED/HSE CONCURRENT ACCELERATION
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | GED 101–104 → 12 GED Preparation Credits + Eligible Concurrent General Education → MAT 1010 + ENG 1010 + SCI 1010 + HIS 1010 → Up to 12 Corresponding General Education Credits → Official HSE Credential Separately Completed → RIAH Pathway or Other Eligible Postsecondary Pathway. |
-
+```mermaid
+flowchart TD
+    N0["GED 101–104 → 12 GED Preparation Credits + Eligible Concurrent General Education → MAT 1010 + ENG 1010 + SCI 1010 + HIS 1010 → Up to 12 Corresponding General Education Credits → Official HSE Credential Separately Completed → RIAH Pathway or Other Eligible Postsecondary Pathway."]
+```
 
 # 📋 30. HIGH SCHOOL DIPLOMA VS. GED/HSE
 
 
-| Item | Details |
-| --- | --- |
-| High School Diploma: | — |
+High School Diploma:
 | School | RIAH Pathway Secondary School. |
 | Purpose | Traditional secondary education. |
 | Structure | Grades 9–12. |
@@ -977,9 +815,7 @@
 | Postsecondary Continuation | RIAH Pathway or other applicable institution. |
 
 
-| Item | Details |
-| --- | --- |
-| GED/HSE Preparation: | — |
+GED/HSE Preparation:
 | School | RIAH Pathway Secondary School. |
 | Purpose | Alternative HSE preparation. |
 | Structure | GED/HSE preparation. |
@@ -1003,21 +839,13 @@
 | The controlling degree curriculum uses course records that may include Course, School, Type, Course Name, Credit Hours, Prerequisite, Software Stack, PebblePad, Certification Review, Certification Progression and Learning, Exam Modules, Project, OA, PA, Experiential if Selected, Experiential | One Month Internal, Capstone, Applied Build, and Supervision. |
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | Not every field applies to every course. |
+Not every field applies to every course.
+
+High School Exception — Every High School Diploma course requires OA + PA, and both are proctored. High School Diploma courses do not use a capstone requirement.
 
 
-| Item | Details |
-| --- | --- |
-| High School Exception | Every High School Diploma course requires OA + PA, and both are proctored. High School Diploma courses do not use a capstone requirement. |
-
-
-| Step | Progression |
-| ---: | --- |
-| 1 | ✅ = applicable/included. |
-| 2 | ❌ = not applicable/not included. |
-
+1. ✅ = applicable/included.
+2. ❌ = not applicable/not included.
 
 
 
@@ -1067,53 +895,30 @@
 # 📋 34. DUPLICATE CREDIT & COURSE IDENTITY STANDARD
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | A student does not receive duplicate academic credit for the same completed academic requirement merely because the same knowledge or skill is incorporated into another course, project, certification-review track, applied build, or multidisciplinary activity. |
+A student does not receive duplicate academic credit for the same completed academic requirement merely because the same knowledge or skill is incorporated into another course, project, certification-review track, applied build, or multidisciplinary activity.
 
-
-| Step | Progression |
-| ---: | --- |
-| 1 | Integrated content does not automatically create a second separately awarded course. Course identity remains controlled by the applicable curriculum record. |
-
+Integrated content does not automatically create a second separately awarded course. Course identity remains controlled by the applicable curriculum record.
 
 # 🏅 35. PROFESSIONAL TRACK STANDARD
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | Applicable majors may contain a general academic pathway and/or one or more professional certification-review tracks. |
+Applicable majors may contain a general academic pathway and/or one or more professional certification-review tracks.
 
+A professional track may add Certification Review, Certification Progression, Exam Modules, Additional Software, Certification-specific project context, Review milestones, and Final review deadlines.
 
-| Step | Progression |
-| ---: | --- |
-| 1 | A professional track may add Certification Review, Certification Progression, Exam Modules, Additional Software, Certification-specific project context, Review milestones, and Final review deadlines. |
-
-
-| Step | Progression |
-| ---: | --- |
-| 1 | The professional track remains part of the applicable academic discipline. It does not convert the academic degree into the external professional certification. |
-
+The professional track remains part of the applicable academic discipline. It does not convert the academic degree into the external professional certification.
 
 # 🚪 36. PROGRAM COMPLETION STANDARD
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | Program completion requires satisfaction of the applicable required curriculum, credit requirement, prerequisites, OA requirements, PA requirements, proctoring requirements, projects where applicable, certification-review curriculum where attached to the selected pathway, experiential requirements where applicable, capstone where applicable, applied build where applicable, supervision where applicable, state-specific requirements, law-pathway requirements, secondary-school graduation requirements, and other controlling program requirements. |
-
+Program completion requires satisfaction of the applicable required curriculum, credit requirement, prerequisites, OA requirements, PA requirements, proctoring requirements, projects where applicable, certification-review curriculum where attached to the selected pathway, experiential requirements where applicable, capstone where applicable, applied build where applicable, supervision where applicable, state-specific requirements, law-pathway requirements, secondary-school graduation requirements, and other controlling program requirements.
 
 ## High School Diploma Completion Standard
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | The High School Diploma pathway does not require a capstone. |
+The High School Diploma pathway does not require a capstone.
 
-
-| Item | Details |
-| --- | --- |
-| High school students: | — |
+High school students:
 | 1. Complete the established Grades 9–12 curriculum. | — |
 | 2. Complete the required Objective Assessment for every course. | — |
 | 3. Complete the required Performance Assessment for every course. | — |
@@ -1129,75 +934,62 @@
 | Flow | Complete High School Curriculum → OA + PA for Every Course → Every OA + PA Proctored → 120 RIAH Credits → Applicable State Requirements → Graduation Audit → No Capstone → RIAH Pathway High School Diploma. |
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | The applicable curriculum document remains controlling for course-level requirements. |
-
+The applicable curriculum document remains controlling for course-level requirements.
 
 # 🧭 37. COMPLETE RIAH ACADEMIC ARCHITECTURE FLOW
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | RIAH Pathway |
-| 2 | → Secondary School |
-| 3 |    → High School Diploma |
-| 4 |       → Grades 9–12 |
-| 5 |       → 40 Courses |
-| 6 |       → 120 Credits |
-| 7 |       → OA Every Course |
-| 8 |       → PA Every Course |
-| 9 |       → OA + PA Proctored |
-| 10 |       → No Capstone |
-| 11 |       → State Components |
-| 12 |       → Graduation Audit |
-| 13 |    → GED/HSE Preparation |
-| 14 |       → GED 101–104 |
-| 15 |       → 12 Prep Credits |
-| 16 |       → Concurrent GE up to 12 Credits |
-| 17 |       → Proctored Assessments |
-| 18 |       → Separate Official Credentialing |
-| 19 | → Postsecondary |
-| 20 |    → General Education |
-| 21 |    → School Core |
-| 22 |    → Minor |
-| 23 |    → Year 3 Major: OA + PA + Discipline Foundation |
-| 24 |    → Year 4 Major: OA + PA + Sequential Project + 4110 Capstone + PebblePad |
-| 25 |    → Master’s: 30 Credits + OA + PA + Graduate Project Life Cycle + 5110 Capstone + PebblePad |
-| 26 |    → MBA: 30 Credits + OA + PA + Management Project Life Cycle + 6110 Capstone + PebblePad |
-| 27 |    → Law: JD — 96 Credits + Non-JD State Pathways |
+```mermaid
+flowchart TD
+    N0["RIAH Pathway"] --> N1
+    N1["Secondary School"] --> N2
+    N2["High School Diploma"] --> N3
+    N3["Grades 9–12"] --> N4
+    N4["40 Courses"] --> N5
+    N5["120 Credits"] --> N6
+    N6["OA Every Course"] --> N7
+    N7["PA Every Course"] --> N8
+    N8["OA + PA Proctored"] --> N9
+    N9["No Capstone"] --> N10
+    N10["State Components"] --> N11
+    N11["Graduation Audit"] --> N12
+    N12["GED/HSE Preparation"] --> N13
+    N13["GED 101–104"] --> N14
+    N14["12 Prep Credits"] --> N15
+    N15["Concurrent GE up to 12 Credits"] --> N16
+    N16["Proctored Assessments"] --> N17
+    N17["Separate Official Credentialing"] --> N18
+    N18["Postsecondary"] --> N19
+    N19["General Education"] --> N20
+    N20["School Core"] --> N21
+    N21["Minor"] --> N22
+    N22["Year 3 Major: OA + PA + Discipline Foundation"] --> N23
+    N23["Year 4 Major: OA + PA + Sequential Project + 4110 Capstone + PebblePad"] --> N24
+    N24["Master’s: 30 Credits + OA + PA + Graduate Project Life Cycle + 5110 Capstone + PebblePad"] --> N25
+    N25["MBA: 30 Credits + OA + PA + Management Project Life Cycle + 6110 Capstone + PebblePad"] --> N26
+    N26["Law: JD — 96 Credits + Non-JD State Pathways"]
+```
 
 
 
-
-| Item | Details |
-| --- | --- |
-| High School Software Mapping | The High School Diploma curriculum also controls the course-level mapping of Edmentum instructional content to applicable RIAH high-school courses. Edmentum functions as the instructional software/content layer beneath the RIAH curriculum and does not replace RIAH course ownership or curriculum requirements. |
+High School Software Mapping — The High School Diploma curriculum also controls the course-level mapping of Edmentum instructional content to applicable RIAH high-school courses. Edmentum functions as the instructional software/content layer beneath the RIAH curriculum and does not replace RIAH course ownership or curriculum requirements.
 # ✅ 38. CONTROLLING CURRICULUM STANDARD
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | This General document establishes the shared RIAH Pathway academic architecture. |
+This General document establishes the shared RIAH Pathway academic architecture.
 
-
-| Item | Details |
-| --- | --- |
-| The detailed curriculum remains controlled by: | — |
+The detailed curriculum remains controlled by:
 | DegreeCurriculum.md | degree, major, minor, School Core, Master’s, MBA, JD, Non-JD, certification-track, software, assessment, project, capstone, applied-build, experiential, and supervision details. |
 | GEDCurriculumDraft.md | GED/HSE preparation, concurrent General Education, assessment, proctoring, learning-package, Edmentum, HiSET, and preparation-versus-credentialing structure. |
 | HSDiplomaDraft.md | Grades 9–12 curriculum, course prerequisites, 120-credit structure, state components, graduation controls, diploma availability, secondary-school progression, and the proctored OA + PA assessment requirement for every high-school course with no high-school capstone requirement. |
 
 
-| Step | Progression |
-| ---: | --- |
-| 1 | Where a detailed curriculum document expressly establishes a course-specific or pathway-specific requirement, that controlling detailed curriculum governs the applicable course or pathway. |
+Where a detailed curriculum document expressly establishes a course-specific or pathway-specific requirement, that controlling detailed curriculum governs the applicable course or pathway.
 
-
-| Step | Progression |
-| ---: | --- |
-| 1 | General Architecture → Applicable Controlling Curriculum → Course / Pathway Requirements → Academic Progression → OA + PA Where Applicable → Proctoring Where Required → Project / Experiential / Capstone Where Applicable → Program Completion. |
-
+```mermaid
+flowchart TD
+    N0["General Architecture → Applicable Controlling Curriculum → Course / Pathway Requirements → Academic Progression → OA + PA Where Applicable → Proctoring Where Required → Project / Experiential / Capstone Where Applicable → Program Completion."]
+```
 
 # 👑 RIAH PATHWAY
 | Item | Details |
