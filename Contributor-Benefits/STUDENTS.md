@@ -1,6 +1,72 @@
+---
+document_type: contributor-benefit-framework
+track: "Education & Experiential Graduate"
+status: "In Progress — Review and Finalization Required"
+benefit_system: "RIAH Pathway"
+flow_status: "draft-review"
+---
+
 # 🎓 Students — Education & Experiential Pathway Graduates
 
 **Status: In Progress — Review and Finalization Required**
+
+## 🎓 Category Key
+
+| Emoji | Meaning |
+|---|---|
+| 🎓 | Education & Experiential Graduate |
+| 👑 | Approved eligibility or contribution |
+| ⭐ | Approved points |
+| 🏆 | Completed milestone |
+| 🎓 | Tuition benefit |
+| 🛍️ | Product benefit |
+| 🔗 | QR, referral, routing or attribution |
+| 🎪 | Event, workshop or outreach |
+| 🎥 | Webinar, presentation, video or media |
+| 👀 | Under review |
+| 🔄 | Revision or re-verification |
+| ✅ | Approved or verified |
+| ❌ | Rejected or ineligible |
+
+## 🎓 End-to-End Category Flow
+
+```mermaid
+flowchart TB
+A["🎓 Student Enters Eligible Education or Experiential Pathway"] --> B["📚 Complete Required Courses, Modules, Assessments & Projects"]
+B --> C["💼 Complete Placements / Experiential Requirements When Applicable"]
+C --> D["🏆 Complete Capstone, Documentation & Administrative Requirements"]
+D --> E["✅ RIAH Verifies Entire Pathway Completion"]
+E --> F["⭐ Automatic 1,000 Graduate Points"]
+F --> G["🎓 Guaranteed 10% Eligible Tuition Benefit"]
+G --> H["👑 Approved Graduate Participation"]
+H --> I["⭐ Alumni Events, Mentoring, Orientation, Webinars, Workshops, Resources, Research & Initiatives"]
+I --> J["👀 Verification"]
+J --> K["📋 Add Approved Graduate Points"]
+K --> L{"🏆 Each Additional 100 Points?"}
+L -- No --> M["⭐ Carry Points Forward"]
+L -- Yes --> N["🎓 +1% Eligible Tuition"]
+N --> O{"👑 5,000 Total Points?"}
+O -- No --> H
+O -- Yes --> P["👑🎓 50% Tuition Maximum"]
+P --> Q["🛍️ Graduate Product Benefit = None"]
+```
+
+## ⚙️ Flow Metadata
+
+```yaml
+track: "Education & Experiential Graduate"
+profile_category: "Student / Graduate"
+status: "in-progress"
+verification_required: true
+points_require_approval: true
+benefit_record_required: true
+review_state:
+  - pending
+  - under-review
+  - revision-if-required
+  - approved
+  - credited
+```
 
 ## 📑 Index
 
