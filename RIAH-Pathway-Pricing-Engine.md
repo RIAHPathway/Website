@@ -1348,8 +1348,12 @@ required pathway year.
 Current Experiential records: Three-Month Experiential \$2,500; Intern
 \$5,000; Associate \$10,000; Senior Associate \$10,000; Manager
 \$10,000; Executive \$10,000. Experiential eligibility is not placement.
-Preserve Eligible → Selected → Placement/Commitment Requirements
-Satisfied as separate states.
+Preserve these as separate states:
+
+```mermaid
+flowchart LR
+A["Eligible"] --> B["Selected"] --> C["Placement / Commitment Requirements Satisfied"]
+```
 
 For an eligible Education + Experiential combination: Combined Standard
 = Education Standard + Experiential Standard. Structural Combination
@@ -2636,7 +2640,10 @@ Using the **$40,000 JD** example:
 The exact JD per-course dollar amount must not be displayed until the JD course count is configured.
 
 
-**Pay Course 1 in Full → Course 1 Unlocks → Complete Course 1 → Pay Course 2 → Course 2 Unlocks**
+```mermaid
+flowchart LR
+A["Pay Course 1 in Full"] --> B["Course 1 Unlocks"] --> C["Complete Course 1"] --> D["Pay Course 2"] --> E["Course 2 Unlocks"]
+```
 
 
 The process continues sequentially. Students may accelerate by completing courses and satisfying the next applicable course payment more quickly.
