@@ -1,19 +1,31 @@
-# 02 — ABOUT
-## RIAH Pathway Website Wireframe
+# 👑 RIAH PATHWAY — 02 ABOUT
+## WEBSITE WIREFRAME
 
-## Wireframe Control
+---
 
-This wireframe follows the Website Final wireframe instructions and the current 01–12 website architecture used in this chat. The page uses one primary hero video, purposeful images, professional icon placeholders, the approved CTA families, one Drop Form, public SuiteDash destinations for living policies and resources, minimal downloads, responsive accessibility requirements, and end of page routing, media, CTA, and download audits.
+# WIREFRAME BUILD KEY
 
-The About page includes Overview, Why RIAH, Ecosystem, Schools, Leadership, Boards and Governance, External Pillars, Institutional Identity, Policies, News and Press, Contact About, and connected links to the approved 01–12 website pages.
+- **VIDEO PLACEHOLDER** — Principal institutional video
+- **IMAGE PLACEHOLDER** — Purposeful institutional imagery
+- **ICON PLACEHOLDER** — Professional website icon
+- **DIAGRAM PLACEHOLDER** — Structured visual explanation
+- **CARD** — School, ecosystem, resource, pathway, or navigation card
+- **BUTTON** — Approved CTA
+- **INTERNAL LINK** — Exact numbered RIAH Pathway website destination
+- **EXTERNAL LINK** — Approved public-facing platform or resource
+- **DOWNLOAD** — Approved public document routed through SuiteDash
+- **ANCHOR** — Same-page destination
+- **STATUS** — Implementation state
 
 ---
 
 # GLOBAL HEADER
 
-[LOGO PLACEHOLDER — RIAH PATHWAY]
+[LOGO IMAGE — RIAH Pathway institutional logo with approved crown treatment]
 
-## Primary Navigation
+[SLOGAN — ONE DYNASTY. INFINITE LEGACIES.]
+
+## GLOBAL NAVIGATION — PAGES 01–13
 
 [INTERNAL LINK — 01 — HOME]
 
@@ -21,1335 +33,813 @@ The About page includes Overview, Why RIAH, Ecosystem, Schools, Leadership, Boar
 
 [INTERNAL LINK — 03 — PATHWAY]
 
-[INTERNAL LINK — 04 — ADMISSIONS]
+[INTERNAL LINK — 04 — CURRICULUM]
 
-[INTERNAL LINK — 05 — TUITION]
+[INTERNAL LINK — 05 — ADMISSIONS]
 
-[INTERNAL LINK — 06 — DONATIONS]
+[INTERNAL LINK — 06 — TUITION]
 
-[INTERNAL LINK — 07 — PRODUCTS]
+[INTERNAL LINK — 07 — DONATIONS]
 
-[INTERNAL LINK — 08 — ACCREDITATION]
+[INTERNAL LINK — 08 — PRODUCTS]
 
-[INTERNAL LINK — 09 — JOIN US]
+[INTERNAL LINK — 09 — ACCREDITATION & AUTHORIZATION]
 
-[INTERNAL LINK — 10 — RESOURCES]
+[INTERNAL LINK — 10 — JOIN US]
 
-[INTERNAL LINK — 11 — FAQ]
+[INTERNAL LINK — 11 — RESOURCES]
 
-[INTERNAL LINK — 12 — CONTACT]
+[INTERNAL LINK — 12 — FAQ]
 
-[BUTTON — APPLY NOW → EXTERNAL — CLASSE365]
+[INTERNAL LINK — 13 — CONTACT]
 
----
+[PRIMARY GLOBAL CTA — Explore Pathways → 03 Pathway]
 
-# ABOUT PAGE SECTION NAVIGATION
+[GLOBAL HEADER LINK — Portal → portal.RIAHPathway.com]
 
-[INTERNAL LINK — OVERVIEW → 02 — ABOUT → OVERVIEW]
+[GLOBAL HEADER LINK — Apply → 05 Admissions]
 
-[INTERNAL LINK — WHY RIAH → 02 — ABOUT → WHY RIAH]
+[GLOBAL HEADER LINK — Contact → 13 Contact]
 
-[INTERNAL LINK — ECOSYSTEM → 02 — ABOUT → ECOSYSTEM]
-
-[INTERNAL LINK — SCHOOLS → 02 — ABOUT → SCHOOLS]
-
-[INTERNAL LINK — LEADERSHIP → 02 — ABOUT → LEADERSHIP]
-
-[INTERNAL LINK — BOARDS AND GOVERNANCE → 02 — ABOUT → BOARDS AND GOVERNANCE]
-
-[INTERNAL LINK — EXTERNAL PILLARS → 02 — ABOUT → EXTERNAL PILLARS]
-
-[INTERNAL LINK — INSTITUTIONAL IDENTITY → 02 — ABOUT → INSTITUTIONAL IDENTITY]
-
-[INTERNAL LINK — POLICIES → 02 — ABOUT → POLICIES]
-
-[INTERNAL LINK — NEWS AND PRESS → 02 — ABOUT → NEWS AND PRESS]
-
-[INTERNAL LINK — CONTACT ABOUT → 02 — ABOUT → CONTACT ABOUT]
+[EXTERNAL DOCUMENTATION LINK — Public Documentation → SuiteDash Public Documentation Center]
 
 ---
 
-# SECTION 01 — HERO
+# 02.0 — ABOUT PAGE HERO
 
-[SECTION BACKGROUND — BLACK, RED, AND WHITE INSTITUTIONAL HERO]
+[HERO VIDEO OR IMAGE — Full-width institutional media showing students, faculty, experiential professionals, leadership, technology-supported learning, professional environments, community activities, products, and RIAH Pathway branding]
 
-### ABOUT RIAH PATHWAY
+[SUPPORTING IMAGE — Student working with a human faculty member or professional supervisor]
 
-# ONE DYNASTY. INFINITE LEGACIES.
+[PAGE EYEBROW — ABOUT RIAH PATHWAY]
 
-RIAH Pathway is an interconnected education, experience, certification, career, community, and professional development ecosystem built to help people enter at different stages and move through a connected pathway toward opportunity.
+# One Connected Pathway for Education, Experience, Careers, and Professional Growth
 
-RIAH Pathway connects academic learning, experiential learning, professional preparation, certification and professional review, career opportunity, student community, institutional support, and long term legacy within one ecosystem.
+RIAH Pathway is a human-led, technology-supported institutional ecosystem connecting education, experiential learning, certification and review, career development, community, products, professional development, and lifelong learning within one coordinated pathway.
 
-**Supporting line:**
+The ecosystem is designed to connect what students learn with what they practice, build, experience, demonstrate, and carry forward into professional environments.
 
-**Education + Experience + Certification = Career Trifecta.**
+RIAH Pathway brings together academic leadership, faculty, experiential professionals, technology, cybersecurity, operations, finance and accounting, legal and compliance functions, professional services, strategic partnerships, employers, community relationships, and specialized systems within one institutional structure.
 
-[ICON PLACEHOLDER — GRADUATION CAP — EDUCATION]
+Students and participants are not limited to a single educational interaction. The broader model creates pathways through education, professional preparation, applied experience, certification preparation, career development, community, and continued professional growth.
 
-[ICON PLACEHOLDER — BRIEFCASE — EXPERIENCE]
+[PRIMARY HERO CTA — Explore the RIAH Pathway → 03 Pathway]
 
-[ICON PLACEHOLDER — CERTIFICATE — CERTIFICATION]
+[SECONDARY HERO CTA — Explore Our Schools → 02.3 Schools]
 
-[ICON PLACEHOLDER — UPWARD PATH — CAREER]
+[INTERNAL LINK — Our Ecosystem → 02.2 Ecosystem]
 
-## Hero Video
+[INTERNAL LINK — Curriculum → 04 Curriculum]
 
-[VIDEO PLACEHOLDER — ABOUT RIAH PATHWAY HERO VIDEO]
+[INTERNAL LINK — Admissions → 05 Admissions]
 
-**Purpose:**
-Introduce the RIAH Pathway story, institutional purpose, Career Trifecta, schools, pathways, leadership, community, and the idea of one connected ecosystem.
+[DOWNLOAD — RIAH Pathway Institutional Overview PDF → SuiteDash Public Documentation Center]
 
-**Visual Direction:**
-Founder and leadership moments, students and learners, professional environments, academic environments, supervised experiential activity, institutional branding, pathway graphics, community, and career progression. Avoid unnecessary backend or internal operational visuals.
-
-**Content:**
-About RIAH Pathway, One Dynasty. Infinite Legacies., Career Trifecta, Accessible, Affordable, Elite, Rigorous, ecosystem, schools, leadership, community, and pathway to career progression.
-
-**Controls:**
-Play, Pause, Captions, Full Screen
-
-**Poster Image:**
-
-[IMAGE PLACEHOLDER — ABOUT HERO VIDEO POSTER]
-
-**Type:** Institutional Hero
-
-**Visual:** Students, professionals, educators, and pathway imagery connected in one branded composition.
-
-**Purpose:** Establish the institution and connected ecosystem concept immediately.
-
-**Alt Text:** Students, educators, and professionals representing the connected RIAH Pathway education, experience, certification, and career ecosystem.
-
-## Hero CTAs
-
-[BUTTON — LEARN MORE: EXPLORE PATHWAYS → 03 — PATHWAY]
-
-[BUTTON — APPLY NOW → 04 — ADMISSIONS]
-
-[BUTTON — GET STARTED: REQUEST INFORMATION → 02 — ABOUT → CONTACT ABOUT FORM]
+[DOWNLOAD — RIAH Pathway Ecosystem Overview PDF → SuiteDash Public Documentation Center]
 
 ---
 
-# SECTION 02 — OVERVIEW
+# 02.1 — OVERVIEW
 
-[SECTION BACKGROUND — WHITE]
+[SECTION IMAGE — Wide institutional ecosystem image showing education, professional experience, technology, career development, community, and institutional resources]
 
-[ICON PLACEHOLDER — CROWN — INSTITUTIONAL OVERVIEW]
+[SECONDARY IMAGE — Students and professionals collaborating in an academic or professional environment]
 
-## WHO WE ARE
+# Built as an Ecosystem, Not a Standalone Program
 
-RIAH Pathway is structured as a connected pathway rather than a collection of disconnected educational, experiential, professional, and career services. The institution is designed so learners can enter at different stages and connect education, applied experience, professional preparation, career development, community, and legacy within the broader ecosystem.
+Education, experience, professional development, technology, career preparation, and community operate within one connected institutional structure.
 
-## FOUNDER AND CEO
+RIAH Pathway is designed around a connected institutional model rather than a collection of disconnected programs, courses, products, and services.
 
-### MARIAH DOMINIQUE RUCKER — FOUNDER AND CEO
+The ecosystem brings together multiple stages of a participant's educational and professional journey.
 
-[IMAGE PLACEHOLDER — FOUNDER AND CEO PORTRAIT]
+A participant may enter through a high school diploma pathway, GED or HSE preparation, an academic pathway, an experiential pathway, certification preparation, professional development, or another approved entry point.
 
-**Type:** Institutional Leadership
+From there, RIAH Pathway connects participants with the appropriate education, curriculum, experiential opportunities, professional supervision, resources, technology, community, career development, and continued learning opportunities.
 
-**Visual:** Professional Founder and CEO portrait using the institutional visual system.
+The objective is to create continuity between:
 
-**Purpose:** Humanize the institution and establish founder leadership.
+- Education
+- Curriculum
+- Applied learning
+- Experiential learning
+- Professional supervision
+- Certification and review
+- Career preparation
+- Career development
+- Community
+- Products and learning resources
+- Professional development
+- Alumni engagement
+- Lifelong learning
 
-**Alt Text:** Professional portrait of RIAH Pathway Founder and CEO Mariah Dominique Rucker.
+The operating principle is human-led and technology-supported. Technology supports scale, routing, automation, analytics, workflows, documentation, communication, administrative efficiency, system integration, record organization, scheduling, tracking, reporting, and other appropriate operational functions.
 
-[ICON PLACEHOLDER — EXECUTIVE LEADERSHIP — FOUNDER]
+Human professionals retain supervision, management, substantive review, judgment, academic responsibility, curriculum responsibility, cybersecurity leadership, financial responsibility, legal responsibility, compliance responsibility, governance responsibility, and institutional decision-making.
 
-The Founder and CEO is the originator and executive sponsor of the RIAH Pathway concept, pathway architecture, organizational model, institutional direction, programs, systems, content, digital infrastructure, and launch build. Public biography content should remain focused on verified education, professional experience, credentials, accomplishments, institutional vision, and current leadership responsibilities.
+[INFOGRAPHIC IMAGE — RIAH Pathway ecosystem showing Education, Experiential Learning, Certification and Review, Career Development, Community, Products, Professional Development, and Alumni surrounding the participant journey]
 
-### Founder Story Direction
+## OUR INSTITUTIONAL MODEL
 
-The public Founder story should reflect education, certifications, professional experience, entrepreneurship, setbacks, rebuilding, financial strain, lessons learned, and lived experience without presenting a perfect origin story.
+[SECTION IMAGE — Institutional pathway graphic showing a participant progressing from education through experiential learning, certification, career development, alumni, and lifelong learning]
 
-The Founder story should connect those experiences to the institutional focus on access, affordability, opportunity, funding awareness, reinvestment, student support, and the belief that progress can continue from different starting points.
+RIAH Pathway connects educational and professional development functions that are often separated across multiple organizations, platforms, and experiences.
 
-### NOTHING HERE IS ACCIDENTAL.
+Academic learning establishes knowledge. Projects, assessments, and capstones provide opportunities to demonstrate learning. Experiential pathways provide structured professional exposure and supervised application. Certification and review support preparation for applicable professional credentials and examinations. Career development connects participants with professional preparation, employer engagement, and workforce opportunities. Community connects participants with peers, faculty, professionals, alumni, organizations, and the broader RIAH Pathway ecosystem. Products and resources reinforce learning, preparation, organization, review, and professional development. Technology connects these functions without replacing the professionals responsible for them.
 
-RIAH Pathway’s pathways, school identities, colors, crests, welcome experiences, language, products, traditions, and broader ecosystem are intentionally designed around belonging, progress, opportunity, transformation, and legacy.
+[INTERNAL LINK — Explore Pathways → 03 Pathway]
 
-**Founder message:**
+[INTERNAL LINK — Explore Curriculum → 04 Curriculum]
 
-No matter where you begin, the direction can still be forward.
+[INTERNAL LINK — Admissions → 05 Admissions]
 
-[BUTTON — LEARN MORE: EXPLORE LEADERSHIP → 02 — ABOUT → LEADERSHIP]
+[INTERNAL LINK — Tuition and Student Cost Information → 06 Tuition]
 
----
+[DOWNLOAD — Institutional Model Overview PDF → SuiteDash Public Documentation Center]
 
-## MISSION
+## RIAH PATHWAY PUBLIC ARCHITECTURE
 
-[ICON PLACEHOLDER — COMPASS — MISSION]
+[SECTION IMAGE — Digital ecosystem image showing desktop, tablet, and mobile access to RIAH Pathway]
 
-### CONNECT EDUCATION TO WHAT COMES NEXT.
+RIAHPathway.com serves as the primary canonical public website.
 
-RIAH Pathway connects academic learning, experiential learning, professional preparation, certification and professional review, career opportunity, student community, and long term legacy within one ecosystem.
+RIAHPathway.edu serves as the education and pathways entry domain.
 
-The institutional model is designed around accessibility, affordability, rigor, applied experience, professional preparation, human centered support, accountability, and clear institutional development.
+RIAHPathway.org serves as the philanthropic and donations entry domain.
 
----
+portal.RIAHPathway.com serves as the centralized system gateway for education, admissions, careers, and onboarding.
 
-## OUR STORY
+These destinations operate within one connected architecture rather than functioning as duplicate public websites.
 
-[ICON PLACEHOLDER — PATH — STORY]
+The established public website consists of Pages 01 through 13.
 
-### BUILT FROM EXPERIENCE. DESIGNED FOR FORWARD MOVEMENT.
+The portal provides centralized access to the systems participants use after moving from public information into institutional processes.
 
-RIAH Pathway was developed from the connection between education, professional experience, certifications, skills, entrepreneurship, rebuilding, and the belief that opportunity should remain possible throughout a person’s journey.
+[DIAGRAM IMAGE — Public website architecture showing RIAHPathway.com as the primary public website, RIAHPathway.edu and RIAHPathway.org as branded entry domains, and portal.RIAHPathway.com as the centralized systems gateway]
 
-The larger story is not simply about where someone begins. It is about creating a structure that connects learning, experience, professional preparation, career opportunity, community, and legacy.
+[INTERNAL LINK — Home → 01 Home]
 
----
+[INTERNAL LINK — Resources → 11 Resources]
 
-## VISION
+[INTERNAL LINK — FAQ → 12 FAQ]
 
-[ICON PLACEHOLDER — HORIZON — VISION]
+[INTERNAL LINK — Contact → 13 Contact]
 
-### DIFFERENT PATHS. ONE CONNECTED ECOSYSTEM.
+[EXTERNAL LINK — Portal → portal.RIAHPathway.com]
 
-The vision is an interconnected ecosystem in which people can enter at different stages, build through applicable education and professional pathways, gain experience where available, prepare for professional credentials where applicable, develop career readiness, participate in community, and continue into alumni and legacy opportunities.
+[EXTERNAL LINK — Public Documentation Center → SuiteDash Public Documentation Center]
 
-[BUTTON — LEARN MORE: EXPLORE THE PATHWAY → 03 — PATHWAY]
-
----
-
-# SECTION 03 — WHY RIAH
-
-[SECTION BACKGROUND — LIGHT SILVER AND WHITE]
-
-## ACCESSIBLE. AFFORDABLE. ELITE. RIGOROUS.
-
-These four principles form the public facing foundation of the RIAH Pathway institutional value proposition.
-
-### ACCESSIBLE
-
-[ICON PLACEHOLDER — OPEN DOOR — ACCESS]
-
-Multiple entry points and pathway types support people entering from different stages of education, professional development, credential preparation, or career progression.
-
-[INTERNAL LINK — EXPLORE ADMISSIONS → 04 — ADMISSIONS]
-
-### AFFORDABLE
-
-[ICON PLACEHOLDER — CALCULATOR — AFFORDABILITY]
-
-Tuition, payment, applicable funding, reimbursement, scholarships, grants, and other approved support structures are designed to help visitors understand costs and available options before commitment.
-
-[INTERNAL LINK — VIEW TUITION → 05 — TUITION]
-
-[INTERNAL LINK — VIEW FOUNDATION AND FUNDING INFORMATION → 06 — DONATIONS → FOUNDATION]
-
-### ELITE
-
-[ICON PLACEHOLDER — STAR BADGE — EXCELLENCE]
-
-High expectations apply to curriculum, professional preparation, assessment, applied experience where applicable, completion standards, and institutional development.
-
-[INTERNAL LINK — EXPLORE PATHWAYS → 03 — PATHWAY]
-
-### RIGOROUS
-
-[ICON PLACEHOLDER — SHIELD CHECK — RIGOR]
-
-Structured progression may include assessment, proctoring where applicable, supervision, review, demonstrated competency, and defined completion requirements.
-
-[INTERNAL LINK — VIEW ACCREDITATION AND STATUS → 08 — ACCREDITATION]
+[DOWNLOAD — Website and Ecosystem Navigation Guide PDF → SuiteDash Public Documentation Center]
 
 ---
 
-# SECTION 04 — ECOSYSTEM
+# 02.2 — ECOSYSTEM
 
-[SECTION BACKGROUND — BLACK]
+[SECTION HERO IMAGE — Students, professionals, technology, faculty, products, employers, and community members represented within one connected ecosystem]
 
-## DIFFERENT PATHS. ONE CONNECTED ECOSYSTEM.
+# The RIAH Pathway Ecosystem
 
-RIAH Pathway connects students, schools, academic pathways, faculty, leadership, experiential professionals, employers, partners, external professional pillars, community, foundation support, donors, alumni, and long term legacy around four central outcomes: Education, Experience, Certification and Professional Review, and Career.
+One institutional framework connecting the major stages of education and professional development.
 
-[IMAGE PLACEHOLDER — RIAH PATHWAY ECOSYSTEM MAP]
+RIAH Pathway establishes defined pathways between education, experiential learning, certification and review, career development, community, products, professional development, alumni engagement, and lifelong learning.
 
-**Type:** Institutional Diagram
+[CARD GROUP — RIAH PATHWAY ECOSYSTEM]
 
-**Visual:** RIAH Pathway at the center, with Education, Experience, Certification and Professional Review, and Career as the primary ring. People, schools, partners, community, Foundation support, donors, and alumni form the outer ecosystem.
+[CARD — Education]
+[IMAGE — Student engaged in structured academic learning]
+Academic pathways combine structured curriculum, general education where applicable, school cores, majors, upper-division study, professional preparation, assessments, projects, and capstones.
+[CARD CTA — Explore Education → 03 Pathway]
 
-**Purpose:** Show the relationships visually without exposing unnecessary internal systems architecture.
+[CARD — Experiential Learning]
+[IMAGE — Participant working with professional supervisor]
+Structured professional experiences connect learning with supervised application through Supervisors, Managers, Reviewers, technology, documentation, feedback, evaluation, and professional accountability.
+[CARD CTA — Explore Experiential → 03.5 Experiential Pathway]
 
-**Alt Text:** Diagram showing RIAH Pathway connecting education, experience, certification, career, schools, people, partners, community, Foundation support, donors, and alumni.
+[CARD — Certification and Review]
+[IMAGE — Certification preparation materials, textbook, workstation, and practice environment]
+Certification review and professional preparation connect applicable curriculum with industry credentials, examination preparation, professional standards, simulations, practice activities, and review resources.
+[CARD CTA — Explore Certification → 03.6 Certification Pathway]
 
-### EDUCATION
+[CARD — Career Development]
+[IMAGE — Professional career-development environment]
+Career preparation connects education and experience with employers, career resources, workplace expectations, professional networks, experiential opportunities, and workforce preparation.
+[CARD CTA — Explore Opportunities → 10 Join Us]
 
-[ICON PLACEHOLDER — GRADUATION CAP — EDUCATION]
+[CARD — Community]
+[IMAGE — Cohort or community gathering]
+Students, cohort members, alumni, faculty, experiential professionals, ambassadors, employers, partners, organizations, and institutional personnel participate within a broader community extending beyond coursework.
+[CARD CTA — Explore Student Life → 10.2 Student Life]
 
-Academic and educational pathways include degree, law, high school, GED and HSE, certification and review, and other applicable learning routes.
+[CARD — Products]
+[IMAGE — Physical RIAH Pathway books, workbooks, journals, planners, study guides, and flashcards]
+RIAH Pathway's physical-first educational and professional products support learning, review, preparation, organization, certification preparation, academic progression, and professional development.
+[CARD CTA — Explore Products → 08 Products]
 
-[INTERNAL LINK — EDUCATION PATHWAYS → 03 — PATHWAY]
+[CARD — Professional Development]
+[IMAGE — Professional training, workshop, mentoring, or coaching session]
+Training, mentoring, coaching, experiential learning, certification preparation, career development, continuing education resources, workshops, webinars, conferences, and other professional opportunities support continued growth.
+[CARD CTA — Explore Resources → 11 Resources]
 
-### EXPERIENCE
+[DOWNLOAD — RIAH Pathway Ecosystem Guide PDF → SuiteDash Public Documentation Center]
 
-[ICON PLACEHOLDER — BRIEFCASE — EXPERIENCE]
+[DOWNLOAD — Participant Pathway Guide PDF → SuiteDash Public Documentation Center]
 
-Applicable experiential opportunities connect participants to structured professional activity with defined supervision, management, review, milestones, evidence, and completion expectations.
+## THE PARTICIPANT JOURNEY
 
-[INTERNAL LINK — EXPERIENTIAL PATHWAY → 03 — PATHWAY → EXPERIENTIAL PATHWAY]
+[PROCESS INFOGRAPHIC IMAGE — CONNECTED RIAH PATHWAY EXPERIENCE]
 
-### CERTIFICATION AND PROFESSIONAL REVIEW
+01 Discover → 02 Choose a Pathway → 03 Apply or Enter → 04 Onboard → 05 Learn → 06 Apply → 07 Demonstrate → 08 Progress → 09 Connect → 10 Continue
 
-[ICON PLACEHOLDER — CREDENTIAL — CERTIFICATION]
+[INTERNAL LINK — Pathway → 03 Pathway]
 
-Applicable review and professional preparation pathways connect education and career goals with credential focused preparation.
+[INTERNAL LINK — Curriculum → 04 Curriculum]
 
-[INTERNAL LINK — CERTIFICATION PATHWAY → 03 — PATHWAY → CERTIFICATION PATHWAY]
+[INTERNAL LINK — Admissions → 05 Admissions]
 
-### CAREER
+[DOWNLOAD — Participant Journey Roadmap PDF → SuiteDash Public Documentation Center]
 
-[ICON PLACEHOLDER — UPWARD PATH — CAREER]
+[EXTERNAL LINK — Public Forms → SuiteDash Public Documentation Center]
 
-Career development connects learning and applied experience with professional development, employers, opportunity, alumni relationships, and continued advancement.
+[EXTERNAL LINK — Public Guidelines → SuiteDash Public Documentation Center]
 
-[INTERNAL LINK — CAREERS → 09 — JOIN US → CAREERS]
+## INTERNAL OPERATIONAL CAPABILITY
 
-[BUTTON — LEARN MORE: EXPLORE THE FULL PATHWAY → 03 — PATHWAY]
+[SECTION IMAGE — Cross-functional institutional team showing leadership, faculty, technology, cybersecurity, experiential professionals, and operational personnel]
+
+RIAH Pathway is structured to maintain meaningful institutional capabilities internally rather than outsourcing responsibility for the core operation of the institution.
+
+Internal functions include executive leadership, academic leadership, Deans, core faculty, adjunct faculty, experiential personnel, Supervisors, Managers, Reviewers, program management, project management, technology architecture and development, cybersecurity, finance and accounting, legal and compliance, institutional operations, recruitment, customer service, ambassadors, backend institutional personnel, and other approved institutional roles.
+
+At scale, the fixed internal organization is structured around approximately **173 team members**, supported by demand-based student supervision, strategic professional relationships, employers, partners, and specialized technology providers where applicable.
+
+### AT-SCALE INTERNAL ORGANIZATION
+
+- Executive Leadership — 5
+- Technology Architecture and Development — 4
+- Cybersecurity Red, Blue, and Purple Team — 3
+- Experiential Team — 120
+- Program Management — 4
+- Project Management — 4
+- Deans — 5
+- PhD Core Academic Faculty — 14
+- Adjunct Faculty — 14
+- Total Internal Team at Scale — 173
+
+[DOWNLOAD — Organizational Overview PDF → SuiteDash Public Documentation Center]
+
+[INTERNAL LINK — Join Us → 10 Join Us]
+
+## EXPERIENTIAL OPERATING MODEL
+
+[SECTION IMAGE — Professional supervisor meeting with participant in an applied work environment]
+
+[DIAGRAM IMAGE — Technology-supported experiential supervision model showing participants connected independently to Supervisors, Managers, and Reviewers]
+
+RIAH Pathway's experiential model combines human professional supervision with technology-supported administration.
+
+At scale, the model supports up to 1,000 participants through 40 Supervisors, 40 Managers, and 40 Reviewers, creating 120 experiential professionals.
+
+The structure uses an independent technology-supported **1 to 25 assignment model** for each professional category.
+
+### Supervisor
+
+Direct professional supervision, applied-learning guidance, coaching, participant support, intervention, performance discussion, professional guidance, and professional judgment.
+
+### Manager
+
+Participant management, performance management, coordination, workflow exceptions, escalation, decisions, and accountability.
+
+### Reviewer
+
+Substantive review, evaluation, feedback, quality review, approval, and professional judgment.
+
+Technology supports these professionals through routing, tracking, reminders, documentation, scheduling, data organization, repetitive communications, dashboard preparation, reporting, record organization, and workflow movement.
+
+Technology does not replace professional supervision, management, evaluation, approval, or judgment.
+
+[CTA — Explore Experiential Pathways → 03.5 Experiential Pathway]
+
+[DOWNLOAD — Experiential Program Overview PDF → SuiteDash Public Documentation Center]
+
+[DOWNLOAD — Experiential Participant Handbook PDF → SuiteDash Public Documentation Center]
+
+[DOWNLOAD — Experiential Rules and Guidelines PDF → SuiteDash Public Documentation Center]
+
+[EXTERNAL LINK — Experiential Forms → SuiteDash Public Documentation Center]
+
+## TECHNOLOGY-SUPPORTED INSTITUTIONAL ARCHITECTURE
+
+[SECTION IMAGE — Technology professionals working with integrated institutional systems]
+
+# Technology Connects the Ecosystem
+
+RIAH Pathway uses specialized third-party systems where those platforms provide appropriate capabilities while connecting approved systems through internal technology architecture, automation, integrations, security controls, and the evolving proprietary RIAH Pathway App and Ecosystem Software layer.
+
+Internal responsibility includes CTO leadership, CISO leadership, technology personnel, cybersecurity personnel, backend personnel, technology infrastructure, cloud infrastructure, application development, software integration, automation, workflow development, approved third-party application integrations, access management, cybersecurity controls, security monitoring, operational technology systems, institutional system administration, data and system connectivity, and development of proprietary institutional technology.
+
+[DIAGRAM IMAGE — Human institutional leadership at the center, connected to internal technology and cybersecurity architecture, approved third-party systems, automation, integrations, RIAH Pathway App, and Ecosystem Software]
+
+Human professionals remain responsible for decisions requiring professional, academic, managerial, financial, legal, compliance, security, and institutional judgment.
+
+[DOWNLOAD — Technology and Systems Overview PDF → SuiteDash Public Documentation Center]
+
+[DOWNLOAD — Technology Acceptable Use Policy PDF → SuiteDash Public Documentation Center]
+
+[EXTERNAL LINK — Technology Policies and Procedures → SuiteDash Public Documentation Center]
+
+[INTERNAL LINK — School of Technology → 04.5 School of Technology]
+
+## INTERNAL FINANCE AND ACCOUNTING CAPABILITY
+
+[SECTION IMAGE — Professional finance and accounting team reviewing institutional financial information]
+
+RIAH Pathway maintains internal finance and accounting capabilities through appropriate institutional leadership, accounting personnel, financial personnel, and professional expertise.
+
+Functions include institutional accounting, financial administration, financial controls, budgeting, reporting, financial oversight, student-account coordination, payment administration, financial records, internal financial processes, and applicable compliance responsibilities.
+
+External CPA firms may be engaged where professional independence is appropriate or required, including applicable external audit functions. External professional firms supplement appropriate institutional functions rather than replacing internal finance and accounting capabilities.
+
+[INTERNAL LINK — Tuition → 06 Tuition]
+
+[INTERNAL LINK — Donations → 07 Donations]
+
+[DOWNLOAD — Student Cost Guide PDF → SuiteDash Public Documentation Center]
+
+[DOWNLOAD — Financial Policies and Procedures PDF → SuiteDash Public Documentation Center]
+
+[EXTERNAL LINK — Financial Forms → SuiteDash Public Documentation Center]
+
+## INTERNAL LEGAL AND COMPLIANCE CAPABILITY
+
+[SECTION IMAGE — Legal and compliance professionals reviewing institutional documents]
+
+RIAH Pathway maintains legal and compliance capabilities through appropriate attorneys, legal professionals, compliance personnel, institutional leadership, and professional expertise.
+
+Functions support institutional legal matters, compliance, policy, governance, risk, agreements, regulatory matters, authorization matters, accreditation-related support, institutional procedures, professional review, and applicable legal and compliance responsibilities.
+
+External law firms and other legal professionals may participate where specialized representation, independent professional services, experiential opportunities, partnerships, or other appropriate relationships are required.
+
+[INTERNAL LINK — Accreditation and Authorization → 09 Accreditation & Authorization]
+
+[DOWNLOAD — Institutional Policies PDF → SuiteDash Public Documentation Center]
+
+[DOWNLOAD — Compliance Guidelines PDF → SuiteDash Public Documentation Center]
+
+[EXTERNAL LINK — Policies, Procedures, Rules and Guidelines → SuiteDash Public Documentation Center]
+
+## TRAINING AND PROFESSIONAL DEVELOPMENT RELATIONSHIPS
+
+[SECTION IMAGE — Faculty and professionals participating in a training workshop]
+
+RIAH Pathway may maintain training-provider relationships supporting curriculum training, faculty development, experiential training, professional development, instructional implementation, workforce preparation, professional skills, training connected to curriculum, training connected to experiential experiences, and institutional implementation support.
+
+Training relationships coordinate with appropriate RIAH Pathway leadership, including academic leadership and applicable learning leadership.
+
+[INTERNAL LINK — Resources → 11 Resources]
+
+[DOWNLOAD — Professional Development Guide PDF → SuiteDash Public Documentation Center]
+
+## STRATEGIC EXTERNAL RELATIONSHIPS
+
+[SECTION IMAGE — Employer, educational, professional, and community partnership meeting]
+
+# Internal Capability. Strategic Collaboration.
+
+RIAH Pathway maintains internal responsibility for its institutional functions while working with external organizations where specialized expertise, professional independence, industry participation, employment, experiential opportunities, education, training, community engagement, or collaboration adds value.
+
+External relationships can include CPA firms, law firms, courts, managed security service providers, development firms, employers, training organizations, professional organizations, experiential partners, high schools, community colleges, colleges, universities, industry professionals, community organizations, technology providers, and professional service organizations.
+
+These relationships may support experiential placements, professional supervision, industry exposure, career opportunities, employer engagement, training, curriculum support, professional development, recruitment, community outreach, professional networking, specialized services, independent professional functions, and educational collaboration.
+
+[CTA — Explore Partnerships → 10.3 Partnerships]
+
+[DOWNLOAD — Partnership Overview PDF → SuiteDash Public Documentation Center]
+
+[DOWNLOAD — Partnership Interest Form → SuiteDash Public Documentation Center]
 
 ---
 
-# SECTION 05 — EVERYONE WINS WHEN THE ECOSYSTEM WORKS TOGETHER
+# 02.3 — SCHOOLS
 
-[SECTION BACKGROUND — WHITE]
+[SECTION HERO IMAGE — Composite visual representing all RIAH Pathway schools]
 
-## PEOPLE. PURPOSE. OWNERSHIP. OUTCOMES.
+# Specialized Schools Within One Connected Pathway
 
-RIAH Pathway is designed so growth creates value across the institution and the people who learn, build, employ, partner, invest, support, and contribute.
+RIAH Pathway organizes education and experiential development through specialized schools and institutional learning areas connected by common academic, experiential, technology, and professional-development structures.
 
-### Students
+[CARD — School of Business]
+[IMAGE — Accounting, finance, management, and entrepreneurship learning environment]
+Supports accounting, finance, management, entrepreneurship, and applicable related professional preparation.
+[CARD CTA — Explore School of Business → 04.3 School of Business]
 
-Students move through a connected model of education, experience, certification and professional review, and career rather than piecing together disconnected services on their own. Where applicable, academic pathways can connect directly to credential review, structured experiential learning, career development, and professional networks.
+[CARD — School of Technology]
+[IMAGE — Software, data, technology, and project-management learning environment]
+Supports computer science, software development, software engineering, data science, data analytics, information systems, project management, program management, and applicable technology disciplines.
+[CARD CTA — Explore School of Technology → 04.5 School of Technology]
 
-### Team Members
+[CARD — School of Homeland Security]
+[IMAGE — Cybersecurity, intelligence, investigation, GRC, and physical-security professional environment]
+Supports cybersecurity, intelligence, governance, risk and compliance, private investigation, physical security, and applicable homeland security disciplines.
+[CARD CTA — Explore School of Homeland Security → 04.4 School of Homeland Security]
 
-RIAH Pathway is built by people. Team members contribute to the institution, student outcomes, operations, curriculum, experience, and growth while participating in professional development and applicable ownership structures where approved.
+[CARD — School of Law]
+[IMAGE — Legal education, courtroom, law library, and supervised legal environment]
+Supports J.D., Non-J.D. bar-license pathways, criminal justice, bar review, and applicable legal learning and experiential opportunities.
+[CARD CTA — Explore School of Law → 04.6 School of Law]
 
-### Employers
+[CARD — School of Diploma and GED]
+[IMAGE — High school and GED learners in structured academic environment]
+Supports foundational education through high school diploma and GED or HSE preparation.
+[CARD CTA — Explore Diploma and GED → 04.7 School of Diploma and GED]
 
-Employers connect with candidates who are expected to demonstrate learning, practical ability, professional behavior, feedback response, and applied experience rather than course completion alone.
+[CARD — School of Experiential]
+[IMAGE — Experiential participant working in a professional setting]
+Apprentice — 1 Month
+Intern — 3 Months
+Associate — 1 Year
+Senior Associate — 1 Year
+Manager — 1 Year
+Executive — 1 Year
+[CARD CTA — Explore Experiential → 04.8 Experiential]
 
-### Partners and External Professional Pillars
+[CTA — View Complete Curriculum → 04 Curriculum]
 
-Professional firms, employers, training organizations, service providers, and other partners may contribute expertise, supervision, workforce alignment, professional services, and new opportunities while participating in the broader ecosystem.
+[DOWNLOAD — Schools and Programs Guide PDF → SuiteDash Public Documentation Center]
 
-### Investors and Supporters
+[DOWNLOAD — Academic Catalog PDF → SuiteDash Public Documentation Center]
 
-Institutional growth, products, partnerships, student outcomes, and sustainable operations create value for the people and organizations supporting the long term build.
+[EXTERNAL LINK — Academic Policies → SuiteDash Public Documentation Center]
 
-### HUMAN FRONT END. TECHNOLOGY POWERED BACK END.
+## ACADEMIC LEADERSHIP STRUCTURE
 
-AI, automation, analytics, software, and digital systems may help RIAH Pathway operate and scale. The student facing experience remains intentionally human centered: students learn from people, work with people, receive feedback from people, and build professional relationships with people.
+[SECTION IMAGE — Deans and faculty in an academic leadership environment]
 
-### REAL PROFESSIONALS. REAL ACCOUNTABILITY.
+RIAH Pathway's academic structure includes five dean leadership areas: School of Business, School of Technology, School of Homeland Security, School of Law, and High School, GED and HSE.
 
-Where applicable, students may learn from and work alongside qualified practitioners such as CPAs, cybersecurity professionals, attorneys, judges, technical specialists, managers, supervisors, and reviewers. Academic and experiential progression is designed around structured assessment, proctoring where applicable, supervision, recurring review, evidence, and demonstrated competency.
+At scale, the approved faculty structure includes 14 PhD Core Academic Faculty and 14 Adjunct Faculty, for 28 total core and adjunct faculty.
 
-[IMAGE PLACEHOLDER — STAKEHOLDER ECOSYSTEM WHEEL]
+### AT-SCALE FACULTY ALLOCATION
 
-**Type:** Institutional Diagram
+- Business — 3 PhD Core Faculty — 3 Adjunct Faculty — 6 Total
+- Technology — 6 PhD Core Faculty — 6 Adjunct Faculty — 12 Total
+- Homeland Security — 4 PhD Core Faculty — 4 Adjunct Faculty — 8 Total
+- Law — 1 PhD Core Faculty — 1 Adjunct Faculty — 2 Total
+- Total — 14 PhD Core Faculty — 14 Adjunct Faculty — 28 Total Faculty
 
-**Visual:** RIAH Pathway at the center with Students, Team, Employers, Partners and Pillars, Investors and Supporters around it. A second band shows Education, Experience, Certification and Review, and Career.
+[DOWNLOAD — Academic Governance Overview PDF → SuiteDash Public Documentation Center]
 
-**Purpose:** Show how stakeholder value connects across the ecosystem.
-
-**Alt Text:** Stakeholder wheel showing students, team members, employers, partners, supporters, and the connected RIAH Pathway outcomes.
-
-[BUTTON — LEARN MORE: EXPLORE PATHWAYS → 03 — PATHWAY]
-
-[BUTTON — LEARN MORE: EXPLORE JOIN US → 09 — JOIN US]
+[DOWNLOAD — Faculty Handbook PDF → SuiteDash Public Documentation Center]
 
 ---
 
-# SECTION 06 — SCHOOLS
+# 02.4 — LEADERSHIP
 
-[SECTION BACKGROUND — WHITE]
+[SECTION HERO IMAGE — Institutional leadership group representing executive, academic, technology, cybersecurity, experiential, finance, legal, and operational leadership]
 
-## SCHOOLS, PROGRAMS, AND PATHWAYS
+# Human Leadership at Every Level
 
-This section introduces the schools at a high level and routes visitors to the full Pathway structure rather than duplicating curriculum.
+Technology supports the institution. People remain responsible for the institution.
 
-[IMAGE PLACEHOLDER — ACADEMIC SCHOOLS COMPOSITE]
+RIAH Pathway's leadership structure reflects the different professional responsibilities required to operate a connected educational and professional ecosystem.
 
-**Type:** Institutional Academic
+## EXECUTIVE LEADERSHIP
 
-**Visual:** Professional image representing Business, Homeland Security and GRC, Law, and Technology.
+[IMAGE — Executive leadership working session]
 
-**Purpose:** Establish school identity without adding repetitive program imagery.
+Executive leadership provides institutional strategy, organizational leadership, institutional operations, long-term planning, cross-functional coordination, resource planning, institutional accountability, professional relationships, strategic partnerships, growth planning, and institutional stewardship.
 
-**Alt Text:** Composite visual representing RIAH Pathway Business, Homeland Security and GRC, Law, and Technology schools.
+## ACADEMIC LEADERSHIP
 
-### SCHOOL OF BUSINESS
+[IMAGE — Academic leadership and faculty collaboration]
 
-[ICON PLACEHOLDER — BRIEFCASE — BUSINESS]
+Academic leadership includes deans, faculty, and applicable curriculum and learning leadership responsible for academic quality, curriculum, faculty coordination, assessment, academic standards, learning outcomes, instruction, academic review, student learning, curriculum implementation, applicable academic policies, and school-level academic leadership.
 
-Program areas include:
+## EXPERIENTIAL LEADERSHIP
 
-- Accounting
-- Entrepreneurship
-- Finance
-- Management
+[IMAGE — Supervisor, Manager, and Reviewer working with experiential participants]
 
-[INTERNAL LINK — SCHOOL OF BUSINESS → 03 — PATHWAY → DEGREE PATHWAY → SCHOOL OF BUSINESS]
+Experiential professionals provide direct supervision, management, professional guidance, performance discussions, evaluation, feedback, quality review, escalation, approval, accountability, and professional judgment.
 
-### SCHOOL OF HOMELAND SECURITY AND GRC
+## PROGRAM MANAGEMENT
 
-[ICON PLACEHOLDER — SHIELD — HOMELAND SECURITY]
+[IMAGE — Program-management planning session]
 
-Program areas include:
+Four program-management functions support Business, Technology, Homeland Security, and Law.
 
-- Cybersecurity
-- Governance, Risk and Compliance
-- Intelligence
-- Private Investigator
-- Security Guard
-- Related homeland security and security pathways where applicable
+## PROJECT MANAGEMENT
 
-[INTERNAL LINK — SCHOOL OF HOMELAND SECURITY AND GRC → 03 — PATHWAY → DEGREE PATHWAY → SCHOOL OF HOMELAND SECURITY AND GRC]
+[IMAGE — Project-management dashboard and team meeting]
 
-### SCHOOL OF LAW
+Four project-management functions support the School of Business, School of Technology, School of Homeland Security, and School of Law.
 
-[ICON PLACEHOLDER — SCALES — LAW]
+## TECHNOLOGY LEADERSHIP
 
-Pathway areas include:
+[IMAGE — CTO and technology professionals working with institutional systems]
 
-- J.D.
-- Non J.D. Bar License
-- Law related academic and professional pathways where applicable
+The CTO and technology team oversee technology architecture, infrastructure, application development, software integrations, automation, institutional workflows, cloud systems, operational systems, approved third-party integrations, proprietary technology development, RIAH Pathway App development, and Ecosystem Software development.
 
-[INTERNAL LINK — SCHOOL OF LAW → 03 — PATHWAY → LAW PATHWAY]
+## CYBERSECURITY LEADERSHIP
 
-### SCHOOL OF TECHNOLOGY
+[IMAGE — Cybersecurity professionals in security operations environment]
 
-[ICON PLACEHOLDER — COMPUTER — TECHNOLOGY]
+The CISO and cybersecurity team oversee cybersecurity strategy, security architecture, network security, access controls, monitoring, security operations, incident-response structures, security reviews, institutional security controls, technology risk, and applicable security governance.
 
-Program areas include:
+The at-scale cybersecurity model includes Red, Blue, and Purple Team capabilities.
 
-- Computer Science
-- Data Analytics
-- Data Science
-- Information Systems
-- Program Management
-- Project Management
-- Software Development
-- Software Engineering
+## FINANCE AND ACCOUNTING LEADERSHIP
 
-[INTERNAL LINK — SCHOOL OF TECHNOLOGY → 03 — PATHWAY → DEGREE PATHWAY → SCHOOL OF TECHNOLOGY]
+[IMAGE — Finance and accounting professionals reviewing reports]
 
-### RELATED SECONDARY EDUCATION PATHWAYS
+Internal finance and accounting capabilities support institutional finance, accounting, financial controls, reporting, budgeting, financial administration, applicable student financial processes, and institutional financial accountability.
 
-[ICON PLACEHOLDER — SCHOOL BUILDING — SECONDARY EDUCATION]
+## LEGAL AND COMPLIANCE LEADERSHIP
 
-- High School Pathway
-- GED and HSE Pathway
+[IMAGE — Legal and compliance professionals reviewing governance and institutional documents]
 
-[INTERNAL LINK — HIGH SCHOOL PATHWAY → 03 — PATHWAY → HIGH SCHOOL PATHWAY]
+Legal and compliance capabilities support institutional legal responsibilities, compliance, governance, policy, agreements, risk, authorization, regulatory responsibilities, accreditation-related matters, institutional procedures, and professional review.
 
-[INTERNAL LINK — GED AND HSE PATHWAY → 03 — PATHWAY → GED AND HSE PATHWAY]
+## OPERATIONS AND PARTICIPANT SUPPORT
 
-### EXPERIENTIAL LEARNING — CROSS SCHOOL PATHWAY
+[IMAGE — Recruitment, customer service, operations, and participant-support personnel]
 
-[ICON PLACEHOLDER — INFINITY — APPLIED LEARNING]
+RIAH Pathway's broader internal structure can include institutional operations, backend administration, recruitment, customer service, participant support, community support, ambassadors, communications, coordination, and applicable professional services.
 
-Experiential Learning operates across applicable schools and is not an additional academic school. Each applicable school may connect curriculum, applied experience, professional development, certification and review preparation where applicable, and career opportunity.
+[CTA — Join Our Team → 10.4 Join Our Team]
 
-[INTERNAL LINK — EXPERIENTIAL PATHWAY → 03 — PATHWAY → EXPERIENTIAL PATHWAY]
+[DOWNLOAD — Leadership and Organizational Structure PDF → SuiteDash Public Documentation Center]
 
-[BUTTON — LEARN MORE: VIEW ALL PATHWAYS → 03 — PATHWAY]
+[DOWNLOAD — Employee Handbook PDF → SuiteDash Public Documentation Center]
+
+[DOWNLOAD — Team Policies and Procedures PDF → SuiteDash Public Documentation Center]
+
+[EXTERNAL LINK — Employment Forms and Guidelines → SuiteDash Public Documentation Center]
 
 ---
 
-# SECTION 07 — LEADERSHIP
+# 02.5 — BOARD & GOVERNANCE
 
-[SECTION BACKGROUND — BLACK]
+[SECTION HERO IMAGE — Governance and institutional leadership meeting]
 
-## BUILT WITH VISION. OPERATED WITH ACCOUNTABILITY.
+# Governance Built for Accountability
 
-RIAH Pathway leadership connects institutional strategy, security, technology, finance, learning, academic quality, operations, and human centered student experience through clearly defined responsibilities and accountability.
+Institutional governance supports oversight, responsibility, continuity, quality, compliance, and long-term stewardship.
 
-[IMAGE PLACEHOLDER — RIAH PATHWAY LEADERSHIP]
+[DIAGRAM IMAGE — Governance relationship between Board and Governance, Executive Leadership, Academic Leadership, institutional functions, schools, technology, cybersecurity, finance, legal and compliance, and operational teams]
 
-**Type:** Institutional Leadership
+RIAH Pathway's governance structure is designed to support clear institutional accountability while recognizing the distinct professional responsibilities required across the organization.
 
-**Visual:** Professional leadership and collaborative planning environment.
+Board and governance responsibilities support institutional oversight, governance, strategic accountability, institutional mission, long-term stewardship, academic accountability, financial oversight, legal and compliance oversight, risk oversight, technology governance, cybersecurity governance, institutional policy, organizational accountability, appropriate conflict-of-interest controls, and institutional continuity.
 
-**Purpose:** Represent responsible institutional leadership without exposing private internal operations.
+Operational leadership remains responsible for day-to-day institutional operations within assigned responsibilities. Academic professionals remain responsible for academic judgment. Experiential professionals remain responsible for applicable supervision, management, review, and professional judgment. Technology and cybersecurity professionals remain responsible for their assigned institutional functions. Finance and accounting professionals remain responsible for financial functions. Legal and compliance professionals remain responsible for applicable legal and compliance functions.
 
-**Alt Text:** Professional leadership team collaborating on institutional planning and student outcomes.
+[CTA — Accreditation and Authorization → 09 Accreditation & Authorization]
 
-### ACADEMIC LEADERSHIP
+[CTA — Join Board and Governance → 10.4.1.3 Board of Governance]
 
-[ICON PLACEHOLDER — OPEN BOOK — ACADEMIC LEADERSHIP]
+[DOWNLOAD — Governance Overview PDF → SuiteDash Public Documentation Center]
 
-Academic leadership supports curriculum quality, academic standards, faculty, learning systems, assessment, educational development, and student outcomes within applicable governance requirements.
+[DOWNLOAD — Board Governance Handbook PDF → SuiteDash Public Documentation Center]
 
-### EXECUTIVE LEADERSHIP
+[DOWNLOAD — Code of Conduct PDF → SuiteDash Public Documentation Center]
 
-[ICON PLACEHOLDER — BUILDING — EXECUTIVE LEADERSHIP]
+[DOWNLOAD — Conflict of Interest Policy PDF → SuiteDash Public Documentation Center]
 
-Executive leadership coordinates institution wide strategy, security, technology, finance, learning, growth, accountability, and broader organizational direction.
+[EXTERNAL LINK — Governance Policies and Procedures → SuiteDash Public Documentation Center]
 
-Current full scale executive leadership includes:
-
-- Founder and Chief Executive Officer
-- Chief Information Security Officer
-- Chief Technology Officer
-- Chief Financial Officer
-- Chief Learning Officer
-
-Academic leadership at scale also includes dean, provost, and related academic leadership functions.
-
-### OPERATIONAL LEADERSHIP
-
-[ICON PLACEHOLDER — WORKFLOW — OPERATIONAL LEADERSHIP]
-
-Operational leadership supports the people, systems, processes, student experience, experiential activity, implementation, and day to day execution required to operate the ecosystem.
-
-### HUMAN CENTERED OPERATING MODEL
-
-People lead the student and professional experience. Technology supports scale, routing, documentation, analytics, controls, and efficiency. Human academic judgment, professional supervision, security authority, financial controls, governance responsibilities, and other decisions reserved for qualified people remain human responsibilities.
-
-[BUTTON — LEARN MORE: JOIN OUR TEAM → 09 — JOIN US → JOIN OUR TEAM]
-
-[INTERNAL LINK — CAREERS → 09 — JOIN US → CAREERS]
+[EXTERNAL LINK — Governance Forms → SuiteDash Public Documentation Center]
 
 ---
 
-# SECTION 08 — BOARDS AND GOVERNANCE
+# 02.6 — BRAND, MASCOT & SCHOOL COLORS
 
-[SECTION BACKGROUND — WHITE]
+[SECTION HERO IMAGE — RIAH Pathway institutional brand displayed across website, publications, products, apparel, signage, school materials, and community applications]
 
-## GOVERNANCE. OVERSIGHT. STEWARDSHIP.
+# One Institution. Distinct School Identities.
 
-RIAH Pathway uses a unified governance architecture spanning corporation, institution, and foundation responsibilities, with oversight, accountability, independence where required, conflict controls, and separation of authority.
+RIAH Pathway uses a unified institutional identity supported by school-specific brand elements.
 
-[IMAGE PLACEHOLDER — GOVERNANCE ARCHITECTURE]
+## INSTITUTIONAL BRAND
 
-**Type:** Institutional Diagram
+[IMAGE — Primary RIAH Pathway logo]
 
-**Visual:** One governance structure branching into Corporation Oversight, Institutional Oversight, and Foundation Oversight.
+[IMAGE — Approved crown or institutional symbol]
 
-**Purpose:** Clarify governance responsibility without publishing internal governance records or compensation mechanics.
+[IMAGE — Institutional brand application across print, digital, products, and signage]
 
-**Alt Text:** Governance diagram showing corporation, institutional, and foundation oversight within RIAH Pathway.
+RIAH Pathway's primary institutional visual system uses red, black, and white.
 
-### CORPORATION BOARD AND OVERSIGHT
+Approved crown or institutional-symbol treatments may incorporate the established gold treatment where applicable.
 
-[ICON PLACEHOLDER — BUILDING — CORPORATE GOVERNANCE]
+The institutional brand should remain consistent across website, portal, academic materials, admissions materials, products, publications, events, social media, professional communications, community materials, school-specific materials, physical materials, and digital materials.
 
-Business, enterprise strategy, financial stewardship, organizational risk, corporate governance, partnerships, growth, and broader ecosystem oversight.
+## INSTITUTIONAL POSITIONING
 
-### INSTITUTIONAL BOARD AND OVERSIGHT
-
-[ICON PLACEHOLDER — GRADUATION CAP — ACADEMIC GOVERNANCE]
-
-Academic quality, student outcomes, institutional policy, educational oversight, accreditation readiness, compliance, academic independence, and applicable school and institutional governance.
-
-### FOUNDATION BOARD AND OVERSIGHT
-
-[ICON PLACEHOLDER — HANDS — FOUNDATION STEWARDSHIP]
-
-Mission stewardship for scholarships, grants, stipends, donations, community funding, access initiatives, reinvestment priorities, donor stewardship, and foundation governance.
-
-### GOVERNANCE PRINCIPLES
-
-- Independent review where required
-- Conflict disclosure and recusal controls
-- Separation of academic, financial, technology, security, governance, and founder controlled responsibilities where appropriate
-- Academic independence from ordinary commercial pressure where required
-- Documented governance and oversight
-- Stewardship of institutional and Foundation responsibilities
-
-[BUTTON — LEARN MORE: VIEW GOVERNANCE OPPORTUNITIES → 09 — JOIN US → JOIN OUR TEAM → LEADERSHIP AND GOVERNANCE]
-
-[INTERNAL LINK — DONATIONS AND FOUNDATION → 06 — DONATIONS]
-
----
-
-# SECTION 09 — EXTERNAL PILLARS
-
-[SECTION BACKGROUND — LIGHT SILVER]
-
-## PROFESSIONAL SUPPORT AROUND THE ECOSYSTEM
-
-External professional pillars provide specialized professional support where applicable. The current About structure identifies CPA, Development, Law, MSSP, and Training as the five public pillar categories.
-
-### CPA
-
-[ICON PLACEHOLDER — CALCULATOR — CPA]
-
-Professional accounting, financial, tax, assurance, reporting, and applicable advisory support based on approved scopes.
-
-### DEVELOPMENT
-
-[ICON PLACEHOLDER — CODE — DEVELOPMENT]
-
-Professional development and technology support for approved digital, software, website, application, or implementation needs.
-
-### LAW
-
-[ICON PLACEHOLDER — SCALES — LAW]
-
-Professional legal support for applicable organizational, contractual, compliance, governance, and related matters.
-
-### MSSP
-
-[ICON PLACEHOLDER — SHIELD — MANAGED SECURITY]
-
-External managed security support where applicable within approved cybersecurity and security responsibilities.
-
-### TRAINING
-
-[ICON PLACEHOLDER — PRESENTATION — TRAINING]
-
-Approved training provider support where specialized instruction, facilities, instructors, delivery, or applicable professional training is needed.
-
-[BUTTON — LEARN MORE: EXTERNAL PROFESSIONAL OPPORTUNITIES → 09 — JOIN US → JOIN OUR TEAM → EXTERNAL PROFESSIONAL PILLARS]
-
-[INTERNAL LINK — PARTNERSHIP INQUIRIES → 12 — CONTACT]
-
----
-
-# SECTION 10 — INSTITUTIONAL IDENTITY
-
-[SECTION BACKGROUND — BLACK WITH GOLD ACCENTS]
-
-## ONE DYNASTY. INFINITE LEGACIES.
-
-The About sitemap includes institutional brand, mascot, and school color identity. The institutional design system uses Black, Red, Gold, White, and Silver with a Crown symbol and Goat mascot.
-
-### INSTITUTIONAL SYMBOL
-
-[ICON PLACEHOLDER — CROWN — INSTITUTIONAL SYMBOL]
-
-**Crown**
-
-Represents the institutional Dynasty identity and long term legacy.
-
-### INSTITUTIONAL MASCOT
-
-[IMAGE PLACEHOLDER — RIAH PATHWAY GOAT MASCOT]
-
-**Type:** Institutional Identity
-
-**Visual:** Approved RIAH Pathway Goat mascot artwork.
-
-**Purpose:** Represent institutional and school spirit.
-
-**Alt Text:** RIAH Pathway Goat institutional mascot.
-
-### INSTITUTIONAL COLORS
-
-[COLOR SWATCH — BLACK]
-
-[COLOR SWATCH — RED]
-
-[COLOR SWATCH — GOLD]
-
-[COLOR SWATCH — WHITE]
-
-[COLOR SWATCH — SILVER]
-
-### SLOGAN
+[IMAGE — ONE DYNASTY. INFINITE LEGACIES. brand graphic]
 
 **ONE DYNASTY. INFINITE LEGACIES.**
 
-[IMAGE PLACEHOLDER — RIAH PATHWAY CREST AND IDENTITY SYSTEM]
+The institutional positioning connects the RIAH Pathway identity with a long-term ecosystem built around education, experience, professional development, community, opportunity, and legacy.
 
-**Type:** Institutional Identity
+## INSTITUTIONAL SYMBOL
 
-**Visual:** Logo, crown, crest, institutional color system, and school identity examples in one controlled brand board.
+[IMAGE — Approved RIAH Pathway crown or institutional symbol shown independently and within approved brand applications]
 
-**Purpose:** Present a coherent institutional identity.
+The institutional symbol should function consistently across approved digital, print, product, school, community, and institutional applications.
 
-**Alt Text:** RIAH Pathway institutional identity showing logo, crest, crown symbol, and official colors.
+## MASCOT
 
----
+[IMAGE — Approved RIAH Pathway mascot artwork]
 
-# SECTION 11 — POLICIES
+[MASCOT NAME — TO FINALIZE OR ATTACH APPROVED ASSET]
 
-[SECTION BACKGROUND — WHITE]
+The mascot may support institutional identity, student life, community, events, school spirit, products, social media, graduation, alumni engagement, and approved marketing applications.
 
-[ICON PLACEHOLDER — DOCUMENT SHIELD — POLICIES]
+## SCHOOL BRAND SYSTEM
 
-## PUBLIC POLICIES AND INSTITUTIONAL INFORMATION
+[IMAGE — Six-school brand family displayed together]
 
-Policies should remain living institutional resources and route to the applicable public SuiteDash destination rather than being duplicated as unnecessary downloads.
+Each school may use approved school-specific identity elements while remaining visibly connected to the primary RIAH Pathway institutional brand.
 
-### Admissions Policies
+School-specific brand implementation should include school name, approved school mark, approved school color accent, relationship to institutional red, black, and white, approved crown or institutional-symbol relationship, consistent typography, consistent digital presentation, consistent print presentation, consistent product presentation, and consistent academic-material presentation.
 
-[EXTERNAL LINK — ADMISSIONS POLICIES → SUITEDASH PUBLIC PAGE PLACEHOLDER]
+[IMAGE — School of Business brand system]
 
-### Community Policies
+[IMAGE — School of Technology brand system]
 
-[EXTERNAL LINK — COMMUNITY POLICIES → SUITEDASH PUBLIC PAGE PLACEHOLDER]
+[IMAGE — School of Homeland Security brand system]
 
-### Consumer Policies
+[IMAGE — School of Law brand system]
 
-[EXTERNAL LINK — CONSUMER POLICIES → SUITEDASH PUBLIC PAGE PLACEHOLDER]
+[IMAGE — School of Diploma and GED brand system]
 
-### Corporation Policies
+[IMAGE — School of Experiential brand system]
 
-[EXTERNAL LINK — CORPORATION POLICIES → SUITEDASH PUBLIC PAGE PLACEHOLDER]
+[DOWNLOAD — RIAH Pathway Brand Guide PDF → SuiteDash Public Documentation Center]
 
-### Foundation Policies
+[DOWNLOAD — School Colors and Identity Guide PDF → SuiteDash Public Documentation Center]
 
-[EXTERNAL LINK — FOUNDATION POLICIES → SUITEDASH PUBLIC PAGE PLACEHOLDER]
+[DOWNLOAD — Logo Usage Guidelines PDF → SuiteDash Public Documentation Center]
 
-### Institutional Policies
+[DOWNLOAD — Approved Logo Asset Package → SuiteDash Public Documentation Center]
 
-[EXTERNAL LINK — INSTITUTIONAL POLICIES → SUITEDASH PUBLIC PAGE PLACEHOLDER]
-
-### Join Us Policies
-
-[EXTERNAL LINK — JOIN US POLICIES → SUITEDASH PUBLIC PAGE PLACEHOLDER]
-
-### Product Policies
-
-[EXTERNAL LINK — PRODUCT POLICIES → SUITEDASH PUBLIC PAGE PLACEHOLDER]
-
-### Student Policies
-
-[EXTERNAL LINK — STUDENT POLICIES → SUITEDASH PUBLIC PAGE PLACEHOLDER]
-
-[BUTTON — LEARN MORE: VIEW RESOURCES → 10 — RESOURCES]
+[EXTERNAL LINK — Brand Standards and Guidelines → SuiteDash Public Documentation Center]
 
 ---
 
-# SECTION 12 — NEWS AND PRESS
+# PUBLIC DOCUMENTATION CENTER
 
-[SECTION BACKGROUND — LIGHT SILVER]
+[SECTION IMAGE — Digital document library displayed across desktop and mobile]
 
-[ICON PLACEHOLDER — NEWSPAPER — NEWS]
+# Public Policies, Forms, Procedures, Guidelines, Rulebooks, and Handbooks
 
-## NEWS, STORIES, UPDATES, AND MEDIA
+Public institutional documentation is centralized through the RIAH Pathway SuiteDash Public Documentation Center.
 
-Use this section as the About page gateway to public updates rather than duplicating the Resources page.
+The public documentation center provides a consistent external destination for approved institutional documents referenced throughout Pages 01 through 13.
 
-### NEWS AND UPDATES
+[EXTERNAL LINK — View Public Policies → SuiteDash Public Documentation Center]
 
-Latest institutional announcements, milestones, student and community updates, pathway developments, and public news.
+[EXTERNAL LINK — View Public Procedures → SuiteDash Public Documentation Center]
 
-[INTERNAL LINK — RESOURCES → 10 — RESOURCES]
+[EXTERNAL LINK — View Public Forms → SuiteDash Public Documentation Center]
 
-### BLOG, VLOG, AND PODCAST
+[EXTERNAL LINK — View Public Guidelines → SuiteDash Public Documentation Center]
 
-[ICON PLACEHOLDER — ARTICLE — BLOG]
+[EXTERNAL LINK — View Public Rulebooks → SuiteDash Public Documentation Center]
 
-[ICON PLACEHOLDER — VIDEO FRAME — VLOG]
+[EXTERNAL LINK — View Public Handbooks → SuiteDash Public Documentation Center]
 
-[ICON PLACEHOLDER — MICROPHONE — PODCAST]
+[INTERNAL LINK — Resources → 11 Resources]
 
-[INTERNAL LINK — BLOG → 10 — RESOURCES → BLOG]
+[INTERNAL LINK — FAQ → 12 FAQ]
 
-[INTERNAL LINK — VLOG → 10 — RESOURCES → VLOG]
-
-[INTERNAL LINK — PODCAST → 10 — RESOURCES → PODCAST]
-
-### PRESS AND MEDIA
-
-Public press, media requests, institutional information, and applicable media contact routing.
-
-[INTERNAL LINK — MEDIA INQUIRIES → 12 — CONTACT → MEDIA INQUIRIES]
-
-[BUTTON — LEARN MORE: VIEW ALL RESOURCES → 10 — RESOURCES]
+[INTERNAL LINK — Contact → 13 Contact]
 
 ---
 
-# SECTION 13 — CONNECTED WEBSITE DIRECTORY
+# PAGE-SPECIFIC SYSTEMS AND ECOSYSTEM
 
-[SECTION BACKGROUND — WHITE]
-
-## CONTINUE THROUGH RIAH PATHWAY
-
-Use a compact card directory to show how About connects to the rest of the website.
-
-### 01 — HOME
-
-[ICON PLACEHOLDER — HOME — HOME]
-
-[INTERNAL LINK — HOME → 01 — HOME]
-
-### 02 — ABOUT
-
-[ICON PLACEHOLDER — INFORMATION — ABOUT]
-
-Current Page
-
-### 03 — PATHWAY
-
-[ICON PLACEHOLDER — PATH — PATHWAY]
-
-[INTERNAL LINK — PATHWAY → 03 — PATHWAY]
-
-### 04 — ADMISSIONS
-
-[ICON PLACEHOLDER — APPLICATION — ADMISSIONS]
-
-[INTERNAL LINK — ADMISSIONS → 04 — ADMISSIONS]
-
-### 05 — TUITION
-
-[ICON PLACEHOLDER — CALCULATOR — TUITION]
-
-[INTERNAL LINK — TUITION → 05 — TUITION]
-
-### 06 — DONATIONS
-
-[ICON PLACEHOLDER — HEART — DONATIONS]
-
-[INTERNAL LINK — DONATIONS AND FOUNDATION → 06 — DONATIONS]
-
-### 07 — PRODUCTS
-
-[ICON PLACEHOLDER — SHOPPING BAG — PRODUCTS]
-
-[INTERNAL LINK — PRODUCTS → 07 — PRODUCTS]
-
-### 08 — ACCREDITATION
-
-[ICON PLACEHOLDER — SEAL — ACCREDITATION]
-
-[INTERNAL LINK — ACCREDITATION → 08 — ACCREDITATION]
-
-### 09 — JOIN US
-
-[ICON PLACEHOLDER — USERS — JOIN US]
-
-[INTERNAL LINK — JOIN US → 09 — JOIN US]
-
-### 10 — RESOURCES
-
-[ICON PLACEHOLDER — LIBRARY — RESOURCES]
-
-[INTERNAL LINK — RESOURCES → 10 — RESOURCES]
-
-### 11 — FAQ
-
-[ICON PLACEHOLDER — QUESTION CIRCLE — FAQ]
-
-[INTERNAL LINK — FAQ → 11 — FAQ]
-
-### 12 — CONTACT
-
-[ICON PLACEHOLDER — ENVELOPE — CONTACT]
-
-[INTERNAL LINK — CONTACT → 12 — CONTACT]
+| Function | System | Purpose | Route or Access | Status |
+|---|---|---|---|---|
+| Public institutional website | Webflow | Primary RIAH Pathway public website | RIAHPathway.com | LIVING WEB RESOURCE |
+| Education entry domain | RIAHPathway.edu | Public education and pathway entry | Pathways section of primary website | LIVING WEB RESOURCE |
+| Philanthropic entry domain | RIAHPathway.org | Public philanthropic and donations entry | Donations section of primary website | LIVING WEB RESOURCE |
+| Central ecosystem gateway | RIAH Pathway Portal | Centralized routing into education, admissions, careers, and onboarding | portal.RIAHPathway.com | LIVING WEB RESOURCE |
+| Public Documentation | SuiteDash | Public access to approved policies, procedures, forms, guidelines, rulebooks, handbooks, and institutional documents | SuiteDash Public Documentation Center | TO FINALIZE |
+| Education | LearnWorlds | Learning management, courses, academic content, and student learning access | Portal Education destination | AUTHENTICATED OR NOT PUBLIC |
+| Admissions | Classe365 | Applications, admissions, enrollment, student information, and applicable student lifecycle functions | Portal Admissions destination | AUTHENTICATED OR NOT PUBLIC |
+| Careers | Breezy HR | Recruiting, career opportunities, hiring, and employment applications | Portal Careers destination | LIVING WEB RESOURCE |
+| Onboarding | SuiteDash | Student, employee, partner, client, and ecosystem-participant onboarding | Portal Onboarding destination | AUTHENTICATED OR NOT PUBLIC |
+| Internal technology architecture | RIAH Pathway technology architecture and integrations | Connect approved institutional systems, workflows, automation, applications, security controls, and operational technology | Internal | AUTHENTICATED OR NOT PUBLIC |
+| Proprietary technology | RIAH Pathway App and Ecosystem Software | Evolving proprietary technology layer supporting the connected ecosystem | Institutional according to implementation stage | TO FINALIZE |
+| Cybersecurity | Internal cybersecurity architecture and approved security systems | Protect institutional infrastructure, applications, access, data, networks, and technology operations | Internal | AUTHENTICATED OR NOT PUBLIC |
 
 ---
 
-# SECTION 14 — CONTACT ABOUT
+# SITE-WIDE INTERNAL ROUTING
 
-[SECTION BACKGROUND — BLACK AND RED]
-
-## QUESTIONS ABOUT RIAH PATHWAY?
-
-For questions about the institution, mission, ecosystem, leadership, governance, public information, or About page content:
-
-**Email:** about@RIAHPathway.com
-
-[EXTERNAL LINK — EMAIL ABOUT RIAH PATHWAY → MAILTO: about@RIAHPathway.com]
-
-## ONE RIAH PATHWAY DROP FORM
-
-This is the only Jotform or Drop Form instance on the About page.
-
-[FORM PLACEHOLDER — RIAH PATHWAY DROP FORM]
-
-**Platform:** Jotform
-
-**Default Inquiry Type:** About and General Information
-
-**Suggested visible fields:**
-
-- First Name
-- Last Name
-- Email
-- Phone — Optional
-- Inquiry Type
-- Message
-- Preferred Contact Method
-- Consent and Privacy Acknowledgment
-
-[BUTTON — GET STARTED: SUBMIT ABOUT INQUIRY → EXTERNAL — JOTFORM]
-
-[INTERNAL LINK — FULL CONTACT DIRECTORY → 12 — CONTACT]
+| Page | Purpose | Route |
+|---|---|---|
+| 01 — Home | Institutional entry point | 01 Home |
+| 02 — About | Institutional identity, ecosystem, schools, leadership, governance, and brand | 02 About |
+| 03 — Pathway | Education, experiential, certification, and participant pathways | 03 Pathway |
+| 04 — Curriculum | Schools, majors, programs, courses, academic structures, and curriculum | 04 Curriculum |
+| 05 — Admissions | Application, acceptance, enrollment, orientation, onboarding, and admissions processes | 05 Admissions |
+| 06 — Tuition | Tuition, program costs, payment structures, discounts, refunds, and student cost information | 06 Tuition |
+| 07 — Donations | Philanthropy, institutional support, giving, and foundation-related information | 07 Donations |
+| 08 — Products | Student collections, educational products, certification review, bar review, and professional services | 08 Products |
+| 09 — Accreditation & Authorization | Institutional accreditation, authorization, disclosures, approvals, and regulatory information | 09 Accreditation & Authorization |
+| 10 — Join Us | Student life, partnerships, careers, team opportunities, ambassadors, governance, and community participation | 10 Join Us |
+| 11 — Resources | Institutional resources, policies, forms, downloads, events, publications, and public information | 11 Resources |
+| 12 — FAQ | Frequently asked questions across the institutional ecosystem | 12 FAQ |
+| 13 — Contact | Contact, inquiries, requests, routing, and institutional communication | 13 Contact |
 
 ---
 
+# PUBLIC DOCUMENTATION ROUTING
 
-## COMMUNITY CAPSTONE + PEER REVIEW POINTS AND DISCOUNTS
+| Category | Destination | Access | Status |
+|---|---|---|---|
+| Policies | SuiteDash Public Documentation Center | Public | TO FINALIZE |
+| Procedures | SuiteDash Public Documentation Center | Public | TO FINALIZE |
+| Forms | SuiteDash Public Documentation Center | Public | TO FINALIZE |
+| Guidelines | SuiteDash Public Documentation Center | Public | TO FINALIZE |
+| Rulebooks | SuiteDash Public Documentation Center | Public | TO FINALIZE |
+| Handbooks | SuiteDash Public Documentation Center | Public | TO FINALIZE |
 
-Community members may sign up to review applicable student capstones, participate in applicable peer review, and provide structured feedback on student work. Qualifying completed reviews earn points that accumulate according to the number of capstone and peer-review activities completed.
+---
 
-**COMMUNITY REVIEW → STRUCTURED FEEDBACK → QUALIFYING COMPLETION → POINTS EARNED → POINTS ACCUMULATED → DISCOUNT LEVEL UNLOCKED**
+# 02.7 — FINAL CTA
 
-| Community Participation | RIAH Structure |
-|---|---|
-| Capstone Review | Review applicable student capstones and provide structured feedback |
-| Peer Review | Participate in applicable peer-review activities |
-| Points | Earn points for qualifying completed capstone and peer reviews |
-| Accumulation | Points accumulate based on qualifying review participation |
-| Product Discounts | Accumulated points may unlock applicable discounts on qualifying RIAH products |
-| Certification Review | Applicable discounts may be used toward qualifying Certification Review products |
-| Bar Review | Applicable discounts may be used toward qualifying Bar Review products |
-| Educational Pathways | Applicable discounts may be used toward qualifying RIAH educational pathways, including the JD pathway and other applicable education pathways |
+[FINAL CTA BACKGROUND IMAGE — Students, faculty, professionals, community members, and RIAH Pathway institutional branding]
 
-**REVIEW MORE → ACCUMULATE MORE POINTS → UNLOCK GREATER APPLICABLE DISCOUNTS**
+# Find Your Place in the RIAH Pathway Ecosystem
 
-RIAH faculty and applicable academic personnel retain academic oversight and final evaluation requirements. Community and peer feedback supplements the formal academic review process.
+Explore an ecosystem designed to connect education, practical experience, professional preparation, certification, career development, community, resources, and continued growth through human leadership supported by technology.
 
-# FINAL CTA BAND
+Whether the next step is education, experiential learning, professional preparation, career development, partnership, employment, or community participation, RIAH Pathway provides a connected place to begin and continue the journey.
 
-[SECTION BACKGROUND — RED]
+[PRIMARY CTA — Explore Pathways → 03 Pathway]
 
-# YOUR PATHWAY CAN START FROM WHERE YOU ARE.
+[SECONDARY CTA — Start Admissions → 05 Admissions]
 
-Explore the ecosystem, review your pathway options, understand admissions, or connect with RIAH Pathway for additional information.
+[ADDITIONAL CTA — Join the RIAH Pathway Community → 10 Join Us]
 
-[BUTTON — LEARN MORE: EXPLORE PATHWAYS → 03 — PATHWAY]
+[DOWNLOAD — RIAH Pathway Institutional Overview PDF → SuiteDash Public Documentation Center]
 
-[BUTTON — APPLY NOW → 04 — ADMISSIONS]
-
-[BUTTON — GET STARTED: REQUEST INFORMATION → 02 — ABOUT → CONTACT ABOUT FORM]
+[EXTERNAL LINK — Public Documentation Center → SuiteDash Public Documentation Center]
 
 ---
 
 # GLOBAL FOOTER
 
-[LOGO PLACEHOLDER — RIAH PATHWAY]
+[LOGO IMAGE — RIAH Pathway]
 
-**RIAH Pathway**
+[SLOGAN — ONE DYNASTY. INFINITE LEGACIES.]
 
-**ONE DYNASTY. INFINITE LEGACIES.**
+[GLOBAL NAVIGATION — Pages 01 through 13]
 
-## Explore
+[CONTACT INFORMATION — Approved RIAH Pathway public contact information]
 
-[INTERNAL LINK — 01 — HOME]
+[SOCIAL LINKS — Approved RIAH Pathway social channels]
 
-[INTERNAL LINK — 02 — ABOUT]
+[INSTITUTIONAL LINK — RIAHPathway.com]
 
-[INTERNAL LINK — 03 — PATHWAY]
+[INSTITUTIONAL LINK — RIAHPathway.edu]
 
-[INTERNAL LINK — 04 — ADMISSIONS]
+[INSTITUTIONAL LINK — RIAHPathway.org]
 
-[INTERNAL LINK — 05 — TUITION]
+[INSTITUTIONAL LINK — Portal]
 
-[INTERNAL LINK — 06 — DONATIONS]
+[EXTERNAL LINK — Public Documentation Center → SuiteDash]
 
-[INTERNAL LINK — 07 — PRODUCTS]
+[EXTERNAL LINK — Policies → SuiteDash]
 
-[INTERNAL LINK — 08 — ACCREDITATION]
+[EXTERNAL LINK — Procedures → SuiteDash]
 
-[INTERNAL LINK — 09 — JOIN US]
+[EXTERNAL LINK — Forms → SuiteDash]
 
-[INTERNAL LINK — 10 — RESOURCES]
+[EXTERNAL LINK — Guidelines → SuiteDash]
 
-[INTERNAL LINK — 11 — FAQ]
+[EXTERNAL LINK — Rulebooks → SuiteDash]
 
-[INTERNAL LINK — 12 — CONTACT]
+[EXTERNAL LINK — Handbooks → SuiteDash]
 
-## Students
+[INTERNAL LINK — Resources → 11 Resources]
 
-[INTERNAL LINK — PATHWAYS → 03 — PATHWAY]
+[INTERNAL LINK — FAQ → 12 FAQ]
 
-[INTERNAL LINK — ADMISSIONS → 04 — ADMISSIONS]
+[INTERNAL LINK — Contact → 13 Contact]
 
-[INTERNAL LINK — TUITION → 05 — TUITION]
-
-[INTERNAL LINK — STUDENT EXPERIENCE → 04 — ADMISSIONS → ACTIVE STUDENT EXPERIENCE]
-
-[INTERNAL LINK — RESOURCES → 10 — RESOURCES]
-
-## Resources
-
-[EXTERNAL LINK — PUBLIC POLICIES → SUITEDASH PUBLIC PAGE PLACEHOLDER]
-
-[EXTERNAL LINK — PUBLIC DISCLOSURES → SUITEDASH PUBLIC PAGE PLACEHOLDER]
-
-[EXTERNAL LINK — PUBLIC GUIDELINES → SUITEDASH PUBLIC PAGE PLACEHOLDER]
-
-## Connect
-
-[INTERNAL LINK — CONTACT → 12 — CONTACT]
-
-[EXTERNAL LINK — EMAIL → MAILTO: contact@RIAHPathway.com]
-
-[ICON LINK PLACEHOLDER — INSTAGRAM → @RIAHPathway]
-
-[ICON LINK PLACEHOLDER — YOUTUBE → @RIAHPathway]
-
-[ICON LINK PLACEHOLDER — X AND TWITTER → @RIAHPathway]
-
-[ICON LINK PLACEHOLDER — FACEBOOK → @RIAHPathway]
-
-[ICON LINK PLACEHOLDER — LINKEDIN → @RIAHPathway]
-
-[ICON LINK PLACEHOLDER — THREADS → @RIAHPathway]
-
-[ICON LINK PLACEHOLDER — TIKTOK → @RIAHPathway]
-
-## Legal
-
-[EXTERNAL LINK — PRIVACY → SUITEDASH PUBLIC PAGE PLACEHOLDER]
-
-[EXTERNAL LINK — TERMS → SUITEDASH PUBLIC PAGE PLACEHOLDER]
-
-[EXTERNAL LINK — ACCESSIBILITY → SUITEDASH PUBLIC PAGE PLACEHOLDER]
-
-[EXTERNAL LINK — APPLICABLE DISCLOSURES → SUITEDASH PUBLIC PAGE PLACEHOLDER]
+[FOOTER CTA — Explore Pathways → 03 Pathway]
 
 ---
 
-# RESPONSIVE AND ACCESSIBILITY CONTROL
+# IMPLEMENTATION AUDIT
 
-## Desktop
+The complete Page II button, CTA, internal-link, external-link, download, media, icon, routing, content, and asset-status audit is maintained in:
 
-- Full navigation
-- Wide hero and video treatment
-- Multi column card layouts
-- Expanded ecosystem diagram
-- Expanded footer
+**Keep Updated → Button Links and Download Routing Chart → Website Wireframe Audit Index.md**
 
-## Tablet
+Page Index: **II — About**
 
-- Collapsed primary navigation
-- Two column cards
-- Responsive diagram
-- Full width video
-
-## Mobile
-
-- Menu drawer
-- Single column section flow
-- Stacked pathway and school cards
-- Full width CTAs
-- Responsive form
-
-## Accessibility Requirements
-
-- Keyboard accessible navigation
-- Visible focus states
-- Video captions
-- Play and Pause controls
-- Full screen video control
-- Descriptive alt text
-- Descriptive links
-- Accessible form labels
-- Accessible accordion controls where used
-- Proper heading hierarchy
-- Sufficient Black, Red, Gold, White, and Silver contrast
-- No essential information contained only inside images
-- Professional website icons only
-- No emoji icons in the final website design
-
----
-
-# BUTTON, LINK, AND DOWNLOAD ROUTING CHART
-
-The routing audit is presented as a list rather than a table.
-
-## Header Routing
-
-1. Home — Internal Link — 01 — Home — Header
-2. About — Internal Link — 02 — About — Header
-3. Pathway — Internal Link — 03 — Pathway — Header
-4. Admissions — Internal Link — 04 — Admissions — Header
-5. Tuition — Internal Link — 05 — Tuition — Header
-6. Donations — Internal Link — 06 — Donations — Header
-7. Products — Internal Link — 07 — Products — Header
-8. Accreditation — Internal Link — 08 — Accreditation — Header
-9. Join Us — Internal Link — 09 — Join Us — Header
-10. Resources — Internal Link — 10 — Resources — Header
-11. FAQ — Internal Link — 11 — FAQ — Header
-12. Contact — Internal Link — 12 — Contact — Header
-13. Apply Now — Button — Classe365 — External — Header
-
-## About Section Routing
-
-14. About Section Navigation — Internal Link Group — 02 — About Page Sections — Internal Anchor — Below Header
-15. Explore Pathways — Learn More Button — 03 — Pathway — Internal — Hero
-16. Apply Now — Button — 04 — Admissions — Internal — Hero
-17. Request Information — Get Started Button — Contact About Form — Internal Anchor — Hero
-18. Explore Leadership — Learn More Button — 02 — About — Leadership — Internal Anchor — Overview
-19. Explore the Pathway — Learn More Button — 03 — Pathway — Internal — Overview
-20. Explore Admissions — Internal Link — 04 — Admissions — Why RIAH
-21. View Tuition — Internal Link — 05 — Tuition — Why RIAH
-22. View Foundation and Funding Information — Internal Link — 06 — Donations — Foundation — Why RIAH
-23. Explore Pathways — Internal Link — 03 — Pathway — Why RIAH
-24. View Accreditation and Status — Internal Link — 08 — Accreditation — Why RIAH
-25. Education Pathways — Internal Link — 03 — Pathway — Ecosystem
-26. Experiential Pathway — Internal Link — 03 — Pathway — Experiential Pathway — Ecosystem
-27. Certification Pathway — Internal Link — 03 — Pathway — Certification Pathway — Ecosystem
-28. Careers — Internal Link — 09 — Join Us — Careers — Ecosystem
-29. Explore the Full Pathway — Learn More Button — 03 — Pathway — Ecosystem
-30. Explore Pathways — Learn More Button — 03 — Pathway — Stakeholder Ecosystem
-31. Explore Join Us — Learn More Button — 09 — Join Us — Stakeholder Ecosystem
-32. School of Business — Internal Link — 03 — Pathway — School of Business — Schools
-33. School of Homeland Security and GRC — Internal Link — 03 — Pathway — School of Homeland Security and GRC — Schools
-34. School of Law — Internal Link — 03 — Pathway — Law Pathway — Schools
-35. School of Technology — Internal Link — 03 — Pathway — School of Technology — Schools
-36. High School Pathway — Internal Link — 03 — Pathway — High School Pathway — Schools
-37. GED and HSE Pathway — Internal Link — 03 — Pathway — GED and HSE Pathway — Schools
-38. Experiential Pathway — Internal Link — 03 — Pathway — Experiential Pathway — Schools
-39. View All Pathways — Learn More Button — 03 — Pathway — Schools
-40. Join Our Team — Learn More Button — 09 — Join Us — Join Our Team — Leadership
-41. Careers — Internal Link — 09 — Join Us — Careers — Leadership
-42. Governance Opportunities — Learn More Button — 09 — Join Us — Join Our Team — Leadership and Governance — Boards and Governance
-43. Donations and Foundation — Internal Link — 06 — Donations — Boards and Governance
-44. External Professional Opportunities — Learn More Button — 09 — Join Us — Join Our Team — External Professional Pillars — External Pillars
-45. Partnership Inquiries — Internal Link — 12 — Contact — External Pillars
-46. Admissions Policies — External Link — Public SuiteDash Page — Policies
-47. Community Policies — External Link — Public SuiteDash Page — Policies
-48. Consumer Policies — External Link — Public SuiteDash Page — Policies
-49. Corporation Policies — External Link — Public SuiteDash Page — Policies
-50. Foundation Policies — External Link — Public SuiteDash Page — Policies
-51. Institutional Policies — External Link — Public SuiteDash Page — Policies
-52. Join Us Policies — External Link — Public SuiteDash Page — Policies
-53. Product Policies — External Link — Public SuiteDash Page — Policies
-54. Student Policies — External Link — Public SuiteDash Page — Policies
-55. View Resources — Learn More Button — 10 — Resources — Policies
-56. Resources — Internal Link — 10 — Resources — News and Press
-57. Blog — Internal Link — 10 — Resources — Blog — News and Press
-58. Vlog — Internal Link — 10 — Resources — Vlog — News and Press
-59. Podcast — Internal Link — 10 — Resources — Podcast — News and Press
-60. Media Inquiries — Internal Link — 12 — Contact — Media Inquiries — News and Press
-61. View All Resources — Learn More Button — 10 — Resources — News and Press
-62. Website Directory — Internal Link Group — Pages 01 through 12 — Connected Website Directory
-63. Email About RIAH Pathway — External Link — about@RIAHPathway.com — Contact About
-64. Submit About Inquiry — Get Started Button — Jotform — External — Contact About
-65. Full Contact Directory — Internal Link — 12 — Contact — Contact About
-66. Explore Pathways — Learn More Button — 03 — Pathway — Final CTA
-67. Apply Now — Button — 04 — Admissions — Final CTA
-68. Request Information — Get Started Button — Contact About Form — Internal Anchor — Final CTA
-
-## Footer Routing
-
-69. Footer Explore Navigation — Internal Link Group — Pages 01 through 12 — Footer
-70. Student Links — Internal Link Group — Pathway, Admissions, Tuition, Student Experience, Resources — Footer
-71. Public Policies — External Link — Public SuiteDash Page — Footer
-72. Public Disclosures — External Link — Public SuiteDash Page — Footer
-73. Public Guidelines — External Link — Public SuiteDash Page — Footer
-74. Contact — Internal Link — 12 — Contact — Footer
-75. General Email — External Link — contact@RIAHPathway.com — Footer
-76. Instagram — External Icon Link — @RIAHPathway — Footer
-77. YouTube — External Icon Link — @RIAHPathway — Footer
-78. X and Twitter — External Icon Link — @RIAHPathway — Footer
-79. Facebook — External Icon Link — @RIAHPathway — Footer
-80. LinkedIn — External Icon Link — @RIAHPathway — Footer
-81. Threads — External Icon Link — @RIAHPathway — Footer
-82. TikTok — External Icon Link — @RIAHPathway — Footer
-83. Privacy — External Link — Public SuiteDash Page — Footer
-84. Terms — External Link — Public SuiteDash Page — Footer
-85. Accessibility — External Link — Public SuiteDash Page — Footer
-86. Applicable Disclosures — External Link — Public SuiteDash Page — Footer
-
----
-
-# MEDIA AND ICON ASSET CHART
-
-The media audit is presented as a list rather than a table.
-
-1. About Hero Video — Video — Primary About story — Hero
-2. About Hero Video Poster — Image — Video poster and accessible fallback — Hero
-3. Founder and CEO Portrait — Image — Founder introduction — Overview
-4. RIAH Pathway Ecosystem Map — Image and Diagram — Explain the connected ecosystem — Ecosystem
-5. Stakeholder Ecosystem Wheel — Image and Diagram — Explain stakeholder value — Everyone Wins When the Ecosystem Works Together
-6. Academic Schools Composite — Image — Introduce schools visually — Schools
-7. RIAH Pathway Leadership — Image — Represent human leadership — Leadership
-8. Governance Architecture — Image and Diagram — Explain oversight structure — Boards and Governance
-9. RIAH Pathway Goat Mascot — Image — Institutional identity — Institutional Identity
-10. RIAH Pathway Crest and Identity System — Image — Brand architecture — Institutional Identity
-11. Education, Experience, Certification, Career — Icon Set — Career Trifecta — Hero and Ecosystem
-12. Access, Affordability, Excellence, Rigor — Icon Set — Why RIAH — Why RIAH
-13. Business, Homeland Security, Law, Technology — Icon Set — School scanning — Schools
-14. Academic, Executive, Operational — Icon Set — Leadership scanning — Leadership
-15. Corporate, Academic, Foundation Governance — Icon Set — Governance scanning — Boards and Governance
-16. CPA, Development, Law, MSSP, Training — Icon Set — External Pillars — External Pillars
-17. Policy, Document, Shield — Icon Set — Policy navigation — Policies
-18. Blog, Vlog, Podcast, Press — Icon Set — Resource navigation — News and Press
-19. Pages 01 through 12 Concepts — Icon Set — Website navigation — Connected Website Directory
-
----
-
-# CTA AUDIT
-
-**CTA families used on this page:**
-
-- Apply Now — Yes
-- Learn More — Yes
-- Get Started — Yes
-- Log In — No
-- Shop Now — No
-
-**Total CTA Families Used:** 3 of 5
-
-No additional CTA families are introduced.
-
----
-
-# DOWNLOAD AUDIT
-
-**Total Downloads:** 0
-
-Policies, disclosures, guidelines, and living institutional resources route to public SuiteDash pages rather than creating unnecessary standalone files.
-
----
-
-# FINAL VISUAL CONTROL
-
-The About page must feel like part of the same RIAH Pathway institutional website used across Pages 01 through 12.
-
-Use Black, Red, Gold, White, and Silver strategically.
-
-Use the Crown as the institutional symbol and the Goat as the institutional mascot where relevant.
-
-Use professional website icons rather than emoji icons.
-
-Use purposeful imagery rather than decorative stock imagery.
-
-Use only one primary hero video.
-
-Use only one Drop Form.
-
-Keep all essential information as website text rather than placing essential information only inside images.
-
-------------------------------------------------------------------------
-
-<!-- RIAH IMPACT TRANSPARENCY DISTRIBUTION 2026-10-01 -->
-
-# 👑 RIAH IMPACT, TRANSPARENCY & COMMUNITY MODEL
-
-## I. 🔄 GUARANTEED ONE-MONTH MAJOR ROTATION
-
-Every applicable student completes a **guaranteed one-month real-work rotation** directly connected to their major.
-
-| Structure | RIAH Model |
-|---|---|
-| ⏱️ **Duration** | 4 weeks |
-| 🔄 **Rotation Structure** | 4 structured one-week rotations |
-| 🏢 **Work Location** | RIAH ecosystem or RIAH employer and industry partnerships |
-| 🌎 **Industries** | Healthcare, manufacturing, technology, professional services, government, business, and other industries |
-| 📋 **Requirements** | Defined responsibilities, deliverables, and outcomes |
-| ⚙️ **Work Standard** | Real and consequential work |
-
-**REAL WORK → REAL PROFESSIONALS → REAL DELIVERABLES → REAL REVIEW**
-
-## II. 🎓 SEPARATE EXPERIENTIAL PATHWAY
-
-**APPRENTICE → INTERN → ASSOCIATE → SENIOR ASSOCIATE → MANAGER → EXECUTIVE**
-
-| System | Purpose |
-|---|---|
-| 🔄 **Guaranteed Major Rotation** | One month of real work directly connected to the student's major |
-| 💼 **Experiential Program** | Separate application-based professional experiential pathway |
-
-## III. 👥 CAPSTONE & APPLIED-WORK REVIEW
-
-| Reviewer | Role |
-|---|---|
-| 🎓 **RIAH Faculty** | Academic review |
-| 💼 **RIAH Experiential Staff** | Experiential and applied-work review |
-| 🏢 **Employers** | Employer and workplace feedback |
-| 👩‍💼 **Industry Professionals** | Professional and industry feedback |
-| 🌎 **Community Reviewers** | Structured community review and feedback |
-
-**STUDENT WORK → FACULTY + EXPERIENTIAL REVIEW → EMPLOYER + PROFESSIONAL REVIEW → COMMUNITY REVIEW → FEEDBACK → FINAL RIAH EVALUATION**
-
-Community reviewers can sign up to review student work and provide structured feedback. RIAH retains academic oversight and final evaluation requirements.
-
-## IV. 🏅 MILESTONES, BADGES & VERIFICATION
-
-| Platform | RIAH Use |
-|---|---|
-| 🎓 **Merit Pages** | Education-pathway completion plus applicable achievement and experiential badges |
-| 🏅 **Credly** | Experiential-pathway completion and experiential credentials |
-
-**COMPLETE → EARN → PUBLISH → VERIFY**
-
-## V. ⛓️ BLOCKCHAIN TRANSPARENCY MODEL
-
-| Public Area | Purpose |
-|---|---|
-| 💰 **Accreditation Donations** | Donation transparency |
-| 🎓 **Scholarship Funds** | Scholarship funding transparency |
-| 🏦 **Applicable Escrow Activity** | Applicable fund-movement transparency |
-| 📊 **Donation Allocations** | Show allocation of donated funds |
-| 💸 **Scholarship Disbursements** | Aggregate scholarship distribution |
-| 📚 **Donor-Created Scholarships** | Track scholarships established through donations |
-| 🔎 **Transaction Verification** | Verify applicable public transactions |
-
-**STUDENT FINANCES = PRIVATE 🔒**  
-**DONATION TRANSPARENCY = PUBLIC ⛓️**
-
-**DONATION → PUBLIC LEDGER → ESCROW OR DESIGNATED FUND → ALLOCATION → SCHOLARSHIP OR ACCREDITATION PURPOSE → DISBURSEMENT → REPORTING**
-
-## VI. 🎓 DONOR-CREATED SCHOLARSHIPS & PUBLIC BOOKS
-
-**💰 DONATION → 🏷️ NAMED SCHOLARSHIP → 🎓 SCHOLARSHIP FUND → 💵 AVAILABLE BALANCE → ✅ AWARDS → 💸 DISBURSEMENTS → 📊 REMAINING BALANCE**
-
-| Financial Transparency | Public Function |
-|---|---|
-| 📊 **Balance Sheet or Statement of Financial Position** | Financial position |
-| 📈 **Income Statement or Statement of Activities** | Revenue, support, and expenses |
-| 💵 **Statement of Cash Flows** | Cash activity |
-| 💰 **Donation Fund Activity** | Donation activity |
-| 🎓 **Scholarship Fund Activity** | Scholarship funding and distributions |
-| 🏛️ **Accreditation Fund Activity** | Accreditation-related funding |
-| 🏦 **Applicable Escrow Reporting** | Applicable escrow activity |
-| 📝 **Notes and Disclosures** | Supporting financial information |
-
-## VII. ⚖️ SCHOOL OF LAW PUBLIC SERVICE
-
-RIAH School of Law provides an **affordable record-sealing and expungement public-service program** for eligible students and community participants, subject to applicable state requirements.
-
-| Service | RIAH Public-Service Model |
-|---|---|
-| ⚖️ **Eligibility Screening** | Determine applicable eligibility |
-| 📑 **Record Sealing** | Assistance with eligible sealing matters |
-| 🗂️ **Expungement** | Assistance with eligible expungement matters |
-| 👩‍⚖️ **Attorney Supervision** | Qualified attorney oversight |
-| 🎓 **Student Participation** | Eligible supervised participation where permitted |
-| 📝 **Filing Support** | Filing and administrative assistance |
-| 🏛️ **Court Process** | Assistance navigating applicable procedures |
-| 💵 **Administrative Fee** | Planned fee of no more than $50 where legally permissible |
-| 🌎 **State Requirements** | State-specific eligibility and procedures |
-
-**SCREEN → DETERMINE ELIGIBILITY → ATTORNEY REVIEW → PREPARE → FILE → COURT PROCESS → OUTCOME**
-
-The applicable court determines whether a record is ultimately sealed or expunged.
-
-## VIII. 📊 LAW PUBLIC-SERVICE IMPACT LEDGER
-
-| Metric | Public Display |
-|---|---|
-| ⚖️ **People Assisted** | Aggregate count |
-| ✅ **Records Successfully Sealed** | Aggregate count |
-| 🗂️ **Records Successfully Expunged** | Aggregate count |
-| 📑 **Matter Category** | Generalized category |
-| 🏛️ **State** | State-level reporting |
-| 👩‍⚖️ **Participating Attorney** | Attorney recognition where appropriate |
-| ⏳ **Pending Matters** | Aggregate count |
-| 📈 **Outcomes** | Aggregate reporting |
-| 💵 **Administrative Fees** | Aggregate reporting |
-| 🤝 **Public-Service Hours** | Aggregate reporting |
-
-**PUBLICIZE THE SERVICE → MEASURE THE IMPACT → RECOGNIZE THE PROFESSIONALS → PROTECT THE INDIVIDUAL 🔒**
-
-## IX. 🌎 COMMUNITY IMPACT ECOSYSTEM
-
-| Area | What RIAH Shows |
-|---|---|
-| 🎓 **Education & Experiential** | Milestones, badges, experiential completion, and applied-work structure |
-| 💰 **Donations & Scholarships** | Donations, designated funds, scholarship creation, aggregate disbursements, and financial reporting |
-| ⚖️ **School of Law Public Service** | Aggregate record-sealing and expungement assistance, outcomes, public-service activity, and attorney recognition |
-
-**🎓 EDUCATION → 💼 REAL EXPERIENCE → 🏅 VERIFIED ACHIEVEMENT → 💰 COMMUNITY FUNDING → 🎓 SCHOLARSHIP OPPORTUNITY → ⚖️ LEGAL PUBLIC SERVICE → 🌎 COMMUNITY IMPACT**
-
----
-
-# REAL-WORK AND PUBLIC-SERVICE ECOSYSTEM
-
-RIAH’s connected ecosystem creates supervised real-work opportunities from public-facing services and internal operations. The School of Law model includes public case intake and routing to participating attorneys across the 50 states plus D.C. Applicable JD, Non-JD, Criminal Justice, and related students may participate in legally permitted supervised work on accepted real matters. Internal operations create additional work involving intellectual property, corporate matters, contracts, mergers and acquisitions, governance, Foundation operations, donations, blockchain transparency, accounting, audit, compliance, and reporting.
+Overall Status: **IN PROGRESS**
