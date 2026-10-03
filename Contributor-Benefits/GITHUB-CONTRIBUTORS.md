@@ -86,7 +86,25 @@ XII. 📋 Contributor Ledger
 
 ## I. 🔑 Key
 
-👑 approved contribution · ⭐ approved point · 🏆 milestone · 💻 development · 🐛 bug · 📄 documentation · 🎨 creative/design · 🧪 testing/QA · ♿ accessibility · 📚 curriculum/education · 💰 pricing · 📱 mobile/responsive · 🎥 video/media · 🔍 research · 🔗 links/routing/CTA · ✅ accepted/verified · ❌ rejected/ineligible.
+| Emoji | Meaning |
+|---|---|
+| 👑 | approved contribution |
+| ⭐ | approved point |
+| 🏆 | milestone |
+| 💻 | development |
+| 🐛 | bug |
+| 📄 | documentation |
+| 🎨 | creative/design |
+| 🧪 | testing/QA |
+| ♿ | accessibility |
+| 📚 | curriculum/education |
+| 💰 | pricing |
+| 📱 | mobile/responsive |
+| 🎥 | video/media |
+| 🔍 | research |
+| 🔗 | links/routing/CTA |
+| ✅ | accepted/verified |
+| ❌ | rejected/ineligible |
 
 ## II. 👑 Eligibility
 
