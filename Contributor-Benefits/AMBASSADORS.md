@@ -1,18 +1,18 @@
 # 🌎 Community Ambassadors
 
-Community Ambassadors provide approved community outreach, events, referrals, workshops, information sessions, and local promotion.
+**Status: In Progress — Review and Finalization Required**
 
-## Eligibility
+Community Ambassadors provide approved outreach through community events, educational events, career fairs, workshops, webinars, booths, information tables, local outreach, community organizations, approved presentations, social campaigns, QR campaigns, referral links, prospective-student referrals, application conversions, student enrollment conversions, product conversions and approved organizational introductions.
 
-Ambassadors must register through the approved program, complete required orientation and marketing training, use approved materials, use assigned QR codes and referral links when required, accurately represent RIAH Pathway, obtain event or venue permission, protect prospect information, submit verifiable activity records, and avoid duplicate or fraudulent referrals or unauthorized promises.
+## 👑 General Eligibility
 
-## Benefit Formula
+Participants must maintain an identifiable profile; use assigned participant, Ambassador, referral or contributor identifiers when required; follow program instructions; use approved RIAH Pathway branding and current marketing materials; accurately represent programs, products, services and pathways; never make unauthorized promises regarding admission, accreditation, authorization, financial aid, employment, certification, licensure or educational outcomes; follow applicable school, employer, venue, platform and property requirements; obtain required permissions; submit evidence for point-bearing activity; use assigned QR codes and referral links where required; protect student, prospect, customer, employee and organizational information; never fabricate activity or conversions; complete required training; follow applicable RIAH policies; and receive verification before points become permanent.
 
-**100 approved points = 1% eligible tuition + 1% eligible products.**
+## 🧮 Benefit Formula
 
-Benefits increase in 1% increments to **2,500 points = 25% tuition + 25% products maximum**.
+**100 approved points = 1% eligible tuition + 1% eligible products.** Maximum: **2,500 points = 25% tuition + 25% products**.
 
-## Point System
+## ⭐ Community Ambassador Point System
 
 | Activity | Points |
 |---|---:|
@@ -37,4 +37,97 @@ Benefits increase in 1% increments to **2,500 points = 25% tuition + 25% product
 | Coordinate major workshop | 75 |
 | Major approved Ambassador campaign | 100–200 |
 
-Conversions must be traceable to the assigned QR code, referral link, or another approved verification method. Self-referrals and duplicate conversion awards do not qualify.
+## 🎪 Events, Workshops and Outreach
+
+Eligible activities may include college fairs, career fairs, community festivals, education fairs, school district events, parent information events, workforce events, career-development workshops, college-readiness events, professional-development events, community-center events, library events, approved school events, virtual information sessions, educational webinars, certification workshops, career workshops and Experiential pathway sessions.
+
+| Event Contribution | Points |
+|---|---:|
+| Attend and support | 25 |
+| Staff booth or table | 50 |
+| Present approved session | 50 |
+| Coordinate event participation | 75 |
+| Organize approved RIAH workshop | 75 |
+| Lead major approved event | 100 |
+| Coordinate major multi-partner event | 150–200 |
+
+Multiple event awards require genuinely separate responsibilities.
+## 🔗 QR Codes, Referral Links and Attribution
+
+Each applicable Ambassador uses an individually attributable QR code and referral link. Approved destinations may include the RIAH Pathway website, program pages, educational webinars, application pages, event registration, product pages, information-request forms and approved landing pages.
+
+**Ambassador → QR or Link → Engagement → Lead → Webinar → Application → Enrollment or Purchase**
+
+Conversions must be traceable to the assigned identifier or otherwise verified. Self-referrals do not qualify. Duplicate referrals do not create duplicate conversion awards.
+## 🏆 1%–25% Milestones
+
+| Points | Tuition | Products |
+|---:|---:|---:|
+| 100 | 1% | 1% |
+| 200 | 2% | 2% |
+| 300 | 3% | 3% |
+| 400 | 4% | 4% |
+| 500 | 5% | 5% |
+| 600 | 6% | 6% |
+| 700 | 7% | 7% |
+| 800 | 8% | 8% |
+| 900 | 9% | 9% |
+| 1000 | 10% | 10% |
+| 1100 | 11% | 11% |
+| 1200 | 12% | 12% |
+| 1300 | 13% | 13% |
+| 1400 | 14% | 14% |
+| 1500 | 15% | 15% |
+| 1600 | 16% | 16% |
+| 1700 | 17% | 17% |
+| 1800 | 18% | 18% |
+| 1900 | 19% | 19% |
+| 2000 | 20% | 20% |
+| 2100 | 21% | 21% |
+| 2200 | 22% | 22% |
+| 2300 | 23% | 23% |
+| 2400 | 24% | 24% |
+| 2500 | 25% MAX | 25% MAX |
+
+Only complete 100-point thresholds increase the benefit. Remaining points carry forward. Participation may continue after 2,500 points, but these benefits remain capped at 25%.
+
+## 👥 Benefit Levels
+
+| Level | Points | Benefit |
+|---|---:|---:|
+| 🟢 Level I | 100–400 | 1%–4% |
+| 🔵 Level II | 500–900 | 5%–9% |
+| 🟣 Level III | 1,000–1,400 | 10%–14% |
+| 🔴 Level IV | 1,500–1,900 | 15%–19% |
+| 👑 Level V | 2,000–2,400 | 20%–24% |
+| 👑🏆 Maximum | 2,500+ | 25% |
+
+## 🔗 Referral and Conversion Milestones
+
+| Stage | Points |
+|---|---:|
+| Qualified Referral | 10 |
+| Webinar or Information Session Attendance | +15 |
+| Completed Application | +25 |
+| Verified Enrollment | +100 |
+| Verified Product Purchase | +25 |
+
+A verified student completing the referral journey through enrollment may generate 150 points: 10 + 15 + 25 + 100.
+
+## 🛡️ Verification and Anti-Abuse
+
+Verification may include activity records, event registration or check-in, appropriate event evidence, QR analytics, referral analytics, webinar registration, application attribution, enrollment attribution, product-order attribution, approved campaign records, GitHub records where applicable, and coordinator or maintainer approval.
+
+No points are awarded for fake, duplicate or self-referrals; fake purchases; fraudulent transactions; fabricated events or attendance; QR manipulation; automated fake traffic; spam; plagiarism; duplicate submissions; unauthorized copyrighted material; fabricated testing or research; unauthorized school, vehicle or brand marketing; misleading program claims; pressure-based marketing; abandoned or rejected work; or restricted/confidential information.
+
+One underlying activity normally receives one primary award unless separate point-bearing milestones or deliverables are independently verified.
+
+## ⏳ Status Workflow
+
+**⏳ Pending → 👀 Under Review → 🔄 Revision if Required → ✅ Approved → 👑 Credited**
+
+Pending work receives no permanent points. Rejected work receives zero points.
+
+## 📋 Participant Ledger
+
+Record Participant, Participant ID, Track, Activity or Contribution ID, Activity, Attribution, Submission Date, Verification Source, Points, Approved By, Previous Total, Added Points, New Total, Milestone, Tuition Benefit, Product Benefit, Next Milestone, Points Remaining and Status.
