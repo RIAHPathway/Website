@@ -5,6 +5,7 @@
 | Roman Numeral | Page | Audit Scope | Status |
 |---|---|---|---|
 | II | About | Buttons, internal links, external links, downloads, media, icons, CTAs, routing, content and asset status | In Progress |
+| VI | Tuition | Buttons, internal links, external links, downloads, media, icons, CTAs, routing, forms, content and implementation status | In Progress |
 
 ## Key
 
@@ -180,3 +181,112 @@ Page II reflects the approved complete 02.0 through 02.8 About wireframe. Button
 ## Expansion Rule
 
 Use this same Roman numeral index, ID key, routing table, and combined audit structure for every website wireframe from I through XIII. Add each page to the Index as its audit is populated.
+
+
+# VI — Tuition
+
+## Button, Link, and Download Routing Chart
+
+| ID | Element | Type | Placement | Destination | Access | Status |
+|---|---|---|---|---|---|---|
+| 06-B01 | Apply Now | Button | Global Header | Classe365 | External | COMPLETE |
+| 06-B02 | View Tuition | Button | Hero | 6.2 Tuition | Public | COMPLETE |
+| 06-B03 | Explore Payment Options | Button | Hero | 6.4 Payment Options | Public | COMPLETE |
+| 06-B04 | Build My Price | Button | Hero | 6.8 Pricing Calculator Engine | Public interactive | COMPLETE |
+| 06-B05 | Apply Now | Button | Hero | Classe365 | External | COMPLETE |
+| 06-B06 | Request Information | Button | Hero | 13 Contact | Public | COMPLETE |
+| 06-B07 | Tuition and Pricing | Button | Tuition Overview | 6.2 Tuition | Public | COMPLETE |
+| 06-B08 | View Pricing | Button | Pricing Stages | 6.2 Tuition | Public | COMPLETE |
+| 06-B09 | Explore Academic Pathways | Button | Academic Tuition | 3 Pathway | Public | COMPLETE |
+| 06-B10 | View Curriculum | Button | Academic Tuition | 4 Curriculum | Public | COMPLETE |
+| 06-B11 | Build My Price | Button | Pricing Stage | 6.8 Pricing Calculator Engine | Public interactive | COMPLETE |
+| 06-B12 | Explore Experiential | Button | Integrated Pricing | 3.5 Experiential Pathway | Public | COMPLETE |
+| 06-B13 | Calculate Integrated Tuition | Button | Integrated Pricing | 6.8 Pricing Calculator Engine | Public interactive | COMPLETE |
+| 06-B14 | Check Eligible Benefits | Button | Reductions | 6.8 Pricing Calculator Engine | Public interactive | COMPLETE |
+| 06-B15 | GitHub Contributor Benefits | Button | Contributors | Contributor Benefits GitHub Contributors | Public resource | COMPLETE |
+| 06-B16 | Community Ambassador Benefits | Button | Contributors | Contributor Benefits Ambassadors | Public resource | COMPLETE |
+| 06-B17 | Substitute Teacher Benefits | Button | Contributors | Contributor Benefits Substitute Teachers | Public resource | COMPLETE |
+| 06-B18 | Rideshare Benefits | Button | Contributors | Contributor Benefits Rideshare | Public resource | COMPLETE |
+| 06-B19 | Delivery Benefits | Button | Contributors | Contributor Benefits Delivery | Public resource | COMPLETE |
+| 06-B20 | Graduate Benefits | Button | Contributors | Contributor Benefits Students | Public resource | COMPLETE |
+| 06-B21 | Partner Benefits | Button | Contributors | Contributor Benefits Partners | Public resource | COMPLETE |
+| 06-B22 | Team Opportunities | Button | Contributors | 10.4 Join Our Team | Public | COMPLETE |
+| 06-B23 | Contributor Benefits | Button | Contributors | Contributor Benefits Documentation | Public resource | COMPLETE |
+| 06-B24 | Calculate My Benefit | Button | Contributors | 6.8 Pricing Calculator Engine | Public interactive | COMPLETE |
+| 06-B25 | Experiential Pathway | Button | Experiential | 3.5 | Public | COMPLETE |
+| 06-B26 | Experiential Curriculum | Button | Experiential | 4.8 | Public | COMPLETE |
+| 06-B27 | Certification Pathway | Button | Certification | 3.6 | Public | COMPLETE |
+| 06-B28 | Certification and Review Products | Button | Certification | 8 Products | Public | COMPLETE |
+| 06-B29 | View Fees | Button | Fees | 6.3 | Public | COMPLETE |
+| 06-B30 | View Fees | Button | Deposit | 6.3 | Public | COMPLETE |
+| 06-B31 | Calculate Upfront Option | Button | Payment | 6.8 | Public interactive | COMPLETE |
+| 06-B32 | Compare Payment Options | Button | Payment | 6.4 | Public | COMPLETE |
+| 06-B33 | Title IV Information | Button | Title IV | 6.4 | Public | COMPLETE |
+| 06-L01 | Title IV and Financial Aid Information | Policy Link | Title IV | 6.7 Costs | Public | COMPLETE |
+| 06-B34 | Private Student Loan Information | Button | Private Loan | 6.4 | Public | COMPLETE |
+| 06-L02 | Private Student Loan Policy | Policy Link | Private Loan | 11.8 Policies | Public | COMPLETE |
+| 06-B35 | Explore Funding | Button | Funding | 6.5 | Public | COMPLETE |
+| 06-B36 | Explore Reimbursement | Button | Reimbursement | 6.6 | Public | COMPLETE |
+| 06-B37 | Graduate Benefits | Button | Reimbursement | Contributor Benefits Students | Public resource | COMPLETE |
+| 06-B38 | View Reimbursement | Button | Reimbursement Escrow | 6.6 | Public | COMPLETE |
+| 06-B39 | Start Pricing Calculator | Button | Calculator | 6.8 | Public interactive | COMPLETE |
+| 06-B40 | Costs, Refunds and Policies | Button | Costs | 6.7 | Public | COMPLETE |
+| 06-B41 | View Cost Information | Button | External Costs | 6.7 | Public | COMPLETE |
+| 06-L03 | Master Pricing Principles | Policy Link | Documentation | 11.8 Policies | Public | COMPLETE |
+| 06-B42 | Explore Resources | Button | Documentation | 11 Resources | Public | COMPLETE |
+| 06-B43 | Explore Tuition | Button | Directory | 6.2 | Public | COMPLETE |
+| 06-B44 | Explore Fees | Button | Directory | 6.3 | Public | COMPLETE |
+| 06-B45 | Explore Payment Options | Button | Directory | 6.4 | Public | COMPLETE |
+| 06-B46 | Explore Funding | Button | Directory | 6.5 | Public | COMPLETE |
+| 06-B47 | Explore Reimbursement | Button | Directory | 6.6 | Public | COMPLETE |
+| 06-B48 | Explore Costs | Button | Directory | 6.7 | Public | COMPLETE |
+| 06-B49 | Start Calculator | Button | Directory | 6.8 | Public interactive | COMPLETE |
+| 06-B50 | View Tuition FAQ | Button | FAQ | 12.5 | Public | COMPLETE |
+| 06-B51 | Build My Price | Button | Final CTA | 6.8 | Public interactive | COMPLETE |
+| 06-B52 | Explore Tuition | Button | Final CTA | 6.2 | Public | COMPLETE |
+| 06-B53 | Explore Funding | Button | Final CTA | 6.5 | Public | COMPLETE |
+| 06-B54 | Contributor Benefits | Button | Final CTA | Contributor Benefits Documentation | Public resource | COMPLETE |
+| 06-B55 | Apply Now | Button | Final CTA | Classe365 | External | COMPLETE |
+| 06-B56 | Request Information | Button | Final CTA | 13 Contact | Public | COMPLETE |
+| 06-D01 | Tuition and Pricing Guide | Download | Documentation | File to attach | Public | TO ATTACH |
+| 06-D02 | Fees and Payment Options Guide | Download | Documentation | File to attach | Public | TO ATTACH |
+| 06-D03 | Funding and Reimbursement Guide | Download | Documentation | File to attach | Public | TO ATTACH |
+| 06-D04 | Costs, Refunds and Policies Guide | Download | Documentation | File to attach | Public | TO ATTACH |
+
+## Media, Icon, CTA, Routing, Content, and Asset Status Audit
+
+| ID | Category | Element or Asset | Placement | Purpose or Action | Destination or Route | Status |
+|---|---|---|---|---|---|---|
+| 06-M01 | Image | Tuition Hero | Hero | Introduce tuition and financial planning | None | TO CREATE |
+| 06-M02 | Video | Tuition Overview | Hero | Explain complete tuition structure | None | TO CREATE |
+| 06-M03 | Image | Tuition Video Poster | Hero | Video preview | None | TO CREATE |
+| 06-M04 | Image | Education Plus Experience | Integrated Pricing | Explain integrated pathway pricing | 3.5 and 6.8 | TO CREATE |
+| 06-M05 | Image | Contributors and Ambassadors | Contributor Benefits | Represent contribution-based benefits | Contributor Benefits resources | TO CREATE |
+| 06-M06 | Image | Professional Experiential Learning | Experiential | Represent experiential pathways | 3.5 and 4.8 | TO CREATE |
+| 06-M07 | Image | Student Resource Package | Deposit | Explain Education Deposit resources | 6.3 | TO CREATE |
+| 06-M08 | Image | Semester Financial Aid Timeline | Title IV | Explain applicable semester allocation | 6.4 | TO CREATE |
+| 06-M09 | Image | Private Education Financing | Private Loan | Explain RIAH financing | 6.4 | TO CREATE |
+| 06-M10 | Image | Student Funding Resources | Funding | Explain funding sources | 6.5 | TO CREATE |
+| 06-M11 | Image | Graduate Reimbursement and Points | Reimbursement | Explain graduate milestones | 6.6 | TO CREATE |
+| 06-M12 | Image | Reimbursement Dashboard | Escrow | Explain earned benefit tracking | 6.6 | TO CREATE |
+| 06-M13 | Image | Pricing Calculator Engine | Calculator | Show interactive calculator | 6.8 | TO CREATE |
+| 06-M14 | Image | Education to Legacy | Final CTA | Close with full RIAH pathway | Applicable routes | TO CREATE |
+| 06-CTA01 | CTA | Complete Tuition Button Architecture | Throughout | Route all approved Tuition buttons | Applicable destinations | COMPLETE |
+| 06-R01 | Routing | Tuition Subpage Routing | Complete Page | Route 6.1 through 6.8 | 6.1 through 6.8 | COMPLETE |
+| 06-R02 | Routing | Contributor Benefit Routing | Contributor sections | Route contributor categories | Contributor Benefits resources | COMPLETE |
+| 06-R03 | Routing | Pricing Calculator | Throughout | Route calculations and benefit checks | 6.8 | COMPLETE |
+| 06-R04 | Routing | External Application | Header, Hero and Final CTA | Application | Classe365 | COMPLETE |
+| 06-C01 | Content | Tuition Content Architecture | Sections 1 through 25 | Approved complete Tuition wireframe | Tuition | COMPLETE |
+| 06-C02 | Content | Pricing Architecture | Pricing sections | Approved tuition and stage presentation | 6.2 and 6.8 | COMPLETE |
+| 06-C03 | Content | Contributor Benefit Architecture | Contributor sections | Approved benefit presentation | Contributor Benefits resources | COMPLETE |
+| 06-C04 | Content | Payment Architecture | Payment sections | Approved payment-option presentation | 6.4 | COMPLETE |
+| 06-C05 | Content | Funding and Reimbursement Architecture | Funding and reimbursement sections | Approved financial-support presentation | 6.5 and 6.6 | COMPLETE |
+| 06-C06 | Content | Cost and Refund Architecture | Cost sections | Approved cost and refund presentation | 6.7 | COMPLETE |
+| 06-C07 | Asset | Public Download Library | Documentation | Attach approved downloads | Tuition | TO ATTACH |
+| 06-C08 | Asset | Page Media, Icons and Video | Throughout | Create approved visual assets | Tuition | TO CREATE |
+
+## Page VI Status
+
+Overall Status: **IN PROGRESS**
+
+Page VI reflects the approved complete Tuition wireframe. Button, internal-link, external-link, download, media, CTA, routing, form, content and implementation records are reconciled to the current Tuition architecture.
