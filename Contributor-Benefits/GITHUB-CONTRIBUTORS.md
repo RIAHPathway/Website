@@ -249,7 +249,18 @@ Eligible work includes approved educational videos, promotional videos, pathway 
 
 ## IX. 🔄 Contributor Workflow
 
-**Identify approved work → Claim or propose → Build → Submit → Review → Revise if required → Accept or merge → Credit points → Check milestone → Update benefit record.**
+```mermaid
+flowchart LR
+    N1["Identify approved work"] --> N2["Claim or propose"]
+    N2["Claim or propose"] --> N3["Build"]
+    N3["Build"] --> N4["Submit"]
+    N4["Submit"] --> N5["Review"]
+    N5["Review"] --> N6["Revise if required"]
+    N6["Revise if required"] --> N7["Accept or merge"]
+    N7["Accept or merge"] --> N8["Credit points"]
+    N8["Credit points"] --> N9["Check milestone"]
+    N9["Check milestone"] --> N10["Update benefit record."]
+```
 
 Pull requests should identify what changed, why it changed, the applicable issue, testing performed, screenshots where relevant, responsive behavior, accessibility considerations and the affected page or ecosystem component.
 
