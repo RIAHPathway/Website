@@ -369,12 +369,12 @@ Applicable Microsoft technical, cloud, data, AI, software, infrastructure, and c
 | RIAH Certification Review Course | Included | Included | Included |
 | Applicable Certification Sections, Parts, or Modules | Included | Included | Included |
 | Applicable Course Material | Included | Included | Included |
-| Textbook | — | Included | Included |
+| Textbook | — | — | Included |
 | Core Questions and MCQs | Included | Included | Included |
 | Core Practice Tests | Included | Included | Included |
 | Core Simulations | Included | Included | Included |
-| Mini Practice Exams | 2 | 2 + Additional Practice Exams | 2 + Additional Practice Exams + 5 Additional Practice Tests Per Applicable Module |
-| Mini Simulated Exams | 2 | 2 + Additional Simulation Practice | 2 + Additional Simulation Practice + 5 Additional Simulations Per Applicable Module |
+| Mini Practice Exams | 2 | 2 | 2 + Additional Practice Exams + 5 Additional Practice Tests Per Applicable Module |
+| Mini Simulated Exams | 2 | 2 | 2 + Additional Simulation Practice + 5 Additional Simulations Per Applicable Module |
 | Full Simulated Exam | 1 | 1 | 1 |
 | Workbook | — | Included | Printed Workbook Included |
 | Study Guide | — | Included | Printed Study Guide Included |
@@ -425,11 +425,10 @@ Applicable course materials follow the RIAH product-format structure. Complete p
 
 ## STANDARD — $1,000
 
-### EXPANDED REVIEW + PRODUCT PACKAGE
+### ADDITIONAL REVIEW + PRODUCT PACKAGE
 
 Includes everything in Basic plus:
 
-- Textbook
 - Workbook
 - Study Guide
 - Review Guide
@@ -437,8 +436,6 @@ Includes everything in Basic plus:
 - Flashcards
 - Planner
 - Journal
-- Additional Practice Exams
-- Additional Simulation Practice
 
 Applicable physical products are primarily printed and shipped. Select applicable resources may be provided digitally, and applicable print products may include a limited digital preview.
 
@@ -522,12 +519,12 @@ It is one RIAH Bar Review with applicable jurisdiction-specific modules.
 | Full RIAH Bar Review Course | Included | Included | Included |
 | Applicable Jurisdiction Module | Included | Included | Included |
 | Applicable Course Material | Included | Included | Included |
-| Textbook | — | Included | Included |
+| Textbook | — | — | Included |
 | Core Questions and MCQs | Included | Included | Included |
 | Core Practice Tests | Included | Included | Included |
 | Core Simulations | Included | Included | Included |
-| Mini Practice Exams | 2 | 2 + Additional Practice Exams | 2 + Additional Practice Exams + 5 Additional Practice Tests Per Applicable Module |
-| Mini Simulated Exams | 2 | 2 + Additional Simulation Practice | 2 + Additional Simulation Practice + 5 Additional Simulations Per Applicable Module |
+| Mini Practice Exams | 2 | 2 | 2 + Additional Practice Exams + 5 Additional Practice Tests Per Applicable Module |
+| Mini Simulated Exams | 2 | 2 | 2 + Additional Simulation Practice + 5 Additional Simulations Per Applicable Module |
 | Full Simulated Exam | 1 | 1 | 1 |
 | Workbook | — | Included | Included in Complete Printed Product Set |
 | Study Guide | — | Included | Included in Complete Printed Product Set |
@@ -576,7 +573,6 @@ Includes:
 
 Includes everything in Basic plus:
 
-- Textbook
 - Workbook
 - Study Guide
 - Review Guide
@@ -584,8 +580,6 @@ Includes everything in Basic plus:
 - Flashcards
 - Planner
 - Journal
-- Additional Practice Exams
-- Additional Simulation Practice
 
 ## PREMIUM BAR REVIEW — $1,500
 
