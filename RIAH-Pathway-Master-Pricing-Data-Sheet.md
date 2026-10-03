@@ -591,6 +591,17 @@ Approved Funding**
 
 Minimum Remaining Tuition: **\$0**
 
+### Funding and Reimbursement Flow
+
+```mermaid
+flowchart LR
+    A["Tuition After Reductions"] --> B["Approved Funding"]
+    B --> C["Remaining Tuition"]
+    C --> D["Eligible Reimbursement Basis"]
+    D --> E["10% Qualifying Completion Reimbursement"]
+    E --> F["Up to 50% Maximum Potential Reimbursement"]
+```
+
 Negative tuition is prohibited.
 
 # XXXI. 💵 Tuition Reimbursement
@@ -708,6 +719,40 @@ Loan eligibility does not guarantee approval of a particular amount. The student
 **If Credit Score ≥ 700: Approved Loan may exceed the 10% collateral-supported tier, but cannot exceed the remaining tuition deficit or \$5,000 maximum.**
 
 **Approved RIAH Loan = MIN(Requested Loan, Remaining Tuition Deficit, Applicable Supported Loan Amount, \$5,000)**
+
+### Private Student Loan Flow — Part I: Collateral Tier
+
+```mermaid
+flowchart LR
+    A["Tuition"] --> B["Apply Qualifying Payment or Collateral"]
+    B --> C["Remaining Tuition Deficit"]
+    B --> D["10% Collateral-Supported Tier"]
+    C --> E["RIAH Loan Request: $500–$5,000"]
+    D --> F["Supported Loan Amount"]
+    E --> F
+```
+
+### Private Student Loan Flow — Part II: 700+ Higher Loan Tier
+
+```mermaid
+flowchart LR
+    A["10% Collateral-Supported Amount"] --> B{"Credit Score 700+"}
+    B -- "No" --> C["Loan Limited to 10% Collateral Tier"]
+    B -- "Yes" --> D["May Exceed 10% Collateral Tier"]
+    D --> E["Maximum = Remaining Tuition Deficit or $5,000"]
+```
+
+### 700+ Credit Example
+
+| Calculation | Amount |
+|:---|---:|
+| Tuition | $15,000 |
+| Qualifying Payment or Collateral | $10,000 |
+| Remaining Tuition Deficit | $5,000 |
+| 10% Collateral-Supported Tier | $1,000 |
+| Credit Score | 700+ |
+| Additional Potential RIAH Loan | $4,000 |
+| Maximum Total RIAH Loan | $5,000 |
 
 Where an applicable reimbursement is payable and an outstanding RIAH Private Student Loan exists, the existing Loan Recovery Through Reimbursement rule applies first. Reimbursement generated from qualifying eligible payment sources, including qualifying direct debit or credit payments and qualifying student-loan payments, follows the reimbursement rules and applicable loan-servicer or student payment routing.
 
