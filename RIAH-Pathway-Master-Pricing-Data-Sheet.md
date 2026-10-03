@@ -414,6 +414,23 @@ Transfer Tuition Reduction: **\$0**
 
 Certification Review and Bar Review use the established Basic, Standard, and Premium standalone pricing tiers. When Certification Review or Bar Review is included with an applicable pathway, the included review is \$0 additional.
 
+### Technology and Cybersecurity Certification Review Coverage
+
+The Technology and Cybersecurity Certification Review catalog includes the existing configured review courses plus the following expanded vendor and cybersecurity coverage. Every eligible standalone certification review uses the same Certification Review pricing tiers established above: **Basic $500, Standard $1,000, Premium $1,500**. Included reviews remain **$0 additional** where an applicable pathway includes the review.
+
+| Certification Area | Review Course Coverage | Basic | Standard | Premium |
+|:---|:---|---:|---:|---:|
+| Cybersecurity — Red Team | OSCP — Offensive Security Certified Professional | $500 | $1,000 | $1,500 |
+| Cybersecurity — Ethical Hacking | CEH — Certified Ethical Hacker | $500 | $1,000 | $1,500 |
+| Cybersecurity — Governance and Security | CISSP, CISA, CISM, CRISC and other existing configured RIAH cybersecurity review courses | $500 | $1,000 | $1,500 |
+| CompTIA | All CompTIA certifications for which RIAH offers a Certification Review course | $500 | $1,000 | $1,500 |
+| Microsoft and Azure | All Microsoft and Microsoft Azure certifications for which RIAH offers a Certification Review course, including Azure Fundamentals and Azure Solutions Architect Expert where configured | $500 | $1,000 | $1,500 |
+| Google | All Google and Google Cloud certifications for which RIAH offers a Certification Review course | $500 | $1,000 | $1,500 |
+| Amazon Web Services | All AWS certifications for which RIAH offers a Certification Review course | $500 | $1,000 | $1,500 |
+
+This expansion adds eligible certification coverage only. It does **not** change Certification Review pricing, multiple-review rules, included-review treatment, discount logic, refund rules, or any other Pricing Engine calculation rule.
+
+
 | Review Tier | Standard Price |
 |:---|---:|
 | Basic | \$500 |
