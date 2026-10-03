@@ -19,11 +19,16 @@
 
 ### 🎓 Earned Education
 
-| Earned Education | Institution | Year Earned |
-| --- | --- | --- |
-| 🧮 **Accounting with a Minor in International Business and Spanish** | **Kent State University** | **2016** |
-| 💻 **Computer Science** | **Central Methodist University** | **2019** |
-| 🎓 **Master of Business Administration in Organizational Management** | **Eastern University** | **2022** |
+| Status | Degree / Credential | Field / Major | Institution / Pathway | Year / Status | Verification |
+|---|---|---|---|---|---|
+| 🔄 Currently Earning | Master's Degree | Finance | RIAH Pathway | **2029** | In Progress |
+| 🔄 Currently Earning | Bachelor's Degree | Cybersecurity | RIAH Pathway | **2029** | In Progress |
+| 🔄 Currently Earning | Bachelor's Degree | Intelligence | RIAH Pathway | **2029** | In Progress |
+| 🔄 Currently Earning | Juris Doctor (JD) | Law | RIAH Pathway | **2030** | In Progress |
+| ✅ Earned | Master of Business Administration (MBA) | Organizational Management | Eastern University | 2022 | Education verified by the Nevada Board of Education for substitute teaching licensure, July 2026 |
+| ✅ Earned | Bachelor of Science (B.S.) | Computer Science | Central Methodist University | 2019 | **https://meritpages.com/RuckerMariah** |
+| ✅ Earned | Bachelor of Business Administration (B.B.A.) | Accounting | Kent State University | 2016 | **https://meritpages.com/MariahRucker** |
+| ✅ Earned | Minor | International Business Spanish | Kent State University | 2016 | **https://meritpages.com/MariahRucker** |
 
 ### 📚 Professional Certifications
 
