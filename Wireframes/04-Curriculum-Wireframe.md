@@ -8,22 +8,15 @@
 
 ## Wireframe Development Flow
 
-```text
-Wireframe Text
-      ↓
-Black-and-White Wireframe
-      ↓
-Designed Wireframe
-      ↓
-Images
-      ↓
-Video
-      ↓
-Documents
-      ↓
-Development
-      ↓
-Testing
+```mermaid
+flowchart TD
+    N1["Wireframe Text"] --> N2["Black-and-White Wireframe"]
+    N2["Black-and-White Wireframe"] --> N3["Designed Wireframe"]
+    N3["Designed Wireframe"] --> N4["Images"]
+    N4["Images"] --> N5["Video"]
+    N5["Video"] --> N6["Documents"]
+    N6["Documents"] --> N7["Development"]
+    N7["Development"] --> N8["Testing"]
 ```
 
 ## Status
