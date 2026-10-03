@@ -35,9 +35,9 @@
 | Degree / Credential | Field / Major | Institution | Year Earned | Verification |
 |---|---|---|---|---|
 | ✅ Master of Business Administration (MBA) | Organizational Management | Eastern University | **2022** | Education verified by the Nevada Board of Education for substitute teaching licensure, July 2026 |
-| ✅ Bachelor of Science (B.S.) | Computer Science | Central Methodist University | **2019** | **https://meritpages.com/RuckerMariah** |
-| ✅ Bachelor of Business Administration (B.B.A.) | Accounting | Kent State University | **2016** | **https://meritpages.com/MariahRucker** |
-| ✅ Minor | International Business Spanish | Kent State University | **2016** | **https://meritpages.com/MariahRucker** |
+| ✅ Bachelor of Science (B.S.) | Computer Science | Central Methodist University | **2019** | **https://meritpages.com/RuckerMariah**<br><br>Education verified by the Nevada Board of Education for substitute teaching licensure, July 2026 |
+| ✅ Bachelor of Business Administration (B.B.A.) | Accounting | Kent State University | **2016** | **https://meritpages.com/MariahRucker**<br><br>Education verified by the Nevada Board of Education for substitute teaching licensure, July 2026 |
+| ✅ Minor | International Business Spanish | Kent State University | **2016** | **https://meritpages.com/MariahRucker**<br><br>Education verified by the Nevada Board of Education for substitute teaching licensure, July 2026 |
 
 ### 📚 Professional Certifications
 
