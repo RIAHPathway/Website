@@ -30,34 +30,34 @@ flow_status: "draft-review"
 
 ## 🎓 End-to-End Category Flow
 
-### 🔹 Mermaid Flow — Part 1
+### 🎓 High-Level Flow — Pathway Completion
 
 ```mermaid
 flowchart TB
-A["🎓 Student Enters Eligible Education or Experiential Pathway"] --> B["📚 Complete Required Courses, Modules, Assessments & Projects"]
-B --> C["💼 Complete Placements / Experiential Requirements When Applicable"]
-C --> D["🏆 Complete Capstone, Documentation & Administrative Requirements"]
-D --> E["✅ RIAH Verifies Entire Pathway Completion"]
-E --> F["⭐ Automatic 1,000 Graduate Points"]
-F --> G["🎓 Guaranteed 10% Eligible Tuition Benefit"]
-G --> H["👑 Approved Graduate Participation"]
-H --> I["⭐ Alumni Events, Mentoring, Orientation, Webinars, Workshops, Resources, Research & Initiatives"]
-I --> J["👀 Verification"]
+A["🎓 Enter Eligible Education or Experiential Pathway"] --> B["📚 Complete Applicable Pathway Requirements"]
+B --> C["🏆 Complete Applicable Capstone & Requirements"]
+C --> D["✅ RIAH Verifies Entire Pathway Completion"]
+D --> E["⭐ Automatic Graduate Points"]
+
+### 👑 High-Level Flow — Graduate Participation
+
+```mermaid
+flowchart TB
+A["🎓 Verified Graduate"] --> B["👑 Approved Graduate Participation"]
+B --> C["⭐ Approved Graduate Activities"]
+C --> D["👀 Verification"]
+D --> E["📋 Add Approved Graduate Points"]
 ```
 
-### 🔹 Mermaid Flow — Part 2
+### ⭐ High-Level Flow — Graduate Benefits
 
 ```mermaid
 flowchart TB
-J["👀 Verification"]
-J --> K["📋 Add Approved Graduate Points"]
-K --> L{"🏆 Each Additional 100 Points?"}
-L -- No --> M["⭐ Carry Points Forward"]
-L -- Yes --> N["🎓 +1% Eligible Tuition"]
-N --> O{"👑 5,000 Total Points?"}
-O -- No --> H
-O -- Yes --> P["👑🎓 50% Tuition Maximum"]
-P --> Q["🛍️ Education & Experiential Product Benefit = Up to 25%"]
+A["⭐ Approved Graduate Points"] --> B["🏆 Determine Applicable Milestone"]
+B --> C["🎓 Eligible Tuition Benefit"]
+B --> D["🛍️ Eligible Product Benefit"]
+C --> E["👑 Up to Applicable Tuition Maximum"]
+D --> F["👑 Up to Applicable Product Maximum"]
 ```
 
 ## ⚙️ Flow Metadata
