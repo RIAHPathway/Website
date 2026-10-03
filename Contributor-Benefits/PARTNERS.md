@@ -30,31 +30,32 @@ flow_status: "draft-review"
 
 ## 🤝 End-to-End Category Flow
 
-### 🔹 Mermaid Flow — Part 1
+### 🤝 High-Level Flow — Partner Eligibility
 
 ```mermaid
 flowchart TB
 A["🤝 Approved RIAH Pathway Partner"] --> B["📄 Applicable Written Partnership Terms"]
 B --> C["👑 Verify Active Partner Affiliation"]
-C --> D["👤 Verify Eligible Employee, Member, Participant or Beneficiary"]
+C --> D["👤 Verify Eligible Participant"]
 D --> E["✅ Partner Benefit Eligibility"]
-E --> F["🎓 15% Eligible Tuition"]
-E --> G["🛍️ 15% Eligible Products"]
-B --> H{"🤝 Separate Partner / Pillar Product Benefit Authorized?"}
 ```
 
-### 🔹 Mermaid Flow — Part 2
+### 💰 High-Level Flow — Partner Benefits
 
 ```mermaid
 flowchart TB
-H{"🤝 Separate Partner / Pillar Product Benefit Authorized?"}
-H -- Yes --> I["🛍️ Up to 25% Eligible Products Under Written Terms"]
-H -- No --> J["📄 Use Established Applicable Benefit"]
-D --> K["⭐ Approved Partner Activities"]
-K --> L["🎥 Webinar / 🎪 Event / 🪧 Booth / 📚 Resource / 🤝 Joint Initiative"]
-L --> M["👀 Verification"]
-M --> N["📋 Partner Activity Record & Points"]
-N --> O["🔄 Re-Verify When Affiliation or Terms Change"]
+A["✅ Partner Benefit Eligibility"] --> B["🎓 Eligible Tuition Benefit"]
+A --> C["🛍️ Eligible Product Benefit"]
+B --> D["📄 Apply Written Partnership Terms"]
+C --> D
+
+### ⭐ High-Level Flow — Partner Activities
+
+```mermaid
+flowchart TB
+A["⭐ Approved Partner Activities"] --> B["👀 Verification"]
+B --> C["📋 Partner Activity Record & Points"]
+C --> D["🔄 Re-Verify When Required"]
 ```
 
 ## ⚙️ Flow Metadata
