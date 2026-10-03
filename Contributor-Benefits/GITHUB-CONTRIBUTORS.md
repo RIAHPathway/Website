@@ -1,14 +1,6 @@
----
-document_type: contributor-benefit-framework
-track: "GitHub Contributor"
-status: "In Progress — Review and Finalization Required"
-benefit_system: "RIAH Pathway"
-flow_status: "draft-review"
----
-
 # 💻 GitHub Contributors
 
-**Status: In Progress — Review and Finalization Required**
+<img width="562" height="317" alt="image" src="https://github.com/user-attachments/assets/a62977f8-5869-4359-b05e-18718d4a355d" />
 
 ## 💻 Category Key
 
