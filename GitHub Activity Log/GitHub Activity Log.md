@@ -83,15 +83,19 @@
 | 2026-10-02 21:01:48 | RIAHPathway/Website | Create issue #5: Complete Admissions Website Wireframe and Subpages | mariahdominiquerucker | [#5](https://github.com/RIAHPathway/Website/issues/5) |
 | 2026-10-02 21:01:50 | RIAHPathway/Website | Create issue #6: Complete Donations Website Wireframe and Foundation Content | mariahdominiquerucker | [#6](https://github.com/RIAHPathway/Website/issues/6) |
 | 2026-10-02 21:01:52 | RIAHPathway/Website | Create issue #7: Complete Accreditation & Authorization Website Wireframe | mariahdominiquerucker | [#7](https://github.com/RIAHPathway/Website/issues/7) |
+| 2026-10-02 21:01:52 | RIAHPathway/Website | Change project status for issue #5 | github-project-automation[bot] | [Event 32403353515](https://api.github.com/repos/RIAHPathway/Website/issues/events/32403353515) |
 | 2026-10-02 21:01:53 | RIAHPathway/Website | Create issue #8: Finalize Pathway Wireframe and Experiential Updates | mariahdominiquerucker | [#8](https://github.com/RIAHPathway/Website/issues/8) |
 | 2026-10-02 21:01:55 | RIAHPathway/Website | Create issue #9: Format, Consolidate, and Finalize Curriculum Website Content | mariahdominiquerucker | [#9](https://github.com/RIAHPathway/Website/issues/9) |
 | 2026-10-02 21:01:56 | RIAHPathway/Website | Create issue #10: Integrate Pricing Engine and Student Cost Guide into Tuition | mariahdominiquerucker | [#10](https://github.com/RIAHPathway/Website/issues/10) |
+| 2026-10-02 21:01:56 | RIAHPathway/Website | Change project status for issue #8 | github-project-automation[bot] | [Event 32403353586](https://api.github.com/repos/RIAHPathway/Website/issues/events/32403353586) |
 | 2026-10-02 21:01:57 | RIAHPathway/Website | Create issue #11: Update Website Policies for Final Pricing and Cost Rules | mariahdominiquerucker | [#11](https://github.com/RIAHPathway/Website/issues/11) |
+| 2026-10-02 21:01:58 | RIAHPathway/Website | Change project status for issue #9 | github-project-automation[bot] | [Event 32403353701](https://api.github.com/repos/RIAHPathway/Website/issues/events/32403353701) |
 | 2026-10-02 21:01:59 | RIAHPathway/Website | Create issue #12: Finalize Products Website Structure and Product Resources | mariahdominiquerucker | [#12](https://github.com/RIAHPathway/Website/issues/12) |
 | 2026-10-02 21:02:01 | RIAHPathway/Website | Create issue #13: Update Career Sections and Produce Website-Ready Career PDFs | mariahdominiquerucker | [#13](https://github.com/RIAHPathway/Website/issues/13) |
 | 2026-10-02 21:02:03 | RIAHPathway/Website | Create issue #14: Categorize Pathway Website B1 Markdown Files Across Pages 01–13 | mariahdominiquerucker | [#14](https://github.com/RIAHPathway/Website/issues/14) |
 | 2026-10-02 21:02:04 | RIAHPathway/Website | Create issue #15: Classify Website Assets: Wireframes, Downloads, Images, Policies, and Internal Materials | mariahdominiquerucker | [#15](https://github.com/RIAHPathway/Website/issues/15) |
 | 2026-10-02 21:02:06 | RIAHPathway/Website | Create issue #16: Reconcile Website Navigation, Sitemap, and Page Numbering | mariahdominiquerucker | [#16](https://github.com/RIAHPathway/Website/issues/16) |
+| 2026-10-02 21:02:06 | RIAHPathway/Website | Change project status for issue #14 | github-project-automation[bot] | [Event 32403354355](https://api.github.com/repos/RIAHPathway/Website/issues/events/32403354355) |
 | 2026-10-02 21:02:08 | RIAHPathway/Website | Create issue #17: Create Required Website Downloadable Documents | mariahdominiquerucker | [#17](https://github.com/RIAHPathway/Website/issues/17) |
 | 2026-10-02 21:02:10 | RIAHPathway/Website | Create issue #18: Create Required Website Images and Visual Assets | mariahdominiquerucker | [#18](https://github.com/RIAHPathway/Website/issues/18) |
 | 2026-10-02 21:02:11 | RIAHPathway/Website | Create issue #19: Create Required Website Video and Media Assets | mariahdominiquerucker | [#19](https://github.com/RIAHPathway/Website/issues/19) |
@@ -99,7 +103,9 @@
 | 2026-10-02 21:02:15 | RIAHPathway/Website | Create issue #21: Build Webflow CMS Structure and Reusable Page Components | mariahdominiquerucker | [#21](https://github.com/RIAHPathway/Website/issues/21) |
 | 2026-10-02 21:02:16 | RIAHPathway/Website | Create issue #22: Implement GitHub → Azure → Power Automate → Webflow Content Automation | mariahdominiquerucker | [#22](https://github.com/RIAHPathway/Website/issues/22) |
 | 2026-10-02 21:02:18 | RIAHPathway/Website | Create issue #23: Implement Website Publishing and Deployment Workflow | mariahdominiquerucker | [#23](https://github.com/RIAHPathway/Website/issues/23) |
+| 2026-10-02 21:02:18 | RIAHPathway/Website | Change project status for issue #22 | github-project-automation[bot] | [Event 32403354890](https://api.github.com/repos/RIAHPathway/Website/issues/events/32403354890) |
 | 2026-10-02 21:02:19 | RIAHPathway/Website | Create issue #24: Complete Responsive Desktop, Tablet, and Mobile QA | mariahdominiquerucker | [#24](https://github.com/RIAHPathway/Website/issues/24) |
+| 2026-10-02 21:02:22 | RIAHPathway/Website | Change project status for issue #23 | github-project-automation[bot] | [Event 32403355265](https://api.github.com/repos/RIAHPathway/Website/issues/events/32403355265) |
 | 2026-10-02 21:02:25 | RIAHPathway/Website | Create issue #25: Complete Admissions Website Wireframe and Subpages | mariahdominiquerucker | [#25](https://github.com/RIAHPathway/Website/issues/25) |
 | 2026-10-02 21:02:27 | RIAHPathway/Website | Create issue #26: Complete Donations Website Wireframe and Foundation Content | mariahdominiquerucker | [#26](https://github.com/RIAHPathway/Website/issues/26) |
 | 2026-10-02 21:02:28 | RIAHPathway/Website | Create issue #27: Complete Accreditation & Authorization Website Wireframe | mariahdominiquerucker | [#27](https://github.com/RIAHPathway/Website/issues/27) |
@@ -108,6 +114,7 @@
 | 2026-10-02 21:02:33 | RIAHPathway/Website | Create issue #30: Integrate Pricing Engine and Student Cost Guide into Tuition | mariahdominiquerucker | [#30](https://github.com/RIAHPathway/Website/issues/30) |
 | 2026-10-02 21:02:34 | RIAHPathway/Website | Create issue #31: Update Website Policies for Final Pricing and Cost Rules | mariahdominiquerucker | [#31](https://github.com/RIAHPathway/Website/issues/31) |
 | 2026-10-02 21:02:36 | RIAHPathway/Website | Create issue #32: Finalize Products Website Structure and Product Resources | mariahdominiquerucker | [#32](https://github.com/RIAHPathway/Website/issues/32) |
+| 2026-10-02 21:02:38 | RIAHPathway/Website | Change project status for issue #31 | github-project-automation[bot] | [Event 32403356129](https://api.github.com/repos/RIAHPathway/Website/issues/events/32403356129) |
 | 2026-10-02 21:02:41 | RIAHPathway/Website | Create issue #33: Update Career Sections and Produce Website-Ready Career PDFs | mariahdominiquerucker | [#33](https://github.com/RIAHPathway/Website/issues/33) |
 | 2026-10-02 21:02:42 | RIAHPathway/Website | Create issue #34: Categorize Pathway Website B1 Markdown Files Across Pages 01–13 | mariahdominiquerucker | [#34](https://github.com/RIAHPathway/Website/issues/34) |
 | 2026-10-02 21:02:44 | RIAHPathway/Website | Create issue #35: Classify Website Assets: Wireframes, Downloads, Images, Policies, and Internal Materials | mariahdominiquerucker | [#35](https://github.com/RIAHPathway/Website/issues/35) |
