@@ -50,7 +50,7 @@ Edmentum serves two primary purposes:
 ### GED/HSE Preparation — Edmentum Software Coverage
 
 | RIAH Course | Course Name | Edmentum |
-| --- | --- | :---: |
+| --- | --- | --- |
 | **GED 101** | Mathematical Reasoning Preparation | **✓** |
 | **GED 102** | Reasoning Through Language Arts Preparation | **✓** |
 | **GED 103** | Science Preparation | **✓** |
@@ -87,7 +87,7 @@ The placement/test-out determination remains a **RIAH Pathway institutional dete
 ### General Education — Edmentum Software Coverage
 
 | RIAH Course | Course Name | Edmentum |
-| --- | --- | :---: |
+| --- | --- | --- |
 | **ENG 1010** | College English | **✓** |
 | **MAT 1010** | College Algebra | **✓** |
 | **COM 1010** | Oral Communications | **✓** |
@@ -145,7 +145,7 @@ GED / HSE PREPARATION
 ## Component 1 — GED / HiSET Preparation
 
 | RIAH Course | Primary Structure | Credits |
-| --- | --- | ---: |
+| --- | --- | --- |
 | **GED 101 — Mathematical Reasoning Preparation** | Edmentum Mathematical Reasoning content + applicable HiSET Mathematics materials | **3** |
 | **GED 102 — Reasoning Through Language Arts Preparation** | Edmentum Reasoning Through Language Arts content + applicable HiSET Reading/Writing materials | **3** |
 | **GED 103 — Science Preparation** | Edmentum Science content + applicable HiSET Science materials | **3** |
@@ -307,7 +307,7 @@ PREPARATION COMPLETE
 # 6. GED / HiSET ASSESSMENT + PROCTORING MODEL
 
 | Assessment | Standard | Attempts | Proctoring |
-| --- | ---: | ---: | --- |
+| --- | --- | --- | --- |
 | **GED Preparation Diagnostic/Test-Out** | **80%** | Applicable preparation policy | **Proctored** |
 | **GED Preparation Checkpoint / Midterm** | **80%** | **Unlimited within semester** | **Proctored** |
 | **GED Preparation Final** | **80%** | **Unlimited within semester** | **Proctored** |
@@ -384,7 +384,7 @@ COMPLETE RIAH COURSE
 # 8. GED + GENERAL EDUCATION CONCURRENT ACCELERATION
 
 | GED Preparation | GED CR | Corresponding General Education | GE CR |
-| --- | ---: | --- | ---: |
+| --- | --- | --- | --- |
 | **GED 101 — Mathematical Reasoning** | **3** | **MAT 1010 — College Algebra** | **3** |
 | **GED 102 — RLA** | **3** | **ENG 1010 — College English** | **3** |
 | **GED 103 — Science** | **3** | **SCI 1010 — Science** | **3** |
@@ -435,7 +435,7 @@ PREPARATION COMPLETE
 # 10. GED 101–104 + 12-CREDIT CORRESPONDING GENERAL EDUCATION
 
 | GED Preparation | GED CR | Corresponding GE | GE CR |
-| --- | ---: | --- | ---: |
+| --- | --- | --- | --- |
 | **GED 101** | **3** | **MAT 1010** | **3** |
 | **GED 102** | **3** | **ENG 1010** | **3** |
 | **GED 103** | **3** | **SCI 1010** | **3** |
@@ -578,7 +578,7 @@ PROCTORED FINAL
 RIAH operates using **two six-month semesters per academic year**.
 
 | Assessment | Attempts | Proctored | Rule |
-| --- | ---: | --- | --- |
+| --- | --- | --- | --- |
 | **Placement/Test-Out** | **3 maximum** | **Yes** | 24-hour minimum between attempts |
 | **Regular Course Checkpoint** | **Unlimited** | **Yes** | Within six-month semester |
 | **Regular Course Final** | **Unlimited** | **Yes** | Within six-month semester |
