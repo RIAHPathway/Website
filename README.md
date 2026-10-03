@@ -17,13 +17,13 @@
 | 👑 **RIAH Pathway Development** | In the works since **June 2025** |
 | 📚 **Professional Development** | Active **2027 Professional Certification Roadmap** with additional professional certifications in progress |
 
-### 🎓 Education
+### 🎓 Earned Education
 
-| Education | Institution |
-| --- | --- |
-| 🧮 **Accounting with a Minor in International Business and Spanish** | **Kent State University** |
-| 💻 **Computer Science** | **Central Methodist University** |
-| 🎓 **Master of Business Administration in Organizational Management** | **Eastern University** |
+| Earned Education | Institution | Year Earned |
+| --- | --- | --- |
+| 🧮 **Accounting with a Minor in International Business and Spanish** | **Kent State University** | **2016** |
+| 💻 **Computer Science** | **Central Methodist University** | **2019** |
+| 🎓 **Master of Business Administration in Organizational Management** | **Eastern University** | **2022** |
 
 ### 📚 Professional Certifications
 
