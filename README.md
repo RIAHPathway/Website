@@ -17,18 +17,23 @@
 | 👑 **RIAH Pathway Development** | In the works since **June 2025** |
 | 📚 **Professional Development** | Active **2027 Professional Certification Roadmap** with additional professional certifications in progress |
 
-### 🎓 Earned Education
+### 🔄 In-Progress Education
 
-| Status | Degree / Credential | Field / Major | Institution / Pathway | Year / Status | Verification |
-|---|---|---|---|---|---|
-| 🔄 Currently Earning | Master's Degree | Finance | RIAH Pathway | **2029** | In Progress |
-| 🔄 Currently Earning | Bachelor's Degree | Cybersecurity | RIAH Pathway | **2029** | In Progress |
-| 🔄 Currently Earning | Bachelor's Degree | Intelligence | RIAH Pathway | **2029** | In Progress |
-| 🔄 Currently Earning | Juris Doctor (JD) | Law | RIAH Pathway | **2030** | In Progress |
-| ✅ Earned | Master of Business Administration (MBA) | Organizational Management | Eastern University | 2022 | Education verified by the Nevada Board of Education for substitute teaching licensure, July 2026 |
-| ✅ Earned | Bachelor of Science (B.S.) | Computer Science | Central Methodist University | 2019 | **https://meritpages.com/RuckerMariah** |
-| ✅ Earned | Bachelor of Business Administration (B.B.A.) | Accounting | Kent State University | 2016 | **https://meritpages.com/MariahRucker** |
-| ✅ Earned | Minor | International Business Spanish | Kent State University | 2016 | **https://meritpages.com/MariahRucker** |
+| Degree / Credential | Field / Major | Institution / Pathway | Year / Status |
+|---|---|---|---|
+| 🔄 Master's Degree | Finance | RIAH Pathway | **2029** |
+| 🔄 Bachelor's Degree | Cybersecurity | RIAH Pathway | **2029** |
+| 🔄 Bachelor's Degree | Intelligence | RIAH Pathway | **2029** |
+| 🔄 Juris Doctor (JD) | Law | RIAH Pathway | **2030** |
+
+### ✅ Earned Education
+
+| Degree / Credential | Field / Major | Institution | Year Earned | Verification |
+|---|---|---|---|---|
+| ✅ Master of Business Administration (MBA) | Organizational Management | Eastern University | **2022** | Education verified by the Nevada Board of Education for substitute teaching licensure, July 2026 |
+| ✅ Bachelor of Science (B.S.) | Computer Science | Central Methodist University | **2019** | **https://meritpages.com/RuckerMariah** |
+| ✅ Bachelor of Business Administration (B.B.A.) | Accounting | Kent State University | **2016** | **https://meritpages.com/MariahRucker** |
+| ✅ Minor | International Business Spanish | Kent State University | **2016** | **https://meritpages.com/MariahRucker** |
 
 ### 📚 Professional Certifications
 
