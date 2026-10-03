@@ -31,7 +31,7 @@ RIAH Pathway uses category-specific eligibility, verified points, and milestone 
 | 🍎 Substitute Teacher Ambassadors | Verified outreach, events, referrals and conversions; 100 points = 1% | Up to 25% | Up to 25% | [View Documentation](./Contributor-Benefits/SUBSTITUTE-TEACHERS.md) |
 | 🚗 Rideshare Ambassadors | Verified vehicle marketing, outreach, events, referrals and conversions; 100 points = 1% | Up to 25% | Up to 25% | [View Documentation](./Contributor-Benefits/RIDESHARE.md) |
 | 📦 Delivery Ambassadors | Verified vehicle marketing, outreach, events, referrals and conversions; 100 points = 1% | Up to 25% | Up to 25% | [View Documentation](./Contributor-Benefits/DELIVERY.md) |
-| 🎓 Education Graduates | Complete entire eligible pathway = guaranteed 1,000 points and 10%; additional 100 points = +1%; 5,000 points = maximum | Guaranteed 10%; up to 50% | None | [View Documentation](./Contributor-Benefits/STUDENTS.md) |
+| 🎓 Education Graduates | Complete entire eligible pathway = guaranteed 1,000 points and 10%; additional 100 approved Graduate Points = +1%; 2,500 points = maximum product milestone; 5,000 points = maximum tuition milestone | Guaranteed 10%; up to 50% | Guaranteed 10%; up to 25% | [View Documentation](./Contributor-Benefits/STUDENTS.md) |
 | 💼 Experiential Graduates | Complete entire eligible pathway = guaranteed 1,000 points and 10%; additional 100 points = +1%; 2,500 points = maximum product milestone; 5,000 points = maximum tuition milestone | Guaranteed 10%; up to 50% | Guaranteed 10%; up to 25% | [View Documentation](./Contributor-Benefits/STUDENTS.md) |
 | 🤝 Partners | Verified active partner affiliation and applicable written partnership terms | 15% for eligible Partner Employees | 15% for eligible Partner Employees; up to 25% where a separate Partner or Pillar Product Benefit is authorized | [View Documentation](./Contributor-Benefits/PARTNERS.md) |
 
@@ -39,7 +39,7 @@ RIAH Pathway uses category-specific eligibility, verified points, and milestone 
 
 - Contributor and Ambassador points are credited only after the underlying activity or deliverable is verified and approved.
 - Contributor and Ambassador benefits advance in complete 100-point milestones from 1% through 25%.
-- Graduate completion automatically establishes the 1,000-point, 10% tuition milestone. Education Graduates receive no Graduate Product Benefit. Experiential Graduates receive a 10% product benefit at 1,000 points, increasing by 1% per additional 100 approved points up to 25% at 2,500 points.
+- Graduate completion automatically establishes the 1,000-point, 10% tuition milestone. Education Graduates and Experiential Graduates receive a 10% product benefit at 1,000 points, increasing by 1% per additional 100 approved Graduate Points up to 25% at 2,500 points.
 - Graduate milestones may continue in 100-point increments to 5,000 points and a 50% maximum eligible tuition benefit.
 - Partner benefits require verified affiliation and remain governed by the applicable written partnership terms.
 - Pending, duplicate, fraudulent, rejected, fabricated, unauthorized, or unverifiable activity receives no permanent points.
