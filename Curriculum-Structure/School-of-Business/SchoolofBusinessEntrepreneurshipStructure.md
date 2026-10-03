@@ -1,18 +1,30 @@
 # RIAH PATHWAY — ENTREPRENEURSHIP CURRICULUM
 
-**School:** School of Business
+| Content |
+| --- |
+| **School:** School of Business |
 
-This standalone curriculum file combines the shared undergraduate foundation with the complete existing Entrepreneurship curriculum. Existing course, track, certification-review, assessment, software, experiential, capstone, applied-build, and supervision details are retained from the controlling curriculum files.
+| Content |
+| --- |
+| This standalone curriculum file combines the shared undergraduate foundation with the complete existing Entrepreneurship curriculum. Existing course, track, certification-review, assessment, software, experiential, capstone, applied-build, and supervision details are retained from the controlling curriculum files. |
 
 ## Year 1 — General Education — 30 Credit Hours
 
-General Education provides the academic foundation for applicable RIAH Pathway degree pathways.
+| Content |
+| --- |
+| General Education provides the academic foundation for applicable RIAH Pathway degree pathways. |
 
-General Education Total: 30 Credit Hours.
+| Content |
+| --- |
+| General Education Total: 30 Credit Hours. |
 
-General Education includes College English, College Algebra, Oral Communications, Foreign Language, History, Philosophy, Psychology, Sociology, Art, and Science.
+| Content |
+| --- |
+| General Education includes College English, College Algebra, Oral Communications, Foreign Language, History, Philosophy, Psychology, Sociology, Art, and Science. |
 
-Detailed course tables remain in the controlling degree curriculum.
+| Content |
+| --- |
+| Detailed course tables remain in the controlling degree curriculum. |
 
 ## ❤️ General Education — Edmentum Software Coverage
 
@@ -29,11 +41,15 @@ Detailed course tables remain in the controlling degree curriculum.
 | ART 1010 | Art | ✓ |
 | SCI 1010 | Science | ✓ |
 
-Philosophy Note — PHI 1010 remains part of the RIAH General Education curriculum. RIAH will provide and/or integrate additional Philosophy curriculum because Edmentum does not provide the mapped Philosophy coverage used for this structure.
+| Content |
+| --- |
+| Philosophy Note — PHI 1010 remains part of the RIAH General Education curriculum. RIAH will provide and/or integrate additional Philosophy curriculum because Edmentum does not provide the mapped Philosophy coverage used for this structure. |
 
 ## Year 2 — IV.I. Business Core — 30 Credit Hours 📘
 
-**Full Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · HubSpot · Microsoft Power Automate
+| Content |
+| --- |
+| **Full Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · HubSpot · Microsoft Power Automate |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Cengage MindTap | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -50,7 +66,9 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ## Entrepreneurship — Minor through MBA
 
-**Full Software Stack:** Asana · Microsoft Excel · HubSpot · Microsoft Power BI · Microsoft Power Automate
+| Content |
+| --- |
+| **Full Software Stack:** Asana · Microsoft Excel · HubSpot · Microsoft Power BI · Microsoft Power Automate |
 
 ### Entrepreneurship Minor — 15 Credit Hours
 
@@ -79,7 +97,9 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Entrepreneurship — Bachelor’s Year 4 — 30 Credit Hours
 
-**General Bachelor’s Year 4 Software Stack:** Asana · Microsoft Excel · HubSpot · Microsoft Power BI · Microsoft Power Automate
+| Content |
+| --- |
+| **General Bachelor’s Year 4 Software Stack:** Asana · Microsoft Excel · HubSpot · Microsoft Power BI · Microsoft Power Automate |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -96,9 +116,13 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Entrepreneurship — Bachelor’s Year 4 — PMP Track — 30 Credit Hours
 
-**Combined Entrepreneurship + PMP Software Stack:** Asana · Microsoft Excel · HubSpot · Microsoft Power BI · Microsoft Power Automate · Microsoft Azure · GitHub · Microsoft Planner · Microsoft 365 · Microsoft SQL Server · Planner · Azure · Integrated Stack
+| Content |
+| --- |
+| **Combined Entrepreneurship + PMP Software Stack:** Asana · Microsoft Excel · HubSpot · Microsoft Power BI · Microsoft Power Automate · Microsoft Azure · GitHub · Microsoft Planner · Microsoft 365 · Microsoft SQL Server · Planner · Azure · Integrated Stack |
 
-**PMP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline
+| Content |
+| --- |
+| **PMP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -115,9 +139,13 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Entrepreneurship — Bachelor’s Year 4 — PgMP Track — 30 Credit Hours
 
-**Combined Entrepreneurship + PgMP Software Stack:** Asana · Microsoft Excel · HubSpot · Microsoft Power BI · Microsoft Power Automate · Microsoft Planner · Microsoft 365 · Integrated Program Management Stack · Planner
+| Content |
+| --- |
+| **Combined Entrepreneurship + PgMP Software Stack:** Asana · Microsoft Excel · HubSpot · Microsoft Power BI · Microsoft Power Automate · Microsoft Planner · Microsoft 365 · Integrated Program Management Stack · Planner |
 
-**PgMP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline
+| Content |
+| --- |
+| **PgMP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -134,7 +162,9 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Entrepreneurship — Master’s — 30 Credit Hours
 
-**General Master’s Software Stack:** Asana · Microsoft Excel · HubSpot · Microsoft Power BI · Microsoft Power Automate
+| Content |
+| --- |
+| **General Master’s Software Stack:** Asana · Microsoft Excel · HubSpot · Microsoft Power BI · Microsoft Power Automate |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -151,9 +181,13 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Entrepreneurship — Master’s — PMP Track — 30 Credit Hours
 
-**Combined Entrepreneurship + PMP Software Stack:** Asana · Microsoft Excel · HubSpot · Microsoft Power BI · Microsoft Power Automate · Microsoft Azure · GitHub · Microsoft Planner · Microsoft 365 · Microsoft SQL Server · Planner · Azure · Integrated Stack
+| Content |
+| --- |
+| **Combined Entrepreneurship + PMP Software Stack:** Asana · Microsoft Excel · HubSpot · Microsoft Power BI · Microsoft Power Automate · Microsoft Azure · GitHub · Microsoft Planner · Microsoft 365 · Microsoft SQL Server · Planner · Azure · Integrated Stack |
 
-**PMP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline
+| Content |
+| --- |
+| **PMP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -170,9 +204,13 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Entrepreneurship — Master’s — PgMP Track — 30 Credit Hours
 
-**Combined Entrepreneurship + PgMP Software Stack:** Asana · Microsoft Excel · HubSpot · Microsoft Power BI · Microsoft Power Automate · Microsoft Planner · Microsoft 365 · Integrated Program Management Stack · Planner
+| Content |
+| --- |
+| **Combined Entrepreneurship + PgMP Software Stack:** Asana · Microsoft Excel · HubSpot · Microsoft Power BI · Microsoft Power Automate · Microsoft Planner · Microsoft 365 · Integrated Program Management Stack · Planner |
 
-**PgMP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline
+| Content |
+| --- |
+| **PgMP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -189,7 +227,9 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Entrepreneurship — MBA — 30 Credit Hours
 
-**General MBA Software Stack:** Asana · Microsoft Excel · HubSpot · Microsoft Power BI · Microsoft Power Automate
+| Content |
+| --- |
+| **General MBA Software Stack:** Asana · Microsoft Excel · HubSpot · Microsoft Power BI · Microsoft Power Automate |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -206,9 +246,13 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Entrepreneurship — MBA — PMP Track — 30 Credit Hours
 
-**Combined Entrepreneurship + PMP Software Stack:** Asana · Microsoft Excel · HubSpot · Microsoft Power BI · Microsoft Power Automate · Microsoft Azure · GitHub · Microsoft Planner · Microsoft 365 · Microsoft SQL Server · Planner · Azure · Integrated Stack
+| Content |
+| --- |
+| **Combined Entrepreneurship + PMP Software Stack:** Asana · Microsoft Excel · HubSpot · Microsoft Power BI · Microsoft Power Automate · Microsoft Azure · GitHub · Microsoft Planner · Microsoft 365 · Microsoft SQL Server · Planner · Azure · Integrated Stack |
 
-**PMP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline
+| Content |
+| --- |
+| **PMP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -225,9 +269,13 @@ Philosophy Note — PHI 1010 remains part of the RIAH General Education curricul
 
 ### Entrepreneurship — MBA — PgMP Track — 30 Credit Hours
 
-**Combined Entrepreneurship + PgMP Software Stack:** Asana · Microsoft Excel · HubSpot · Microsoft Power BI · Microsoft Power Automate · Microsoft Planner · Microsoft 365 · Integrated Program Management Stack · Planner
+| Content |
+| --- |
+| **Combined Entrepreneurship + PgMP Software Stack:** Asana · Microsoft Excel · HubSpot · Microsoft Power BI · Microsoft Power Automate · Microsoft Planner · Microsoft 365 · Integrated Program Management Stack · Planner |
 
-**PgMP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline
+| Content |
+| --- |
+| **PgMP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
 
 | Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
