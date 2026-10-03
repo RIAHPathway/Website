@@ -2,6 +2,126 @@
 
 # 👑 RIAH Pathway
 
+## 👑 Founder, CEO & Chairman
+
+**Mariah Dominique Rucker** is the **Founder, Chief Executive Officer, and Chairman of RIAH Pathway**, leading the development of its multidisciplinary education, experiential, technology, professional services, and product ecosystem.
+
+### 👤 Founder Overview
+
+| Category | Details |
+| --- | --- |
+| 👤 **Founder** | **Mariah Dominique Rucker** |
+| 🏢 **Organization** | **RIAH Pathway** |
+| 👑 **Leadership** | Founder, Chief Executive Officer & Chairman |
+| 💼 **Professional Career** | Professional experience beginning in **2013** |
+| 👑 **RIAH Pathway Development** | In the works since **June 2025** |
+| 📚 **Professional Development** | Active **2027 Professional Certification Roadmap** with additional professional certifications in progress |
+
+### 🎓 Education
+
+| Education | Institution |
+| --- | --- |
+| 🧮 **Accounting with a Minor in International Business** | **Kent State University** |
+| 💻 **Computer Science** | **Central Methodist University** |
+| 🎓 **Master of Business Administration in Organizational Management** | **Eastern University** |
+
+### 📚 Professional Certifications
+
+| Certification | Status |
+| --- | --- |
+| 📚 **Certified Fraud Examiner (CFE)** | ✅ Earned |
+| 📚 **(ISC)² Certified in Cybersecurity (CC)** | ✅ Earned |
+| 📚 **Certified Public Accountant (CPA)** | 🔄 In Progress |
+| 📚 **Certified Management Accountant (CMA)** | 🔄 In Progress |
+| 📚 **Certified Internal Auditor (CIA)** | 🔄 In Progress |
+| 📚 **Certified Information Systems Auditor (CISA)** | 🔄 In Progress |
+| 📚 **Certified Information Security Manager (CISM)** | 🔄 In Progress |
+| 📚 **Certified in Risk and Information Systems Control (CRISC)** | 🔄 In Progress |
+| 📚 **Certified Information Systems Security Professional (CISSP)** | 🔄 In Progress |
+
+### 💼 Professional Experience
+
+Mariah Dominique Rucker brings more than a decade of education and professional experience. Her professional career began in **2013** and includes experience associated with the following organizations and professional environments.
+
+| Professional Sector | Employers |
+| --- | --- |
+| 💻 **Entrepreneurship** | RIAH |
+| 💳 **Financial Services** | JPMorgan Chase |
+| 💳 **Financial Services** | PNC Bank |
+| 🧮 **Public Accounting** | Ernst & Young |
+| 🧮 **Public Accounting** | Grant Thornton |
+| 🏢 **Global Corporation** | Nestlé |
+| 🎓 **Higher Education** | Kent State University |
+
+```mermaid
+flowchart LR
+    A["💼 Professional Experience<br/>Beginning 2013"]
+    A --> B["💻 Entrepreneurship<br/>RIAH"]
+    A --> C["💳 Financial Services"]
+    A --> D["🧮 Public Accounting"]
+    A --> E["🏢 Global Corporation<br/>Nestlé"]
+    A --> F["🎓 Higher Education<br/>Kent State University"]
+    C --> C1["JPMorgan Chase"]
+    C --> C2["PNC Bank"]
+    D --> D1["Ernst & Young"]
+    D --> D2["Grant Thornton"]
+```
+
+### 🚀 Areas of Experience
+
+| Area of Experience |
+| --- |
+| 🧮 **Accounting** |
+| 🔐 **Cybersecurity** |
+| 💻 **Technology** |
+| 🔍 **Audit** |
+| 📈 **Analytics** |
+| 💼 **Consulting** |
+| 🤖 **Automation** |
+| 💻 **Development** |
+| ⚙️ **Implementation** |
+| 👥 **Management** |
+| 💳 **Financial Services** |
+| 🧮 **Public Accounting** |
+| 🎓 **Higher Education** |
+| 💻 **Entrepreneurship** |
+
+```mermaid
+flowchart TD
+    A["🚀 Areas of Experience"]
+    A --> B["🧮 Accounting"]
+    A --> C["🔐 Cybersecurity"]
+    A --> D["💻 Technology"]
+    A --> E["🔍 Audit"]
+    A --> F["📈 Analytics"]
+    A --> G["💼 Consulting"]
+    A --> H["🤖 Automation"]
+    A --> I["💻 Development"]
+    A --> J["⚙️ Implementation"]
+    A --> K["👥 Management"]
+    A --> L["💳 Financial Services"]
+    A --> M["🧮 Public Accounting"]
+    A --> N["🎓 Higher Education"]
+    A --> O["💻 Entrepreneurship"]
+```
+
+### 👑 RIAH Pathway
+
+**RIAH Pathway has been in the works since June 2025.** As Founder, Chief Executive Officer, and Chairman, **Mariah Dominique Rucker is building RIAH Pathway from A to Z**, including the website, curriculum, academic pathways, experiential programs, admissions structure, tuition framework, products, professional services, technology infrastructure, automations, systems, workflows, integrations, operational structure, and the GitHub repositories supporting the development of the RIAH Pathway ecosystem.
+
+### 🔗 Founder & Professional Profiles
+
+| Platform | Profile |
+| --- | --- |
+| 💻 **GitHub** | [Mariah Dominique Rucker](https://github.com/mariahdominiquerucker) |
+| 💼 **LinkedIn** | [Mariah Dominique Rucker](https://linkedin.com/in/mariahrucker) |
+| 🌳 **Professional Portfolio** | [Mariah Rucker Linktree](https://linktr.ee/mariahrucker) |
+| 📸 **Instagram** | [@heymariahrucker](https://instagram.com/heymariahrucker) |
+| 📘 **Facebook** | [@heymariahrucker](https://facebook.com/heymariahrucker) |
+| ▶️ **YouTube** | [@mariahrucker](https://youtube.com/@mariahrucker) |
+
+---
+
 ## 💰 Tuition, Products & Pricing Resources
 
 Contributor benefits in this documentation apply to **eligible tuition and eligible products** according to the rules for the applicable participant category.
