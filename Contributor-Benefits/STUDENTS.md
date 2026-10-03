@@ -30,6 +30,8 @@ flow_status: "draft-review"
 
 ## 🎓 End-to-End Category Flow
 
+### 🔹 Mermaid Flow — Part 1
+
 ```mermaid
 flowchart TB
 A["🎓 Student Enters Eligible Education or Experiential Pathway"] --> B["📚 Complete Required Courses, Modules, Assessments & Projects"]
@@ -41,6 +43,13 @@ F --> G["🎓 Guaranteed 10% Eligible Tuition Benefit"]
 G --> H["👑 Approved Graduate Participation"]
 H --> I["⭐ Alumni Events, Mentoring, Orientation, Webinars, Workshops, Resources, Research & Initiatives"]
 I --> J["👀 Verification"]
+```
+
+### 🔹 Mermaid Flow — Part 2
+
+```mermaid
+flowchart TB
+J["👀 Verification"]
 J --> K["📋 Add Approved Graduate Points"]
 K --> L{"🏆 Each Additional 100 Points?"}
 L -- No --> M["⭐ Carry Points Forward"]
