@@ -869,6 +869,40 @@ Applicable:
 
 **$9.99–$59.99**
 
+### COMPLETE INDIVIDUAL PRODUCT PRICING
+
+#### EDUCATIONAL MATERIALS
+
+- Textbook — Digital $29.99 — Printed $59.99
+- Workbook — Digital $29.99 — Printed $49.99
+- Study Guide — Digital $19.99 — Printed $29.99
+- Review Guide — Digital $19.99 — Printed $29.99
+- Solution Guide — Digital $19.99 — Printed $29.99
+- Flashcards — Digital $9.99 — Printed $19.99
+- Planner — Digital $19.99 — Printed $29.99
+- Journal — Digital $19.99 — Printed $29.99
+
+#### PRACTICE PRODUCTS
+
+- Mini Practice Exam — $19.99
+- Mini Simulated Exam — $29.99
+- Full Simulated Practice Exam — $49.99
+- 500-Question Bank — $29.99
+- 5 Additional Practice Tests — $39.99
+- 25-Simulation Bank — $149.99
+
+#### PRODUCT BUNDLES
+
+- Workbook Bundle — $49.99
+- Study Bundle — $59.99
+- Question Bundle — $69.99
+- Full Simulation Bundle — $79.99
+- Digital Materials Bundle — $129.99
+- Mini Exam Bundle — $149.99
+- Simulation Bundle — $149.99
+- Printed Materials Bundle — $199.99
+- Complete Materials Bundle — $299.99
+
 ### PRACTICE PRODUCTS
 
 **$19.99–$149.99**
