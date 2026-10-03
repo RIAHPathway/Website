@@ -77,7 +77,7 @@ Store these as data records, not hard-coded UI formulas.
 ## Academic Standard Prices
 
 -   GED and HSE: \$1,500 total program, including 12 concurrent college General Education credits across College English, College Math, History, and Science. Applicable completed coursework converts into General Education college credit while GED and HSE preparation is completed concurrently.
--   High School Diploma: \$5,000
+-   High School Diploma: \$5,000 total program. High School students participate in concurrent enrollment within a 60-credit General Education structure, with 30 college General Education credits embedded and converted throughout the High School curriculum. The current price may change slightly as duration and added program components are finalized through community suggestions and final RIAH approval.
 -   Minor: \$5,000
 -   Associate's: \$10,000
 -   Bachelor's: \$20,000
@@ -971,6 +971,17 @@ const GED_HSE_CONFIGURATION = {
     preparationAndCollegeCourseworkConcurrent: true
 };
 
+const HIGH_SCHOOL_CONFIGURATION = {
+    tuition: 5000,
+    concurrentEnrollment: true,
+    generalEducationStructureCredits: 60,
+    embeddedGeneralEducationCredits: 30,
+    embeddedWithinHighSchoolCurriculum: true,
+    convertsEmbeddedCourseworkToGeneralEducationCredit: true,
+    pricingStatus: "CURRENT",
+    pricingReviewNote: "Current pricing may change slightly as duration and added program components are finalized through community suggestions and final RIAH approval."
+};
+
 const FUNDING_LEVELS = {
     needBasedScholarship: { level1: 500, level2: 2500, level3: 5000, level4: 10000, level5: 15000, level6: 50000 },
     meritBasedScholarship: { level1: 500, level2: 2500, level3: 5000, level4: 10000, level5: 15000, level6: 50000 },
@@ -1366,7 +1377,7 @@ Academic tuition is total-program tuition, not per-credit tuition.
 Periodic amounts are derived payment views only. Acceleration does not
 automatically reduce total-program tuition.
 
-Current standard academic records: GED/HSE \$1,500; High School \$5,000;
+Current standard academic records: GED/HSE \$1,500; High School \$5,000 with concurrent enrollment within a 60-credit General Education structure and 30 college General Education credits embedded and converted throughout the High School curriculum;
 Minor \$5,000; Associate's \$10,000; Bachelor's \$20,000; Master's
 \$15,000; MBA \$15,000; JD \$40,000; Non-JD \$10,000 per configured
 required pathway year.
@@ -1669,7 +1680,7 @@ solely by individual credit hour.
   Pathway                                         Base Tuition
   --------------------- --------------------------------------
   GED and HSE                                          \$1,500
-  High School Diploma                                  \$5,000
+  High School Diploma                                  \$5,000 — 30 embedded General Education college credits within a 60-credit concurrent General Education structure
   Minor                                                \$5,000
   Associate's                                         \$10,000
   Bachelor's                                          \$20,000
@@ -3082,7 +3093,7 @@ Education Deposit: **\$2,750**
   Item                                                               Amount
   ------------------------------------------ ------------------------------
   GED and HSE Tuition                                               \$1,500
-  High School Tuition                                               \$5,000
+  High School Tuition                                               \$5,000 — 30 embedded General Education college credits within a 60-credit concurrent General Education structure
   Minor Tuition                                                     \$5,000
   Associate's Tuition                                              \$10,000
   Bachelor's Tuition                                               \$20,000
