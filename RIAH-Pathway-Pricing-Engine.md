@@ -162,7 +162,8 @@ This expansion adds eligible certification coverage only. It does **not** change
 | RIAH Certification Review or Applicable Bar Review Course | Included | Included | Included |
 | Applicable Certification Sections, Parts, or Modules | Included | Included | Included |
 | Applicable Bar Jurisdiction Module | Included Where Applicable | Included Where Applicable | Included Where Applicable |
-| Applicable Course Textbook or Course Material | Included | Included | Included |
+| Applicable Course Material | Included | Included | Included |
+| Textbook | — | Included | Included |
 | Core Questions and MCQs | Included | Included | Included |
 | Core Practice Tests | Included | Included | Included |
 | Core Simulations | Included | Included | Included |
@@ -181,13 +182,17 @@ This expansion adds eligible certification coverage only. It does **not** change
 | Grading and Scoring | — | Included | Included |
 | Performance Review | — | Included | Included |
 | Complete Printed Product Set | — | — | Included |
-| Printed Textbook | — | — | Included |
+| Printed Textbook | — | Included | Included |
 | 500 Additional Questions Per Applicable Module | — | — | Included |
 | Academic and Review Advisement | — | — | Included |
+| Study Support | — | — | Included |
 | Mentorship | — | — | Included |
 | Study Sessions | — | — | 5 |
+| Live Review | — | — | Included |
 | Live Review Sessions | — | — | 5 |
+| Coaching | — | — | Included |
 | Coaching Sessions | — | — | 5 |
+| Applicable Professional Supervision | — | — | Included Where Applicable |
 
 Full RIAH Bar Review uses one core Bar Review with the first applicable jurisdiction module included where applicable. Each additional jurisdiction module is **$250**. California Baby Bar Review uses the same **Basic $500, Standard $1,000, Premium $1,500** package architecture.
 
@@ -995,7 +1000,7 @@ IF physical product with digital preview:
 preview does not convert the full product to a digital SKU.
 
 IF Certification Review, Full RIAH Bar Review, or California Baby Bar Review:
-load Basic $500, Standard $1,000, or Premium $1,500 and the corresponding package inclusions.
+load Basic $500, Standard $1,000, or Premium $1,500 and the corresponding package inclusions. Basic loads the core review course, applicable sections or modules, core course materials, core questions, practice tests, simulations, and exams. Standard loads all Basic inclusions plus the textbook and expanded learning-material and practice package. Premium loads all Basic and Standard inclusions plus the complete expanded practice package and all applicable standalone professional-support services, including academic and review advisement, study support, mentorship, live review, coaching, and applicable professional supervision.
 
 IF Full RIAH Bar Review:
 first applicable jurisdiction module is included where applicable;
