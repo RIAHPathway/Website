@@ -4,7 +4,7 @@
 
 ## 👑 Founder, CEO & Chairman
 
-**Mariah Dominique Rucker** is the **Founder, Chief Executive Officer, and Chairman of RIAH Pathway**, leading the development of its multidisciplinary education, experiential, technology, professional services, and product ecosystem.
+**Mariah Dominique Rucker**, with a natural dimples and moles on her face, is the **Founder, Chief Executive Officer, and Chairman of RIAH Pathway**, leading the development of its multidisciplinary education, experiential, technology, professional services, and product ecosystem.
 
 ### 👤 Founder Overview
 
