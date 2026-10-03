@@ -469,13 +469,13 @@ This expansion adds eligible certification coverage only. It does **not** change
 | 500 Additional Questions Per Applicable Module | — | — | Included |
 | Academic and Review Advisement | — | — | Included |
 | Study Support | — | — | Included |
-| Mentorship | — | — | Included |
+| Mentorship | — | — | 5 |
 | Study Sessions | — | — | 5 |
-| Live Review | — | — | Included |
-| Live Review Sessions | — | — | 5 |
-| Coaching | — | — | Included |
-| Coaching Sessions | — | — | 5 |
-| Applicable Professional Supervision | — | — | Included Where Applicable |
+| Live Review | — | — | 5 |
+| Live Review | — | — | 5 |
+| Coaching | — | — | 5 |
+| Coaching | — | — | 5 |
+| Applicable Professional Supervision | — | — | 2 |
 
 Basic is the core review package and includes timed testing, grading review, grading and scoring, and performance review. Standard includes everything in Basic plus the additional learning materials listed for Standard. Premium includes everything in Basic and Standard plus the textbook, printed textbook, Expanded 250-Question Practice Bank, complete expanded practice package, and all applicable standalone professional-support services, including academic and review advisement, study support, mentorship, live review, coaching, and applicable professional supervision.
 
