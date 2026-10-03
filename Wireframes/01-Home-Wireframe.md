@@ -96,13 +96,16 @@ Students can enter from different starting points and build forward through the 
 
 [DIAGRAM PLACEHOLDER — CAREER TRIFECTA]
 
-**EDUCATION**  
-↓  
-**EXPERIENCE**  
-↓  
-**CERTIFICATION**  
-↓  
-**CAREER**
+```mermaid
+flowchart LR
+N1["EDUCATION"]
+N2["EXPERIENCE"]
+N3["CERTIFICATION"]
+N4["CAREER"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+```
 
 [PRIMARY HERO CTA — APPLY NOW → EXTERNAL / CLASSE365]
 
@@ -134,7 +137,36 @@ Students can enter from different starting points and build forward through the 
 Introduce RIAH Pathway as one connected ecosystem that links academic pathways, experiential learning, professional preparation, certification and review, products, career development, community, and long-term opportunity.
 
 **Visual Direction:**  
-Student entry → Schools → Academic pathways → Curriculum → Career Trifecta → Experiential learning → Certification and review → Products → Professional development → Community → Career → Graduation → Alumni → Legacy.
+```mermaid
+flowchart LR
+N1["Student entry"]
+N2["Schools"]
+N3["Academic pathways"]
+N4["Curriculum"]
+N5["Career Trifecta"]
+N6["Experiential learning"]
+N7["Certification and review"]
+N8["Products"]
+N9["Professional development"]
+N10["Community"]
+N11["Career"]
+N12["Graduation"]
+N13["Alumni"]
+N14["Legacy"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+N4 --> N5
+N5 --> N6
+N6 --> N7
+N7 --> N8
+N8 --> N9
+N9 --> N10
+N10 --> N11
+N11 --> N12
+N12 --> N13
+N13 --> N14
+```
 
 **Content:**  
 Education • Experience • Certification • Career • Pathways • Schools • Curriculum • Student Journey • Products • Community • Opportunity • Legacy
@@ -170,7 +202,28 @@ RIAH Pathway supports multiple entry points so students can begin with the pathw
 **Page Purpose:**  
 The Home page serves as the primary public entry point into the complete RIAH Pathway website and introduces the visitor to Pages 02 through 13.
 
-**EXPLORE → CHOOSE A PATH → APPLY → LEARN → EXPERIENCE → PREPARE → ACHIEVE → BUILD → GRADUATE → CONTINUE**
+```mermaid
+flowchart LR
+N1["EXPLORE"]
+N2["CHOOSE A PATH"]
+N3["APPLY"]
+N4["LEARN"]
+N5["EXPERIENCE"]
+N6["PREPARE"]
+N7["ACHIEVE"]
+N8["BUILD"]
+N9["GRADUATE"]
+N10["CONTINUE"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+N4 --> N5
+N5 --> N6
+N6 --> N7
+N7 --> N8
+N8 --> N9
+N9 --> N10
+```
 
 [DIAGRAM PLACEHOLDER — RIAH PATHWAY CONNECTED ECOSYSTEM]
 
@@ -301,21 +354,24 @@ RIAH Pathway curriculum connects academic foundations, school cores, majors, upp
 
 ### ACADEMIC STRUCTURE
 
-General Education  
-↓  
-School Core  
-↓  
-Major Curriculum  
-↓  
-Upper-Division Curriculum  
-↓  
-Applicable Minor  
-↓  
-Applicable Graduate Progression  
-↓  
-Projects + Assessments + Capstones  
-↓  
-Applicable Experiential + Certification Integration
+```mermaid
+flowchart TD
+N1["General Education"]
+N2["School Core"]
+N3["Major Curriculum"]
+N4["Upper-Division Curriculum"]
+N5["Applicable Minor"]
+N6["Applicable Graduate Progression"]
+N7["Projects + Assessments + Capstones"]
+N8["Applicable Experiential + Certification Integration"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+N4 --> N5
+N5 --> N6
+N6 --> N7
+N7 --> N8
+```
 
 ### SCHOOL OF BUSINESS
 Accounting • Business Management • Entrepreneurship • Finance
@@ -349,31 +405,46 @@ High School Diploma • GED / HSE
 
 RIAH Pathway admissions connects initial exploration with application, acceptance, enrollment, onboarding, the active student experience, graduation, and alumni engagement.
 
-**INTEREST**  
-↓  
-**PRE-ADMISSIONS**  
-↓  
-**APPLICATION**  
-↓  
-**ACCEPTANCE**  
-↓  
-**ENROLLMENT & COMMITMENT**  
-↓  
-**APPLICABLE PATHWAY REQUIREMENTS**  
-↓  
-**WELCOME EXPERIENCE**  
-↓  
-**ORIENTATION**  
-↓  
-**ONBOARDING**  
-↓  
-**ACTIVE STUDENT EXPERIENCE**  
-↓  
-**COHORT & COMMUNITY**  
-↓  
-**APPLICABLE EXPERIENTIAL SUPERVISION**  
-↓  
-**GRADUATION & ALUMNI**
+### Admissions Journey — Part I: Interest to Commitment
+
+```mermaid
+flowchart LR
+N1["INTEREST"]
+N2["PRE-ADMISSIONS"]
+N3["APPLICATION"]
+N4["ACCEPTANCE"]
+N5["ENROLLMENT & COMMITMENT"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+N4 --> N5
+```
+
+### Admissions Journey — Part II: Welcome and Onboarding
+
+```mermaid
+flowchart LR
+N1["APPLICABLE PATHWAY REQUIREMENTS"]
+N2["WELCOME EXPERIENCE"]
+N3["ORIENTATION"]
+N4["ONBOARDING"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+```
+
+### Admissions Journey — Part III: Active Experience to Alumni
+
+```mermaid
+flowchart LR
+N1["ACTIVE STUDENT EXPERIENCE"]
+N2["COHORT & COMMUNITY"]
+N3["APPLICABLE EXPERIENTIAL SUPERVISION"]
+N4["GRADUATION & ALUMNI"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+```
 
 [BUTTON — APPLY NOW → EXTERNAL / CLASSE365]
 
@@ -883,95 +954,66 @@ Authenticated Student Systems — AUTHENTICATED / NOT PUBLIC
 
 # MASTER HOME WIREFRAME ORDER
 
-**GLOBAL HEADER**
+### Home Page Flow — Part I: Core Page Experience
 
-↓
+```mermaid
+flowchart TD
+N1["GLOBAL HEADER"]
+N2["01.0 — HOME HERO + PRIMARY VIDEO"]
+N3["01.1 — HOME OVERVIEW"]
+N4["01.2 — ABOUT"]
+N5["01.3 — PATHWAYS"]
+N6["01.4 — CURRICULUM"]
+N7["01.5 — ADMISSIONS"]
+N8["01.6 — TUITION"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+N4 --> N5
+N5 --> N6
+N6 --> N7
+N7 --> N8
+```
 
-**01.0 — HOME HERO + PRIMARY VIDEO**
+### Home Page Flow — Part II: Connected Sections
 
-↓
+```mermaid
+flowchart TD
+N1["01.7 — DONATIONS"]
+N2["01.8 — PRODUCTS"]
+N3["01.9 — ACCREDITATION & AUTHORIZATION"]
+N4["01.10 — JOIN US"]
+N5["01.11 — RESOURCES"]
+N6["01.12 — FAQ"]
+N7["01.13 — CONTACT"]
+N8["01.14 — FINAL CTA"]
+N9["GLOBAL FOOTER"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+N4 --> N5
+N5 --> N6
+N6 --> N7
+N7 --> N8
+N8 --> N9
+```
 
-**01.1 — HOME OVERVIEW**
+### Home Page Flow — Part III: Documentation and Audits
 
-↓
-
-**01.2 — ABOUT**
-
-↓
-
-**01.3 — PATHWAYS**
-
-↓
-
-**01.4 — CURRICULUM**
-
-↓
-
-**01.5 — ADMISSIONS**
-
-↓
-
-**01.6 — TUITION**
-
-↓
-
-**01.7 — DONATIONS**
-
-↓
-
-**01.8 — PRODUCTS**
-
-↓
-
-**01.9 — ACCREDITATION & AUTHORIZATION**
-
-↓
-
-**01.10 — JOIN US**
-
-↓
-
-**01.11 — RESOURCES**
-
-↓
-
-**01.12 — FAQ**
-
-↓
-
-**01.13 — CONTACT**
-
-↓
-
-**01.14 — FINAL CTA**
-
-↓
-
-**GLOBAL FOOTER**
-
-↓
-
-**BUTTON, LINK & DOWNLOAD ROUTING CHART**
-
-↓
-
-**MEDIA & ICON ASSET AUDIT**
-
-↓
-
-**CTA AUDIT**
-
-↓
-
-**DOWNLOAD AUDIT**
-
-↓
-
-**LINK & ROUTING AUDIT**
-
-↓
-
-**CONTENT & ASSET STATUS AUDIT**
+```mermaid
+flowchart TD
+N1["BUTTON, LINK & DOWNLOAD ROUTING CHART"]
+N2["MEDIA & ICON ASSET AUDIT"]
+N3["CTA AUDIT"]
+N4["DOWNLOAD AUDIT"]
+N5["LINK & ROUTING AUDIT"]
+N6["CONTENT & ASSET STATUS AUDIT"]
+N1 --> N2
+N2 --> N3
+N3 --> N4
+N4 --> N5
+N5 --> N6
+```
 
 ---
 
