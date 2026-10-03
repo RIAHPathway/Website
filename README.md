@@ -352,3 +352,25 @@ The repository is structured so contributors can work on individual deliverables
 RIAH Pathway remains a **private company ecosystem with applicable proprietary intellectual property**.
 
 Public GitHub development does not make private curriculum, internal systems, confidential information, business methods, security sensitive infrastructure, proprietary materials, or other restricted information unrestricted public property.
+
+---
+
+# 🤖 Legacy — RIAH Pathway Replica Bot
+
+**Legacy** is the RIAH Pathway public-source replica-monitoring and evidence-preservation bot. Legacy performs recurring **hourly scans** and **daily evidence audits** against the fixed Tier 1, Tier 2, and Tier 3 RIAH fingerprint, suppresses ordinary prior art, preserves qualifying public evidence and timestamps, verifies accreditation or authorization only from supporting sources, and organizes evidence for human review and the Same-Day Filing workflow.
+
+| Resource | Purpose |
+|---|---|
+| 🤖 [Legacy — RIAH Pathway Replica Bot](./RIAH-Pathway-Replica-Bot-Legacy.md) | Monitoring purpose, Tier definitions, hourly workflow, daily audit, evidence surfaces, review key, and Replica Bot log. |
+| ⚖️ [Same-Day Filing Template](./Same-Day-Filing-Template.md) | Evidence-driven legal intake and filing-preparation framework for qualified human and legal review. |
+
+```mermaid
+flowchart LR
+    A["🌐 Public Evidence"] --> B["🤖 Legacy"]
+    B --> C["🧬 Tier 1 • Tier 2 • Tier 3"]
+    C --> D["🕒 Evidence Preservation"]
+    D --> E["🧾 Daily Audit"]
+    E --> F["⚖️ Same-Day Filing Review"]
+```
+
+> **Review rule:** A Replica Bot flag is an investigative lead, not a legal conclusion. Similarity alone does not establish copying, access, infringement, misconduct, accreditation, or liability.
