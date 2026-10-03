@@ -159,6 +159,8 @@ Eligible RIAH Beta Team Members receive **$0 eligible education tuition** as par
 
 This repository serves as the **public development and contribution layer for the RIAH Pathway website and approved portions of the broader RIAH ecosystem**.
 
+### 🌐 Repository Flow — Part I
+
 ```mermaid
 flowchart TD
     A[👑 RIAH Pathway Repository]
@@ -167,10 +169,26 @@ flowchart TD
     A --> C[🎨 Wireframes]
     A --> D[💻 Development]
     A --> E[🖼️ Images and Media]
+```
+
+### 📄 Repository Flow — Part II
+
+```mermaid
+flowchart TD
+    A[👑 RIAH Pathway Repository]
+
     A --> F[📄 Documents]
     A --> G[🎓 Curriculum]
     A --> H[💰 Pricing Engine]
     A --> I[♿ Accessibility]
+```
+
+### 💻 Repository Flow — Part III
+
+```mermaid
+flowchart TD
+    A[👑 RIAH Pathway Repository]
+
     A --> J[🧪 Testing]
     A --> K[📱 Mobile]
     A --> L[🔐 Technology]
@@ -220,6 +238,8 @@ RIAH Pathway connects academic education, professional development, supervised r
 
 ## 👑 Academic Pathways
 
+### 🎓 Academic Pathways — Part I
+
 ```mermaid
 flowchart TD
     A[👑 Academic Pathways]
@@ -227,9 +247,25 @@ flowchart TD
     A --> B[👑 GED and HSE]
     A --> C[👑 High School]
     A --> D[👑 Minor]
+```
+
+### 🎓 Academic Pathways — Part II
+
+```mermaid
+flowchart TD
+    A[👑 Academic Pathways]
+
     A --> E[👑 Associate's]
     A --> F[👑 Bachelor's]
     A --> G[👑 Master's]
+```
+
+### ⚖️ Academic Pathways — Part III
+
+```mermaid
+flowchart TD
+    A[👑 Academic Pathways]
+
     A --> H[👑 MBA]
     A --> I[👑 JD]
     A --> J[👑 Non JD Bar License]
@@ -284,6 +320,8 @@ flowchart LR
 
 RIAH Pathway is designed as more than a website. Technology connects the education, Experiential, certification, career, product, people, and operational components of the ecosystem.
 
+### 🌐 Technology Ecosystem — Part I
+
 ```mermaid
 flowchart TD
     A[👑 RIAH Technology Ecosystem]
@@ -291,10 +329,26 @@ flowchart TD
     A --> B[🌐 Website]
     A --> C[📱 Mobile App]
     A --> D[💻 RIAH Pathway App]
+```
+
+### ⚙️ Technology Ecosystem — Part II
+
+```mermaid
+flowchart TD
+    A[👑 RIAH Technology Ecosystem]
+
     A --> E[⚙️ Ecosystem Software]
     A --> F[🤖 Automation and AI]
     A --> G[🔗 Integrations]
     A --> H[📊 Dashboards]
+```
+
+### 🔐 Technology Ecosystem — Part III
+
+```mermaid
+flowchart TD
+    A[👑 RIAH Technology Ecosystem]
+
     A --> I[🗄️ Databases]
     A --> J[🔌 APIs]
     A --> K[🔐 Infrastructure]
