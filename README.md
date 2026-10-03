@@ -2,6 +2,32 @@
 
 # 👑 RIAH Pathway
 
+## 💰 Tuition, Products & Pricing Resources
+
+Contributor benefits in this documentation apply to **eligible tuition and eligible products** according to the rules for the applicable participant category.
+
+| Pricing Resource | Purpose |
+|---|---|
+| 💰 [RIAH Pathway Master Pricing Data Sheet](./RIAH-Pathway-Master-Pricing-Data-Sheet.md) | Review current pathway tuition, program pricing, product pricing and other applicable pricing data. |
+| 🧮 [RIAH Pathway Pricing Engine](./RIAH-Pathway-Pricing-Engine.md) | Review the pricing rules and calculation framework used to connect applicable pricing, eligibility, discounts and benefits. |
+
+> **Pricing Calculator Development:** The interactive RIAH Pathway pricing calculator is still being developed. The intended calculator experience will allow eligible participants to apply their verified points and applicable benefit percentage to eligible tuition and product pricing so they can estimate what they may pay. Until that calculator is finalized, use the Master Pricing Data Sheet and Pricing Engine together with the applicable benefit rules in this documentation.
+
+```mermaid
+flowchart TB
+    A["👤 Eligible Participant"] --> B["⭐ Earn & Verify Applicable Points"]
+    B --> C["🏆 Determine Applicable Benefit Percentage"]
+    C --> D{"💰 Apply Benefit To"}
+    D --> E["🎓 Eligible Tuition"]
+    D --> F["🛍️ Eligible Products"]
+    E --> G["📊 Review Master Pricing Data Sheet"]
+    F --> G
+    G --> H["🧮 Apply Pricing Engine Rules"]
+    H --> I["💵 Estimate Applicable Tuition & Product Cost"]
+    I --> J["🚧 Interactive Pricing Calculator — In Development"]
+```
+
+
 **One Dynasty, Infinite Legacies.**
 
 **Education • Experience • Certifications • Career • Legacy**
