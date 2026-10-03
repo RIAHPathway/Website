@@ -1,14 +1,6 @@
----
-document_type: contributor-benefit-framework
-track: "Education & Experiential Graduate"
-status: "In Progress — Review and Finalization Required"
-benefit_system: "RIAH Pathway"
-flow_status: "draft-review"
----
-
 # 🎓 Students — Education & Experiential Pathway Graduates
 
-**Status: In Progress — Review and Finalization Required**
+<img width="562" height="317" alt="image" src="https://github.com/user-attachments/assets/267322fa-538f-4a2f-966a-1ed1f9b9f285" />
 
 ## 🎓 Category Key
 
