@@ -869,6 +869,26 @@ IF approved: show financing obligation separately
 
 Never reduce underlying tuition merely because financing was selected.
 
+### Financing Flow — Part I: Collateral Tier
+
+```mermaid
+flowchart LR
+    A["Remaining Tuition Deficit"] --> B["RIAH Loan Request: $500–$5,000"]
+    C["Qualifying Collateral"] --> D["10% Collateral-Supported Tier"]
+    B --> E["Supported Loan Amount"]
+    D --> E
+```
+
+### Financing Flow — Part II: 700+ Higher Loan Tier
+
+```mermaid
+flowchart LR
+    A["10% Collateral-Supported Amount"] --> B{"Credit Score 700+"}
+    B -- "No" --> C["Loan Limited to 10% Collateral Tier"]
+    B -- "Yes" --> D["May Exceed 10% Collateral Tier"]
+    D --> E["Maximum = Remaining Tuition Deficit or $5,000"]
+```
+
 If a financing field has no active configured term, return PENDING
 CONFIGURATION.
 
@@ -914,6 +934,17 @@ Reimbursement Basis × 10%
 Maximum Potential Reimbursement = Eligible Reimbursement Basis × 50%
 
 The 50% value is a maximum potential amount, not an automatic award.
+
+### Reimbursement Flow
+
+```mermaid
+flowchart LR
+    A["Complete Pathway"] --> B["Verify Reimbursement Requirements"]
+    B --> C["Eligible Reimbursement Basis"]
+    C --> D["10% Guaranteed Qualifying Completion Reimbursement"]
+    D --> E["Additional Qualifying Milestones"]
+    E --> F["Up to 50% Maximum Potential Reimbursement"]
+```
 
 Intermediate milestones not established by active policy = PENDING
 CONFIGURATION.
@@ -2762,6 +2793,37 @@ The student requests an amount from \$500 through \$5,000.
 **Approved RIAH Loan = MIN(Requested Loan, Remaining Tuition Deficit, Applicable Supported Loan Amount, \$5,000)**
 
 Example: \$15,000 tuition − \$10,000 qualifying payment/collateral = \$5,000 tuition deficit. The 10% collateral-supported tier is \$1,000. Without the 700+ higher-loan credit tier, the maximum supported loan is \$1,000. With a 700+ credit score, the student may be considered for an amount above \$1,000 up to the \$5,000 remaining tuition deficit and \$5,000 loan maximum.
+
+### 700+ Credit Example
+
+| Calculation | Amount |
+|---|---:|
+| Tuition | $15,000 |
+| Qualifying Payment or Collateral | $10,000 |
+| Remaining Tuition Deficit | $5,000 |
+| 10% Collateral-Supported Tier | $1,000 |
+| Credit Score | 700+ |
+| Additional Potential RIAH Loan | $4,000 |
+| Maximum Total RIAH Loan | $5,000 |
+
+### Private Student Loan Flow — Part I: Collateral Tier
+
+```mermaid
+flowchart LR
+    A["$15,000 Tuition"] --> B["$10,000 Qualifying Payment or Collateral"]
+    B --> C["$5,000 Tuition Deficit"]
+    B --> D["10% Collateral Tier = $1,000"]
+```
+
+### Private Student Loan Flow — Part II: 700+ Higher Loan Tier
+
+```mermaid
+flowchart LR
+    A["$1,000 Collateral Tier"] --> B{"Credit Score 700+"}
+    B -- "No" --> C["Maximum Supported Loan = $1,000"]
+    B -- "Yes" --> D["Additional Potential Loan = $4,000"]
+    D --> E["Maximum Total Loan = $5,000"]
+```
 
 
 ---
