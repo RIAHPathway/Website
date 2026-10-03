@@ -163,12 +163,12 @@ This expansion adds eligible certification coverage only. It does **not** change
 | Applicable Certification Sections, Parts, or Modules | Included | Included | Included |
 | Applicable Bar Jurisdiction Module | Included Where Applicable | Included Where Applicable | Included Where Applicable |
 | Applicable Course Material | Included | Included | Included |
-| Textbook | — | Included | Included |
+| Textbook | — | — | Included |
 | Core Questions and MCQs | Included | Included | Included |
 | Core Practice Tests | Included | Included | Included |
 | Core Simulations | Included | Included | Included |
-| Mini Practice Exams | 2 | 2 + Additional Practice Exams | 2 + Additional Practice Exams + 5 Additional Practice Tests Per Applicable Module |
-| Mini Simulated Exams | 2 | 2 + Additional Simulation Practice | 2 + Additional Simulation Practice + 5 Additional Simulations Per Applicable Module |
+| Mini Practice Exams | 2 | 2 | 2 + Additional Practice Exams + 5 Additional Practice Tests Per Applicable Module |
+| Mini Simulated Exams | 2 | 2 | 2 + Additional Simulation Practice + 5 Additional Simulations Per Applicable Module |
 | Full Simulated Exam | 1 | 1 | 1 |
 | Workbook | — | Included | Printed Workbook Included |
 | Study Guide | — | Included | Printed Study Guide Included |
