@@ -155,12 +155,12 @@ This expansion adds eligible certification coverage only. It does **not** change
 -   Admissions Fee: \$0
 -   Enrollment Fee: \$0
 -   Complete Transfer Fee: \$500 when applicable
--   Education Deposit: \$1,550 when the current Education Deposit record
-    applies
-    -   Student Resource Allocation: \$1,000
-    -   RIAH Fee: \$550
--   Experiential Deposit: \$1,500 when a separate applicable
-    Experiential deposit trigger applies
+-   Education Deposit: \$500 RIAH Education Deposit Fee once per applicable Education Deposit plus the sum of applicable Student Resource Allocations
+    -   Minor Resource Allocation: \$250
+    -   Associate's Resource Allocation: \$500
+    -   Bachelor's Resource Allocation: \$1,000
+    -   Master's Resource Allocation: \$1,000
+    -   MBA Resource Allocation: \$1,000
 
 Deposit behavior must be rule-driven. Do not automatically charge two
 deposits when Education and Experiential begin together if the active
@@ -232,8 +232,9 @@ These percentages are not automatic student awards.
 ## RIAH Student Loan Configuration
 
 Where the active institutional financing record uses this structure: -
-Maximum: up to \$5,000 - Minimum stated credit score: 600 - Interest:
-5% - Repayment period: 12 months after graduation - Subject to credit
+Minimum: \$500 - Maximum: \$5,000 - Minimum stated credit score: 650 -
+Interest: 5% per 30 days - Active loans allowed: 1 - Payment plan maximum:
+12 months - Standard loan due date: 3 months after graduation - Subject to credit
 approval - Potentially eligible degree pathways begin at Associate's
 level - GED and HSE: not eligible - High School: not eligible -
 Standalone Minor: not independently eligible
@@ -1382,10 +1383,10 @@ A["Eligible"] --> B["Selected"] --> C["Placement / Commitment Requirements Satis
 
 For an eligible Education + Experiential combination: Combined Standard
 = Education Standard + Experiential Standard. Structural Combination
-Adjustment = Combined Standard × 25%. Integrated Standard = Combined
+Adjustment = Combined Standard × 5%. Integrated Standard = Combined
 Standard − Structural Combination Adjustment. Then apply the
-pricing-stage multiplier. The 25% combination adjustment is structural,
-occurs before stage pricing, is separate from the eligibility-based 50%
+pricing-stage multiplier. The 5% combination adjustment is structural,
+occurs before stage pricing, is separate from the ordinary 25%
 tuition-reduction ceiling, and may not be applied twice.
 
 Included components have \$0 additional charge. Primary major and
@@ -1447,9 +1448,10 @@ configured, Per-Course/Course-Unlock where configured, and Financing.
 Ordinary RIAH payment-plan interest is 0%. Financing is a payment method
 and must never be treated as a tuition reduction.
 
-Where the active RIAH Pathway Student Loan record applies: up to
-\$5,000, minimum stated credit score 600, 5% interest, 12-month
-repayment after graduation, subject to credit approval. Potential
+Where the active RIAH Pathway Student Loan record applies: \$500 minimum,
+\$5,000 maximum, minimum stated credit score 650, 5% interest per 30
+days, one active loan, a 12-month maximum payment plan, and a standard
+due date 3 months after graduation, subject to credit approval. Potential
 program eligibility begins at Associate's level. GED/HSE, High School,
 and standalone Minor are not independently eligible.
 
