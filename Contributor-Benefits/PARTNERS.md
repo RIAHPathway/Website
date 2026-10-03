@@ -166,7 +166,17 @@ Partner activity points are based on verified scope, completion, meaningful part
 
 ### 🔄 Partner Workflow
 
-**🤝 Approved Partnership → 📄 Written Terms → 👑 Verify Affiliation → 👤 Verify Participant Eligibility → 🎓🛍️ Apply Established Benefit → ⭐ Record Approved Partner Activity → 👀 Verify Activity → 📋 Update Partner Record → 🔄 Re-verify When Terms or Affiliation Change**
+```mermaid
+flowchart LR
+    N1["🤝 Approved Partnership"] --> N2["📄 Written Terms"]
+    N2["📄 Written Terms"] --> N3["👑 Verify Affiliation"]
+    N3["👑 Verify Affiliation"] --> N4["👤 Verify Participant Eligibility"]
+    N4["👤 Verify Participant Eligibility"] --> N5["🎓🛍️ Apply Established Benefit"]
+    N5["🎓🛍️ Apply Established Benefit"] --> N6["⭐ Record Approved Partner Activity"]
+    N6["⭐ Record Approved Partner Activity"] --> N7["👀 Verify Activity"]
+    N7["👀 Verify Activity"] --> N8["📋 Update Partner Record"]
+    N8["📋 Update Partner Record"] --> N9["🔄 Re-verify When Terms or Affiliation Change"]
+```
 
 ### ❌ Ineligible Partner Claims
 
