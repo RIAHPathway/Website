@@ -33,17 +33,25 @@ Public development priorities may include:
 
 The goal is to create a contribution-ready public-development environment where approved RIAH specifications can move through:
 
-```yaml
-flow:
-  step_1: "Idea"
-  step_2: "Specification"
-  step_3: "Issue"
-  step_4: "Contributor"
-  step_5: "Development"
-  step_6: "Review"
-  step_7: "Testing"
-  step_8: "Approval"
-  step_9: "Release"
+```mermaid
+flowchart LR
+    A["Idea"]
+    B["Specification"]
+    C["Issue"]
+    D["Contributor"]
+    E["Development"]
+    F["Review"]
+    G["Testing"]
+    H["Approval"]
+    I["Release"]
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    F --> G
+    G --> H
+    H --> I
 ```
 
 while maintaining a clear boundary between public development and private RIAH intellectual property.
