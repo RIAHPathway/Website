@@ -70,6 +70,8 @@ XIV. 📋 Participant Ledger
 | ❌ | Rejected or ineligible |
 
 ## II. 🌎 End-to-End Category Flow
+### 🔹 Mermaid Flow — Part 1
+
 ```mermaid
 flowchart TB
 A["🌎 Community Ambassador"] --> B["👑 Eligibility, Orientation & Marketing Training"]
@@ -84,6 +86,13 @@ G --> J["📝 Completed Application +25"]
 G --> K["🎓+ Verified Enrollment +100"]
 G --> L["🛒 Verified Product Purchase +25"]
 H --> M["📋 Verification & Activity Ledger"]
+```
+
+### 🔹 Mermaid Flow — Part 2
+
+```mermaid
+flowchart TB
+M["📋 Verification & Activity Ledger"]
 I --> M
 J --> M
 K --> M
