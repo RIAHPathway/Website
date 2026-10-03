@@ -130,7 +130,7 @@ Academic Standard Tuition establishes the 100% standard tuition amount for each 
 
 | Pricing Category | Standard 100% Amount | Unit |
 |:---|---:|:---|
-| GED and HSE | \$1,500 | Total Program |
+| GED and HSE | \$1,500 | Total Program — includes 12 concurrent college General Education credits across College English, College Math, History, and Science; applicable completed coursework converts into General Education college credit while GED and HSE preparation is completed concurrently |
 | High School Diploma | \$5,000 | Total Program |
 | Minor | \$5,000 | Total Program |
 | Associate’s | \$10,000 | Total Program |
@@ -756,6 +756,56 @@ transcript, diploma, graduation items, cap and gown, orientation, and
 standard administrative services are also treated as included rather
 than separately charged.
 
+## Calculator Implementation Configuration
+
+The calculator implementation uses the active numerical records in this data sheet. Non-applicable components contribute \$0 to the applicable calculation, included components contribute \$0 additional, and active fields resolve to a configured, approved entered, or calculated value.
+
+### GED and HSE Concurrent General Education Rule
+
+```javascript
+const GED_HSE_CONFIGURATION = {
+    tuition: 1500,
+    concurrentCollegeCredits: 12,
+    generalEducationAreas: [
+        "College English",
+        "College Math",
+        "History",
+        "Science"
+    ],
+    concurrentPreparation: true,
+    convertsToGeneralEducationCredit: true,
+    preparationAndCollegeCourseworkConcurrent: true
+};
+```
+
+### Scholarship, Grant, and Stipend Configuration
+
+```javascript
+const FUNDING_LEVELS = {
+    needBasedScholarship: { level1: 500, level2: 2500, level3: 5000, level4: 10000, level5: 15000, level6: 50000 },
+    meritBasedScholarship: { level1: 500, level2: 2500, level3: 5000, level4: 10000, level5: 15000, level6: 50000 },
+    needBasedGrant: { level1: 500, level2: 2500, level3: 5000, level4: 10000, level5: 15000, level6: 50000 },
+    meritBasedGrant: { level1: 500, level2: 2500, level3: 5000, level4: 10000, level5: 15000, level6: 50000 },
+    studentSupportStipend: { level1: 100, level2: 200, level3: 300, level4: 400, level5: 500 }
+};
+```
+
+### Calculator Value Handling
+
+```javascript
+function resolveCalculatorValue(record, applicable) {
+    if (!applicable) {
+        return { status: "NOT_APPLICABLE", amount: 0 };
+    }
+
+    if (record.included === true) {
+        return { status: "INCLUDED", amount: 0 };
+    }
+
+    return { status: "APPLICABLE", amount: record.value };
+}
+```
+
 # XL. ⚡ Master Active Number Table
 
 The Master Active Number Table consolidates the active numerical records used throughout the Pricing Engine. These values correspond to the detailed rules established in the preceding sections and provide a centralized numerical reference without replacing those rules.
@@ -763,6 +813,12 @@ The Master Active Number Table consolidates the active numerical records used th
 | Pricing Record | Active Value |
 |:---|---:|
 | GED and HSE Tuition | \$1,500 |
+| GED and HSE Concurrent College Coursework | 12 College Credits |
+| GED and HSE College English | Included in Concurrent General Education Coursework |
+| GED and HSE College Math | Included in Concurrent General Education Coursework |
+| GED and HSE History | Included in Concurrent General Education Coursework |
+| GED and HSE Science | Included in Concurrent General Education Coursework |
+| GED and HSE Course Conversion | Applicable Concurrent Coursework Converts to General Education College Credit |
 | High School Tuition | \$5,000 |
 | Minor Tuition | \$5,000 |
 | Associate’s Tuition | \$10,000 |
@@ -819,6 +875,35 @@ The Master Active Number Table consolidates the active numerical records used th
 | Second Standalone Review | 50% |
 | Third Standalone Review | 100% |
 | Included Review | \$0 |
+| Need Based Scholarship Level 1 | \$500 |
+| Need Based Scholarship Level 2 | \$2,500 |
+| Need Based Scholarship Level 3 | \$5,000 |
+| Need Based Scholarship Level 4 | \$10,000 |
+| Need Based Scholarship Level 5 | \$15,000 |
+| Need Based Scholarship Level 6 | \$50,000 |
+| Merit Based Scholarship Level 1 | \$500 |
+| Merit Based Scholarship Level 2 | \$2,500 |
+| Merit Based Scholarship Level 3 | \$5,000 |
+| Merit Based Scholarship Level 4 | \$10,000 |
+| Merit Based Scholarship Level 5 | \$15,000 |
+| Merit Based Scholarship Level 6 | \$50,000 |
+| Need Based Grant Level 1 | \$500 |
+| Need Based Grant Level 2 | \$2,500 |
+| Need Based Grant Level 3 | \$5,000 |
+| Need Based Grant Level 4 | \$10,000 |
+| Need Based Grant Level 5 | \$15,000 |
+| Need Based Grant Level 6 | \$50,000 |
+| Merit Based Grant Level 1 | \$500 |
+| Merit Based Grant Level 2 | \$2,500 |
+| Merit Based Grant Level 3 | \$5,000 |
+| Merit Based Grant Level 4 | \$10,000 |
+| Merit Based Grant Level 5 | \$15,000 |
+| Merit Based Grant Level 6 | \$50,000 |
+| Student Support Stipend Level 1 | \$100 |
+| Student Support Stipend Level 2 | \$200 |
+| Student Support Stipend Level 3 | \$300 |
+| Student Support Stipend Level 4 | \$400 |
+| Student Support Stipend Level 5 | \$500 |
 | Scholarship Minimum | \$500 |
 | Scholarship Maximum | \$50,000 |
 | Grant Minimum | \$500 |
