@@ -235,6 +235,20 @@ Includes:
 
 [ICON PLACEHOLDER — USERS AND PROFESSIONAL SUPPORT]
 
+#### PEOPLE-DEVELOPED. PEOPLE-DELIVERED. TECHNOLOGY-SUPPORTED.
+
+RIAH external educational products and professional-support services are developed and delivered through qualified people within the applicable disciplines, with technology supporting access, delivery, practice, assessment, scheduling, communication, and the learning environment.
+
+The Founder and CEO establishes and directs the curriculum architecture, product structure, ecosystem alignment, and applicable content direction.
+
+Certification Review courses, Bar Review materials, textbooks, workbooks, review resources, practice resources, and related educational content are developed and reviewed with qualified faculty, PhD-level subject-matter professionals, and professionals within the applicable discipline. Depending on the school and subject, this includes professionals in accounting, business, technology, cybersecurity, homeland security, and other applicable disciplines. Law and Bar Review content and support incorporate qualified legal professionals, including attorneys and judges where applicable.
+
+Live mentorship, coaching, academic advisement, study support, and live review may be delivered by RIAH faculty, adjunct faculty, experiential professionals, and contracted external professionals matched to the applicable discipline. Contracted professionals supplement the RIAH ecosystem and extend service capacity beyond the 173-person at-scale internal team structure.
+
+Applicable Certification Review and Bar Review package services are matched to qualified professionals within the relevant discipline so live support is provided by people and is not replaced by technology.
+
+RIAH educational, Certification Review, Bar Review, textbook, workbook, practice, and related product content is revised quarterly to remain aligned with applicable industry standards, professional expectations, review structures, and approved RIAH curriculum and product standards.
+
 **Advisement • Study Support • Mentorship • Coaching • Live Review • Applicable Professional Supervision • Professional Development**
 
 **Price Range: $29.99–$79.99 per session**
