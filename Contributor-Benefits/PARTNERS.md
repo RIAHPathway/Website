@@ -60,19 +60,14 @@ C --> D["🔄 Re-Verify When Required"]
 
 ## ⚙️ Flow Metadata
 
-```yaml
-track: "Partner"
-profile_category: "Partner"
-status: "in-progress"
-verification_required: true
-points_require_approval: true
-benefit_record_required: true
-review_state:
-  - pending
-  - under-review
-  - revision-if-required
-  - approved
-  - credited
+**Flow Configuration:** Track — Partner; Profile Category — Partner; Status — in-progress; Verification Required — true; Points Require Approval — true; Benefit Record Required — true.
+
+```mermaid
+flowchart LR
+    A["Pending"] --> B["Under Review"]
+    B --> C["Revision if Required"]
+    C --> D["Approved"]
+    D --> E["Credited"]
 ```
 
 ## 💰 Tuition, Products & Pricing Resources
