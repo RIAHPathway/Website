@@ -1671,3 +1671,5 @@ No. Applicable JD, Non-JD, Criminal Justice, and related student participation o
 ## Where does RIAH obtain real-work experiences?
 
 Real work may come from accepted public or partner matters and from RIAH’s internal ecosystem, including legal, accounting, Foundation, donation, blockchain, month-end close, audit, compliance, technology, cybersecurity, governance, and reporting work.
+
+RIAH Pathway

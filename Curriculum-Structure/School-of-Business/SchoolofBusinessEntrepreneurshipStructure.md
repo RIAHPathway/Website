@@ -410,3 +410,5 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 | ENT 6208 | Business | MBA | Venture Growth & Executive Business Alignment — Program risk & component integration | 3 | ENT 6207 | Same stack throughout | ❌ | PgMP Review | Milestone 3 — Carry Forward | Program risk & component integration | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | ENT 6209 | Business | MBA | Expansion, Transformation & Strategic Alignment — Integrated PgMP practice review | 3 | ENT 6208 | Same stack throughout | ❌ | PgMP Review | Final Review — Completion Deadline Approaching | Integrated PgMP practice review | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | ENT 6210 | Business | MBA | Entrepreneurship Executive Venture Program Capstone — Exit — Comprehensive PgMP review integration | 3 | ENT 6209 | Same stack throughout | ❌ | PgMP Review | Certification Review Completion Deadline | Comprehensive PgMP review integration | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+RIAH Pathway

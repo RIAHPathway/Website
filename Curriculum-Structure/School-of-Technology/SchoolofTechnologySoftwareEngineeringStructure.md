@@ -445,3 +445,5 @@ Students are admitted into the Software Engineering major after completing Year 
 | SE 6108 | Technology | MBA | Software Deployment, Service & Engineering Operations Management — Security architecture integration | 3 | SE 6107 | Same stack throughout | ❌ | Microsoft Solutions Expert Review | Milestone 3 — Carry Forward | Security architecture integration | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | SE 6109 | Technology | MBA | Software Engineering Optimization, Scale & Venture Performance | 3 | SE 6108 | Same stack throughout | ❌ | Microsoft Solutions Expert Review | Final Review — Completion Deadline Approaching | Cost, performance & optimization | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | SE 6110 | Technology | MBA | Software Engineering Management Venture Capstone — Comprehensive solution architecture review | 3 | SE 6109 | Same stack throughout | ✓ | Microsoft Solutions Expert Review | Certification Review Completion Deadline | Comprehensive solution architecture review | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+RIAH Pathway

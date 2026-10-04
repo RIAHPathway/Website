@@ -1594,3 +1594,5 @@ N4 --> N5
 # LEGAL AND PROFESSIONAL NETWORK PARTICIPATION
 
 RIAH’s professional network includes licensed attorneys, law firms, legal professionals, faculty, eligible supervising attorneys, and other professionals supporting real-work learning. The School of Law model routes applicable public legal matters to participating attorneys across the 50 states plus D.C. for independent review and possible acceptance. Participating professionals may supervise legally permitted student work, review deliverables, mentor students, and contribute to public-service and experiential initiatives. Judges may participate only in appropriate educational, academic, mentoring, or other roles permitted by judicial-conduct requirements.
+
+RIAH Pathway

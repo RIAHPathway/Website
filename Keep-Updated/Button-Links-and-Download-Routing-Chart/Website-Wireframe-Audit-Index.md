@@ -308,3 +308,5 @@ Use this same Roman numeral index, ID key, routing table, and combined audit str
 Overall Status: **IN PROGRESS**
 
 Page VI reflects the approved complete Tuition wireframe. Button, internal-link, external-link, download, media, CTA, routing, form, content and implementation records are reconciled to the current Tuition architecture.
+
+RIAH Pathway

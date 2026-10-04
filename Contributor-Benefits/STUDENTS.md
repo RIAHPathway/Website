@@ -264,3 +264,5 @@ Experiential Graduate: 1,000 completion + 50 Experiential support + 50 mentorshi
 Maximum Education Graduate: **2,500 points = 25% eligible products maximum; tuition may continue through 5,000 points = 50% tuition maximum**.
 
 Maximum Experiential Graduate: **2,500 points = 25% eligible products maximum; tuition may continue through 5,000 points = 50% tuition maximum**.
+
+RIAH Pathway

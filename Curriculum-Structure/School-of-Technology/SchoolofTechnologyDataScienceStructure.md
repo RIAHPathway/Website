@@ -453,3 +453,5 @@ Students are admitted into the Data Science major after completing Year 1 Genera
 | DS 6108 | Technology | MBA | Governance & Decision Management — Monitor analytics solutions | 3 | DS 6107 | Same stack throughout | ❌ | Microsoft Data Engineer Review | Milestone 3 — Carry Forward | Monitor analytics solutions | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | DS 6109 | Technology | MBA | Optimization, Scale & Venture Performance — Optimize analytics solutions | 3 | DS 6108 | Same stack throughout | ❌ | Microsoft Data Engineer Review | Final Review — Completion Deadline Approaching | Optimize analytics solutions | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | DS 6110 | Technology | MBA | Data Science Management Venture Capstone — Comprehensive Fabric Data Engineer review | 3 | DS 6109 | Same stack throughout | ✓ | Microsoft Data Engineer Review | Certification Review Completion Deadline | Comprehensive Fabric Data Engineer review | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+RIAH Pathway

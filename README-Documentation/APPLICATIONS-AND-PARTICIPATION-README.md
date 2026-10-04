@@ -212,3 +212,5 @@ GitHub Repository
 Private company IP. Public development where approved. Structured contribution. Human review. GitHub-managed implementation.
 
 Built from an original vision. Built in public. Supported by contributors. Designed to create pathways for students, professionals, employers, partners, and communities.
+
+RIAH Pathway

@@ -169,3 +169,5 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 | TEC 2112 | Technology | Core | Principles of Software Engineering | 3 | TEC 2101 — Principles of Computer Science | C# · Python · Visual Studio | ✓ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | TEC 2113 | Technology | Core | Statistics | 3 | MAT 1010 — College Algebra | — | ✓ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | TOTAL | Technology | Core | Technology Core | 39 | — | — | — | — | — | — | — | — | — | — | — | — | — |  |
+
+RIAH Pathway

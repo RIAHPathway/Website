@@ -224,3 +224,5 @@ Record Participant, Participant ID, Partner Organization, Partner Classification
 ## VI. 🏆 Benefit Rules
 
 Partner benefits are tied to the applicable written partnership classification. Eligible Partner Employees receive **15% tuition and 15% products** under applicable terms. A separate Partner or Pillar Product Benefit may provide **up to 25% products where authorized**. Partner points do not independently override written partnership terms, eligibility periods, exclusions or benefit caps.
+
+RIAH Pathway

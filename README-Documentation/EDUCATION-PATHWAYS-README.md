@@ -159,3 +159,5 @@ Established progression:
 | 4 | Senior Associate — 1 Year |
 | 5 | Manager — 1 Year |
 | 6 | Executive — 1 Year |
+
+RIAH Pathway

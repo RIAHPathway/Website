@@ -868,3 +868,5 @@ RIAH may use GitHub to document approved portions of its development process pub
 Building in public can provide visibility into website development, public specifications, issues, contributions, approved designs, testing, releases, documentation, and public institutional development.
 
 Building in public does not require RIAH to publish confidential, proprietary, private, restricted, security-sensitive, student, employee, financial, legal, or internal operational information.
+
+RIAH Pathway

@@ -96,3 +96,5 @@ Public evidence reviewed for Day I confirms that supervised law-office or judge-
 The market contains many individual components used within the RIAH architecture. Day I did not identify evidence requiring a Tier I or Tier II named-entity escalation, and no new Tier III entity was added to the public register.
 
 Future daily runs append below this section in the same Markdown file and preserve this Day I baseline.
+
+RIAH Pathway

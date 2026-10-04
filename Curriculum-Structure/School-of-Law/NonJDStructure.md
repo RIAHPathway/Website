@@ -624,3 +624,5 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 | Total | West Virginia |
 | --- | --- |
 | **Three-Year Curriculum** | **93 Credit Hours** |
+
+RIAH Pathway

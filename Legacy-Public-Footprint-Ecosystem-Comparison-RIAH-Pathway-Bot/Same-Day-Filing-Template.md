@@ -665,3 +665,5 @@ For each qualifying candidate, preserve the entity, official public sources, obs
 **Legacy documentation:** [RIAH Pathway Replica Bot — Legacy](./RIAH-Pathway-Replica-Bot-Legacy.md)
 
 > A Legacy flag is an investigative lead only. No allegation or filing should state copying, access, infringement, misconduct, accreditation, authorization, chronology, or liability unless supported by evidence and independently reviewed.
+
+RIAH Pathway

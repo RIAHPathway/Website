@@ -169,3 +169,5 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 | BUS 2108 | Business | Business Core | Operations Management | 3 | BUS 2107 — Principles of Management | Same Business Core Stack · HubSpot · Microsoft Power Automate | ✓ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | BUS 2109 | Business | Business Core | Principles of Entrepreneurship | 3 | MAT 1010 — College Algebra | Same Business Core Stack · HubSpot · Microsoft Power Automate | ✓ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | BUS 2110 | Business | Business Core | Principles of Finance | 3 | MAT 1010 — College Algebra | Same Business Core Stack | ✓ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+
+RIAH Pathway

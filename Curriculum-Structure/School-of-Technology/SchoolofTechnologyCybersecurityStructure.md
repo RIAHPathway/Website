@@ -624,3 +624,5 @@ Students are admitted into the Cybersecurity major after completing Year 1 Gener
 | CYB 6108 | Technology | MBA | Governance & Decision Management — Risk monitoring & reporting | 3 | CYB 6107 | Same stack throughout | ❌ | CRISC Review | Milestone 3 — Carry Forward | Risk monitoring & reporting | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | CYB 6109 | Technology | MBA | Optimization, Scale & Venture Performance — Integrated risk practice review | 3 | CYB 6108 | Same stack throughout | ❌ | CRISC Review | Final Review — Completion Deadline Approaching | Integrated risk practice review | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | CYB 6110 | Technology | MBA | Cybersecurity Management Venture Capstone — Comprehensive CRISC review integration | 3 | CYB 6109 | Same stack throughout | ✓ | CRISC Review | Certification Review Completion Deadline | Comprehensive CRISC review integration | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+RIAH Pathway

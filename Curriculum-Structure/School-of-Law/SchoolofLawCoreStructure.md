@@ -165,3 +165,5 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 | LAW 2008 | Law | Core | Criminology | 3 | LAW 2002 — Principles of Criminal Justice | RIAH School of Law Core Stack | ✓ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | LAW 2009 | Law | Core | Ethics in Criminal Justice | 3 | LAW 2002 — Principles of Criminal Justice | RIAH School of Law Core Stack | ✓ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | LAW 2010 | Law | Core | Criminal Justice Research & Analysis | 3 | LAW 2008 — Criminology | RIAH School of Law Core Stack | ✓ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+
+RIAH Pathway

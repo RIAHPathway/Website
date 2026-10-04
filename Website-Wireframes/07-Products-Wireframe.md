@@ -1639,3 +1639,5 @@ Products remain governed by the controlling Products rules and do not replace th
 
 - Applicable RIAH educational and professional resources may support supervised real-work experiences across legal, accounting, business, technology, cybersecurity, Foundation, donation, blockchain, audit, compliance, and reporting environments.
 - Products and review materials support learning and preparation; they do not replace professional supervision, legal authorization, or applicable real-work requirements.
+
+RIAH Pathway

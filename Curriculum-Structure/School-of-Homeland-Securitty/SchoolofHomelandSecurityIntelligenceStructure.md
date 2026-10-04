@@ -615,3 +615,5 @@ Students are admitted into the Intelligence major after completing Year 1 Genera
 | INT 6108 | Homeland Security | MBA | Governance & Decision Management — Fraud risk assessment & controls | 3 | INT 6107 | Same stack throughout | ❌ | CFE Review | Milestone 3 — Carry Forward | Fraud risk assessment & controls | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | INT 6109 | Homeland Security | MBA | Optimization, Scale & Venture Performance — Case analysis & reporting | 3 | INT 6108 | Same stack throughout | ❌ | CFE Review | Final Review — Completion Deadline Approaching | Case analysis & reporting | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | INT 6110 | Homeland Security | MBA | Intelligence Management Venture Capstone — Comprehensive CFE review integration | 3 | INT 6109 | Same stack throughout | ✓ | CFE Review | Certification Review Completion Deadline | Comprehensive CFE review integration | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+RIAH Pathway

@@ -453,3 +453,5 @@ Students are admitted into the Computer Science major after completing Year 1 Ge
 | CS 6108 | Technology | MBA | Governance & Decision Management — Monitor analytics solutions | 3 | CS 6107 | Same stack throughout | ❌ | Microsoft Data Engineer Review | Milestone 3 — Carry Forward | Monitor analytics solutions | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | CS 6109 | Technology | MBA | Optimization, Scale & Venture Performance — Optimize analytics solutions | 3 | CS 6108 | Same stack throughout | ❌ | Microsoft Data Engineer Review | Final Review — Completion Deadline Approaching | Optimize analytics solutions | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | CS 6110 | Technology | MBA | Computer Science Management Venture Capstone — Comprehensive Fabric Data Engineer review | 3 | CS 6109 | Same stack throughout | ✓ | Microsoft Data Engineer Review | Certification Review Completion Deadline | Comprehensive Fabric Data Engineer review | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+RIAH Pathway

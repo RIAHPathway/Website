@@ -410,3 +410,5 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 | MBA-FIN 6108 | Business | MBA | Behavioral Finance Management — Psychology of financial planning | 3 | MBA-FIN 6107 | Same stack throughout | ❌ | CFP Review | Milestone 3 — Carry Forward | Psychology of financial planning | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | MBA-FIN 6109 | Business | MBA | Wealth Management Strategy — Integrated financial plan development | 3 | MBA-FIN 6108 | Same stack throughout | ❌ | CFP Review | Final Review — Completion Deadline Approaching | Integrated financial plan development | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | MBA-FIN 6110 | Business | MBA | CFP Finance Management Venture Capstone — Exit — Comprehensive CFP review integration | 3 | MBA-FIN 6109 | Same stack throughout | ✓ | CFP Review | Certification Review Completion Deadline | Comprehensive CFP review integration | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+RIAH Pathway

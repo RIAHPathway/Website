@@ -247,3 +247,5 @@ Pending work receives no permanent points. Rejected work receives zero points.
 
 ## XIV. 📋 Participant Ledger
 Record Participant, Participant ID, Track, Activity or Contribution ID, Activity, Attribution, Submission Date, Verification Source, Points, Approved By, Previous Total, Added Points, New Total, Milestone, Tuition Benefit, Product Benefit, Next Milestone, Points Remaining and Status.
+
+RIAH Pathway

@@ -478,3 +478,5 @@ There are several ways to participate in what RIAH is building.
 | 🎓 ENROLL | Explore RIAH Pathway admissions beginning with the applicable October 2026 Version 1 launch period. |
 
 ---
+
+RIAH Pathway

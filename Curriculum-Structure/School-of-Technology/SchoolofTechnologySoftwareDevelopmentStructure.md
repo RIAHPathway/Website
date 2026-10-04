@@ -415,3 +415,5 @@ Students are admitted into the Software Development major after completing Year 
 | SD 6108 | Technology | MBA | Software Deployment, Service & Operational Management — Security architecture integration | 3 | SD 6107 | Same stack throughout | ❌ | Microsoft Solutions Expert Review | Milestone 3 — Carry Forward | Security architecture integration | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | SD 6109 | Technology | MBA | Software Optimization, Scale & Venture Performance | 3 | SD 6108 | Same stack throughout | ❌ | Microsoft Solutions Expert Review | Final Review — Completion Deadline Approaching | Cost, performance & optimization | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | SD 6110 | Technology | MBA | Software Management Venture Capstone — Comprehensive solution architecture review | 3 | SD 6109 | Same stack throughout | ✓ | Microsoft Solutions Expert Review | Certification Review Completion Deadline | Comprehensive solution architecture review | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+RIAH Pathway

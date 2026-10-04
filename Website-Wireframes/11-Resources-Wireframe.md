@@ -1590,3 +1590,5 @@ RIAH faculty and applicable academic personnel retain academic oversight and fin
 # LEGAL PUBLIC-SERVICE AND REAL-WORK RESOURCES
 
 Resources may route visitors to the School of Law public case-submission process, applicable record-sealing and expungement information, legal public-service information, professional-network participation, and explanations of supervised student experiential work. Resources may also explain RIAH’s internal real-work environments involving legal operations, Foundation and donation reporting, blockchain transparency, accounting, audit, compliance, technology, cybersecurity, and public financial reporting.
+
+RIAH Pathway

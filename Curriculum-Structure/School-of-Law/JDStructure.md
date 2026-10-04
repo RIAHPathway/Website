@@ -241,3 +241,5 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 | **Typical Curriculum Length** | **4 Years — Accelerated completion permitted based on student pace** |
 | **Curriculum Total** | **96 Credit Hours** |
 | **Type** | **JD** |
+
+RIAH Pathway

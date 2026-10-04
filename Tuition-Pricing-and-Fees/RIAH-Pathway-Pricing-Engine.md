@@ -3110,3 +3110,5 @@ flowchart TD
 # RIAH PATHWAY
 
 > **Build your pathway. Understand the price. See your options before you enroll.**
+
+RIAH Pathway

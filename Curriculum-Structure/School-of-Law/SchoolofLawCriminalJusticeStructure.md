@@ -400,3 +400,5 @@ Students are admitted into the Criminal Justice major after completing Year 1 Ge
 | CJ 6108 | Law | MBA | Criminal Justice Analytics & Management Control — Part 3 — Representation, Practices & Procedures: Representation Before the IRS | 3 | CJ 6107 | Same stack throughout | ❌ | IRS EA Review | IRS EA Part 3 — Representation, Practices & Procedures — Carry Forward | Representation Before the IRS | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | CJ 6109 | Law | MBA | Criminal Justice Strategic Optimization & Life-Cycle Management — Part 3 — Representation, Practices & Procedures: Completion Review | 3 | CJ 6108 | Same stack throughout | ❌ | IRS EA Review | IRS EA Part 3 — Representation, Practices & Procedures — Completion Deadline | Completion Review | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | CJ 6110 | Law | MBA | Criminal Justice Management Venture Capstone — Comprehensive IRS EA Review Integration | 3 | CJ 6109 | Same stack throughout | ✓ | IRS EA Review | IRS EA All Parts — Final Review Completion Deadline | Comprehensive IRS EA Review Integration | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+RIAH Pathway

@@ -453,3 +453,5 @@ Students are admitted into the Data Analytics major after completing Year 1 Gene
 | DA 6108 | Technology | MBA | Governance & Decision Management — Monitor analytics solutions | 3 | DA 6107 | Same stack throughout | ❌ | Microsoft Data Engineer Review | Milestone 3 — Carry Forward | Monitor analytics solutions | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | DA 6109 | Technology | MBA | Optimization, Scale & Venture Performance — Optimize analytics solutions | 3 | DA 6108 | Same stack throughout | ❌ | Microsoft Data Engineer Review | Final Review — Completion Deadline Approaching | Optimize analytics solutions | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | DA 6110 | Technology | MBA | Data Analytics Management Venture Capstone — Comprehensive Fabric Data Engineer review | 3 | DA 6109 | Same stack throughout | ✓ | Microsoft Data Engineer Review | Certification Review Completion Deadline | Comprehensive Fabric Data Engineer review | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+RIAH Pathway

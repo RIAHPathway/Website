@@ -516,3 +516,5 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 | GRC 6108 | Homeland Security | MBA | Governance & Decision Management — Risk monitoring & reporting | 3 | GRC 6107 | Same stack throughout | ❌ | CRISC Review | Milestone 3 — Carry Forward | Risk monitoring & reporting | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | GRC 6109 | Homeland Security | MBA | Optimization, Scale & Venture Performance — Integrated risk practice review | 3 | GRC 6108 | Same stack throughout | ❌ | CRISC Review | Final Review — Completion Deadline Approaching | Integrated risk practice review | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | GRC 6110 | Homeland Security | MBA | Governance, Risk and Compliance Management Venture Capstone — Comprehensive CRISC review integration | 3 | GRC 6109 | Same stack throughout | ✓ | CRISC Review | Certification Review Completion Deadline | Comprehensive CRISC review integration | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+RIAH Pathway

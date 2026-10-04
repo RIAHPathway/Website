@@ -264,3 +264,5 @@ RIAH does not assume that similarity proves copying or liability. Independent cr
 Legacy exists to keep the RIAH Pathway replica-monitoring record organized, current, timestamped, source-supported, and ready for rapid human review when a materially corresponding implementation crosses the fixed Tier 1, Tier 2, or Tier 3 threshold.
 
 🍜 **LEGACY CHECKPOINT:** Evidence organized. Sources preserved. Conclusions reserved for supported review.
+
+RIAH Pathway

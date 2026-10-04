@@ -294,3 +294,5 @@ Only accepted or verified deliverables count. Issues receive points only when su
 Record Contributor GitHub Username, Participant ID, Contribution ID, Category, GitHub Record such as issue/PR/commit/review/deliverable, Description, Level, Points, Approval Date, Approved By, Previous Total, Added Points, Running Total, Milestone, Tuition Benefit, Product Benefit, Next Milestone, Points Remaining and Status.
 
 Benefits cannot be exchanged for cash or ordinarily transferred and remain subject to applicable RIAH Pathway tuition, product, eligibility and discount-stacking rules.
+
+RIAH Pathway

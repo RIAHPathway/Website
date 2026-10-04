@@ -710,3 +710,5 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 | ACC 6108 | Business | MBA | Governance & Decision Management — Risk monitoring & reporting | 3 | ACC 6107 | Same stack throughout | ❌ | CRISC Review | Milestone 3 — Carry Forward | Risk monitoring & reporting | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | ACC 6109 | Business | MBA | Optimization, Scale & Venture Performance — Integrated risk practice review | 3 | ACC 6108 | Same stack throughout | ❌ | CRISC Review | Final Review — Completion Deadline Approaching | Integrated risk practice review | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | ACC 6110 | Business | MBA | Accounting Management Venture Capstone — Comprehensive CRISC review integration | 3 | ACC 6109 | Same stack throughout | ✓ | CRISC Review | Certification Review Completion Deadline | Comprehensive CRISC review integration | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+RIAH Pathway
