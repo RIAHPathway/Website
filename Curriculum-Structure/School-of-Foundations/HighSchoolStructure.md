@@ -19,53 +19,22 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 # RIAH PATHWAY SECONDARY SCHOOL
 # FOUR-YEAR HIGH SCHOOL DIPLOMA CURRICULUM
 
-## State-Component Emoji Key
+## State-Component Key
 
-| Emoji | State |
-| --- | --- |
-| 🔴 | Ohio |
-| 🟠 | Arkansas |
-| 🟡 | Oklahoma |
-| 🔵 | Illinois |
-| 🟣 | Wisconsin |
-| 🟤 | Minnesota |
-| ⚪ | New York |
-| 🔷 | Florida |
-| 🔺 | Texas |
-| 🔻 | Arizona |
-| 🟩 | Oregon |
-| 🟦 | Connecticut |
-| 🟪 | Tennessee |
-| 🟧 | Virginia |
-
-## State Private-School / Virtual-Delivery Operating Key
-
-This operating key addresses the states currently identified in the State-Component Emoji Key other than Ohio, Texas, and Florida, which are being handled separately. “Alternative pathway” means a lawful state-recognized operating structure; it does not mean avoiding a mandatory state requirement.
-
-| State | Unaccredited / Non-Charter Private-School Route | 100% Online Under Current Virtual-Only Model | Special Requirement / Lawful Alternative Pathway | RIAH Current Treatment |
-| --- | --- | --- | --- | --- |
-| 🟠 Arkansas | **Yes.** Arkansas generally does not require private-school accreditation, registration, licensing, or state approval. | **Yes — no general private-school rule located requiring a physical campus.** | Ordinary private-school operation is the low-regulation route. Separate approval/accreditation requirements apply if the school later seeks participation in state-funded school-choice programs or acts as an approved digital provider for public schools. | **Eligible for virtual-only model.** |
-| 🟡 Oklahoma | **Yes.** Accreditation is optional; ordinary private schools generally have no registration, licensing, or approval requirement. | **Yes — online coursework is recognized and no general private-school physical-campus mandate was located.** | Remain an unaccredited private school unless RIAH later elects state/recognized accreditation; accredited schools assume additional staffing, curriculum, health, and reporting rules. | **Eligible for virtual-only model.** |
-| 🔵 Illinois | **Yes.** State registration and recognition of nonpublic schools are voluntary. | **Yes, subject to applicable compulsory-attendance, curriculum, health/safety, records, and other generally applicable laws.** | RIAH can remain outside voluntary ISBE registration/recognition. Recognition would add an application/compliance review and school visit and is not required merely to operate an ordinary nonpublic school. | **Eligible for virtual-only model; voluntary recognition can be reconsidered later.** |
-| 🟣 Wisconsin | **Yes.** Accreditation is generally optional for private schools outside state voucher/choice programs. | **Yes, provided the program satisfies Wisconsin's statutory private-school definition and operating requirements.** | Maintain at least **875 instructional hours** per school year and a sequentially progressive curriculum in required fundamental subjects. Accreditation becomes relevant/required for specified voucher participation. | **Eligible for virtual-only model with Wisconsin private-school requirements mapped into operations.** |
-| 🟤 Minnesota | **Yes.** A nonpublic school may operate without state-recognized accreditation. | **Yes.** Minnesota expressly acknowledges nonpublic online learning providers. | Unaccredited nonpublic schools have additional compulsory-instruction reporting duties to each student's resident superintendent, including instructor information, and must arrange the required nationally normed achievement testing; accreditation can reduce reporting/testing obligations. | **Eligible for virtual-only model with resident-district reporting/testing workflow.** |
-| ⚪ New York | **A nonpublic school may be unregistered, but only registered nonpublic high schools may issue New York State diplomas/Regents diplomas.** | **Not as a fully virtual NYSED-registered private high school at present.** NYSED states that it currently has no fully virtual registered private/religious/independent schools. | A New York student may use an out-of-state fully virtual school, but the parent/guardian must comply with New York home-instruction requirements, including the IHIP and required reporting. A diploma from the virtual school is **not a New York State diploma**. | **Use only as an out-of-state virtual-school/curriculum pathway with New York home-instruction compliance; do not market it as a NYS diploma.** |
-| 🔻 Arizona | **Yes.** Arizona does not require private-school accreditation, registration, licensing, or state approval. | **Yes — no general state private-school approval or campus mandate was located that prevents virtual delivery, provided compulsory-attendance requirements are satisfied.** | Maintain instruction meeting Arizona compulsory-school requirements, including required core subjects and attendance/time obligations. | **Eligible for virtual-only model.** |
-| 🟩 Oregon | **Yes.** ODE does not accredit, approve, or register ordinary private schools. | **Yes — Oregon does not impose ODE private-school registration/approval, but the school remains subject to applicable state/local law.** | Private-school students must receive the courses of study ordinarily taught in K–12 and attendance equivalent to the statutory private-school requirement; grades 9–12 use the applicable **990-hour** benchmark identified by ODE. Health, safety, fire, building, and other rules apply when relevant to a facility. | **Eligible for virtual-only model.** |
-| 🟦 Connecticut | **Yes.** State approval is optional; accreditation is required only if the school seeks Connecticut state approval. | **Yes — no general Connecticut rule located requiring an unapproved private school to maintain a physical campus.** | Provide instruction equivalent to required studies. If RIAH later seeks state approval, it must obtain accreditation through a Connecticut-recognized accrediting agency and satisfy the approval process. | **Eligible for virtual-only model without voluntary state approval, subject to equivalent-instruction requirements.** |
-| 🟪 Tennessee | **Not as a free-standing unapproved private school for compulsory-attendance purposes.** Tennessee requires private/church-related schools to operate under an approved nonpublic-school category. | **Yes, but through the state's online-school pathway.** | The clearest fully virtual private-school route is an **Accredited Online School / Category III** school accredited by a Tennessee State Board-approved regional accrediting agency and reviewed for Tennessee online-school approval. Category IV church-related umbrella schools are a separate homeschool structure and require qualifying church-related status/membership. | **Eligible only after the required online-school accreditation/approval pathway; not an unaccredited shortcut.** |
-| 🟧 Virginia | **Yes, generally.** Virginia does not require ordinary private schools to obtain state accreditation or registration; state-recognized accreditation is optional for ordinary private schools. | **Yes.** Virginia expressly recognizes private online institutions. | Private online schools fall within the Virginia Council for Private Education framework for accreditation. VCPE-recognized accreditation is important if RIAH wants state-recognized accreditation and guaranteed public-school credit transfer; without it, credit acceptance is not guaranteed. | **Eligible for virtual-only model; pursue VCPE-recognized accreditation later if state-recognized credit transfer is desired.** |
-
-### Conditional Virtual-State Requirements
-
-- **Tennessee — do not exclude solely for being online, but do not launch until the accredited-online-school/Category III pathway is satisfied.**
-- **New York — do not treat RIAH as a NYSED-registered fully virtual private high school.** Use only the out-of-state online-school/home-instruction pathway unless New York's rules change.
-
-### Current Virtual-Only Candidates From the State-Component Key
-
-**Arkansas, Oklahoma, Illinois, Wisconsin, Minnesota, Arizona, Oregon, Connecticut, and Virginia** can remain in the virtual-only operating review, subject to the state-specific requirements above.
-
-**Tennessee** is conditional on its accredited online-school approval route. **New York** is conditional on the student's lawful home-instruction/out-of-state virtual-school structure and cannot be represented as a New York State diploma pathway.
+- 🔴 **Ohio — RIAH Pathway Ohio Non-Chartered, Non-Tax Supported School (NCNT).** Pursuing Ohio because the NCNT pathway permits operation as a non-chartered, non-tax-supported school while following the applicable Ohio requirements.
+- 🟠 **Arkansas — RIAH Pathway Arkansas Private School.** Pursuing Arkansas because an ordinary private school may operate without mandatory state accreditation, licensing, registration, or approval.
+- 🟡 **Oklahoma — RIAH Pathway Oklahoma Private School.** Pursuing Oklahoma because private-school accreditation is optional and an ordinary private school may operate without mandatory state approval.
+- 🔵 **Illinois — RIAH Pathway Illinois Nonpublic School.** Pursuing Illinois because registration and recognition of nonpublic schools are voluntary.
+- 🟣 **Wisconsin — RIAH Pathway Wisconsin Private School.** Pursuing Wisconsin because private-school accreditation is generally optional outside programs that specifically require it.
+- 🟤 **Minnesota — RIAH Pathway Minnesota Nonpublic School.** Pursuing Minnesota because a nonpublic school may operate without state-recognized accreditation, including through online delivery, while completing applicable reporting and testing requirements.
+- ⚪ **New York — RIAH Pathway New York Out-of-State Virtual School Pathway.** Pursuing New York only through the lawful out-of-state virtual-school/home-instruction structure; it will not be represented as a New York State diploma pathway.
+- 🔷 **Florida — RIAH Pathway Florida Private School.** Pursuing Florida through the applicable Florida private-school pathway and its required state compliance process.
+- 🔺 **Texas — RIAH Pathway Texas Private School.** Pursuing Texas through the private-school pathway for the virtual high-school operation.
+- 🔻 **Arizona — RIAH Pathway Arizona Private School.** Pursuing Arizona because private schools generally do not require state accreditation, registration, licensing, or approval.
+- 🟩 **Oregon — RIAH Pathway Oregon Private School.** Pursuing Oregon because Oregon does not accredit, approve, or register ordinary private schools, subject to applicable private-school requirements.
+- 🟦 **Connecticut — RIAH Pathway Connecticut Private School.** Pursuing Connecticut because state approval is optional for an ordinary private school; applicable equivalent-instruction requirements still apply.
+- 🟪 **Tennessee — RIAH Pathway Tennessee Accredited Online School, Category III.** Pursuing Tennessee through the required accredited online-school pathway rather than as an unapproved private school.
+- 🟧 **Virginia — RIAH Pathway Virginia Private Online School.** Pursuing Virginia because ordinary private schools generally do not require state accreditation or registration and Virginia recognizes private online institutions.
 
 | Academic Component | Credit / Semester Requirement |
 | --- | --- |
