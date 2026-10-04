@@ -26,12 +26,10 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 | 🔴 | Ohio |
 | 🟠 | Arkansas |
 | 🟡 | Oklahoma |
-| 🟢 | California |
 | 🔵 | Illinois |
 | 🟣 | Wisconsin |
 | 🟤 | Minnesota |
 | ⚪ | New York |
-| 🔶 | New Jersey |
 | 🔷 | Florida |
 | 🔺 | Texas |
 | 🔻 | Arizona |
@@ -48,22 +46,18 @@ This operating key addresses the states currently identified in the State-Compon
 | --- | --- | --- | --- | --- |
 | 🟠 Arkansas | **Yes.** Arkansas generally does not require private-school accreditation, registration, licensing, or state approval. | **Yes — no general private-school rule located requiring a physical campus.** | Ordinary private-school operation is the low-regulation route. Separate approval/accreditation requirements apply if the school later seeks participation in state-funded school-choice programs or acts as an approved digital provider for public schools. | **Eligible for virtual-only model.** |
 | 🟡 Oklahoma | **Yes.** Accreditation is optional; ordinary private schools generally have no registration, licensing, or approval requirement. | **Yes — online coursework is recognized and no general private-school physical-campus mandate was located.** | Remain an unaccredited private school unless RIAH later elects state/recognized accreditation; accredited schools assume additional staffing, curriculum, health, and reporting rules. | **Eligible for virtual-only model.** |
-| 🟢 California | **Private online/virtual schools are expressly recognized, and the annual Private School Affidavit is a registration filing rather than accreditation.** | **No for RIAH's no-physical-presence model.** California's affidavit requires an actual California physical address where instruction is provided; it cannot be a P.O. box or out-of-state address. | A California family using an out-of-state online school may establish/file the California school-of-record arrangement and use the out-of-state online enrollment as curriculum, but that is not the same as RIAH operating its own California school without California physical presence. | **Do not pursue as a RIAH California private school under the current virtual-only/no-physical-presence rule.** |
 | 🔵 Illinois | **Yes.** State registration and recognition of nonpublic schools are voluntary. | **Yes, subject to applicable compulsory-attendance, curriculum, health/safety, records, and other generally applicable laws.** | RIAH can remain outside voluntary ISBE registration/recognition. Recognition would add an application/compliance review and school visit and is not required merely to operate an ordinary nonpublic school. | **Eligible for virtual-only model; voluntary recognition can be reconsidered later.** |
 | 🟣 Wisconsin | **Yes.** Accreditation is generally optional for private schools outside state voucher/choice programs. | **Yes, provided the program satisfies Wisconsin's statutory private-school definition and operating requirements.** | Maintain at least **875 instructional hours** per school year and a sequentially progressive curriculum in required fundamental subjects. Accreditation becomes relevant/required for specified voucher participation. | **Eligible for virtual-only model with Wisconsin private-school requirements mapped into operations.** |
 | 🟤 Minnesota | **Yes.** A nonpublic school may operate without state-recognized accreditation. | **Yes.** Minnesota expressly acknowledges nonpublic online learning providers. | Unaccredited nonpublic schools have additional compulsory-instruction reporting duties to each student's resident superintendent, including instructor information, and must arrange the required nationally normed achievement testing; accreditation can reduce reporting/testing obligations. | **Eligible for virtual-only model with resident-district reporting/testing workflow.** |
 | ⚪ New York | **A nonpublic school may be unregistered, but only registered nonpublic high schools may issue New York State diplomas/Regents diplomas.** | **Not as a fully virtual NYSED-registered private high school at present.** NYSED states that it currently has no fully virtual registered private/religious/independent schools. | A New York student may use an out-of-state fully virtual school, but the parent/guardian must comply with New York home-instruction requirements, including the IHIP and required reporting. A diploma from the virtual school is **not a New York State diploma**. | **Use only as an out-of-state virtual-school/curriculum pathway with New York home-instruction compliance; do not market it as a NYS diploma.** |
-| 🔶 New Jersey | **Accreditation itself is not required.** | **No.** NJDOE states that a New Jersey nonpublic school is a place where children attend and receive instruction and therefore requires **in-person attendance**. | Home instruction is the separate lawful alternative, but it would not make RIAH a 100% virtual New Jersey nonpublic school. | **Do not pursue under the current virtual-only model.** |
 | 🔻 Arizona | **Yes.** Arizona does not require private-school accreditation, registration, licensing, or state approval. | **Yes — no general state private-school approval or campus mandate was located that prevents virtual delivery, provided compulsory-attendance requirements are satisfied.** | Maintain instruction meeting Arizona compulsory-school requirements, including required core subjects and attendance/time obligations. | **Eligible for virtual-only model.** |
 | 🟩 Oregon | **Yes.** ODE does not accredit, approve, or register ordinary private schools. | **Yes — Oregon does not impose ODE private-school registration/approval, but the school remains subject to applicable state/local law.** | Private-school students must receive the courses of study ordinarily taught in K–12 and attendance equivalent to the statutory private-school requirement; grades 9–12 use the applicable **990-hour** benchmark identified by ODE. Health, safety, fire, building, and other rules apply when relevant to a facility. | **Eligible for virtual-only model.** |
 | 🟦 Connecticut | **Yes.** State approval is optional; accreditation is required only if the school seeks Connecticut state approval. | **Yes — no general Connecticut rule located requiring an unapproved private school to maintain a physical campus.** | Provide instruction equivalent to required studies. If RIAH later seeks state approval, it must obtain accreditation through a Connecticut-recognized accrediting agency and satisfy the approval process. | **Eligible for virtual-only model without voluntary state approval, subject to equivalent-instruction requirements.** |
 | 🟪 Tennessee | **Not as a free-standing unapproved private school for compulsory-attendance purposes.** Tennessee requires private/church-related schools to operate under an approved nonpublic-school category. | **Yes, but through the state's online-school pathway.** | The clearest fully virtual private-school route is an **Accredited Online School / Category III** school accredited by a Tennessee State Board-approved regional accrediting agency and reviewed for Tennessee online-school approval. Category IV church-related umbrella schools are a separate homeschool structure and require qualifying church-related status/membership. | **Eligible only after the required online-school accreditation/approval pathway; not an unaccredited shortcut.** |
 | 🟧 Virginia | **Yes, generally.** Virginia does not require ordinary private schools to obtain state accreditation or registration; state-recognized accreditation is optional for ordinary private schools. | **Yes.** Virginia expressly recognizes private online institutions. | Private online schools fall within the Virginia Council for Private Education framework for accreditation. VCPE-recognized accreditation is important if RIAH wants state-recognized accreditation and guaranteed public-school credit transfer; without it, credit acceptance is not guaranteed. | **Eligible for virtual-only model; pursue VCPE-recognized accreditation later if state-recognized credit transfer is desired.** |
 
-### Physical-Presence Exclusions Under the Current RIAH Virtual-Only Rule
+### Conditional Virtual-State Requirements
 
-- **California — exclude as a RIAH California private school** because the California Private School Affidavit requires an actual in-state physical address where instruction is provided. A family-level California school-of-record/home-school arrangement using RIAH online curriculum is a separate lawful pathway.
-- **New Jersey — exclude** because NJDOE expressly requires in-person attendance for a New Jersey nonpublic school.
 - **Tennessee — do not exclude solely for being online, but do not launch until the accredited-online-school/Category III pathway is satisfied.**
 - **New York — do not treat RIAH as a NYSED-registered fully virtual private high school.** Use only the out-of-state online-school/home-instruction pathway unless New York's rules change.
 
@@ -71,7 +65,7 @@ This operating key addresses the states currently identified in the State-Compon
 
 **Arkansas, Oklahoma, Illinois, Wisconsin, Minnesota, Arizona, Oregon, Connecticut, and Virginia** can remain in the virtual-only operating review, subject to the state-specific requirements above.
 
-**California and New Jersey** are removed from direct RIAH private-school operation under the current no-physical-presence rule. **Tennessee** is conditional on its accredited online-school approval route. **New York** is conditional on the student's lawful home-instruction/out-of-state virtual-school structure and cannot be represented as a New York State diploma pathway.
+**Tennessee** is conditional on its accredited online-school approval route. **New York** is conditional on the student's lawful home-instruction/out-of-state virtual-school structure and cannot be represented as a New York State diploma pathway.
 
 | Academic Component | Credit / Semester Requirement |
 | --- | --- |
@@ -421,7 +415,7 @@ flowchart TD
 | **MAT 3101** | Precalculus | Mathematics | 3 | MAT 2102 | Trigonometry | Mathematics | Functions, Polynomial Functions, Rational Functions, Exponential Functions, Logarithmic Functions, Advanced Trigonometry, Analytic Geometry, Sequences | — | Fixed RIAH mathematics course. |
 | **SCI 3101** | Biology | Life Science | 3 | SCI 2102 | Environmental Science | Environmental Science | Cell Biology, Genetics, Evolution, Ecology, Organisms, Biological Systems, Molecular Biology, Biological Diversity | — | Biology begins the biological-science portion of the sequence. |
 | **HIS 3101** | American History | American History | 3 | GOV 2101 | Government | Government / Civics | United States History, Colonial America, American Revolution, Founding of the United States, Constitutional History, Civil War and Reconstruction, Industrialization, Modern U.S. History, Civil Rights History | State modules where applicable | American History remains separate from State History. |
-| **FIN 3101 🔴🟢🟠** | Financial Literacy | Financial Literacy | 3 | None | None | None | Financial Decision-Making, Banking Fundamentals, Credit Fundamentals, Debt Literacy, Saving, Investing Fundamentals, Insurance Literacy, Consumer Financial Literacy | 🔴 Ohio, 🟢 California, 🟠 Arkansas | Applicable state financial-literacy content is mapped here. |
+| **FIN 3101 🔴🟠** | Financial Literacy | Financial Literacy | 3 | None | None | None | Financial Decision-Making, Banking Fundamentals, Credit Fundamentals, Debt Literacy, Saving, Investing Fundamentals, Insurance Literacy, Consumer Financial Literacy | 🔴 Ohio, 🟠 Arkansas | Applicable state financial-literacy content is mapped here. |
 | **LAN 3101** | World Language I | World Language | 3 | None | None | None | Spanish, French, German, or Italian Level I; Vocabulary, Grammar, Reading, Writing, Listening, Speaking, Culture | — | Student selects one language. |
 |  | **SEMESTER TOTAL** |  | **15** |  |  |  |  |  |  |
 
@@ -433,7 +427,7 @@ flowchart TD
 | **SCI 3102** | Chemistry | Physical Science | 3 | SCI 3101 | Biology | Life Science | Matter, Atomic Structure, Periodic Relationships, Chemical Bonding, Chemical Reactions, Stoichiometry, Solutions, Acids and Bases, Chemical Energy | — | Chemistry follows Biology. |
 | **HIS 3102 🟡🟠** | State History | State History | 3 | HIS 3101 | American History | American History | State History, State Founding and Development, State Constitution, State Government History, State Geography, State Economy, State Cultural History, State Civil Rights History, Native American/Tribal/Indigenous History, Major State Events, State Historical Figures | 🟡 Oklahoma, 🟠 Arkansas | Every student studies the history of their own state; identified state-specific components are mapped here. |
 | **LAN 3102** | World Language II | World Language | 3 | LAN 3101 | World Language I | World Language | Continuation of selected language; Intermediate Vocabulary, Grammar, Reading, Writing, Listening, Speaking, Culture | — | Student continues the same language. |
-| **PFI 3101 🔴🟢🟠** | Personal Finance | Personal Finance | 3 | FIN 3101 | Financial Literacy | Financial Literacy | Personal Budgeting, Income, Banking, Credit Management, Debt Management, Saving, Investing, Insurance, Taxes, Housing, Consumer Decision-Making, Financial Responsibility | 🔴 Ohio, 🟢 California, 🟠 Arkansas | Applicable state personal-finance components are mapped here. |
+| **PFI 3101 🔴🟠** | Personal Finance | Personal Finance | 3 | FIN 3101 | Financial Literacy | Financial Literacy | Personal Budgeting, Income, Banking, Credit Management, Debt Management, Saving, Investing, Insurance, Taxes, Housing, Consumer Decision-Making, Financial Responsibility | 🔴 Ohio, 🟠 Arkansas | Applicable state personal-finance components are mapped here. |
 |  | **SEMESTER TOTAL** |  | **15** |  |  |  |  |  |  |
 
 ### Grade 11 Total: **30 Credit Hours**
@@ -471,7 +465,7 @@ flowchart TD
 | **SCI 4101** | Anatomy | Life Science | 3 | SCI 3101 | Biology | Life Science | Anatomical Terminology, Cells and Tissues, Skeletal System, Muscular System, Nervous System, Cardiovascular Structures, Respiratory Structures, Digestive Structures, Endocrine Structures, Human Body Organization | — | Anatomy follows Biology and Chemistry in the overall sequence. |
 | **ECO 4101** | Economics | Economics | 3 | HIS 3102 | State History | State History | Economic Systems, Microeconomics, Macroeconomics, Supply and Demand, Markets, Labor, Banking, Fiscal Policy, Monetary Policy, International Economics, Consumer Economics | — | Economics follows the core history/government sequence. |
 | **CSC 4101 🟠** | Computer Science | Computer Science | 3 | TEC 1101 | Digital Literacy | Technology | Computer Science Principles, Algorithms, Programming Fundamentals, Data, Computing Systems, Networks, Cybersecurity Fundamentals, Responsible Computing | 🟠 Arkansas | Applicable Arkansas computer-science content is mapped here. |
-| **ETH 4101 🟢** | Ethnic Studies | Social Studies | 3 | HIS 3101 | American History | American History | Ethnic Studies, Race and Ethnicity in the United States, Cultural History, Cultural Contributions, Historical Experiences of Diverse Communities, Civil Rights and Social Change, Comparative Cultural Studies | 🟢 California | Applicable California ethnic-studies content is mapped here. |
+| **ETH 4101** | Ethnic Studies | Social Studies | 3 | HIS 3101 | American History | American History | Ethnic Studies, Race and Ethnicity in the United States, Cultural History, Cultural Contributions, Historical Experiences of Diverse Communities, Civil Rights and Social Change, Comparative Cultural Studies | — | Fixed RIAH social-studies course. |
 |  | **SEMESTER TOTAL** |  | **15** |  |  |  |  |  |  |
 
 ## Semester 2
@@ -661,8 +655,6 @@ flowchart TD
 | 🟠 | Arkansas | FIN 3101 / PFI 3101 | Applicable Arkansas financial instruction is mapped into the financial sequence. |
 | 🟡 | Oklahoma | HIS 3102 | Oklahoma History is mapped into State History. |
 | 🟡 | Oklahoma | GOV 2101 | Applicable Oklahoma government/civics content is mapped into Government. |
-| 🟢 | California | ETH 4101 | Applicable California ethnic-studies content is mapped into Ethnic Studies. |
-| 🟢 | California | FIN 3101 / PFI 3101 | Applicable California financial content is mapped into the financial sequence. |
 | 🔵 | Illinois | HIS 2101 | Applicable Illinois Holocaust/genocide content is mapped into Holocaust & Genocide Studies. |
 | 🟣 | Wisconsin | HLT 1101 (Fire Prevention)* | Applicable Wisconsin health instruction is mapped into Health. |
 | 🟤 | Minnesota | HLT 1101 (Fire Prevention)* | Applicable Minnesota health instruction is mapped into Health. |
@@ -678,7 +670,7 @@ flowchart TD
 
 | Delivery Category | States / Jurisdictions |
 | --- | --- |
-| **Virtual Only — RIAH High School Diploma Offered** | Alabama, Alaska, Arizona, Arkansas, California, Connecticut, Delaware, Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin, Wyoming |
+| **Virtual Only — RIAH High School Diploma Offered** | Alabama, Alaska, Arizona, Arkansas, Connecticut, Delaware, Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin, Wyoming |
 | **Physical / Hybrid — RIAH High School Diploma Not Offered Under Current Virtual-Only Model** | District of Columbia, Maine, Maryland, Massachusetts, Pennsylvania, Rhode Island, Washington, Hawaii |
 
 ---
@@ -740,12 +732,10 @@ graph TD;
 | 🔴 | Ohio |
 | 🟠 | Arkansas |
 | 🟡 | Oklahoma |
-| 🟢 | California |
 | 🔵 | Illinois |
 | 🟣 | Wisconsin |
 | 🟤 | Minnesota |
 | ⚪ | New York |
-| 🔶 | New Jersey |
 | 🔷 | Florida |
 | 🔺 | Texas |
 | 🔻 | Arizona |
@@ -913,7 +903,7 @@ flowchart TD
 | **MAT 3101** | Precalculus | Mathematics | 3 | MAT 2102 | Trigonometry | Mathematics | Functions, Polynomial Functions, Rational Functions, Exponential Functions, Logarithmic Functions, Advanced Trigonometry, Analytic Geometry, Sequences | — | Fixed RIAH mathematics course. |
 | **SCI 3101** | Biology | Life Science | 3 | SCI 2102 | Environmental Science | Environmental Science | Cell Biology, Genetics, Evolution, Ecology, Organisms, Biological Systems, Molecular Biology, Biological Diversity | — | Biology begins the biological-science portion of the sequence. |
 | **HIS 3101** | American History | American History | 3 | GOV 2101 | Government | Government / Civics | United States History, Colonial America, American Revolution, Founding of the United States, Constitutional History, Civil War and Reconstruction, Industrialization, Modern U.S. History, Civil Rights History | State modules where applicable | American History remains separate from State History. |
-| **FIN 3101 🔴🟢🟠** | Financial Literacy | Financial Literacy | 3 | None | None | None | Financial Decision-Making, Banking Fundamentals, Credit Fundamentals, Debt Literacy, Saving, Investing Fundamentals, Insurance Literacy, Consumer Financial Literacy | 🔴 Ohio, 🟢 California, 🟠 Arkansas | Applicable state financial-literacy content is mapped here. |
+| **FIN 3101 🔴🟠** | Financial Literacy | Financial Literacy | 3 | None | None | None | Financial Decision-Making, Banking Fundamentals, Credit Fundamentals, Debt Literacy, Saving, Investing Fundamentals, Insurance Literacy, Consumer Financial Literacy | 🔴 Ohio, 🟠 Arkansas | Applicable state financial-literacy content is mapped here. |
 | **LAN 3101** | World Language I | World Language | 3 | None | None | None | Spanish, French, German, or Italian Level I; Vocabulary, Grammar, Reading, Writing, Listening, Speaking, Culture | — | Student selects one language. |
 |  | **SEMESTER TOTAL** |  | **15** |  |  |  |  |  |  |
 
@@ -925,7 +915,7 @@ flowchart TD
 | **SCI 3102** | Chemistry | Physical Science | 3 | SCI 3101 | Biology | Life Science | Matter, Atomic Structure, Periodic Relationships, Chemical Bonding, Chemical Reactions, Stoichiometry, Solutions, Acids and Bases, Chemical Energy | — | Chemistry follows Biology. |
 | **HIS 3102 🟡🟠** | State History | State History | 3 | HIS 3101 | American History | American History | State History, State Founding and Development, State Constitution, State Government History, State Geography, State Economy, State Cultural History, State Civil Rights History, Native American/Tribal/Indigenous History, Major State Events, State Historical Figures | 🟡 Oklahoma, 🟠 Arkansas | Every student studies the history of their own state; identified state-specific components are mapped here. |
 | **LAN 3102** | World Language II | World Language | 3 | LAN 3101 | World Language I | World Language | Continuation of selected language; Intermediate Vocabulary, Grammar, Reading, Writing, Listening, Speaking, Culture | — | Student continues the same language. |
-| **PFI 3101 🔴🟢🟠** | Personal Finance | Personal Finance | 3 | FIN 3101 | Financial Literacy | Financial Literacy | Personal Budgeting, Income, Banking, Credit Management, Debt Management, Saving, Investing, Insurance, Taxes, Housing, Consumer Decision-Making, Financial Responsibility | 🔴 Ohio, 🟢 California, 🟠 Arkansas | Applicable state personal-finance components are mapped here. |
+| **PFI 3101 🔴🟠** | Personal Finance | Personal Finance | 3 | FIN 3101 | Financial Literacy | Financial Literacy | Personal Budgeting, Income, Banking, Credit Management, Debt Management, Saving, Investing, Insurance, Taxes, Housing, Consumer Decision-Making, Financial Responsibility | 🔴 Ohio, 🟠 Arkansas | Applicable state personal-finance components are mapped here. |
 |  | **SEMESTER TOTAL** |  | **15** |  |  |  |  |  |  |
 
 ### Grade 11 Total: **30 Credit Hours**
@@ -1153,8 +1143,6 @@ flowchart TD
 | 🟠 | Arkansas | FIN 3101 / PFI 3101 | Applicable Arkansas financial instruction is mapped into the financial sequence. |
 | 🟡 | Oklahoma | HIS 3102 | Oklahoma History is mapped into State History. |
 | 🟡 | Oklahoma | GOV 2101 | Applicable Oklahoma government/civics content is mapped into Government. |
-| 🟢 | California | ETH 4101 | Applicable California ethnic-studies content is mapped into Ethnic Studies. |
-| 🟢 | California | FIN 3101 / PFI 3101 | Applicable California financial content is mapped into the financial sequence. |
 | 🔵 | Illinois | HIS 2101 | Applicable Illinois Holocaust/genocide content is mapped into Holocaust & Genocide Studies. |
 | 🟣 | Wisconsin | HLT 1101 (Fire Prevention)* | Applicable Wisconsin health instruction is mapped into Health. |
 | 🟤 | Minnesota | HLT 1101 (Fire Prevention)* | Applicable Minnesota health instruction is mapped into Health. |
