@@ -21,20 +21,24 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 
 ## State-Component Key
 
-- 🔴 **Ohio — RIAH Pathway Ohio Non-Chartered, Non-Tax Supported School (NCNT).** Pursuing Ohio because the NCNT pathway permits operation as a non-chartered, non-tax-supported school while following the applicable Ohio requirements.
-- 🟠 **Arkansas — RIAH Pathway Arkansas Private School.** Pursuing Arkansas because an ordinary private school may operate without mandatory state accreditation, licensing, registration, or approval.
-- 🟡 **Oklahoma — RIAH Pathway Oklahoma Private School.** Pursuing Oklahoma because private-school accreditation is optional and an ordinary private school may operate without mandatory state approval.
-- 🔵 **Illinois — RIAH Pathway Illinois Nonpublic School.** Pursuing Illinois because registration and recognition of nonpublic schools are voluntary.
-- 🟣 **Wisconsin — RIAH Pathway Wisconsin Private School.** Pursuing Wisconsin because private-school accreditation is generally optional outside programs that specifically require it.
-- 🟤 **Minnesota — RIAH Pathway Minnesota Nonpublic School.** Pursuing Minnesota because a nonpublic school may operate without state-recognized accreditation, including through online delivery, while completing applicable reporting and testing requirements.
-- ⚪ **New York — RIAH Pathway New York Out-of-State Virtual School Pathway.** Pursuing New York only through the lawful out-of-state virtual-school/home-instruction structure; it will not be represented as a New York State diploma pathway.
-- 🔷 **Florida — RIAH Pathway Florida Private School.** Pursuing Florida through the applicable Florida private-school pathway and its required state compliance process.
-- 🔺 **Texas — RIAH Pathway Texas Private School.** Pursuing Texas through the private-school pathway for the virtual high-school operation.
-- 🔻 **Arizona — RIAH Pathway Arizona Private School.** Pursuing Arizona because private schools generally do not require state accreditation, registration, licensing, or approval.
-- 🟩 **Oregon — RIAH Pathway Oregon Private School.** Pursuing Oregon because Oregon does not accredit, approve, or register ordinary private schools, subject to applicable private-school requirements.
-- 🟦 **Connecticut — RIAH Pathway Connecticut Private School.** Pursuing Connecticut because state approval is optional for an ordinary private school; applicable equivalent-instruction requirements still apply.
-- 🟪 **Tennessee — RIAH Pathway Tennessee Accredited Online School, Category III.** Pursuing Tennessee through the required accredited online-school pathway rather than as an unapproved private school.
-- 🟧 **Virginia — RIAH Pathway Virginia Private Online School.** Pursuing Virginia because ordinary private schools generally do not require state accreditation or registration and Virginia recognizes private online institutions.
+**School Name: RIAH Pathway High School**
+
+| State Component | Why RIAH Pathway High School Is Pursuing the State |
+| --- | --- |
+| 🔴 **Ohio** | Pursuing Ohio because the NCNT pathway permits operation as a non-chartered, non-tax-supported school while following the applicable Ohio requirements. |
+| 🟠 **Arkansas** | Pursuing Arkansas because an ordinary private school may operate without mandatory state accreditation, licensing, registration, or approval. |
+| 🟡 **Oklahoma** | Pursuing Oklahoma because private-school accreditation is optional and an ordinary private school may operate without mandatory state approval. |
+| 🔵 **Illinois** | Pursuing Illinois because registration and recognition of nonpublic schools are voluntary. |
+| 🟣 **Wisconsin** | Pursuing Wisconsin because private-school accreditation is generally optional outside programs that specifically require it. |
+| 🟤 **Minnesota** | Pursuing Minnesota because a nonpublic school may operate without state-recognized accreditation, including through online delivery, while completing applicable reporting and testing requirements. |
+| ⚪ **New York** | Pursuing New York only through the lawful out-of-state virtual-school/home-instruction structure; it will not be represented as a New York State diploma pathway. |
+| 🔷 **Florida** | Pursuing Florida through the applicable Florida private-school pathway and its required state compliance process. |
+| 🔺 **Texas** | Pursuing Texas through the private-school pathway for the virtual high-school operation. |
+| 🔻 **Arizona** | Pursuing Arizona because private schools generally do not require state accreditation, registration, licensing, or approval. |
+| 🟩 **Oregon** | Pursuing Oregon because Oregon does not accredit, approve, or register ordinary private schools, subject to applicable private-school requirements. |
+| 🟦 **Connecticut** | Pursuing Connecticut because state approval is optional for an ordinary private school; applicable equivalent-instruction requirements still apply. |
+| 🟪 **Tennessee** | Pursuing Tennessee through the required accredited online-school pathway rather than as an unapproved private school. |
+| 🟧 **Virginia** | Pursuing Virginia because ordinary private schools generally do not require state accreditation or registration and Virginia recognizes private online institutions. |
 
 | Academic Component | Credit / Semester Requirement |
 | --- | --- |
@@ -199,7 +203,7 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 | **MAT 1102** | Geometry | **✓** |
 | **SCI 1102** | Astronomy | **✓** |
 | **HIS 1101** | World History | **✓** |
-| **HLT 1101 (Fire Prevention)*** | Health | **✓** |
+| **HLT 1101 (Fire Prevention)* 🔴🔷** | Health | **✓** |
 | **ENG 2101** | English III / American Literature | **✓** |
 | **MAT 2101** | Algebra II | **✓** |
 | **SCI 2101** | Earth Science | **✓** |
@@ -222,7 +226,7 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 | **PFI 3101** | Personal Finance | **✓** |
 | **MAT 4101** | Statistics | **✓** |
 | **SCI 4101** | Anatomy | **✓** |
-| **ECO 4101** | Economics | **✓** |
+| **ECO 4101 🔷** | Economics | **✓** |
 | **CSC 4101** | Computer Science | **✓** |
 | **ETH 4101** | Ethnic Studies | **✓** |
 | **SCI 4102** | Physiology | **✓** |
@@ -354,7 +358,7 @@ flowchart TD
 | **ENG 2102** | English IV / World Literature | English Language Arts | 3 | ENG 2101 | English III / American Literature | English Language Arts | World Literature, Global Literary Traditions, Fiction, Nonfiction, Poetry, Drama, Comparative Literature, Literary Analysis, Advanced Writing, Research Writing, Written Communication | — | Fixed RIAH world-literature course. |
 | **MAT 2102** | Trigonometry | Mathematics | 3 | MAT 2101 | Algebra II | Mathematics | Trigonometric Functions, Angles, Right-Triangle Trigonometry, Unit Circle, Graphs, Identities, Equations, Applications | — | Fixed RIAH mathematics course. |
 | **SCI 2102** | Environmental Science | Environmental Science | 3 | SCI 2101 | Earth Science | Earth Science | Ecosystems, Natural Resources, Biodiversity, Pollution, Climate, Sustainability, Human Environmental Impact, Conservation | — | Fourth science course. |
-| **GOV 2101 🔴🟡🔺🔻** | Government | Government / Civics | 3 | HIS 2101 | Holocaust & Genocide Studies | History / Social Studies | United States Government, American Government, Civics, Citizenship, Constitutional Government, Federal Government, State Government, Local Government, Founding Principles, Rights and Responsibilities | 🔴 Ohio, 🟡 Oklahoma, 🔺 Texas, 🔻 Arizona | Applicable government and civics components are mapped here. |
+| **GOV 2101 🔴🟡🔷🔺🔻** | Government | Government / Civics | 3 | HIS 2101 | Holocaust & Genocide Studies | History / Social Studies | United States Government, American Government, Civics, Citizenship, Constitutional Government, Federal Government, State Government, Local Government, Founding Principles, Rights and Responsibilities | 🔴 Ohio, 🟡 Oklahoma, 🔷 Florida, 🔺 Texas, 🔻 Arizona | Applicable government and civics components are mapped here. |
 | **ART 2101 🔴🟤** | Fine Arts | Fine Arts | 3 | None | None | None | Visual Art, Music, Theatre, Fine Arts Appreciation, Artistic Expression, Arts History | 🔴 Ohio, 🟤 Minnesota | Applicable state fine-arts content is covered here. |
 |  | **SEMESTER TOTAL** |  | **15** |  |  |  |  |  |  |
 
@@ -384,7 +388,7 @@ flowchart TD
 | **MAT 3101** | Precalculus | Mathematics | 3 | MAT 2102 | Trigonometry | Mathematics | Functions, Polynomial Functions, Rational Functions, Exponential Functions, Logarithmic Functions, Advanced Trigonometry, Analytic Geometry, Sequences | — | Fixed RIAH mathematics course. |
 | **SCI 3101** | Biology | Life Science | 3 | SCI 2102 | Environmental Science | Environmental Science | Cell Biology, Genetics, Evolution, Ecology, Organisms, Biological Systems, Molecular Biology, Biological Diversity | — | Biology begins the biological-science portion of the sequence. |
 | **HIS 3101** | American History | American History | 3 | GOV 2101 | Government | Government / Civics | United States History, Colonial America, American Revolution, Founding of the United States, Constitutional History, Civil War and Reconstruction, Industrialization, Modern U.S. History, Civil Rights History | State modules where applicable | American History remains separate from State History. |
-| **FIN 3101 🔴🟠** | Financial Literacy | Financial Literacy | 3 | None | None | None | Financial Decision-Making, Banking Fundamentals, Credit Fundamentals, Debt Literacy, Saving, Investing Fundamentals, Insurance Literacy, Consumer Financial Literacy | 🔴 Ohio, 🟠 Arkansas | Applicable state financial-literacy content is mapped here. |
+| **FIN 3101 🔴🟠🔷🔺** | Financial Literacy | Financial Literacy | 3 | None | None | None | Financial Decision-Making, Banking Fundamentals, Credit Fundamentals, Debt Literacy, Saving, Investing Fundamentals, Insurance Literacy, Consumer Financial Literacy | 🔴 Ohio, 🟠 Arkansas, 🔷 Florida, 🔺 Texas | Applicable state financial-literacy content is mapped here. |
 | **LAN 3101** | World Language I | World Language | 3 | None | None | None | Spanish, French, German, or Italian Level I; Vocabulary, Grammar, Reading, Writing, Listening, Speaking, Culture | — | Student selects one language. |
 |  | **SEMESTER TOTAL** |  | **15** |  |  |  |  |  |  |
 
@@ -394,9 +398,9 @@ flowchart TD
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **MAT 3102** | Calculus | Mathematics | 3 | MAT 3101 | Precalculus | Mathematics | Limits, Continuity, Derivatives, Applications of Derivatives, Integrals, Applications of Integrals, Fundamental Theorem of Calculus | — | Fixed RIAH mathematics course. |
 | **SCI 3102** | Chemistry | Physical Science | 3 | SCI 3101 | Biology | Life Science | Matter, Atomic Structure, Periodic Relationships, Chemical Bonding, Chemical Reactions, Stoichiometry, Solutions, Acids and Bases, Chemical Energy | — | Chemistry follows Biology. |
-| **HIS 3102 🟡🟠** | State History | State History | 3 | HIS 3101 | American History | American History | State History, State Founding and Development, State Constitution, State Government History, State Geography, State Economy, State Cultural History, State Civil Rights History, Native American/Tribal/Indigenous History, Major State Events, State Historical Figures | 🟡 Oklahoma, 🟠 Arkansas | Every student studies the history of their own state; identified state-specific components are mapped here. |
+| **HIS 3102 🟡🟠🔷** | State History | State History | 3 | HIS 3101 | American History | American History | State History, State Founding and Development, State Constitution, State Government History, State Geography, State Economy, State Cultural History, State Civil Rights History, Native American/Tribal/Indigenous History, Major State Events, State Historical Figures | 🟡 Oklahoma, 🟠 Arkansas, 🔷 Florida | Every student studies the history of their own state; identified state-specific components are mapped here. |
 | **LAN 3102** | World Language II | World Language | 3 | LAN 3101 | World Language I | World Language | Continuation of selected language; Intermediate Vocabulary, Grammar, Reading, Writing, Listening, Speaking, Culture | — | Student continues the same language. |
-| **PFI 3101 🔴🟠** | Personal Finance | Personal Finance | 3 | FIN 3101 | Financial Literacy | Financial Literacy | Personal Budgeting, Income, Banking, Credit Management, Debt Management, Saving, Investing, Insurance, Taxes, Housing, Consumer Decision-Making, Financial Responsibility | 🔴 Ohio, 🟠 Arkansas | Applicable state personal-finance components are mapped here. |
+| **PFI 3101 🔴🟠🔷🔺** | Personal Finance | Personal Finance | 3 | FIN 3101 | Financial Literacy | Financial Literacy | Personal Budgeting, Income, Banking, Credit Management, Debt Management, Saving, Investing, Insurance, Taxes, Housing, Consumer Decision-Making, Financial Responsibility | 🔴 Ohio, 🟠 Arkansas, 🔷 Florida, 🔺 Texas | Applicable state personal-finance components are mapped here. |
 |  | **SEMESTER TOTAL** |  | **15** |  |  |  |  |  |  |
 
 ### Grade 11 Total: **30 Credit Hours**
@@ -432,7 +436,7 @@ flowchart TD
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **MAT 4101** | Statistics | Mathematics | 3 | MAT 2101 | Algebra II | Mathematics | Descriptive Statistics, Probability, Distributions, Sampling, Data Analysis, Correlation, Regression, Statistical Inference | — | Fixed RIAH mathematics course. |
 | **SCI 4101** | Anatomy | Life Science | 3 | SCI 3101 | Biology | Life Science | Anatomical Terminology, Cells and Tissues, Skeletal System, Muscular System, Nervous System, Cardiovascular Structures, Respiratory Structures, Digestive Structures, Endocrine Structures, Human Body Organization | — | Anatomy follows Biology and Chemistry in the overall sequence. |
-| **ECO 4101** | Economics | Economics | 3 | HIS 3102 | State History | State History | Economic Systems, Microeconomics, Macroeconomics, Supply and Demand, Markets, Labor, Banking, Fiscal Policy, Monetary Policy, International Economics, Consumer Economics | — | Economics follows the core history/government sequence. |
+| **ECO 4101 🔷** | Economics | Economics | 3 | HIS 3102 | State History | State History | Economic Systems, Microeconomics, Macroeconomics, Supply and Demand, Markets, Labor, Banking, Fiscal Policy, Monetary Policy, International Economics, Consumer Economics | 🔷 Florida | Florida economics content is mapped here; Economics follows the core history/government sequence. |
 | **CSC 4101 🟠** | Computer Science | Computer Science | 3 | TEC 1101 | Digital Literacy | Technology | Computer Science Principles, Algorithms, Programming Fundamentals, Data, Computing Systems, Networks, Cybersecurity Fundamentals, Responsible Computing | 🟠 Arkansas | Applicable Arkansas computer-science content is mapped here. |
 | **ETH 4101** | Ethnic Studies | Social Studies | 3 | HIS 3101 | American History | American History | Ethnic Studies, Race and Ethnicity in the United States, Cultural History, Cultural Contributions, Historical Experiences of Diverse Communities, Civil Rights and Social Change, Comparative Cultural Studies | — | Fixed RIAH social-studies course. |
 |  | **SEMESTER TOTAL** |  | **15** |  |  |  |  |  |  |
@@ -459,6 +463,11 @@ flowchart TD
 | **🟠 Arkansas** | **Course credit incorporating Personal and Family Finance standards.** RIAH maps this through **FIN 3101 — Financial Literacy** and **PFI 3101 — Personal Finance**. |
 | **🔻 Arizona** | **Arizona Civics Test — 70/100 minimum for students graduating in 2026 and later.** |
 | **🔴 Ohio** | **Financial Literacy — ½ credit for students entering Grade 9 on or after July 1, 2022.** RIAH maps this through **FIN 3101 — Financial Literacy**. |
+| **🔷 Florida** | **Government/Civics and Florida history instruction.** RIAH maps these components through **GOV 2101 — Government** and **HIS 3102 — State History**. |
+| **🔷 Florida** | **Personal financial literacy and economics.** RIAH maps these components through **FIN 3101 — Financial Literacy**, **PFI 3101 — Personal Finance**, and **ECO 4101 — Economics**. |
+| **🔷 Florida** | **Health, injury-prevention, safety, and applicable fire-prevention instruction.** RIAH maps these components through **HLT 1101 (Fire Prevention) — Health**. |
+| **🔺 Texas** | **Personal Financial Literacy — ½ credit for students entering Grade 9 in the 2026–2027 school year or later under the Texas Foundation High School Program social-studies update.** RIAH maps this through **FIN 3101 — Financial Literacy** and **PFI 3101 — Personal Finance**. |
+| **🔺 Texas** | **Government/Civics.** RIAH maps the applicable Texas government/civics component through **GOV 2101 — Government**. |
 | **🔴 Ohio** | **Ohio diploma-readiness requirements/seals where applicable to the student's governing graduation framework.** Ohio's current long-term framework requires two diploma seals, including at least one state-defined seal. |
 | **Other RIAH Virtual States** | Additional state-specific examinations, demonstrations, service requirements, documentation, or other non-course graduation controls will be added to this table as each state's curriculum/graduation audit is completed. |
 
@@ -619,6 +628,12 @@ flowchart TD
 | 🔴 | Ohio | GOV 2101 | Applicable Ohio government/civics content is mapped into Government. |
 | 🔴 | Ohio | ART 2101 | Applicable Ohio fine-arts content is mapped into Fine Arts. |
 | 🔴 | Ohio | FIN 3101 / PFI 3101 | Applicable Ohio financial-literacy/personal-finance content is covered through the financial sequence. |
+| 🔷 | Florida | HLT 1101 (Fire Prevention)* | Applicable Florida health, injury-prevention, safety, and fire-prevention content is mapped into Health. |
+| 🔷 | Florida | GOV 2101 | Florida government/civics content is mapped into Government. |
+| 🔷 | Florida | HIS 3102 | Florida state-history content is mapped into State History. |
+| 🔷 | Florida | FIN 3101 / PFI 3101 | Florida personal-financial-literacy content is mapped through the financial sequence. |
+| 🔷 | Florida | ECO 4101 | Florida economics content is mapped into Economics. |
+| 🔺 | Texas | FIN 3101 / PFI 3101 | Texas personal-financial-literacy content for students entering Grade 9 in 2026–2027 or later is mapped through the financial sequence. |
 | 🟠 | Arkansas | HIS 3102 | Arkansas History content is mapped into State History. |
 | 🟠 | Arkansas | CSC 4101 | Applicable Arkansas computer-science content is mapped into Computer Science. |
 | 🟠 | Arkansas | FIN 3101 / PFI 3101 | Applicable Arkansas financial instruction is mapped into the financial sequence. |
@@ -842,7 +857,7 @@ flowchart TD
 | **ENG 2102** | English IV / World Literature | English Language Arts | 3 | ENG 2101 | English III / American Literature | English Language Arts | World Literature, Global Literary Traditions, Fiction, Nonfiction, Poetry, Drama, Comparative Literature, Literary Analysis, Advanced Writing, Research Writing, Written Communication | — | Fixed RIAH world-literature course. |
 | **MAT 2102** | Trigonometry | Mathematics | 3 | MAT 2101 | Algebra II | Mathematics | Trigonometric Functions, Angles, Right-Triangle Trigonometry, Unit Circle, Graphs, Identities, Equations, Applications | — | Fixed RIAH mathematics course. |
 | **SCI 2102** | Environmental Science | Environmental Science | 3 | SCI 2101 | Earth Science | Earth Science | Ecosystems, Natural Resources, Biodiversity, Pollution, Climate, Sustainability, Human Environmental Impact, Conservation | — | Fourth science course. |
-| **GOV 2101 🔴🟡🔺🔻** | Government | Government / Civics | 3 | HIS 2101 | Holocaust & Genocide Studies | History / Social Studies | United States Government, American Government, Civics, Citizenship, Constitutional Government, Federal Government, State Government, Local Government, Founding Principles, Rights and Responsibilities | 🔴 Ohio, 🟡 Oklahoma, 🔺 Texas, 🔻 Arizona | Applicable government and civics components are mapped here. |
+| **GOV 2101 🔴🟡🔷🔺🔻** | Government | Government / Civics | 3 | HIS 2101 | Holocaust & Genocide Studies | History / Social Studies | United States Government, American Government, Civics, Citizenship, Constitutional Government, Federal Government, State Government, Local Government, Founding Principles, Rights and Responsibilities | 🔴 Ohio, 🟡 Oklahoma, 🔷 Florida, 🔺 Texas, 🔻 Arizona | Applicable government and civics components are mapped here. |
 | **ART 2101 🔴🟤** | Fine Arts | Fine Arts | 3 | None | None | None | Visual Art, Music, Theatre, Fine Arts Appreciation, Artistic Expression, Arts History | 🔴 Ohio, 🟤 Minnesota | Applicable state fine-arts content is covered here. |
 |  | **SEMESTER TOTAL** |  | **15** |  |  |  |  |  |  |
 
@@ -872,7 +887,7 @@ flowchart TD
 | **MAT 3101** | Precalculus | Mathematics | 3 | MAT 2102 | Trigonometry | Mathematics | Functions, Polynomial Functions, Rational Functions, Exponential Functions, Logarithmic Functions, Advanced Trigonometry, Analytic Geometry, Sequences | — | Fixed RIAH mathematics course. |
 | **SCI 3101** | Biology | Life Science | 3 | SCI 2102 | Environmental Science | Environmental Science | Cell Biology, Genetics, Evolution, Ecology, Organisms, Biological Systems, Molecular Biology, Biological Diversity | — | Biology begins the biological-science portion of the sequence. |
 | **HIS 3101** | American History | American History | 3 | GOV 2101 | Government | Government / Civics | United States History, Colonial America, American Revolution, Founding of the United States, Constitutional History, Civil War and Reconstruction, Industrialization, Modern U.S. History, Civil Rights History | State modules where applicable | American History remains separate from State History. |
-| **FIN 3101 🔴🟠** | Financial Literacy | Financial Literacy | 3 | None | None | None | Financial Decision-Making, Banking Fundamentals, Credit Fundamentals, Debt Literacy, Saving, Investing Fundamentals, Insurance Literacy, Consumer Financial Literacy | 🔴 Ohio, 🟠 Arkansas | Applicable state financial-literacy content is mapped here. |
+| **FIN 3101 🔴🟠🔷🔺** | Financial Literacy | Financial Literacy | 3 | None | None | None | Financial Decision-Making, Banking Fundamentals, Credit Fundamentals, Debt Literacy, Saving, Investing Fundamentals, Insurance Literacy, Consumer Financial Literacy | 🔴 Ohio, 🟠 Arkansas, 🔷 Florida, 🔺 Texas | Applicable state financial-literacy content is mapped here. |
 | **LAN 3101** | World Language I | World Language | 3 | None | None | None | Spanish, French, German, or Italian Level I; Vocabulary, Grammar, Reading, Writing, Listening, Speaking, Culture | — | Student selects one language. |
 |  | **SEMESTER TOTAL** |  | **15** |  |  |  |  |  |  |
 
@@ -882,9 +897,9 @@ flowchart TD
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **MAT 3102** | Calculus | Mathematics | 3 | MAT 3101 | Precalculus | Mathematics | Limits, Continuity, Derivatives, Applications of Derivatives, Integrals, Applications of Integrals, Fundamental Theorem of Calculus | — | Fixed RIAH mathematics course. |
 | **SCI 3102** | Chemistry | Physical Science | 3 | SCI 3101 | Biology | Life Science | Matter, Atomic Structure, Periodic Relationships, Chemical Bonding, Chemical Reactions, Stoichiometry, Solutions, Acids and Bases, Chemical Energy | — | Chemistry follows Biology. |
-| **HIS 3102 🟡🟠** | State History | State History | 3 | HIS 3101 | American History | American History | State History, State Founding and Development, State Constitution, State Government History, State Geography, State Economy, State Cultural History, State Civil Rights History, Native American/Tribal/Indigenous History, Major State Events, State Historical Figures | 🟡 Oklahoma, 🟠 Arkansas | Every student studies the history of their own state; identified state-specific components are mapped here. |
+| **HIS 3102 🟡🟠🔷** | State History | State History | 3 | HIS 3101 | American History | American History | State History, State Founding and Development, State Constitution, State Government History, State Geography, State Economy, State Cultural History, State Civil Rights History, Native American/Tribal/Indigenous History, Major State Events, State Historical Figures | 🟡 Oklahoma, 🟠 Arkansas, 🔷 Florida | Every student studies the history of their own state; identified state-specific components are mapped here. |
 | **LAN 3102** | World Language II | World Language | 3 | LAN 3101 | World Language I | World Language | Continuation of selected language; Intermediate Vocabulary, Grammar, Reading, Writing, Listening, Speaking, Culture | — | Student continues the same language. |
-| **PFI 3101 🔴🟠** | Personal Finance | Personal Finance | 3 | FIN 3101 | Financial Literacy | Financial Literacy | Personal Budgeting, Income, Banking, Credit Management, Debt Management, Saving, Investing, Insurance, Taxes, Housing, Consumer Decision-Making, Financial Responsibility | 🔴 Ohio, 🟠 Arkansas | Applicable state personal-finance components are mapped here. |
+| **PFI 3101 🔴🟠🔷🔺** | Personal Finance | Personal Finance | 3 | FIN 3101 | Financial Literacy | Financial Literacy | Personal Budgeting, Income, Banking, Credit Management, Debt Management, Saving, Investing, Insurance, Taxes, Housing, Consumer Decision-Making, Financial Responsibility | 🔴 Ohio, 🟠 Arkansas, 🔷 Florida, 🔺 Texas | Applicable state personal-finance components are mapped here. |
 |  | **SEMESTER TOTAL** |  | **15** |  |  |  |  |  |  |
 
 ### Grade 11 Total: **30 Credit Hours**
@@ -920,7 +935,7 @@ flowchart TD
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **MAT 4101** | Statistics | Mathematics | 3 | MAT 2101 | Algebra II | Mathematics | Descriptive Statistics, Probability, Distributions, Sampling, Data Analysis, Correlation, Regression, Statistical Inference | — | Fixed RIAH mathematics course. |
 | **SCI 4101** | Anatomy | Life Science | 3 | SCI 3101 | Biology | Life Science | Anatomical Terminology, Cells and Tissues, Skeletal System, Muscular System, Nervous System, Cardiovascular Structures, Respiratory Structures, Digestive Structures, Endocrine Structures, Human Body Organization | — | Anatomy follows Biology and Chemistry in the overall sequence. |
-| **ECO 4101** | Economics | Economics | 3 | HIS 3102 | State History | State History | Economic Systems, Microeconomics, Macroeconomics, Supply and Demand, Markets, Labor, Banking, Fiscal Policy, Monetary Policy, International Economics, Consumer Economics | — | Economics follows the core history/government sequence. |
+| **ECO 4101 🔷** | Economics | Economics | 3 | HIS 3102 | State History | State History | Economic Systems, Microeconomics, Macroeconomics, Supply and Demand, Markets, Labor, Banking, Fiscal Policy, Monetary Policy, International Economics, Consumer Economics | 🔷 Florida | Florida economics content is mapped here; Economics follows the core history/government sequence. |
 | **CSC 4101 🟠** | Computer Science | Computer Science | 3 | TEC 1101 | Digital Literacy | Technology | Computer Science Principles, Algorithms, Programming Fundamentals, Data, Computing Systems, Networks, Cybersecurity Fundamentals, Responsible Computing | 🟠 Arkansas | Applicable Arkansas computer-science content is mapped here. |
 | **ETH 4101 🟢** | Ethnic Studies | Social Studies | 3 | HIS 3101 | American History | American History | Ethnic Studies, Race and Ethnicity in the United States, Cultural History, Cultural Contributions, Historical Experiences of Diverse Communities, Civil Rights and Social Change, Comparative Cultural Studies | 🟢 California | Applicable California ethnic-studies content is mapped here. |
 |  | **SEMESTER TOTAL** |  | **15** |  |  |  |  |  |  |
