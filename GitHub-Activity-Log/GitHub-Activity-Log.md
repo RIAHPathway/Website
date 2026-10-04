@@ -1,21 +1,3 @@
-**Contributor; Mariah Dominique Rucker**
-
-There is currently no team. I am building everything myself until I have hired the beta team. I am starting the hiring process this month, **October 2026**, for the CTO, CISO, experiential professionals, PhD-qualified faculty, and adjunct faculty for each school and major, with hiring continuing across the entire ecosystem as it scales.
-
-Beta team members will be hired with **equity participation and compensation during the beta cohort**, which launches in **Spring 2027**.
-
-The website will launch in **October 2026** as I continue to build, develop, revise, and finalize aspects of the RIAH Pathway ecosystem.
-
-Learn more about me on GitHub and LinkedIn, or connect with me through social media and Linktree.
-
-- **GitHub:** https://github.com/mariahdominiquerucker
-- **LinkedIn:** https://linkedin.com/in/mariahrucker
-- **Facebook:** https://facebook.com/heymariahrucker
-- **Instagram:** https://instagram.com/heymariahrucker
-- **Linktree:** https://linktr.ee/mariahrucker
-
----
-
 | Time (EDT) | Repository | Change | Contributor | Source |
 |---|---|---|---|---|
 | 2026-09-30 16:08:23 | RIAHPathway/Website | Create repository | Unknown | [Repository](https://github.com/RIAHPathway/Website) |
@@ -539,5 +521,8 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 | 2026-10-03 23:18:56 | RIAHPathway/Website | Add Curriculum-Structure/GED/GEDStructure.md | mariahdominiquerucker | [be95c06](https://github.com/RIAHPathway/Website/commit/be95c068b2b21132673e51f231922a3c8491a6e2) |
 | 2026-10-03 23:19:01 | RIAHPathway/Website | Delete Curriculum-Structure/School-of-Foundations/GEDStructure.md | mariahdominiquerucker | [25b0c11](https://github.com/RIAHPathway/Website/commit/25b0c114d4c1541efc3a78e42948b57d73644e06) |
 | 2026-10-03 23:19:03 | RIAHPathway/Website | Delete Curriculum-Structure/School-of-Foundations/.gitkeep | mariahdominiquerucker | [d5946de](https://github.com/RIAHPathway/Website/commit/d5946de8878022119da57d459902693fa61b83f8) |
-
-RIAH Pathway
+| 2026-10-03 23:24:08 | RIAHPathway/Website | Update Curriculum-Structure/AllSchoolsCombinedGeneralStructure.md | mariahdominiquerucker | [8ced585](https://github.com/RIAHPathway/Website/commit/8ced5856995e973a572d7c44c1eb2b84d0cdfc82) |
+| 2026-10-03 23:24:09 | RIAHPathway/Website | Update Curriculum-Structure/High-School/High-School.md | mariahdominiquerucker | [d57db67](https://github.com/RIAHPathway/Website/commit/d57db676e827e723ebfe7d5ac268be991de45ea2) |
+| 2026-10-03 23:25:38 | RIAHPathway/Website | Update Experiential/Experiential-Structure/Experiential-Structure.md | mariahdominiquerucker | [38e3bc0](https://github.com/RIAHPathway/Website/commit/38e3bc08c03a1acf1d6e5559d568d8438212aadb) |
+| 2026-10-03 23:34:43 | RIAHPathway/Website | Append “RIAH Pathway” to contributor-benefit, curriculum, experiential, routing, license, legacy-bot, README, pricing and website-wireframe Markdown documents | mariahdominiquerucker | [3427305](https://github.com/RIAHPathway/Website/commit/3427305e6b3d17b0e73e0bdc315e65db07600b6b) |
+| 2026-10-03 23:38:49 | RIAHPathway/Website | Update Legacy-Public-Footprint-Ecosystem-Comparison-RIAH-Pathway-Bot/Bot-Run.md | mariahdominiquerucker | [9785ce7](https://github.com/RIAHPathway/Website/commit/9785ce70c64524b9eef45defd44eab919f7dcd56) |
