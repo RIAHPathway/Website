@@ -203,7 +203,7 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 | **MAT 1102** | Geometry | **✓** |
 | **SCI 1102** | Astronomy | **✓** |
 | **HIS 1101** | World History | **✓** |
-| **HLT 1101** | Health | **✓** |
+| **HLT 1101 (Fire Prevention)*** | Health | **✓** |
 | **ENG 2101** | English III / American Literature | **✓** |
 | **MAT 2101** | Algebra II | **✓** |
 | **SCI 2101** | Earth Science | **✓** |
@@ -316,7 +316,9 @@ flowchart TD
 | **MAT 1102** | Geometry | Mathematics | 3 | MAT 1101 | Algebra I | Mathematics | Geometric Reasoning, Lines, Angles, Triangles, Polygons, Circles, Congruence, Similarity, Coordinate Geometry, Area, Surface Area, Volume | — | Fixed RIAH mathematics course. |
 | **SCI 1102** | Astronomy | Earth / Space Science | 3 | SCI 1101 | Geology | Earth Science | Solar System, Stars, Galaxies, Universe, Planetary Science, Space Observation, Earth-Space Relationships, Astronomical Measurement | — | Second science course. |
 | **HIS 1101** | World History | History | 3 | GEO 1101 | World Geography | Social Studies / Geography | World History, World Civilizations, Global Historical Development, Human Rights | State modules where applicable | Applicable state historical content is mapped here. |
-| **HLT 1101 🔴🟣🟤🟦** | Health | Health | 3 | None | None | None | Health, Nutrition, Physical Wellness, Mental and Emotional Health, Disease Prevention, Substance-Abuse Prevention, Personal Health, Community Health, Safety, First Aid, CPR, AED | 🔴 Ohio, 🟣 Wisconsin, 🟤 Minnesota, 🟦 Connecticut | Applicable state health and safety content is mapped here. |
+| **HLT 1101 (Fire Prevention)* 🔴🟣🟤🟦** | Health | Health | 3 | None | None | None | Health, Nutrition, Physical Wellness, Mental and Emotional Health, Disease Prevention, Substance-Abuse Prevention, Personal Health, Community Health, Safety, First Aid, CPR, AED | 🔴 Ohio, 🟣 Wisconsin, 🟤 Minnesota, 🟦 Connecticut | Applicable state health and safety content is mapped here. |
+
+* **Fire Prevention is specifically required for Ohio students under Ohio Revised Code 3301.0732(E)(8).**
 |  | **SEMESTER TOTAL** |  | **15** |  |  |  |  |  |  |
 
 ### Grade 9 Total: **30 Credit Hours**
@@ -616,7 +618,7 @@ flowchart TD
 
 | State Emoji | State | RIAH Course | Component Comments |
 | --- | --- | --- | --- |
-| 🔴 | Ohio | HLT 1101 | Applicable Ohio health instruction is mapped into Health. |
+| 🔴 | Ohio | HLT 1101 (Fire Prevention)* | Applicable Ohio health instruction is mapped into Health. |
 | 🔴 | Ohio | PED 2101 | Ohio physical-education content is mapped into Physical Education. |
 | 🔴 | Ohio | GOV 2101 | Applicable Ohio government/civics content is mapped into Government. |
 | 🔴 | Ohio | ART 2101 | Applicable Ohio fine-arts content is mapped into Fine Arts. |
@@ -629,13 +631,13 @@ flowchart TD
 | 🟢 | California | ETH 4101 | Applicable California ethnic-studies content is mapped into Ethnic Studies. |
 | 🟢 | California | FIN 3101 / PFI 3101 | Applicable California financial content is mapped into the financial sequence. |
 | 🔵 | Illinois | HIS 2101 | Applicable Illinois Holocaust/genocide content is mapped into Holocaust & Genocide Studies. |
-| 🟣 | Wisconsin | HLT 1101 | Applicable Wisconsin health instruction is mapped into Health. |
-| 🟤 | Minnesota | HLT 1101 | Applicable Minnesota health instruction is mapped into Health. |
+| 🟣 | Wisconsin | HLT 1101 (Fire Prevention)* | Applicable Wisconsin health instruction is mapped into Health. |
+| 🟤 | Minnesota | HLT 1101 (Fire Prevention)* | Applicable Minnesota health instruction is mapped into Health. |
 | 🟤 | Minnesota | PED 2101 | Applicable Minnesota physical-education content is mapped into Physical Education. |
 | 🟤 | Minnesota | ART 2101 | Applicable Minnesota arts content is mapped into Fine Arts. |
 | 🔺 | Texas | GOV 2101 | Applicable Texas government/civics content is mapped into Government. |
 | 🔻 | Arizona | GOV 2101 | Applicable Arizona government/civics content is mapped into Government. |
-| 🟦 | Connecticut | HLT 1101 | Applicable Connecticut health/safety content is mapped into Health. |
+| 🟦 | Connecticut | HLT 1101 (Fire Prevention)* | Applicable Connecticut health/safety content is mapped into Health. |
 
 ---
 
@@ -806,7 +808,9 @@ flowchart TD
 | **MAT 1102** | Geometry | Mathematics | 3 | MAT 1101 | Algebra I | Mathematics | Geometric Reasoning, Lines, Angles, Triangles, Polygons, Circles, Congruence, Similarity, Coordinate Geometry, Area, Surface Area, Volume | — | Fixed RIAH mathematics course. |
 | **SCI 1102** | Astronomy | Earth / Space Science | 3 | SCI 1101 | Geology | Earth Science | Solar System, Stars, Galaxies, Universe, Planetary Science, Space Observation, Earth-Space Relationships, Astronomical Measurement | — | Second science course. |
 | **HIS 1101** | World History | History | 3 | GEO 1101 | World Geography | Social Studies / Geography | World History, World Civilizations, Global Historical Development, Human Rights | State modules where applicable | Applicable state historical content is mapped here. |
-| **HLT 1101 🔴🟣🟤🟦** | Health | Health | 3 | None | None | None | Health, Nutrition, Physical Wellness, Mental and Emotional Health, Disease Prevention, Substance-Abuse Prevention, Personal Health, Community Health, Safety, First Aid, CPR, AED | 🔴 Ohio, 🟣 Wisconsin, 🟤 Minnesota, 🟦 Connecticut | Applicable state health and safety content is mapped here. |
+| **HLT 1101 (Fire Prevention)* 🔴🟣🟤🟦** | Health | Health | 3 | None | None | None | Health, Nutrition, Physical Wellness, Mental and Emotional Health, Disease Prevention, Substance-Abuse Prevention, Personal Health, Community Health, Safety, First Aid, CPR, AED | 🔴 Ohio, 🟣 Wisconsin, 🟤 Minnesota, 🟦 Connecticut | Applicable state health and safety content is mapped here. |
+
+* **Fire Prevention is specifically required for Ohio students under Ohio Revised Code 3301.0732(E)(8).**
 |  | **SEMESTER TOTAL** |  | **15** |  |  |  |  |  |  |
 
 ### Grade 9 Total: **30 Credit Hours**
@@ -1106,7 +1110,7 @@ flowchart TD
 
 | State Emoji | State | RIAH Course | Component Comments |
 | --- | --- | --- | --- |
-| 🔴 | Ohio | HLT 1101 | Applicable Ohio health instruction is mapped into Health. |
+| 🔴 | Ohio | HLT 1101 (Fire Prevention)* | Applicable Ohio health instruction is mapped into Health. |
 | 🔴 | Ohio | PED 2101 | Ohio physical-education content is mapped into Physical Education. |
 | 🔴 | Ohio | GOV 2101 | Applicable Ohio government/civics content is mapped into Government. |
 | 🔴 | Ohio | ART 2101 | Applicable Ohio fine-arts content is mapped into Fine Arts. |
@@ -1119,13 +1123,13 @@ flowchart TD
 | 🟢 | California | ETH 4101 | Applicable California ethnic-studies content is mapped into Ethnic Studies. |
 | 🟢 | California | FIN 3101 / PFI 3101 | Applicable California financial content is mapped into the financial sequence. |
 | 🔵 | Illinois | HIS 2101 | Applicable Illinois Holocaust/genocide content is mapped into Holocaust & Genocide Studies. |
-| 🟣 | Wisconsin | HLT 1101 | Applicable Wisconsin health instruction is mapped into Health. |
-| 🟤 | Minnesota | HLT 1101 | Applicable Minnesota health instruction is mapped into Health. |
+| 🟣 | Wisconsin | HLT 1101 (Fire Prevention)* | Applicable Wisconsin health instruction is mapped into Health. |
+| 🟤 | Minnesota | HLT 1101 (Fire Prevention)* | Applicable Minnesota health instruction is mapped into Health. |
 | 🟤 | Minnesota | PED 2101 | Applicable Minnesota physical-education content is mapped into Physical Education. |
 | 🟤 | Minnesota | ART 2101 | Applicable Minnesota arts content is mapped into Fine Arts. |
 | 🔺 | Texas | GOV 2101 | Applicable Texas government/civics content is mapped into Government. |
 | 🔻 | Arizona | GOV 2101 | Applicable Arizona government/civics content is mapped into Government. |
-| 🟦 | Connecticut | HLT 1101 | Applicable Connecticut health/safety content is mapped into Health. |
+| 🟦 | Connecticut | HLT 1101 (Fire Prevention)* | Applicable Connecticut health/safety content is mapped into Health. |
 
 ---
 
