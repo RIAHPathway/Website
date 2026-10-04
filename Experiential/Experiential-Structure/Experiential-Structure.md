@@ -211,16 +211,41 @@ The standard Experiential Collection follows the applicable product and curricul
 
 ## XII. Experiential Pricing
 
-| Level | Standard Experiential Tuition |
-|---|---:|
-| Apprentice | **$2,500** |
-| Intern | **$5,000** |
-| Associate | **$10,000** |
-| Senior Associate | **$10,000** |
-| Manager | **$10,000** |
-| Executive | **$10,000** |
+Experiential participants have two tuition payment options:
 
-Current pricing remains controlled by the RIAH Pathway Master Pricing Data Sheet and Pricing Engine.
+1. **Upfront** — Pay the total Experiential tuition before the applicable payment deadline.
+2. **Monthly** — Divide the total Experiential tuition across the standard duration of the selected Experiential level.
+
+| Level | Duration | Total Experiential Tuition | Upfront Option | Monthly Option |
+|---|---:|---:|---:|---:|
+| Apprentice | **1 Month** | **$2,500** | **$2,500** | **$2,500 for 1 month** |
+| Intern | **3 Months** | **$5,000** | **$5,000** | **$1,666.67 per month for 3 months*** |
+| Associate | **12 Months** | **$10,000** | **$10,000** | **$833.33 per month for 12 months*** |
+| Senior Associate | **12 Months** | **$10,000** | **$10,000** | **$833.33 per month for 12 months*** |
+| Manager | **12 Months** | **$10,000** | **$10,000** | **$833.33 per month for 12 months*** |
+| Executive | **12 Months** | **$10,000** | **$10,000** | **$833.33 per month for 12 months*** |
+
+*Monthly amounts are the total tuition divided by the Experiential duration. Where division creates a rounding difference, the final payment is adjusted so total payments equal the stated Experiential tuition.
+
+### Experiential Education Collection Deposit
+
+Each Experiential level also has its applicable deposit associated with the Experiential education collection and materials.
+
+The deposit supports the applicable collection components established for the participant's level, which may include:
+
+- Experiential Textbook
+- Experiential Workbook
+- Experiential Journal
+- Experiential Planner
+- Review materials where applicable
+- Study materials where applicable
+- Flashcards where applicable
+- LMS learning materials
+- Other applicable Experiential education collection components
+
+The applicable deposit amount is controlled by the RIAH Pathway Master Pricing Data Sheet and Pricing Engine and is separate from the Experiential tuition amounts shown above unless the controlling pricing documentation states otherwise.
+
+Current Experiential tuition, deposits, and pricing remain controlled by the RIAH Pathway Master Pricing Data Sheet and Pricing Engine.
 
 ## XIII. Experiential and Education Integration
 
