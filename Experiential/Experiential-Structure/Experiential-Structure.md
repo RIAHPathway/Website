@@ -260,7 +260,28 @@ Experiential may operate as:
 
 Academic curriculum and Experiential work remain separately documented where applicable.
 
-## XIV. School Alignment
+## XIV. Experiential College Credit Structure
+
+RIAH Pathway assigns the following experiential credit-hour values to the Experiential levels for applicable college-enrollment, cost-of-attendance, and coursework-agreement purposes:
+
+| Experiential Level | Experiential Credit Hours |
+|---|---:|
+| **Apprentice** | **3 Credit Hours** |
+| **Intern** | **3 Credit Hours** |
+| **Associate** | **6 Credit Hours** |
+| **Senior Associate** | **6 Credit Hours** |
+| **Manager** | **6 Credit Hours** |
+| **Executive** | **6 Credit Hours** |
+
+For students completing RIAH Pathway Experiential through an applicable **cost-of-attendance arrangement or coursework agreement**, including applicable arrangements after RIAH Pathway obtains accreditation, the documented Experiential credit hours may be submitted to or recognized by the student's college or university for college credit.
+
+Subject to the receiving college or university's policies, academic requirements, transfer or experiential-learning rules, and approval, the Experiential credit hours may be applied toward an **internship requirement, cooperative education or co-op requirement, experiential-learning requirement, or elective course credit**.
+
+RIAH Pathway documents the applicable Experiential level, duration, supervised work, learning objectives, assignments, deliverables, performance assessments, completion, and assigned Experiential credit hours to support institutional review.
+
+The receiving college or university retains authority over whether and how RIAH Pathway Experiential credit is accepted, transferred, converted, or applied to the student's academic program. RIAH Pathway does not guarantee acceptance by another institution unless acceptance is established through an applicable written articulation, coursework, cost-of-attendance, transfer, or institutional agreement.
+
+## XV. School Alignment
 
 Experiential opportunities may align to:
 
@@ -273,7 +294,7 @@ Experiential opportunities may align to:
 | School of Foundations | Applicable age-appropriate experiential and capstone activity where authorized by the student's program |
 | Experiential School | Apprentice, Intern, Associate, Senior Associate, Manager, and Executive pathways |
 
-## XV. Non-JD Law Experiential Structure
+## XVI. Non-JD Law Experiential Structure
 
 RIAH's current Non-JD structure contains seven state pathways.
 
@@ -289,7 +310,7 @@ RIAH's current Non-JD structure contains seven state pathways.
 
 The applicable Non-JD state rules control qualifying legal study, employment, supervision, law-office study, and bar-eligibility requirements. RIAH Experiential does not replace a state-mandated legal apprenticeship, law-reader, law-clerk, law-office-study, employment, or supervision requirement.
 
-## XVI. Law Experiential Supervision
+## XVII. Law Experiential Supervision
 
 Law Experiential may use approved:
 
@@ -305,7 +326,7 @@ Students may perform only work permitted for their status, training, jurisdictio
 
 Students may not represent themselves as licensed attorneys unless independently licensed.
 
-## XVII. Paid and Unpaid Placement Standard
+## XVIII. Paid and Unpaid Placement Standard
 
 ### United States Students
 
@@ -329,7 +350,7 @@ International Online Students residing outside the United States receive:
 
 International Online Experiential is not represented as U.S. employment, U.S. work authorization, or visa sponsorship.
 
-## XVIII. Accessibility and Placement Flexibility
+## XIX. Accessibility and Placement Flexibility
 
 RIAH uses remote, hybrid, and on-site placement options to expand access for students who may experience geographic, transportation, scheduling, disability-access, family, employment, or other participation barriers.
 
@@ -337,7 +358,7 @@ Placement format depends on the participant, work, partner, supervision, applica
 
 International Online Students remain remote under the International Online Experiential policy.
 
-## XIX. Performance and Documentation
+## XX. Performance and Documentation
 
 RIAH Experiential records may include:
 
@@ -369,7 +390,7 @@ RIAH Experiential records may include:
 - Applicable badge or achievement
 - Applicable graduate benefit record
 
-## XX. Completion
+## XXI. Completion
 
 Experiential completion requires:
 
@@ -385,7 +406,7 @@ Experiential completion requires:
 
 Completion of an eligible Experiential pathway may qualify for applicable RIAH Graduate benefits under the controlling Contributor Benefits documentation.
 
-## XXI. Employment and Career Connection
+## XXII. Employment and Career Connection
 
 Experiential is designed to create documented professional experience and exposure to RIAH and employer partners.
 
@@ -403,7 +424,7 @@ Experiential completion does not guarantee:
 
 Employment decisions remain separate from Experiential completion.
 
-## XXII. Experiential Governance
+## XXIII. Experiential Governance
 
 RIAH Pathway maintains the Experiential architecture.
 
@@ -424,7 +445,7 @@ Experiential placements must:
 - Follow applicable partner agreements.
 - Follow RIAH policies and governance.
 
-## XXIII. International Compliance Control
+## XXIV. International Compliance Control
 
 RIAH's International Online Experiential policy is designed for students who remain outside the United States and participate remotely.
 
@@ -432,7 +453,7 @@ Unpaid status alone does not determine whether an activity is legally permissibl
 
 A student physically present in the United States under F-1 or another immigration status is not processed under the outside-the-United-States International Online Experiential rule. Any practical training or work-based activity for such a student requires separate status and work-authorization review.
 
-## XXIV. Controlling Structure
+## XXV. Controlling Structure
 
 The Experiential pathway is:
 
