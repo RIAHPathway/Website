@@ -49,30 +49,28 @@ Requirements:
 9. Participation does not constitute U.S. visa sponsorship.
 10. If a student is physically present in the United States, RIAH must separately review the student's immigration and work-authorization status before any work-based placement.
 
-## V. Real-World Work Standard
+## V. Consequential Real-World Work Standard
 
-All Experiential placements use real professional work or supervised real-world professional projects.
+All RIAH Experiential placements are based on **actual consequential work**. Experiential is not a simulation, artificial exercise, mock workplace, practice company, or disposable academic project.
 
-Experiential may include:
+Consequential work means the participant performs real work for an actual operational purpose within the RIAH Pathway ecosystem or for an approved employer or professional partner. The work is intended to be used, implemented, reviewed, relied upon, moved into development or production, incorporated into operations, or otherwise contribute to a real organizational objective.
 
-- Internal RIAH ecosystem work
-- Employer-partner work
-- Professional-partner work
-- Projects
-- Research
-- Analysis
-- Technology work
-- Business work
-- Accounting and finance work
-- Cybersecurity and technology work
-- Government, homeland security, and compliance-related work where legally permitted
-- Legal experiential work where legally permitted and appropriately supervised
-- Program and project management
-- Operations
-- Products
-- Publishing
-- Marketing and communications
-- Other approved work aligned to the student's pathway
+A participant is therefore working in the applicable field in the same practical context in which that work would be performed for an employer, subject to the participant's level, authorization, supervision, and applicable professional requirements.
+
+Examples include:
+
+- Accounting participants performing work supporting actual month-end close, budgeting, financial analysis, audit support, internal controls, compliance, reconciliations, reporting, or other accounting functions.
+- Technology participants developing, testing, documenting, securing, maintaining, or supporting actual applications, software, systems, infrastructure, databases, integrations, automations, or technology used by RIAH or an approved partner.
+- Cybersecurity participants performing authorized security, governance, risk, compliance, monitoring, documentation, control, or related work on actual organizational systems and processes within their permitted scope.
+- Business participants performing actual operations, finance, management, entrepreneurship, research, analysis, process improvement, marketing, or business-development work.
+- Project and program management participants coordinating actual initiatives, schedules, requirements, deliverables, risks, dependencies, resources, and implementation.
+- Legal participants performing actual legally permitted supervised legal work for real matters, operations, research, documentation, or qualifying placements within the limits of applicable law and professional supervision.
+- Homeland Security participants performing legally permitted governance, risk, compliance, intelligence, physical-security, investigative-support, or related operational work within their authorized scope.
+- Other participants performing actual work aligned to their approved field, major, pathway, placement, and Experiential level.
+
+The fact that a participant is learning does not make the work simulated. Participant work may contain mistakes or require revision, just as work performed by developing professionals may require correction. RIAH uses governance, supervision, management, review, quality control, risk controls, and applicable compliance procedures so work is reviewed before it is approved, relied upon, released, implemented, filed, published, deployed, or moved into production when review is required.
+
+Experiential Supervisors, Managers, Reviewers, faculty, industry professionals, and applicable licensed or authorized professionals are responsible for the level of review appropriate to the work. A participant may not independently approve, release, certify, sign, file, deploy, or perform work requiring authority, licensure, clearance, or credentials the participant does not possess.
 
 Students may not perform work requiring a professional license, legal authorization, security clearance, or other credential unless the work and supervision comply with the applicable requirements.
 
@@ -197,10 +195,19 @@ The standard Experiential Collection may include:
 - Experiential Journal
 - Experiential Planner
 - LMS Learning Courses
+- Weekly Objectives
 - Weekly Assignments
-- Real-World Work Experience
+- Weekly Performance Assessments
+- Real-World Consequential Work Experience
+- Applicable supporting educational resources
 
-The standard Experiential Collection does not include a Study Guide or Review Guide unless separately approved for a specific program.
+The education component is attached directly to the participant's real-world Experiential work. Participants learn the applicable concepts, standards, methods, governance, risk, compliance, and professional practices while applying them to actual work.
+
+Weekly objectives identify what the participant is expected to learn, apply, demonstrate, or improve through the work performed that week. Weekly assignments and performance assessments evaluate the participant based on the content and competencies the participant should have learned through that actual experience.
+
+The educational collection supports the work; it does not replace the work with simulations. RIAH Experiential combines education with actual applied paid or unpaid work, as applicable, under industry-professional supervision.
+
+The standard Experiential Collection follows the applicable product and curriculum structure established for the participant's level. Additional textbooks, workbooks, journals, planners, review materials, study materials, flashcards, learning resources, or other collection components may be included where established for the applicable Experiential curriculum.
 
 ## XII. Experiential Pricing
 
@@ -324,9 +331,12 @@ RIAH Experiential records may include:
 - Delivery format
 - Paid or unpaid status
 - Assignments
-- Projects
-- Deliverables
+- Consequential work responsibilities
+- Operational deliverables
+- Weekly objectives
 - Weekly activity
+- Weekly performance assessments
+- Educational content completed
 - Professional competencies
 - Performance reviews
 - Supervisor feedback
@@ -378,7 +388,9 @@ Experiential placements must:
 
 - Align to the participant's approved pathway or professional-development objective.
 - Use appropriate professional supervision.
-- Define responsibilities and deliverables.
+- Define responsibilities, consequential work, and operational deliverables.
+- Require appropriate review before consequential work is approved, relied upon, released, implemented, filed, published, deployed, or moved into production.
+- Maintain governance, risk, compliance, quality-control, and escalation procedures appropriate to the placement.
 - Protect confidential and restricted information.
 - Follow applicable law and professional requirements.
 - Maintain appropriate records.
@@ -419,4 +431,4 @@ International Online Students residing outside the United States participate rem
 
 Eligible final-year education students receive the RIAH one-month Experiential guarantee subject to application, eligibility, available qualifying work, supervision, and placement procedures.
 
-All Experiential is based on supervised real-world professional work and documented performance.
+All Experiential is based on **consequential real-world professional work**, attached education, weekly objectives, weekly performance assessment, professional supervision, governance, review, and documented performance. RIAH Experiential does not substitute simulations or artificial workplace exercises for the actual work experience.
