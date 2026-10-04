@@ -954,6 +954,24 @@ RIAH Pathway Secondary School contains two distinct secondary pathways:
 
 # 🏅 23. FOUR-YEAR HIGH SCHOOL DIPLOMA ARCHITECTURE
 
+## Religious Private High School and Multi-State Operating Structure
+
+RIAH Pathway High School is structured as a religious private high school offering virtual instruction to eligible students across its intended operating footprint. State authorization, registration, notification, exemption, accreditation, or other private-school compliance requirements are completed on a state-by-state basis. Where an applicable filing or compliance process has not yet been completed, the state is classified internally as **planned / compliance pending** and is not represented as approved, registered, accredited, authorized, or exempt until the applicable requirement has been satisfied.
+
+**Ohio — Planned NCNP Religious School:** RIAH Pathway High School intends to operate under Ohio's Nonchartered Nonpublic religious-school structure based on truly held religious beliefs. Ohio's applicable NCNP operating and annual certification requirements will be completed before the school represents those compliance steps as completed. **Status: compliance filing pending.**
+
+**Florida — Planned Registered Private Religious School:** RIAH Pathway High School intends to operate as a Florida private religious school and complete the applicable Florida private-school registration, annual survey, recordkeeping, attendance, health/safety, background-check, and related requirements. Florida registration is not represented as state accreditation or approval. **Status: registration/compliance pending.**
+
+**Texas — Private Religious School / Non-State-Accredited Structure:** Texas does not regulate, approve, register, or accredit private schools through the Texas Education Agency. RIAH Pathway High School is not presently represented as accredited by a private accrediting organization recognized for Texas private-school purposes. **Status: applicable Texas compliance review pending; private accreditation not yet obtained.**
+
+**Other Virtual States — Compliance Pending:** Alabama, Alaska, Arizona, Arkansas, California, Connecticut, Delaware, Georgia, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Oklahoma, Oregon, South Carolina, South Dakota, Tennessee, Utah, Vermont, Virginia, West Virginia, Wisconsin, and Wyoming remain within the intended virtual RIAH Pathway High School footprint. Each state remains subject to its applicable private-school, religious-school, distance-education, registration, notification, exemption, attendance, recordkeeping, curriculum, graduation, and other compliance requirements before RIAH Pathway represents that the applicable state compliance process has been completed.
+
+**Currently Excluded From Virtual-Only Diploma Offering:** District of Columbia, Maine, Maryland, Massachusetts, Pennsylvania, Rhode Island, Washington, and Hawaii remain classified under the existing curriculum structure as requiring a physical/hybrid model and are not included in the current virtual-only RIAH Pathway High School Diploma footprint.
+
+**Religious Curriculum:** RIAH Pathway High School includes the four established religion courses as part of its institutional religious curriculum. Additional online/virtual coursework may be offered as optional coursework. The four religion courses are institutional RIAH Pathway High School requirements and are not represented as additional state-imposed graduation requirements in states that do not impose them.
+
+---
+
 
 | High School Component | Academic Requirement |
 | --- | --- |
